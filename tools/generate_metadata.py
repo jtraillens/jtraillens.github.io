@@ -33,7 +33,7 @@ def photo_to_json(photo: PhotoMetadata) -> dict:
         "locationName": photo.location_name,
         "tags": photo.tags,
         "favorite": photo.favorite,
-        "hidden": photo.hidden,
+        "public": photo.public,
         "lastUpdated": photo.last_updated.isoformat()        
     }
 
@@ -51,7 +51,7 @@ def json_to_photo(data: dict) -> PhotoMetadata:
         location_name=data.get("locationName", ""),
         tags=data.get("tags", []),
         favorite=data.get("favorite", False),
-        hidden=data.get("hidden", False),
+        public=data.get("public", False),
         last_updated=datetime.fromisoformat(data["lastUpdated"])
     )
 

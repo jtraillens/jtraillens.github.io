@@ -3,6 +3,7 @@ let currentIndex = 0;
 const lightbox = document.querySelector('.lightbox');
 const lightboxImage = document.querySelector('.lightbox-image');
 const lightboxCaption = document.querySelector('.lightbox-caption');
+const lightboxTaxon = document.querySelector('.lightbox-taxon a');
 const closeButton = document.querySelector('.lightbox-close');
 const previousButton = document.querySelector('.lightbox-prev');
 const nextButton = document.querySelector('.lightbox-next');
@@ -26,9 +27,15 @@ function closeLightbox() {
 
 function showPhoto(index) {
     const photo = photos[index];
-    lightboxImage.src = photo.file;
-    lightboxImage.alt = photo.caption;
-    lightboxCaption.textContent = photo.caption;
+    lightboxImage.src = photo.fileName;
+    lightboxImage.alt = photo.title;
+    lightboxCaption.textContent = photo.title;
+
+    if (photo.taxonUrl) {
+        lightboxTaxon.href = photo.taxonUrl;
+        lightboxTaxon.parentElement.hidden = false;
+    }
+    lightboxTaxon.parentElement.hidden = !photo.taxonUrl;
 
     currentIndex = index;
 }
