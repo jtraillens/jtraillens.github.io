@@ -224,5 +224,58 @@
       "oyster mushroom"
     ],
     "taxonUrl": "https://www.inaturalist.org/taxa/136399"
+  },
+  {
+    "fileName": "images/2026-07-14_10-29-25_107.webp",
+    "dateTaken": "2026-07-14T10:29:25",
+    "title": "Chocolate Tube Slime",
+    "caption": "",
+    "locationName": "Harmony Hill Nature Area (PA)",
+    "tags": [
+      "fungus",
+      "slime mold",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/53838"
+  },
+  {
+    "fileName": "images/2026-07-14_10-50-48_479.webp",
+    "dateTaken": "2026-07-14T10:50:48",
+    "title": "Grape Tendrils",
+    "caption": "",
+    "locationName": "ChesLen Preserve (PA)",
+    "tags": [
+      "plant",
+      "vine",
+      "tendril",
+      "macro"
+    ],
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2026-07-16_09-11-11_621.webp",
+    "dateTaken": "2026-07-16T09:11:11",
+    "title": "River Oats",
+    "caption": "",
+    "locationName": "Hildacy Preserve (PA)",
+    "tags": [
+      "plant",
+      "grass",
+      "meadow"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/84364"
+  },
+  {
+    "fileName": "images/2026-07-18_14-08-16_683.webp",
+    "dateTaken": "2026-07-18T14:08:16",
+    "title": "Naked-Flowered Tick-Trefoil",
+    "caption": "",
+    "locationName": "French Creek State Park (PA)",
+    "tags": [
+      "flower",
+      "macro",
+      "trefoil"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/204173"
   }
 ]
