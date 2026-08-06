@@ -21,7 +21,8 @@
     "tags": [
       "thistle",
       "flower",
-      "macro"
+      "macro",
+      "starburst"
     ],
     "taxonUrl": "https://www.inaturalist.org/taxa/76007"
   },
@@ -90,7 +91,8 @@
       "insect",
       "fly",
       "meadow",
-      "macro"
+      "macro",
+      "bee"
     ],
     "taxonUrl": "https://www.inaturalist.org/taxa/82523"
   },
@@ -112,7 +114,7 @@
     "dateTaken": "2026-07-10T11:50:49",
     "title": "Common Eastern Physocephala on Butterfly Milkweed.",
     "caption": "",
-    "locationName": null,
+    "locationName": "Starr Farm Park (PA)",
     "tags": [
       "fly",
       "insect",
@@ -131,7 +133,7 @@
       "macro",
       "coneflower"
     ],
-    "taxonUrl": null
+    "taxonUrl": "https://www.inaturalist.org/taxa/116735"
   },
   {
     "fileName": "images/2026-07-11_15-24-51_184.webp",
@@ -169,7 +171,8 @@
     "tags": [
       "spider",
       "jumping spider",
-      "macro"
+      "macro",
+      "head on"
     ],
     "taxonUrl": "https://www.inaturalist.org/taxa/148090"
   },
@@ -208,7 +211,8 @@
     "tags": [
       "fern",
       "frond",
-      "backlit"
+      "backlit",
+      "translucent"
     ],
     "taxonUrl": "https://www.inaturalist.org/taxa/82576"
   },
@@ -243,7 +247,7 @@
     "dateTaken": "2026-07-14T10:50:48",
     "title": "Grape Tendrils",
     "caption": "",
-    "locationName": "ChesLen Preserve (PA)",
+    "locationName": "Brandywine Meadows Preserve (PA)",
     "tags": [
       "plant",
       "vine",
@@ -266,6 +270,47 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/84364"
   },
   {
+    "fileName": "images/2026-07-17_10-20-38_509.webp",
+    "dateTaken": "2026-07-17T10:20:38",
+    "title": "Thaumatomyia Glabra",
+    "caption": "",
+    "locationName": "Starr Farm Park (PA)",
+    "tags": [
+      "fly",
+      "grass fly",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/133767"
+  },
+  {
+    "fileName": "images/2026-07-17_10-26-27_385.webp",
+    "dateTaken": "2026-07-17T10:26:27",
+    "title": "Margined Calligrapher",
+    "caption": "",
+    "locationName": "Starr Farm Park (PA)",
+    "tags": [
+      "calligrapher fly",
+      "fly",
+      "macro",
+      "overhead"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/126889"
+  },
+  {
+    "fileName": "images/2026-07-17_10-49-59_180.webp",
+    "dateTaken": "2026-07-17T10:49:59",
+    "title": "Wild Teasel",
+    "caption": "",
+    "locationName": "Paradise Valley Nature Area (PA)",
+    "tags": [
+      "flower",
+      "macro",
+      "overhead",
+      "starburst"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/56002"
+  },
+  {
     "fileName": "images/2026-07-18_14-08-16_683.webp",
     "dateTaken": "2026-07-18T14:08:16",
     "title": "Naked-Flowered Tick-Trefoil",
@@ -277,5 +322,174 @@
       "trefoil"
     ],
     "taxonUrl": "https://www.inaturalist.org/taxa/204173"
+  },
+  {
+    "fileName": "images/2026-07-20_19-06-09_563.webp",
+    "dateTaken": "2026-07-20T19:06:09",
+    "title": "Condylostylus Sypho (long-legged fly)",
+    "caption": "",
+    "locationName": "Marsh Creek State Park (PA)",
+    "tags": [
+      "fly",
+      "long-legged fly",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/259850"
+  },
+  {
+    "fileName": "images/2026-07-20_19-08-33_389.webp",
+    "dateTaken": "2026-07-20T19:08:33",
+    "title": "Brown-belted Bumble Bee",
+    "caption": "",
+    "locationName": "Marsh Creek State Park (PA)",
+    "tags": [
+      "bumble bee",
+      "bee",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/120215"
+  },
+  {
+    "fileName": "images/2026-07-20_19-18-23_283.webp",
+    "dateTaken": "2026-07-20T19:18:23",
+    "title": "Old Race Track at Marsh Creek SP",
+    "caption": "",
+    "locationName": "Marsh Creek State Park (PA)",
+    "tags": [
+      "trail"
+    ],
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2026-07-22_17-18-14_876.webp",
+    "dateTaken": "2026-07-22T17:18:14",
+    "title": "North American Luna Moth",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "moth",
+      "macro",
+      "head on"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/47916"
+  },
+  {
+    "fileName": "images/2026-07-24_18-42-45_022.webp",
+    "dateTaken": "2026-07-24T18:42:45",
+    "title": "Field Garlic flowers",
+    "caption": "",
+    "locationName": "Marsh Creek State Park (PA)",
+    "tags": [
+      "flower",
+      "onion",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/158185"
+  },
+  {
+    "fileName": "images/2026-07-31_12-18-44_419.webp",
+    "dateTaken": "2026-07-31T12:18:44",
+    "title": "Sweet Joe-Pye Weed",
+    "caption": "",
+    "locationName": "Wissahickon Valley Park (PA)",
+    "tags": [
+      "flower",
+      "joe-pye weed",
+      "macro",
+      "flower bud"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/85378"
+  },
+  {
+    "fileName": "images/2026-08-01_15-16-10_098.webp",
+    "dateTaken": "2026-08-01T15:16:10",
+    "title": "Blue Vervain",
+    "caption": "",
+    "locationName": "Daniel Boone Homestead (PA)",
+    "tags": [
+      "flower",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/60251"
+  },
+  {
+    "fileName": "images/2026-08-01_15-17-28_365.webp",
+    "dateTaken": "2026-08-01T15:17:28",
+    "title": "Ironweed Clearwing Moth",
+    "caption": "",
+    "locationName": "Daniel Boone Homestead (PA)",
+    "tags": [
+      "moth",
+      "macro",
+      "overhead",
+      "clearwing"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/121961"
+  },
+  {
+    "fileName": "images/2026-08-01_16-02-17_066.webp",
+    "dateTaken": "2026-08-01T16:02:17",
+    "title": "Acrobat Ant on American Burnweed Flower",
+    "caption": "",
+    "locationName": "Daniel Boone Homestead",
+    "tags": [
+      "macro",
+      "flower",
+      "ant"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/130888"
+  },
+  {
+    "fileName": "images/2026-08-01_16-45-23_571.webp",
+    "dateTaken": "2026-08-01T16:45:23",
+    "title": "Two-striped Grasshopper",
+    "caption": "",
+    "locationName": "Daniel Boone Homestead (PA)",
+    "tags": [
+      "grasshopper",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/129305"
+  },
+  {
+    "fileName": "images/2026-08-01_17-30-50_298.webp",
+    "dateTaken": "2026-08-01T17:30:50",
+    "title": "Trooping Crumble Cap",
+    "caption": "",
+    "locationName": "Monocacy Hill Recreation Area (PA)",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "clustered"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/56314"
+  },
+  {
+    "fileName": "images/2026-08-01_17-57-44_709.webp",
+    "dateTaken": "2026-08-01T17:57:44",
+    "title": "Alsike Clover",
+    "caption": "",
+    "locationName": "Monocacy Hill Recreation Area (PA)",
+    "tags": [
+      "clover",
+      "flower",
+      "macro",
+      "starburst"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/61824"
+  },
+  {
+    "fileName": "images/2026-08-01_17-58-46_005.webp",
+    "dateTaken": "2026-08-01T17:58:46",
+    "title": "Stylogaster Neglecta on Alsike Clover",
+    "caption": "",
+    "locationName": "Monocacy Hill Recreation Area (PA)",
+    "tags": [
+      "flower",
+      "insect",
+      "clover",
+      "macro"
+    ],
+    "taxonUrl": "https://www.inaturalist.org/taxa/62033"
   }
 ]
