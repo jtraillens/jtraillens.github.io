@@ -2,6 +2,8 @@ let currentIndex = 0;
 
 const lightbox = document.querySelector('.lightbox');
 const lightboxImage = document.querySelector('.lightbox-image');
+const lightboxTitle = document.querySelector(".lightbox-title");
+const lightboxMeta = document.querySelector(".lightbox-meta");
 const lightboxCaption = document.querySelector('.lightbox-caption');
 const lightboxTaxon = document.querySelector('.lightbox-taxon a');
 const closeButton = document.querySelector('.lightbox-close');
@@ -27,9 +29,27 @@ function closeLightbox() {
 
 function showPhoto(index) {
     const photo = photos[index];
+
     lightboxImage.src = photo.fileName;
     lightboxImage.alt = photo.title;
-    lightboxCaption.textContent = photo.title;
+
+    lightboxTitle.textContent = photo.title ?? "";
+
+    const meta = [];
+
+    if (photo.locationName) {
+        meta.push(photo.locationName);
+    }
+
+    const formattedDate = formatDateTaken(photo.dateTaken);
+
+    if (formattedDate) {
+        meta.push(formattedDate);
+    }
+
+    lightboxMeta.textContent = meta.join(" • ");
+
+    lightboxCaption.textContent = photo.caption ?? "";    
 
     if (photo.taxonUrl) {
         lightboxTaxon.href = photo.taxonUrl;
@@ -38,6 +58,18 @@ function showPhoto(index) {
     lightboxTaxon.parentElement.hidden = !photo.taxonUrl;
 
     currentIndex = index;
+}
+
+
+function formatDateTaken(dateTaken) {
+    if (!dateTaken) {
+        return "";
+    }
+
+    return new Date(dateTaken).toLocaleDateString(undefined, {
+        month: "long",
+        year: "numeric"
+    });
 }
 
 

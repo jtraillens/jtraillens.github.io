@@ -5,15 +5,91 @@
 body {
     font-family: var(--font-body);
     margin: 0;
+    padding: 1rem;
 }
 
 h1 {
-    letter-spacing: 0.03em;
+    letter-spacing: 0;
 }
+
+
+#tagFilter {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+#tagSearch {
+    position: relative;
+    display: inline-block;
+}
+
+#tagSuggestions {
+    position: absolute;
+    top: calc(100% + 0.25rem);
+    left: 0;
+    width: 100%;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 10;
+    text-align: left;
+}
+
+#tagSuggestions div {
+    padding: 0.5rem 0.75rem;
+    cursor: pointer;
+}
+
+#tagSuggestions div:hover {
+    background-color: #eee;
+}
+
+#tagSuggestions div.selected {
+    background-color: #ddd;
+}
+
+#tagInput {
+    width: 250px;
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+#selectedTags {
+    margin-top: 0.75rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+#selectedTags strong {
+    margin-left: 0.35rem;
+    font-weight: normal;
+}
+
+#selectedTags span {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.3rem 0.65rem;
+    background-color: #e8f0e8;
+    border-radius: 1rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+#selectedTags span:hover {
+    background-color: #d8e5d8;
+}
+
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(250px, max-content));
     gap: 1rem;
 }
 
@@ -74,20 +150,40 @@ h1 {
 }
 
 .lightbox-content {
-    position: relative;
-    max-width: 90vw;
-    max-height: 85vh;
+    max-height: 95vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .lightbox-image {
-    display: block;    
     max-width: 90vw;
-    max-height: 85vh;
+    max-height: min(75vh, 900px);
+    object-fit: contain;
+}
+
+.lightbox-details {
+    text-align: center;
+    max-width: 90vw;
+    overflow-y: auto;
+    color: white;
+}
+
+.lightbox-title {
+    margin-top: 10px;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.lightbox-meta {
+    margin-top: .25rem;
+    font-size: .9rem;
+    color: #bbb;
 }
 
 .lightbox-caption {
-    color: white;
-    margin-top: 1rem;
+    margin-top: .75rem;
+    line-height: 1.5;
 }
 
 .lightbox-taxon {

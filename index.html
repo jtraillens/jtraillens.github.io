@@ -15,6 +15,14 @@
     <h1>JTrailLens</h1>
     <p>Exploring public lands and the small details found along the way.</p>
     
+    <div id="tagFilter">
+        <div id="tagSearch">
+            <input id="tagInput" placeholder="Filter by tag">
+            <div id="tagSuggestions"></div>
+        </div>
+        <div id="selectedTags"></div>
+    </div>
+
     <div class="gallery">
     </div>
 
@@ -32,7 +40,13 @@
                 <a target="_blank" rel="noopener noreferrer">View on iNaturalist</a>
             </div>            
             <img class="lightbox-image" alt="">
-            <div class="lightbox-caption"></div>
+
+            <div class="lightbox-details">
+                <div class="lightbox-title"></div>
+                <div class="lightbox-meta"></div>
+                <div class="lightbox-caption"></div>
+            </div>
+            
             <button class="lightbox-next">&rarr;</button>
             <button class="lightbox-close">x</button>        
         </div>
