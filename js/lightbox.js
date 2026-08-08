@@ -1,4 +1,5 @@
 let currentIndex = 0;
+let currentPhotos = [];
 
 const lightbox = document.querySelector('.lightbox');
 const lightboxImage = document.querySelector('.lightbox-image');
@@ -10,11 +11,15 @@ const closeButton = document.querySelector('.lightbox-close');
 const previousButton = document.querySelector('.lightbox-prev');
 const nextButton = document.querySelector('.lightbox-next');
 
-function openLightbox(index) {
-    showPhoto(index);
+function openLightbox(index, photosToDisplay) {
+    currentPhotos = photosToDisplay;
+    currentIndex = index;
+
+    showPhoto(currentIndex);
 
     lightbox.hidden = false;
     lightbox.classList.add('fade-start');
+
     requestAnimationFrame(() => {
         lightbox.classList.remove('fade-start');
     });
@@ -22,13 +27,18 @@ function openLightbox(index) {
 
 function closeLightbox() {
     lightbox.classList.add('fade-start');
+
     setTimeout(() => {
         lightbox.hidden = true;
     }, 300);
 }
 
 function showPhoto(index) {
-    const photo = photos[index];
+    const photo = currentPhotos[index];
+
+    if (!photo) {
+        return;
+    }
 
     lightboxImage.src = photo.fileName;
     lightboxImage.alt = photo.title;
@@ -49,17 +59,17 @@ function showPhoto(index) {
 
     lightboxMeta.textContent = meta.join(" • ");
 
-    lightboxCaption.textContent = photo.caption ?? "";    
+    lightboxCaption.textContent = photo.caption ?? "";
 
     if (photo.taxonUrl) {
         lightboxTaxon.href = photo.taxonUrl;
         lightboxTaxon.parentElement.hidden = false;
     }
+
     lightboxTaxon.parentElement.hidden = !photo.taxonUrl;
 
     currentIndex = index;
 }
-
 
 function formatDateTaken(dateTaken) {
     if (!dateTaken) {
@@ -72,7 +82,6 @@ function formatDateTaken(dateTaken) {
     });
 }
 
-
 closeButton.addEventListener('click', closeLightbox);
 
 lightbox.addEventListener('click', event => {
@@ -83,18 +92,24 @@ lightbox.addEventListener('click', event => {
 
 previousButton.addEventListener('click', event => {
     event.stopPropagation();
+
     let index = currentIndex - 1;
+
     if (index < 0) {
-        index = photos.length - 1;
+        index = currentPhotos.length - 1;
     }
+
     showPhoto(index);
 });
 
 nextButton.addEventListener('click', event => {
     event.stopPropagation();
+
     let index = currentIndex + 1;
-    if (index >= photos.length) {
+
+    if (index >= currentPhotos.length) {
         index = 0;
     }
+
     showPhoto(index);
 });

@@ -28,7 +28,7 @@ async function loadGallery() {
             return;
         }
 
-        openLightbox(Number(image.dataset.index));
+        openLightbox(Number(image.dataset.index), filteredPhotos);
     });
 }
 
@@ -46,7 +46,10 @@ function renderGallery() {
 
         image.src = photo.fileName;
         image.alt = photo.title;
+
+        // Index within the currently filtered results
         image.dataset.index = index;
+
         caption.textContent = photo.title;
 
         gallery.appendChild(item);
