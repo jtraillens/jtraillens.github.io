@@ -4,12 +4,14 @@
     "dateTaken": "2026-06-29T18:52:59",
     "title": "White campion (seed pod)",
     "caption": "",
-    "locationName": "Starr Farm Park (PA)",
+    "locationName": "PA - Starr Farm Park",
     "tags": [
       "flower",
       "macro",
-      "seed pod"
+      "seed pod",
+      "PA - Starr Farm Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/79109"
   },
   {
@@ -17,13 +19,15 @@
     "dateTaken": "2026-06-29T19:18:49",
     "title": "Musk Thistle Flower",
     "caption": "",
-    "locationName": "Starr Farm Park (PA)",
+    "locationName": "PA - Starr Farm Park",
     "tags": [
       "thistle",
       "flower",
       "macro",
-      "starburst"
+      "starburst",
+      "PA - Starr Farm Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/76007"
   },
   {
@@ -31,11 +35,13 @@
     "dateTaken": "2026-06-29T19:21:54",
     "title": "Musk Thistle Seed Head",
     "caption": "",
-    "locationName": "Starr Farm Park (PA)",
+    "locationName": "PA - Starr Farm Park",
     "tags": [
       "thistle",
-      "seed head"
+      "seed head",
+      "PA - Starr Farm Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/76007"
   },
   {
@@ -43,13 +49,15 @@
     "dateTaken": "2026-06-30T19:20:29",
     "title": "Gray Goggle-Eye (Fly)",
     "caption": "",
-    "locationName": "Marsh Creek State Park (PA)",
+    "locationName": "PA - Marsh Creek State Park",
     "tags": [
       "insect",
       "fly",
       "macro",
-      "compound eye"
+      "compound eye",
+      "PA - Marsh Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/61694"
   },
   {
@@ -57,14 +65,16 @@
     "dateTaken": "2026-07-04T11:35:07",
     "title": "Spotted Knapweed Flower Bud",
     "caption": "",
-    "locationName": "Auburn Valley State Park (DE)",
+    "locationName": "DE - Auburn Valley State Park",
     "tags": [
       "flower",
       "flower bud",
       "macro",
       "meadow",
-      "knapweed"
+      "knapweed",
+      "DE - Auburn Valley State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/76214"
   },
   {
@@ -72,13 +82,15 @@
     "dateTaken": "2026-07-05T17:20:39",
     "title": "Fly Perched on Quack Grass",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "fly",
       "macro",
       "compound eye",
-      "insect"
+      "insect",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -86,14 +98,16 @@
     "dateTaken": "2026-07-08T11:11:20",
     "title": "Pure Green Sweat Bee on Black-eyed Susan",
     "caption": "",
-    "locationName": "French Creek State Park (PA)",
+    "locationName": "PA - French Creek State Park",
     "tags": [
       "insect",
       "fly",
       "meadow",
       "macro",
-      "bee"
+      "bee",
+      "PA - French Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/82523"
   },
   {
@@ -101,12 +115,14 @@
     "dateTaken": "2026-07-10T10:32:18",
     "title": "Central floret of Queen Anne's lace",
     "caption": "",
-    "locationName": null,
+    "locationName": "PA - Starr Farm Park",
     "tags": [
       "flower",
       "macro",
-      "meadow"
+      "meadow",
+      "PA - Starr Farm Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/76610"
   },
   {
@@ -114,12 +130,14 @@
     "dateTaken": "2026-07-10T11:50:49",
     "title": "Common Eastern Physocephala on Butterfly Milkweed.",
     "caption": "",
-    "locationName": "Starr Farm Park (PA)",
+    "locationName": "PA - Starr Farm Park",
     "tags": [
       "fly",
       "insect",
-      "macro"
+      "macro",
+      "PA - Starr Farm Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/133978"
   },
   {
@@ -127,12 +145,14 @@
     "dateTaken": "2026-07-11T15:18:04",
     "title": "Cutleaf Coneflower",
     "caption": "",
-    "locationName": "ChesLen Preserve (PA)",
+    "locationName": "PA - ChesLen Preserve",
     "tags": [
       "flower",
       "macro",
-      "coneflower"
+      "coneflower",
+      "PA - ChesLen Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/116735"
   },
   {
@@ -140,13 +160,15 @@
     "dateTaken": "2026-07-11T15:24:51",
     "title": "Yellow-faced Micropanther with Prey",
     "caption": "",
-    "locationName": "ChesLen Preserve (PA)",
+    "locationName": "PA - ChesLen Preserve",
     "tags": [
       "insect",
       "fly",
       "macro",
-      "predation"
+      "predation",
+      "PA - ChesLen Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/61569"
   },
   {
@@ -154,12 +176,14 @@
     "dateTaken": "2026-07-11T15:28:45",
     "title": "Buffalo Treehopper",
     "caption": "",
-    "locationName": "ChesLen Preserve (PA)",
+    "locationName": "PA - ChesLen Preserve",
     "tags": [
       "insect",
       "treehopper",
-      "macro"
+      "macro",
+      "PA - ChesLen Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/1110561"
   },
   {
@@ -167,13 +191,15 @@
     "dateTaken": "2026-07-12T14:11:30",
     "title": "Peppered Jumping Spider",
     "caption": "",
-    "locationName": "Stateline Woods Preserve (PA)",
+    "locationName": "PA - Stateline Woods Preserve",
     "tags": [
       "spider",
       "jumping spider",
       "macro",
-      "head on"
+      "head on",
+      "PA - Stateline Woods Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/148090"
   },
   {
@@ -181,12 +207,14 @@
     "dateTaken": "2026-07-12T14:22:34",
     "title": "Kousa Dogwood Leaf",
     "caption": "",
-    "locationName": "Stateline Woods Preserve (PA)",
+    "locationName": "PA - Stateline Woods Preserve",
     "tags": [
       "tree",
       "leaf",
-      "dogwood"
+      "dogwood",
+      "PA - Stateline Woods Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/128614"
   },
   {
@@ -194,12 +222,14 @@
     "dateTaken": "2026-07-12T15:30:55",
     "title": "Orange Assassin Bug on Queen Anne's Lace",
     "caption": "",
-    "locationName": "Auburn Valley State Park (DE)",
+    "locationName": "DE - Auburn Valley State Park",
     "tags": [
       "insect",
       "assassin bug",
-      "macro"
+      "macro",
+      "DE - Auburn Valley State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/82026"
   },
   {
@@ -207,13 +237,15 @@
     "dateTaken": "2026-07-13T16:01:24",
     "title": "Sensitive Fern Fronds",
     "caption": "",
-    "locationName": "Binky Lee Preserve (PA)",
+    "locationName": "PA - Binky Lee Preserve",
     "tags": [
       "fern",
       "frond",
       "backlit",
-      "translucent"
+      "translucent",
+      "PA - Binky Lee Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/82576"
   },
   {
@@ -221,12 +253,14 @@
     "dateTaken": "2026-07-14T10:22:11",
     "title": "Pale Oyster Mushroom",
     "caption": "",
-    "locationName": "Harmony Hill Nature Area (PA)",
+    "locationName": "PA - Harmony Hill Nature Area",
     "tags": [
       "fungus",
       "mushroom",
-      "oyster mushroom"
+      "oyster mushroom",
+      "PA - Harmony Hill Nature Area"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/136399"
   },
   {
@@ -234,12 +268,14 @@
     "dateTaken": "2026-07-14T10:29:25",
     "title": "Chocolate Tube Slime",
     "caption": "",
-    "locationName": "Harmony Hill Nature Area (PA)",
+    "locationName": "PA - Harmony Hill Nature Area",
     "tags": [
       "fungus",
       "slime mold",
-      "macro"
+      "macro",
+      "PA - Harmony Hill Nature Area"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/53838"
   },
   {
@@ -247,13 +283,15 @@
     "dateTaken": "2026-07-14T10:50:48",
     "title": "Grape Tendrils",
     "caption": "",
-    "locationName": "Brandywine Meadows Preserve (PA)",
+    "locationName": "PA - Brandywine Meadows Preserve",
     "tags": [
       "plant",
       "vine",
       "tendril",
-      "macro"
+      "macro",
+      "PA - Brandywine Meadows Preserve"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -261,12 +299,14 @@
     "dateTaken": "2026-07-16T09:11:11",
     "title": "River Oats",
     "caption": "",
-    "locationName": "Hildacy Preserve (PA)",
+    "locationName": "PA - Hildacy Preserve",
     "tags": [
       "plant",
       "grass",
-      "meadow"
+      "meadow",
+      "PA - Hildacy Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/84364"
   },
   {
@@ -274,12 +314,14 @@
     "dateTaken": "2026-07-17T10:20:38",
     "title": "Thaumatomyia Glabra",
     "caption": "",
-    "locationName": "Starr Farm Park (PA)",
+    "locationName": "PA - Starr Farm Park",
     "tags": [
       "fly",
       "grass fly",
-      "macro"
+      "macro",
+      "PA - Starr Farm Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/133767"
   },
   {
@@ -287,13 +329,15 @@
     "dateTaken": "2026-07-17T10:26:27",
     "title": "Margined Calligrapher",
     "caption": "",
-    "locationName": "Starr Farm Park (PA)",
+    "locationName": "PA - Starr Farm Park",
     "tags": [
       "calligrapher fly",
       "fly",
       "macro",
-      "overhead"
+      "overhead",
+      "PA - Starr Farm Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/126889"
   },
   {
@@ -301,13 +345,15 @@
     "dateTaken": "2026-07-17T10:49:59",
     "title": "Wild Teasel",
     "caption": "",
-    "locationName": "Paradise Valley Nature Area (PA)",
+    "locationName": "PA - Paradise Valley Nature Area",
     "tags": [
       "flower",
       "macro",
       "overhead",
-      "starburst"
+      "starburst",
+      "PA - Paradise Valley Nature Area"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/56002"
   },
   {
@@ -315,12 +361,14 @@
     "dateTaken": "2026-07-18T14:08:16",
     "title": "Naked-Flowered Tick-Trefoil",
     "caption": "",
-    "locationName": "French Creek State Park (PA)",
+    "locationName": "PA - French Creek State Park",
     "tags": [
       "flower",
       "macro",
-      "trefoil"
+      "trefoil",
+      "PA - French Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/204173"
   },
   {
@@ -328,12 +376,14 @@
     "dateTaken": "2026-07-20T19:06:09",
     "title": "Condylostylus Sipho (long-legged fly)",
     "caption": "",
-    "locationName": "Marsh Creek State Park (PA)",
+    "locationName": "PA - Marsh Creek State Park",
     "tags": [
       "fly",
       "long-legged fly",
-      "macro"
+      "macro",
+      "PA - Marsh Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/259850"
   },
   {
@@ -341,12 +391,14 @@
     "dateTaken": "2026-07-20T19:08:33",
     "title": "Brown-belted Bumble Bee",
     "caption": "",
-    "locationName": "Marsh Creek State Park (PA)",
+    "locationName": "PA - Marsh Creek State Park",
     "tags": [
       "bumble bee",
       "bee",
-      "macro"
+      "macro",
+      "PA - Marsh Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/120215"
   },
   {
@@ -354,10 +406,12 @@
     "dateTaken": "2026-07-20T19:18:23",
     "title": "Old Race Track at Marsh Creek SP",
     "caption": "",
-    "locationName": "Marsh Creek State Park (PA)",
+    "locationName": "PA - Marsh Creek State Park",
     "tags": [
-      "trail"
+      "trail",
+      "PA - Marsh Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -365,12 +419,14 @@
     "dateTaken": "2026-07-22T17:18:14",
     "title": "North American Luna Moth",
     "caption": "",
-    "locationName": null,
+    "locationName": "PA - Bryn Coed Preserve",
     "tags": [
       "moth",
       "macro",
-      "head on"
+      "head on",
+      "PA - Bryn Coed Preserve"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/47916"
   },
   {
@@ -378,12 +434,14 @@
     "dateTaken": "2026-07-24T18:42:45",
     "title": "Field Garlic flowers",
     "caption": "",
-    "locationName": "Marsh Creek State Park (PA)",
+    "locationName": "PA - Marsh Creek State Park",
     "tags": [
       "flower",
       "onion",
-      "macro"
+      "macro",
+      "PA - Marsh Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/158185"
   },
   {
@@ -391,13 +449,15 @@
     "dateTaken": "2026-07-31T12:18:44",
     "title": "Sweet Joe-Pye Weed",
     "caption": "",
-    "locationName": "Wissahickon Valley Park (PA)",
+    "locationName": "PA - Wissahickon Valley Park",
     "tags": [
       "flower",
       "joe-pye weed",
       "macro",
-      "flower bud"
+      "flower bud",
+      "PA - Wissahickon Valley Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/85378"
   },
   {
@@ -405,11 +465,13 @@
     "dateTaken": "2026-08-01T15:16:10",
     "title": "Blue Vervain",
     "caption": "",
-    "locationName": "Daniel Boone Homestead (PA)",
+    "locationName": "PA - Daniel Boone Homestead",
     "tags": [
       "flower",
-      "macro"
+      "macro",
+      "PA - Daniel Boone Homestead"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/60251"
   },
   {
@@ -417,13 +479,15 @@
     "dateTaken": "2026-08-01T15:17:28",
     "title": "Ironweed Clearwing Moth",
     "caption": "",
-    "locationName": "Daniel Boone Homestead (PA)",
+    "locationName": "PA - Daniel Boone Homestead",
     "tags": [
       "moth",
       "macro",
       "overhead",
-      "clearwing"
+      "clearwing",
+      "PA - Daniel Boone Homestead"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/121961"
   },
   {
@@ -431,12 +495,14 @@
     "dateTaken": "2026-08-01T16:02:17",
     "title": "Acrobat Ant on American Burnweed Flower",
     "caption": "",
-    "locationName": "Daniel Boone Homestead",
+    "locationName": "PA - Daniel Boone Homestead",
     "tags": [
       "macro",
       "flower",
-      "ant"
+      "ant",
+      "PA - Daniel Boone Homestead"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/130888"
   },
   {
@@ -444,11 +510,13 @@
     "dateTaken": "2026-08-01T16:45:23",
     "title": "Two-striped Grasshopper",
     "caption": "",
-    "locationName": "Daniel Boone Homestead (PA)",
+    "locationName": "PA - Daniel Boone Homestead",
     "tags": [
       "grasshopper",
-      "macro"
+      "macro",
+      "PA - Daniel Boone Homestead"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/129305"
   },
   {
@@ -456,12 +524,14 @@
     "dateTaken": "2026-08-01T17:30:50",
     "title": "Trooping Crumble Cap",
     "caption": "",
-    "locationName": "Monocacy Hill Recreation Area (PA)",
+    "locationName": "PA - Monocacy Hill Recreation Area",
     "tags": [
       "fungus",
       "mushroom",
-      "clustered"
+      "clustered",
+      "PA - Monocacy Hill Recreation Area"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/56314"
   },
   {
@@ -469,13 +539,15 @@
     "dateTaken": "2026-08-01T17:57:44",
     "title": "Alsike Clover",
     "caption": "",
-    "locationName": "Monocacy Hill Recreation Area (PA)",
+    "locationName": "PA - Monocacy Hill Recreation Area",
     "tags": [
       "clover",
       "flower",
       "macro",
-      "starburst"
+      "starburst",
+      "PA - Monocacy Hill Recreation Area"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/61824"
   },
   {
@@ -483,13 +555,15 @@
     "dateTaken": "2026-08-01T17:58:46",
     "title": "Stylogaster Neglecta on Alsike Clover",
     "caption": "",
-    "locationName": "Monocacy Hill Recreation Area (PA)",
+    "locationName": "PA - Monocacy Hill Recreation Area",
     "tags": [
       "flower",
       "insect",
       "clover",
-      "macro"
+      "macro",
+      "PA - Monocacy Hill Recreation Area"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -497,11 +571,13 @@
     "dateTaken": "2026-08-03T15:32:10",
     "title": "Pickerelweed",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "wetland",
-      "flower"
+      "flower",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/52599"
   },
   {
@@ -509,13 +585,15 @@
     "dateTaken": "2026-08-03T15:35:35",
     "title": "Eastern Tiger Swallowtail on Hollow Joe-Pye Weed",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "butterfly",
       "joe-pye weed",
       "backlit",
-      "pollinator"
+      "pollinator",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/60551"
   },
   {
@@ -523,12 +601,14 @@
     "dateTaken": "2026-08-03T15:50:48",
     "title": "Blue-Green Cracking Russula",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "fungus",
       "mushroom",
-      "russula"
+      "russula",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/126178"
   },
   {
@@ -536,12 +616,14 @@
     "dateTaken": "2026-08-03T16:11:28",
     "title": "Swamp Agrimony",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "plant",
       "overhead",
-      "agrimony"
+      "agrimony",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/55895"
   },
   {
@@ -549,12 +631,14 @@
     "dateTaken": "2026-08-03T16:56:15",
     "title": "Fluted Bird's Nest Fungus",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "fungus",
       "bird's nest fungus",
-      "macro"
+      "macro",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/120242"
   },
   {
@@ -562,12 +646,14 @@
     "dateTaken": "2026-08-03T17:13:55",
     "title": "Meadow-rue",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "flower",
       "meadow-rue",
-      "macro"
+      "macro",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -575,12 +661,14 @@
     "dateTaken": "2026-08-03T17:23:08",
     "title": "Onion (cultivated)",
     "caption": "",
-    "locationName": "Springton Manor Farm (PA)",
+    "locationName": "PA - Springton Manor Farm",
     "tags": [
       "flower",
       "onion",
-      "macro"
+      "macro",
+      "PA - Springton Manor Farm"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -588,13 +676,15 @@
     "dateTaken": "2026-08-04T11:42:34",
     "title": "Spotted St. John's Wort",
     "caption": "",
-    "locationName": "Ridley Creek State Park (PA)",
+    "locationName": "PA - Ridley Creek State Park",
     "tags": [
       "flower",
       "st. john's wort",
       "macro",
-      "overhead"
+      "overhead",
+      "PA - Ridley Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/132711"
   },
   {
@@ -602,13 +692,15 @@
     "dateTaken": "2026-08-05T14:27:48",
     "title": "Pholiota Granulosa",
     "caption": "",
-    "locationName": "Chester County (PA)",
+    "locationName": "PA - Chester County",
     "tags": [
       "fungus",
       "mushroom",
       "macro",
-      "underside"
+      "underside",
+      "PA - Chester County"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/466792"
   },
   {
@@ -616,13 +708,15 @@
     "dateTaken": "2026-08-05T15:09:02",
     "title": "Luminescent Panellus",
     "caption": "",
-    "locationName": "Chester County (PA)",
+    "locationName": "PA - Chester County",
     "tags": [
       "fungus",
       "underside",
       "mushroom",
-      "macro"
+      "macro",
+      "PA - Chester County"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/68309"
   },
   {
@@ -630,13 +724,15 @@
     "dateTaken": "2026-08-05T18:38:03",
     "title": "Helmeted Squash Bug",
     "caption": "",
-    "locationName": "Marsh Creek State Park (PA)",
+    "locationName": "PA - Marsh Creek State Park",
     "tags": [
       "insect",
       "squash bug",
       "macro",
-      "overhead"
+      "overhead",
+      "PA - Marsh Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/119697"
   },
   {
@@ -644,12 +740,14 @@
     "dateTaken": "2026-08-05T17:54:48",
     "title": "Black-staining Polypore \"Brain\"",
     "caption": "",
-    "locationName": "Marsh Creek State Park (PA)",
+    "locationName": "PA - Marsh Creek State Park",
     "tags": [
       "fungus",
       "polypore",
-      "pareidolia"
+      "pareidolia",
+      "PA - Marsh Creek State Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/125738"
   },
   {
@@ -657,12 +755,14 @@
     "dateTaken": "2026-08-07T12:55:54",
     "title": "Species of Xylaria (genus)",
     "caption": "",
-    "locationName": "Lancaster County Central Park (PA)",
+    "locationName": "PA - Lancaster County Central Park",
     "tags": [
       "fungus",
       "xylaria",
-      "macro"
+      "macro",
+      "PA - Lancaster County Central Park"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -670,11 +770,13 @@
     "dateTaken": "2026-08-07T13:00:59",
     "title": "Rounded Earthstar",
     "caption": "",
-    "locationName": "Lancaster County Central Park (PA)",
+    "locationName": "PA - Lancaster County Central Park",
     "tags": [
       "fungus",
-      "earthstar"
+      "earthstar",
+      "PA - Lancaster County Central Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/63557"
   },
   {
@@ -682,12 +784,14 @@
     "dateTaken": "2026-08-07T13:09:15",
     "title": "Zabulon Skipper",
     "caption": "",
-    "locationName": "Lancaster County Central Park (PA)",
+    "locationName": "PA - Lancaster County Central Park",
     "tags": [
       "skipper",
       "macro",
-      "butterfly"
+      "butterfly",
+      "PA - Lancaster County Central Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/1081329"
   },
   {
@@ -695,13 +799,15 @@
     "dateTaken": "2026-08-07T13:14:59",
     "title": "Hibiscus Flower Bud",
     "caption": "",
-    "locationName": "Lancaster County Central Park (PA)",
+    "locationName": "PA - Lancaster County Central Park",
     "tags": [
       "flower",
       "flower bud",
       "overhead",
-      "starburst"
+      "starburst",
+      "PA - Lancaster County Central Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/126585"
   },
   {
@@ -709,12 +815,14 @@
     "dateTaken": "2026-08-07T13:16:06",
     "title": "Green Stink Bud Nymph on Hibiscus Flower",
     "caption": "",
-    "locationName": "Lancaster County Central Park (PA)",
+    "locationName": "PA - Lancaster County Central Park",
     "tags": [
       "insect",
       "stinkbug",
-      "macro"
+      "macro",
+      "PA - Lancaster County Central Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/485010"
   },
   {
@@ -722,11 +830,13 @@
     "dateTaken": "2026-08-07T13:26:05",
     "title": "Mill Creek Trail at Kiwanis Natural Area",
     "caption": "",
-    "locationName": "Lancaster County Central Park (PA)",
+    "locationName": "PA - Lancaster County Central Park",
     "tags": [
       "leading lines",
-      "trail"
+      "trail",
+      "PA - Lancaster County Central Park"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -734,10 +844,12 @@
     "dateTaken": "2026-08-07T14:22:40",
     "title": "Red-Spotted Admirals",
     "caption": "",
-    "locationName": "Silver Mine Park (PA)",
+    "locationName": "PA - Silver Mine Park",
     "tags": [
-      "butterfly"
+      "butterfly",
+      "PA - Silver Mine Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/60607"
   },
   {
@@ -745,13 +857,15 @@
     "dateTaken": "2026-08-07T14:29:56",
     "title": "Silver Mine Rd by Historic Home",
     "caption": "",
-    "locationName": "Silver Mine Park (PA)",
+    "locationName": "PA - Silver Mine Park",
     "tags": [
       "road",
       "historic house",
       "curvy road",
-      "leading lines"
+      "leading lines",
+      "PA - Silver Mine Park"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -759,13 +873,15 @@
     "dateTaken": "2026-08-07T14:35:43",
     "title": "Small Cave on the Geology Trail at Silver Mine Park",
     "caption": "",
-    "locationName": "Silver Mine Park (PA)",
+    "locationName": "PA - Silver Mine Park",
     "tags": [
       "cave",
       "looking out",
       "natural frame",
-      "portal"
+      "portal",
+      "PA - Silver Mine Park"
     ],
+    "camera": null,
     "taxonUrl": null
   },
   {
@@ -773,12 +889,14 @@
     "dateTaken": "2026-08-07T14:40:54",
     "title": "Primrose Moth on Primrose Flower",
     "caption": "",
-    "locationName": "Silver Mine Park (PA)",
+    "locationName": "PA - Silver Mine Park",
     "tags": [
       "moth",
       "head on",
-      "macro"
+      "macro",
+      "PA - Silver Mine Park"
     ],
+    "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/143316"
   },
   {
@@ -786,12 +904,294 @@
     "dateTaken": "2026-08-07T14:42:52",
     "title": "Meadow/Powerline Clearing at Silver Mine Park",
     "caption": "",
-    "locationName": "Silver Mine Park (PA)",
+    "locationName": "PA - Silver Mine Park",
     "tags": [
       "powerline clearing",
       "wide trail",
-      "meadow"
+      "meadow",
+      "PA - Silver Mine Park"
     ],
+    "camera": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-07-05_08-12-42_769.webp",
+    "dateTaken": "2023-07-05T08:12:42",
+    "title": "Fork Hill Forest Light",
+    "caption": "",
+    "locationName": "PA - Tioga State Forest",
+    "tags": [
+      "forest",
+      "sunbeam",
+      "trail",
+      "fog",
+      "PA - Tioga State Forest"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-07-26_15-37-07_952.webp",
+    "dateTaken": "2023-07-26T15:37:07",
+    "title": "Beach Bottom Hollow at Forest H. Dutlinger Natural Area",
+    "caption": "",
+    "locationName": "PA - Hammersley Wild Area",
+    "tags": [
+      "creek",
+      "cascade",
+      "forest",
+      "PA - Hammersley Wild Area"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-09-10_15-10-19_291.webp",
+    "dateTaken": "2023-09-10T15:10:19",
+    "title": "Lily on the Pads",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "lake",
+      "lily",
+      "flower",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/51119"
+  },
+  {
+    "fileName": "images/2023-09-20_08-28-51_249.webp",
+    "dateTaken": "2023-09-20T08:28:51",
+    "title": "Through the Bridge Tunnel",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "leading lines"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-11-04_14-42-52_953.webp",
+    "dateTaken": "2023-11-04T14:42:52",
+    "title": "Autumn Brandywine",
+    "caption": "",
+    "locationName": "PA - Hibernia County Park",
+    "tags": [
+      "creek",
+      "fall",
+      "slow shutter",
+      "PA - Hibernia County Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-11-23_07-09-35_992.webp",
+    "dateTaken": "2023-11-23T07:09:35",
+    "title": "Shawankgunk Ridge Rock Passage",
+    "caption": "",
+    "locationName": "NY - Shawangunk Ridge State Forest",
+    "tags": [
+      "rock",
+      "rock wall",
+      "NY - Shawangunk Ridge State Forest"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-12-23_07-41-52_627.webp",
+    "dateTaken": "2023-12-23T07:41:52",
+    "title": "National Memorial Arch",
+    "caption": "",
+    "locationName": "PA - Valley Forge National Historical Park",
+    "tags": [
+      "historical",
+      "monument",
+      "arch",
+      "PA - Valley Forge National Historical Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2026-08-08_16-36-36_746.webp",
+    "dateTaken": "2026-08-08T16:36:36",
+    "title": "Rosepink Flower",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "flower",
+      "macro",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/84666"
+  },
+  {
+    "fileName": "images/2026-08-08_16-42-32_502.webp",
+    "dateTaken": "2026-08-08T16:42:32",
+    "title": "Fairy Parachute",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "macro",
+      "underside",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/118242"
+  },
+  {
+    "fileName": "images/2026-08-08_17-54-38_993.webp",
+    "dateTaken": "2026-08-08T17:54:38",
+    "title": "Curled Edge of a Blusher Mushroom",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "macro",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2026-08-08_18-33-56_520.webp",
+    "dateTaken": "2026-08-08T18:33:56",
+    "title": "Eastern American Platterful Mushroom",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "underside",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/488500"
+  },
+  {
+    "fileName": "images/2026-08-08_19-02-13_167.webp",
+    "dateTaken": "2026-08-08T19:02:13",
+    "title": "False Turkey Tail",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fungus",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/1031780"
+  },
+  {
+    "fileName": "images/2026-08-09_10-39-02_488.webp",
+    "dateTaken": "2026-08-09T10:39:02",
+    "title": "Cross-Veined Troop Mushroom",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "underside",
+      "clustered",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/63419"
+  },
+  {
+    "fileName": "images/2026-08-09_11-38-14_852.webp",
+    "dateTaken": "2026-08-09T11:38:14",
+    "title": "Yellow Star Grass",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "flower",
+      "grass",
+      "macro",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/81797"
+  },
+  {
+    "fileName": "images/2026-08-09_11-40-37_417.webp",
+    "dateTaken": "2026-08-09T11:40:37",
+    "title": "Cauliflower mushroom",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "mushroom",
+      "fungus",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/334319"
+  },
+  {
+    "fileName": "images/2026-08-09_12-05-19_022.webp",
+    "dateTaken": "2026-08-09T12:05:19",
+    "title": "Feeling Blue",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2026-08-09_12-08-34_697.webp",
+    "dateTaken": "2026-08-09T12:08:34",
+    "title": "Candy Apple Waxy Cap",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/481923"
+  },
+  {
+    "fileName": "images/2026-08-09_13-07-59_344.webp",
+    "dateTaken": "2026-08-09T13:07:59",
+    "title": "That's One Big Lynx Paw",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "oyster mushroom",
+      "underside",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/1247035"
+  },
+  {
+    "fileName": "images/2026-08-09_15-23-34_963.webp",
+    "dateTaken": "2026-08-09T15:23:34",
+    "title": "I <3 Purple-edged Lute",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "underside",
+      "macro",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/500027"
   }
 ]
