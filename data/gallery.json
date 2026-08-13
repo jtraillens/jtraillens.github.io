@@ -946,6 +946,64 @@
     "taxonUrl": null
   },
   {
+    "fileName": "images/2023-07-26_15-49-59_741.webp",
+    "dateTaken": "2023-07-26T15:49:59",
+    "title": "Coral Fungus",
+    "caption": "",
+    "locationName": "PA - Hammersley Wild Area",
+    "tags": [
+      "fungus",
+      "coral fungus",
+      "PA - Hammersley Wild Area"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-07-26_17-28-56_136.webp",
+    "dateTaken": "2023-07-26T17:28:56",
+    "title": "Beach Bottom Hollow Sunbeam",
+    "caption": "",
+    "locationName": "PA - Hammersley Wild Area",
+    "tags": [
+      "sunbeam",
+      "forest",
+      "PA - Hammersley Wild Area"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-07-27_15-41-38_533.webp",
+    "dateTaken": "2023-07-27T15:41:38",
+    "title": "Round Island Run Falls",
+    "caption": "",
+    "locationName": "PA - Sproul State Forest",
+    "tags": [
+      "waterfall",
+      "forest",
+      "rhododendron",
+      "PA - Sproul State Forest"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-09-03_07-45-29_315.webp",
+    "dateTaken": "2023-09-03T07:45:29",
+    "title": "Marsh Creek Lake Mirror",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "lake",
+      "reflection",
+      "kayak",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "images/2023-09-10_15-10-19_291.webp",
     "dateTaken": "2023-09-10T15:10:19",
     "title": "Lily on the Pads",
@@ -955,6 +1013,7 @@
       "lake",
       "lily",
       "flower",
+      "kayak",
       "PA - French Creek State Park"
     ],
     "camera": null,
@@ -965,8 +1024,102 @@
     "dateTaken": "2023-09-20T08:28:51",
     "title": "Through the Bridge Tunnel",
     "caption": "",
+    "locationName": "PA - Struble Lake",
+    "tags": [
+      "leading lines",
+      "tunnel",
+      "lake",
+      "kayak",
+      "PA - Struble Lake"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-10-01_15-16-16_236.webp",
+    "dateTaken": "2023-10-01T15:16:16",
+    "title": "Conowingo Islands",
+    "caption": "",
+    "locationName": "PA - Holtwood",
+    "tags": [
+      "river",
+      "island",
+      "archipelago",
+      "kayak",
+      "PA - Holtwood"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-10-10_17-21-20_724.webp",
+    "dateTaken": "2023-10-10T17:21:20",
+    "title": "Evening Stroll",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "leading lines",
+      "forest",
+      "trail",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-10-19_17-55-45_125.webp",
+    "dateTaken": "2023-10-19T17:55:45",
+    "title": "Early Autumn at Marsh Creek",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "fall",
+      "curvy road",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-10-22_08-14-15_160.webp",
+    "dateTaken": "2023-10-22T08:14:15",
+    "title": "Birdsboro Reservoir",
+    "caption": "",
+    "locationName": "PA - Birdsboro Waters",
+    "tags": [
+      "reservoir",
+      "pond",
+      "reflection",
+      "lake",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-10-26_17-47-52_890.webp",
+    "dateTaken": "2023-10-26T17:47:52",
+    "title": "Autumn at Marsh Creek Lake",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "fall",
+      "lake",
+      "kayak",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-10-28_08-41-52_729.webp",
+    "dateTaken": "2023-10-28T08:41:52",
+    "title": "Traverse Loop at Michaux State Forest",
+    "caption": "",
     "locationName": null,
     "tags": [
+      "pine",
+      "trail",
       "leading lines"
     ],
     "camera": null,
@@ -988,6 +1141,49 @@
     "taxonUrl": null
   },
   {
+    "fileName": "images/2023-11-11_08-17-19_460.webp",
+    "dateTaken": "2023-11-11T08:17:19",
+    "title": "Misty Morning on the Mason-Dixon Trail",
+    "caption": "",
+    "locationName": "PA - Apollo County Park",
+    "tags": [
+      "fog",
+      "forest",
+      "PA - Apollo County Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-11-18_13-49-40_191.webp",
+    "dateTaken": "2023-11-18T13:49:40",
+    "title": "Receding Tree Line at Springton Manor Farm",
+    "caption": "",
+    "locationName": "PA - Springton Manor Farm",
+    "tags": [
+      "leading lines",
+      "fall",
+      "PA - Springton Manor Farm"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-11-19_12-56-21_890.webp",
+    "dateTaken": "2023-11-19T12:56:21",
+    "title": "Rhododendron on Preachers Camp Trail",
+    "caption": "",
+    "locationName": "PA - Beltzville State Park",
+    "tags": [
+      "rhododendron",
+      "trail",
+      "forest",
+      "PA - Beltzville State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "images/2023-11-23_07-09-35_992.webp",
     "dateTaken": "2023-11-23T07:09:35",
     "title": "Shawankgunk Ridge Rock Passage",
@@ -997,6 +1193,51 @@
       "rock",
       "rock wall",
       "NY - Shawangunk Ridge State Forest"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-11-23_08-17-36_825.webp",
+    "dateTaken": "2023-11-23T08:17:36",
+    "title": "Shawangunk Ridge View",
+    "caption": "",
+    "locationName": "NY - Shawangunk Ridge State Forest",
+    "tags": [
+      "shawangunk ridge trail",
+      "vista",
+      "mountain",
+      "NY - Shawangunk Ridge State Forest"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-12-03_14-21-19_403.webp",
+    "dateTaken": "2023-12-03T14:21:19",
+    "title": "Foggy Reservoir",
+    "caption": "",
+    "locationName": "PA - Lykens Municipal Watershed",
+    "tags": [
+      "pond",
+      "reservoir",
+      "fog",
+      "reflection",
+      "PA - Lykens Municipal Watershed"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-12-09_10-39-49_843.webp",
+    "dateTaken": "2023-12-09T10:39:49",
+    "title": "Aughwick Rd near Cowan's Gap State Park",
+    "caption": "",
+    "locationName": "PA - Buchanan State Forest",
+    "tags": [
+      "curvy road",
+      "leading lines",
+      "PA - Buchanan State Forest"
     ],
     "camera": null,
     "taxonUrl": null
@@ -1012,6 +1253,53 @@
       "monument",
       "arch",
       "PA - Valley Forge National Historical Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2023-12-25_12-39-12_623.webp",
+    "dateTaken": "2023-12-25T12:39:12",
+    "title": "Jeff's Swamp",
+    "caption": "",
+    "locationName": "PA - State Game Lands 211",
+    "tags": [
+      "swamp",
+      "wetland",
+      "game land",
+      "reflection",
+      "PA - State Game Lands 211"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2024-01-01_08-38-44_870.webp",
+    "dateTaken": "2024-01-01T08:38:44",
+    "title": "Morning Pinnacle Overlook",
+    "caption": "",
+    "locationName": "PA - Hamburg Reservoir",
+    "tags": [
+      "appalachian trail",
+      "vista",
+      "fog",
+      "PA - Hamburg Reservoir"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "images/2024-01-01_10-06-10_571.webp",
+    "dateTaken": "2024-01-01T10:06:10",
+    "title": "Snowy Morning on the AT",
+    "caption": "",
+    "locationName": "PA - Hamburg Reservoir",
+    "tags": [
+      "snow",
+      "forest",
+      "trail",
+      "appalachian trail",
+      "PA - Hamburg Reservoir"
     ],
     "camera": null,
     "taxonUrl": null
