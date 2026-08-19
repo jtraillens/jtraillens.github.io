@@ -40,7 +40,7 @@ function showPhoto(index) {
         return;
     }
 
-    lightboxImage.src = photo.fileName;
+    lightboxImage.src = `images/${photo.fileName}`;
     lightboxImage.alt = photo.title;
 
     lightboxTitle.textContent = photo.title ?? "";

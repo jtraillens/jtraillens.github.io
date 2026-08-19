@@ -44,7 +44,7 @@ function renderGallery() {
         const image = item.querySelector('.photo');
         const caption = item.querySelector('.caption');
 
-        image.src = photo.fileName;
+        image.src = `thumbs/${photo.fileName}`;
         image.alt = photo.title;
 
         // Index within the currently filtered results
