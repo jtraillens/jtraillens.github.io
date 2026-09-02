@@ -1,5 +1,565 @@
 [
   {
+    "fileName": "2026-08-31_17-40-15_924.webp",
+    "dateTaken": "2026-08-31T17:40:15",
+    "title": "\"Hello there!\"",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "insect",
+      "macro",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/71034"
+  },
+  {
+    "fileName": "2026-08-30_16-33-47_351.webp",
+    "dateTaken": "2026-08-30T16:33:47",
+    "title": "Phaeolus Hispidoides",
+    "caption": "",
+    "locationName": "PA - Birdsboro Waters",
+    "tags": [
+      "fungus",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/1633475"
+  },
+  {
+    "fileName": "2026-08-30_15-05-44_701.webp",
+    "dateTaken": "2026-08-30T15:05:44",
+    "title": "Bleeding Fairy Helmet",
+    "caption": "",
+    "locationName": "PA - Birdsboro Waters",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "clustered",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/63460"
+  },
+  {
+    "fileName": "2026-08-30_13-11-21_468.webp",
+    "dateTaken": "2026-08-30T13:11:21",
+    "title": "Pallid Bolete",
+    "caption": "",
+    "locationName": "PA - Birdsboro Waters",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/1040179"
+  },
+  {
+    "fileName": "2026-08-30_12-50-23_833.webp",
+    "dateTaken": "2026-08-30T12:50:23",
+    "title": "Violet Viscid Cort",
+    "caption": "",
+    "locationName": "PA - Birdsboro Waters",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/154583"
+  },
+  {
+    "fileName": "2026-08-29_17-33-37_534.webp",
+    "dateTaken": "2026-08-29T17:33:37",
+    "title": "Milky Cap Twins",
+    "caption": "",
+    "locationName": "PA - Sadsbury Woods Preserve",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "confluence",
+      "PA - Sadsbury Woods Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/367745"
+  },
+  {
+    "fileName": "2026-08-29_17-18-08_831.webp",
+    "dateTaken": "2026-08-29T17:18:08",
+    "title": "Pure Green Sweat Bee on American Burnweed",
+    "caption": "",
+    "locationName": "PA - Sadsbury Woods Preserve",
+    "tags": [
+      "macro",
+      "bee",
+      "flower",
+      "PA - Sadsbury Woods Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/82523"
+  },
+  {
+    "fileName": "2026-08-28_12-18-57_934.webp",
+    "dateTaken": "2026-08-28T12:18:57",
+    "title": "Tall Blue Lettuce Flower",
+    "caption": "",
+    "locationName": "PA - The Laurels Preserve",
+    "tags": [
+      "plant",
+      "flower",
+      "macro",
+      "PA - The Laurels Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/77616"
+  },
+  {
+    "fileName": "2026-08-28_11-37-09_203.webp",
+    "dateTaken": "2026-08-28T11:37:09",
+    "title": "Prickly Cucumber Tendril",
+    "caption": "",
+    "locationName": "PA - The Laurels Preserve",
+    "tags": [
+      "macro",
+      "tendril",
+      "spiral",
+      "PA - The Laurels Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/48618"
+  },
+  {
+    "fileName": "2026-08-28_11-36-39_725.webp",
+    "dateTaken": "2026-08-28T11:36:39",
+    "title": "Prickly Cucumber Tendril Coil",
+    "caption": "",
+    "locationName": "PA - The Laurels Preserve",
+    "tags": [
+      "macro",
+      "tendril",
+      "PA - The Laurels Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/48618"
+  },
+  {
+    "fileName": "2026-08-28_10-49-35_068.webp",
+    "dateTaken": "2026-08-28T10:49:35",
+    "title": "Orange Pinwheel Umbrella",
+    "caption": "",
+    "locationName": "PA - The Laurels Preserve",
+    "tags": [
+      "macro",
+      "fungus",
+      "mushroom",
+      "PA - The Laurels Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/136398"
+  },
+  {
+    "fileName": "2026-08-28_09-38-30_119.webp",
+    "dateTaken": "2026-08-28T09:38:30",
+    "title": "Violet-Toothed Polypore",
+    "caption": "",
+    "locationName": "PA - The Laurels Preserve",
+    "tags": [
+      "fungus",
+      "PA - The Laurels Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/125705"
+  },
+  {
+    "fileName": "2026-08-28_09-28-21_195.webp",
+    "dateTaken": "2026-08-28T09:28:21",
+    "title": "Marasmius capillaris",
+    "caption": "",
+    "locationName": "PA - The Laurels Preserve",
+    "tags": [
+      "macro",
+      "fungus",
+      "mushroom",
+      "PA - The Laurels Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/334044"
+  },
+  {
+    "fileName": "2026-08-26_18-36-27_407.webp",
+    "dateTaken": "2026-08-26T18:36:27",
+    "title": "Cabbage White on Goldenrod (moth)",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "moth",
+      "macro",
+      "flower",
+      "head on",
+      "compound eye",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/55626"
+  },
+  {
+    "fileName": "2026-08-26_17-28-59_461.webp",
+    "dateTaken": "2026-08-26T17:28:59",
+    "title": "Smooth Chanterelle",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "chanterelle",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/143270"
+  },
+  {
+    "fileName": "2026-08-25_18-33-57_567.webp",
+    "dateTaken": "2026-08-25T18:33:57",
+    "title": "Lynx Paw Oyster",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "underside",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/1247035"
+  },
+  {
+    "fileName": "2026-08-25_18-22-04_984.webp",
+    "dateTaken": "2026-08-25T18:22:04",
+    "title": "Northern Crab Spider on Swamp Aster",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "macro",
+      "spider",
+      "flower",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/224488"
+  },
+  {
+    "fileName": "2026-08-25_18-07-26_676.webp",
+    "dateTaken": "2026-08-25T18:07:26",
+    "title": "Forest Path",
+    "caption": "",
+    "locationName": "PA - Opalanie Park",
+    "tags": [
+      "trail",
+      "forest",
+      "curvy trail",
+      "PA - Opalanie Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-25_17-32-36_229.webp",
+    "dateTaken": "2026-08-25T17:32:36",
+    "title": "Preserve Meadow Path",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "meadow",
+      "curvy trail",
+      "trail",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-25_17-03-36_870.webp",
+    "dateTaken": "2026-08-25T17:03:36",
+    "title": "Orange Mycena",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "mycena",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/128516"
+  },
+  {
+    "fileName": "2026-08-25_16-45-00_849.webp",
+    "dateTaken": "2026-08-25T16:45:00",
+    "title": "Monarch Caterpillar",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "butterfly",
+      "caterpillar",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/48662"
+  },
+  {
+    "fileName": "2026-08-25_16-05-28_092.webp",
+    "dateTaken": "2026-08-25T16:05:28",
+    "title": "Ambush Bug on New England Aster",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "macro",
+      "insect",
+      "ambush bug",
+      "flower",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/145582"
+  },
+  {
+    "fileName": "2026-08-25_11-41-14_079.webp",
+    "dateTaken": "2026-08-25T11:41:14",
+    "title": "Field Thistle Flower",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "macro",
+      "flower",
+      "thistle",
+      "starburst",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/61340"
+  },
+  {
+    "fileName": "2026-08-25_10-31-07_419.webp",
+    "dateTaken": "2026-08-25T10:31:07",
+    "title": "Orange Gilled Waxcap",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "macro",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/125684"
+  },
+  {
+    "fileName": "2026-08-25_09-46-11_371.webp",
+    "dateTaken": "2026-08-25T09:46:11",
+    "title": "Morning Sailing at Marsh Creek",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "lake",
+      "vista",
+      "boat",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-24_16-52-53_817.webp",
+    "dateTaken": "2026-08-24T16:52:53",
+    "title": "Snail Shell Spiral",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "macro",
+      "snail",
+      "shell",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-24_16-25-09_976.webp",
+    "dateTaken": "2026-08-24T16:25:09",
+    "title": "Red Chanterelle",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "macro",
+      "chanterelle",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/143393"
+  },
+  {
+    "fileName": "2026-08-24_16-12-31_574.webp",
+    "dateTaken": "2026-08-24T16:12:31",
+    "title": "Turkey Tail",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fungus",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/54134"
+  },
+  {
+    "fileName": "2026-08-24_11-42-07_803.webp",
+    "dateTaken": "2026-08-24T11:42:07",
+    "title": "Fungus Neighbors",
+    "caption": "",
+    "locationName": "PA - Bondsville Mill Park",
+    "tags": [
+      "fungus",
+      "PA - Bondsville Mill Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/54134"
+  },
+  {
+    "fileName": "2026-08-24_09-36-48_143.webp",
+    "dateTaken": "2026-08-24T09:36:48",
+    "title": "Dryad's Saddle",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "macro",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/940028"
+  },
+  {
+    "fileName": "2026-08-24_09-27-53_885.webp",
+    "dateTaken": "2026-08-24T09:27:53",
+    "title": "Japanese Barberry",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "plant",
+      "leaf",
+      "droplet",
+      "macro",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/58727"
+  },
+  {
+    "fileName": "2026-08-23_11-10-01_666.webp",
+    "dateTaken": "2026-08-23T11:10:01",
+    "title": "Ivy-Leaved Morning-Glory",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "macro",
+      "flower",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/77495"
+  },
+  {
+    "fileName": "2026-08-23_11-04-29_496.webp",
+    "dateTaken": "2026-08-23T11:04:29",
+    "title": "American Hoverfly on Chicory",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "insect",
+      "macro",
+      "flower",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-22_16-54-18_864.webp",
+    "dateTaken": "2026-08-22T16:54:18",
+    "title": "False Turkey Tail",
+    "caption": "",
+    "locationName": "PA - Myrick Conservation Center",
+    "tags": [
+      "fungus",
+      "PA - Myrick Conservation Center"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/1031780"
+  },
+  {
+    "fileName": "2026-08-21_16-40-24_520.webp",
+    "dateTaken": "2026-08-21T16:40:24",
+    "title": "Sunlight through the Canopy",
+    "caption": "",
+    "locationName": "PA - Coventry Woods Park",
+    "tags": [
+      "forest",
+      "trail",
+      "PA - Coventry Woods Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-21_16-04-23_832.webp",
+    "dateTaken": "2026-08-21T16:04:23",
+    "title": "Indigo Milk Cap",
+    "caption": "",
+    "locationName": "PA - Coventry Woods Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "underside",
+      "PA - Coventry Woods Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/120951"
+  },
+  {
+    "fileName": "2026-08-21_13-39-04_486.webp",
+    "dateTaken": "2026-08-21T13:39:04",
+    "title": "Hairy Skullcap Calyx Scoops",
+    "caption": "",
+    "locationName": "PA - Woody's Woods",
+    "tags": [
+      "macro",
+      "plant",
+      "PA - Woody's Woods"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/134213"
+  },
+  {
+    "fileName": "2026-08-21_12-52-37_414.webp",
+    "dateTaken": "2026-08-21T12:52:37",
+    "title": "Hairy Oyster Mushroom",
+    "caption": "",
+    "locationName": "PA - Woody's Woods",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "oyster mushroom",
+      "macro",
+      "underside",
+      "PA - Woody's Woods"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/536019"
+  },
+  {
     "fileName": "2026-08-20_20-00-40_616.webp",
     "dateTaken": "2026-08-20T20:00:40",
     "title": "Evening Clouds Moon",
@@ -24,6 +584,21 @@
       "sunset",
       "sky",
       "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-19_17-11-02_002.webp",
+    "dateTaken": "2026-08-19T17:11:02",
+    "title": "Preserve Forest Path",
+    "caption": "",
+    "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "tags": [
+      "forest",
+      "trail",
+      "curvy trail",
+      "PA - Thomas P. Bentley Nature Preserve"
     ],
     "camera": null,
     "taxonUrl": null
