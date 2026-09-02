@@ -5,27 +5,50 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="css/style.css"></link>
     <script src="js/lightbox.js" defer></script>
     <script src="js/gallery.js" defer></script>
+    <script src="js/nav.js" defer></script>
     <script src="js/main.js" defer></script>
 </head>
 <body>
-    <h1>JTrailLens</h1>
-    <p>Exploring public lands and the small details found along the way.</p>
-    
-    <div id="tagFilter">
-        <div id="tagSearch">
-            <input id="tagInput" placeholder="Filter by tag">
-            <div id="tagSuggestions"></div>
-        </div>
-        <div id="selectedTags"></div>
-    </div>
+    <nav class="site-nav">
+        <a href="#" class="nav-wordmark">
+            <span class="nav-dot"></span>
+            JTrailLens
+        </a>
 
-    <div class="gallery">
-    </div>
+        <div class="nav-links">
+            <a href="#about" class="nav-link">About</a>
+
+            <div class="nav-dropdown" id="subjectsDropdown">
+                <button type="button" class="nav-link nav-dropdown-trigger" id="subjectsTrigger" aria-haspopup="true" aria-expanded="false">
+                    Collections
+                    <svg class="nav-caret" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+                <div class="nav-dropdown-panel" id="subjectsPanel" hidden></div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="page-content">
+        <p>Exploring public lands and the small details found along the way.</p>
+
+        <div id="tagFilter">
+            <div id="tagSearch">
+                <input id="tagInput" placeholder="Filter by tag">
+                <div id="tagSuggestions"></div>
+            </div>
+            <div id="selectedTags"></div>
+        </div>
+
+        <div class="gallery">
+        </div>
+    </main>
 
     <template id='photo-template'>
         <div class='gallery-item'>

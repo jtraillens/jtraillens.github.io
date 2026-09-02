@@ -1,5 +1,76 @@
 [
   {
+    "fileName": "2026-08-20_20-00-40_616.webp",
+    "dateTaken": "2026-08-20T20:00:40",
+    "title": "Evening Clouds Moon",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "sky",
+      "moon",
+      "cloud",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-20_19-47-03_762.webp",
+    "dateTaken": "2026-08-20T19:47:03",
+    "title": "Marsh Creek Sunset",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "sunset",
+      "sky",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-19_17-04-48_717.webp",
+    "dateTaken": "2026-08-19T17:04:48",
+    "title": "Field Thistle",
+    "caption": "",
+    "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "tags": [
+      "thistle",
+      "PA - Thomas P. Bentley Nature Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/61340"
+  },
+  {
+    "fileName": "2026-08-19_16-55-07_100.webp",
+    "dateTaken": "2026-08-19T16:55:07",
+    "title": "Spiral Tendril",
+    "caption": "",
+    "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "tags": [
+      "tendril",
+      "macro",
+      "PA - Thomas P. Bentley Nature Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-18_19-30-46_908.webp",
+    "dateTaken": "2026-08-18T19:30:46",
+    "title": "Sunset Foxtail",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "sunset",
+      "grass",
+      "foxtail",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/79067"
+  },
+  {
     "fileName": "2026-08-09_15-23-34_963.webp",
     "dateTaken": "2026-08-09T15:23:34",
     "title": "I <3 Purple-edged Lute",
@@ -62,7 +133,7 @@
   {
     "fileName": "2026-08-09_11-40-37_417.webp",
     "dateTaken": "2026-08-09T11:40:37",
-    "title": "Cauliflower mushroom",
+    "title": "Cauliflower Mushroom",
     "caption": "",
     "locationName": "PA - French Creek State Park",
     "tags": [
@@ -146,6 +217,20 @@
     ],
     "camera": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-08_17-22-55_863.webp",
+    "dateTaken": "2026-08-08T17:22:55",
+    "title": "Golden Twins",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/499645"
   },
   {
     "fileName": "2026-08-08_16-42-32_502.webp",
