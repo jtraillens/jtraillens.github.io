@@ -34,18 +34,28 @@
                 </button>
                 <div class="nav-dropdown-panel" id="subjectsPanel" hidden></div>
             </div>
+
+            <div class="nav-dropdown" id="tagFilterDropdown">
+                <button type="button" class="nav-link nav-dropdown-trigger" id="tagFilterTrigger" aria-haspopup="true" aria-expanded="false">
+                    Tag Search
+                    <svg class="nav-caret" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+                <div class="nav-dropdown-panel nav-dropdown-panel--tagFilter" id="tagFilterPanel" hidden>
+                    <div id="tagSearch">
+                        <input id="tagInput" placeholder="Filter by tag">
+                        <div id="tagSuggestions"></div>
+                    </div>
+                    <button type="button" id="clearTagsLink" hidden>Clear all</button>
+                </div>
+            </div>
         </div>
     </nav>
 
     <main class="page-content">
         <div id="galleryView">
-            <div id="tagFilter">
-                <div id="tagSearch">
-                    <input id="tagInput" placeholder="Filter by tag">
-                    <div id="tagSuggestions"></div>
-                </div>
-                <div id="selectedTags"></div>
-            </div>
+            <div id="selectedTags"></div>
 
             <div class="gallery">
             </div>

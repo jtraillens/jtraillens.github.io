@@ -139,18 +139,18 @@ h1 {
 }
 
 .page-content {
-    padding: 0 40px 40px;
+    padding: 30px 40px 40px;
 }
 
 
-#tagFilter {
-    margin: 1.5rem 0;
-    text-align: center;
+.nav-dropdown-panel--tagFilter {
+    min-width: 220px;
+    padding: 10px;
 }
 
 #tagSearch {
     position: relative;
-    display: inline-block;
+    display: block;
 }
 
 #tagSuggestions {
@@ -172,7 +172,8 @@ h1 {
 }
 
 #tagSuggestions div {
-    padding: 0.5rem 0.75rem;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.85rem;
     cursor: pointer;
 }
 
@@ -185,19 +186,47 @@ h1 {
 }
 
 #tagInput {
-    width: 250px;
-    padding: 0.5rem 0.75rem;
-    font-size: 1rem;
+    width: 100%;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.85rem;
     border: 1px solid #ccc;
     border-radius: 6px;
 }
 
+#clearTagsLink {
+    display: block;
+    width: 100%;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    background: none;
+    border: none;
+    font: inherit;
+    font-size: 0.8rem;
+    text-align: left;
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    cursor: pointer;
+}
+
+#clearTagsLink:hover {
+    opacity: 0.8;
+}
+
+#clearTagsLink[hidden] {
+    display: none;
+}
+
 #selectedTags {
-    margin-top: 0.75rem;
+    margin: 0 0 1.5rem 0;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 0.5rem;
+}
+
+#selectedTags:empty {
+    display: none;
 }
 
 #selectedTags strong {

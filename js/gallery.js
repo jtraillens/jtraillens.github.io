@@ -65,6 +65,14 @@ const Gallery = (function() {
     function initializeTagFilter() {
         const input = document.querySelector('#tagInput');
         const suggestions = document.querySelector('#tagSuggestions');
+        const clearLink = document.querySelector('#clearTagsLink');
+
+        clearLink.addEventListener('click', () => {
+            input.value = '';
+            suggestions.innerHTML = '';
+            selectedSuggestionIndex = -1;
+            applyTagFilter([]);
+        });
 
         input.addEventListener('input', () => {
             selectedSuggestionIndex = -1;
@@ -198,6 +206,8 @@ const Gallery = (function() {
     function renderSelectedTags() {
         const container = document.querySelector('#selectedTags');
 
+        document.querySelector('#clearTagsLink').hidden = selectedTags.length === 0;
+
         container.innerHTML = '';
 
         selectedTags.forEach(tag => {
@@ -222,6 +232,10 @@ const Gallery = (function() {
             const tagString = selectedTags.map(encodeURIComponent).join(',');
             history.replaceState(null, '', `#/subjects/${tagString}`);
         }
+
+        // replaceState doesn't fire 'hashchange', so nav highlighting
+        // (Collections/Gallery) needs an explicit nudge to stay in sync.
+        Nav.updateActiveStyles();
     }
 
     function openPhotoByFilename(name) {

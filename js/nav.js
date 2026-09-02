@@ -2,34 +2,47 @@ const Nav = (function() {
 
     const SUBJECT_TAGS = [
         { text: 'You Light up my Ice', url: '#/subjects/ice,night' },
-        { text: 'Flower Power', url: '#/subjects/flower' },        
-        { text: 'Fungus Among Us', url: '#/subjects/fungus' },        
+        { text: 'Flower Power', url: '#/subjects/flower' },
+        { text: 'Fungus Among Us', url: '#/subjects/fungus' },
         { text: 'Up Close and Personal', url: '#/subjects/macro' },
         { text: 'Seeing Double', url: '#/subjects/reflection' },
     ];
 
     function init() {
-        const dropdown = document.querySelector('#subjectsDropdown');
-        const trigger = document.querySelector('#subjectsTrigger');
-        const panel = document.querySelector('#subjectsPanel');
+        const dropdowns = Array.from(document.querySelectorAll('.nav-dropdown'));
 
-        renderSubjects(panel);
-        updateActiveStyles();
+        dropdowns.forEach(dropdown => {
+            const trigger = dropdown.querySelector('.nav-dropdown-trigger');
+            const panel = dropdown.querySelector('.nav-dropdown-panel');
 
-        trigger.addEventListener('click', event => {
-            event.stopPropagation();
-            toggleDropdown(dropdown, trigger, panel);
+            trigger.addEventListener('click', event => {
+                event.stopPropagation();
+                toggleDropdown(dropdown, trigger, panel);
+            });
         });
 
+        renderSubjects(document.querySelector('#subjectsPanel'));
+        updateActiveStyles();
+
         document.addEventListener('click', event => {
-            if (!event.target.closest('#subjectsDropdown')) {
-                closeDropdown(dropdown, trigger, panel);
-            }
+            dropdowns.forEach(dropdown => {
+                if (!event.target.closest(`#${dropdown.id}`)) {
+                    closeDropdown(
+                        dropdown,
+                        dropdown.querySelector('.nav-dropdown-trigger'),
+                        dropdown.querySelector('.nav-dropdown-panel')
+                    );
+                }
+            });
         });
 
         document.addEventListener('keydown', event => {
             if (event.key === 'Escape') {
-                closeDropdown(dropdown, trigger, panel);
+                dropdowns.forEach(dropdown => closeDropdown(
+                    dropdown,
+                    dropdown.querySelector('.nav-dropdown-trigger'),
+                    dropdown.querySelector('.nav-dropdown-panel')
+                ));
             }
         });
 
@@ -64,13 +77,19 @@ const Nav = (function() {
 
     function updateActiveStyles() {
         const hash = window.location.hash || '';
+        const isSubjectActive = SUBJECT_TAGS.some(subject => subject.url === hash);
 
         document.querySelectorAll('.nav-subject-link').forEach(link => {
             link.classList.toggle('active', link.dataset.url === hash);
         });
 
+        document.querySelector('#subjectsTrigger').classList.toggle('active', isSubjectActive);
+
         document.querySelector('#aboutLink').classList.toggle('active', hash === '#about');
-        document.querySelector('#galleryLink').classList.toggle('active', hash !== '#about');
+        document.querySelector('#galleryLink').classList.toggle(
+            'active',
+            hash !== '#about' && !hash.startsWith('#/subjects')
+        );
     }
 
     function toggleDropdown(dropdown, trigger, panel) {
@@ -82,9 +101,26 @@ const Nav = (function() {
     }
 
     function openDropdown(dropdown, trigger, panel) {
+        // Only one dropdown open at a time, so they never overlap.
+        document.querySelectorAll('.nav-dropdown.open').forEach(other => {
+            if (other !== dropdown) {
+                closeDropdown(
+                    other,
+                    other.querySelector('.nav-dropdown-trigger'),
+                    other.querySelector('.nav-dropdown-panel')
+                );
+            }
+        });
+
         dropdown.classList.add('open');
         trigger.setAttribute('aria-expanded', 'true');
         panel.hidden = false;
+
+        // Tag Search: jump straight into typing once the panel is open.
+        const input = panel.querySelector('#tagInput');
+        if (input) {
+            input.focus();
+        }
     }
 
     function closeDropdown(dropdown, trigger, panel) {
@@ -93,7 +129,7 @@ const Nav = (function() {
         panel.hidden = true;
     }
 
-    return { init };
+    return { init, updateActiveStyles };
 
 })();
 
