@@ -76,6 +76,11 @@ h1 {
     text-underline-offset: 3px;
 }
 
+.nav-link.active {
+    color: var(--color-accent);
+    font-weight: 600;
+}
+
 .nav-dropdown {
     position: relative;
 }
@@ -162,6 +167,10 @@ h1 {
     text-align: left;
 }
 
+#tagSuggestions:empty {
+    display: none;
+}
+
 #tagSuggestions div {
     padding: 0.5rem 0.75rem;
     cursor: pointer;
@@ -211,6 +220,16 @@ h1 {
     background-color: #d8e5d8;
 }
 
+
+.about-content {
+    max-width: 640px;
+    margin: 2rem auto 0;
+    line-height: 1.6;
+}
+
+.about-content h1 {
+    margin-bottom: 1rem;
+}
 
 .gallery {
     display: grid;

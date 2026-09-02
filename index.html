@@ -21,7 +21,9 @@
         </a>
 
         <div class="nav-links">
-            <a href="#about" class="nav-link">About</a>
+            <a href="#about" class="nav-link" id="aboutLink">About</a>
+
+            <a href="#" class="nav-link" id="galleryLink">Gallery</a>
 
             <div class="nav-dropdown" id="subjectsDropdown">
                 <button type="button" class="nav-link nav-dropdown-trigger" id="subjectsTrigger" aria-haspopup="true" aria-expanded="false">
@@ -36,17 +38,28 @@
     </nav>
 
     <main class="page-content">
-        <p>Exploring public lands and the small details found along the way.</p>
-
-        <div id="tagFilter">
-            <div id="tagSearch">
-                <input id="tagInput" placeholder="Filter by tag">
-                <div id="tagSuggestions"></div>
+        <div id="galleryView">
+            <div id="tagFilter">
+                <div id="tagSearch">
+                    <input id="tagInput" placeholder="Filter by tag">
+                    <div id="tagSuggestions"></div>
+                </div>
+                <div id="selectedTags"></div>
             </div>
-            <div id="selectedTags"></div>
+
+            <div class="gallery">
+            </div>
         </div>
 
-        <div class="gallery">
+        <div id="aboutView" class="about-content" hidden>
+            <h1>About</h1>
+            <p>What's here comes from hiking — noticing one thing eventually opens your eyes to a dozen others you'd been walking past for years. Every season I seem to pick up on something new, and the number of photos per hike has grown right along with it — what used to be a handful is now...hundreds 😱 (most times).</p>
+
+            <p>I like exploring all kinds of public land — state parks, game lands, county parks, small preserves, whatever's around. I do tend to gravitate toward the spots that don't get as much foot traffic.</p>
+
+            <p>Everything is shot on my iPhone, sometimes with a clip-on lens or a mini tripod. Editing/adjustment is done via the built-in iPhone photo editor. This is mostly just for re-cropping a subject and/or fixing a color cast.</p>
+
+            <p>This site's just a personal project — some of what's turned up on the trail. Updates happen whenever motivation and attention span line up, which is to say: unevenly. 🙃</p>
         </div>
     </main>
 

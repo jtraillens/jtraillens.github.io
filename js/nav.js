@@ -8,8 +8,6 @@ const Nav = (function() {
         { text: 'Seeing Double', url: '#/subjects/reflection' },
     ];
 
-    const SUBJECTS_PREFIX = '#/subjects/';
-
     function init() {
         const dropdown = document.querySelector('#subjectsDropdown');
         const trigger = document.querySelector('#subjectsTrigger');
@@ -49,32 +47,19 @@ const Nav = (function() {
             link.className = 'nav-subject-link';
             link.dataset.url = subject.url;
 
-            link.addEventListener('click', event => {
-                event.preventDefault();
-                selectSubject(subject);
+            // Let the browser navigate the hash normally (fires 'hashchange',
+            // so Main's router handles both the tag filter and the view
+            // switch) — just close the dropdown afterwards.
+            link.addEventListener('click', () => {
+                closeDropdown(
+                    document.querySelector('#subjectsDropdown'),
+                    document.querySelector('#subjectsTrigger'),
+                    document.querySelector('#subjectsPanel')
+                );
             });
 
             panel.appendChild(link);
         });
-    }
-
-    function selectSubject(subject) {
-        const dropdown = document.querySelector('#subjectsDropdown');
-        const trigger = document.querySelector('#subjectsTrigger');
-        const panel = document.querySelector('#subjectsPanel');
-
-        Gallery.applyTagFilter(parseTagsFromUrl(subject.url));
-        updateActiveStyles();
-
-        closeDropdown(dropdown, trigger, panel);
-    }
-
-    function parseTagsFromUrl(url) {
-        if (!url.startsWith(SUBJECTS_PREFIX)) {
-            return [];
-        }
-
-        return decodeURIComponent(url.slice(SUBJECTS_PREFIX.length)).split(',');
     }
 
     function updateActiveStyles() {
@@ -83,6 +68,9 @@ const Nav = (function() {
         document.querySelectorAll('.nav-subject-link').forEach(link => {
             link.classList.toggle('active', link.dataset.url === hash);
         });
+
+        document.querySelector('#aboutLink').classList.toggle('active', hash === '#about');
+        document.querySelector('#galleryLink').classList.toggle('active', hash !== '#about');
     }
 
     function toggleDropdown(dropdown, trigger, panel) {

@@ -6,7 +6,14 @@ const Main = (function() {
 
     function router() {
         const hash = window.location.hash || '';
-        
+
+        if (hash === '#about') {
+            showView('about');
+            return;
+        }
+
+        showView('gallery');
+
         if (hash.startsWith('#/subjects')) {
             const tags = decodeURIComponent(hash.slice('#/subjects/'.length)).split(',');
             Gallery.applyTagFilter(tags);
@@ -17,7 +24,12 @@ const Main = (function() {
         } else {
             Gallery.applyTagFilter([]);
         }
-        
+
+    }
+
+    function showView(view) {
+        document.querySelector('#galleryView').hidden = view !== 'gallery';
+        document.querySelector('#aboutView').hidden = view !== 'about';
     }
 
     async function init() {
