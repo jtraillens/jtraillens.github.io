@@ -25,16 +25,70 @@ const Gallery = (function() {
         const gallery = document.querySelector('.gallery');
 
         gallery.addEventListener('click', (event) => {
-            const image = event.target.closest('img');
+            const image = event.target.closest('.photo');
             if (!image) {
                 return;
             }
 
-            Lightbox.open(Number(image.dataset.index), filteredPhotos, {
-                onPhotoChange: updatePhotoHash,
-                onClose: updateHash
-            });
+            openPhotoAt(Number(image.dataset.index));
         });
+
+        gallery.addEventListener('keydown', (event) => {
+            const image = event.target.closest('.photo');
+            if (!image) {
+                return;
+            }
+
+            const index = Number(image.dataset.index);
+
+            if (event.key === 'Enter' || event.key === ' ') {
+                event.preventDefault();
+                openPhotoAt(index);
+                return;
+            }
+
+            const columns = getColumnCount(gallery);
+            let targetIndex;
+
+            switch (event.key) {
+                case 'ArrowRight':
+                    targetIndex = index + 1;
+                    break;
+                case 'ArrowLeft':
+                    targetIndex = index - 1;
+                    break;
+                case 'ArrowDown':
+                    targetIndex = index + columns;
+                    break;
+                case 'ArrowUp':
+                    targetIndex = index - columns;
+                    break;
+                default:
+                    return;
+            }
+
+            if (targetIndex < 0 || targetIndex >= filteredPhotos.length) {
+                return;
+            }
+
+            event.preventDefault();
+            gallery.querySelector(`.photo[data-index="${targetIndex}"]`)?.focus();
+        });
+    }
+
+    function openPhotoAt(index) {
+        Lightbox.open(index, filteredPhotos, {
+            onPhotoChange: updatePhotoHash,
+            onClose: updateHash
+        });
+    }
+
+    // The grid uses auto-fill columns, so the actual column count depends on
+    // viewport width rather than being fixed - reading it back from the
+    // resolved computed style is the simplest way to keep Up/Down arrow
+    // navigation in sync with however many columns are currently rendered.
+    function getColumnCount(gallery) {
+        return getComputedStyle(gallery).gridTemplateColumns.split(' ').length;
     }
 
 
@@ -51,6 +105,8 @@ const Gallery = (function() {
 
             image.src = `thumbs/${photo.fileName}`;
             image.alt = photo.title;
+            image.tabIndex = 0;
+            image.setAttribute('role', 'button');
 
             // Index within the currently filtered results
             image.dataset.index = index;
@@ -234,8 +290,10 @@ const Gallery = (function() {
         }
 
         // replaceState doesn't fire 'hashchange', so nav highlighting
-        // (Collections/Gallery) needs an explicit nudge to stay in sync.
+        // (Collections/Gallery) and the view itself (e.g. searching tags
+        // while on the About screen) need an explicit nudge to stay in sync.
         Nav.updateActiveStyles();
+        Main.showGallery();
     }
 
     function openPhotoByFilename(name) {

@@ -38,7 +38,7 @@ const Main = (function() {
         router();
     }
 
-    return { init }
+    return { init, showGallery: () => showView('gallery') }
 
 })();
 

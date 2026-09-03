@@ -1,11 +1,11 @@
 const Nav = (function() {
 
     const SUBJECT_TAGS = [
-        { text: 'You Light up my Ice', url: '#/subjects/ice,night' },
         { text: 'Flower Power', url: '#/subjects/flower' },
         { text: 'Fungus Among Us', url: '#/subjects/fungus' },
+        { text: 'Seeing Double', url: '#/subjects/reflection' },   
+        { text: 'Tendril Loving Care', url: '#/subjects/tendril' },             
         { text: 'Up Close and Personal', url: '#/subjects/macro' },
-        { text: 'Seeing Double', url: '#/subjects/reflection' },
     ];
 
     function init() {

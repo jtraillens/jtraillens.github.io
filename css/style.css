@@ -251,13 +251,17 @@ h1 {
 
 
 .about-content {
-    max-width: 640px;
+    max-width: 800px;
     margin: 2rem auto 0;
     line-height: 1.6;
 }
 
 .about-content h1 {
     margin-bottom: 1rem;
+}
+
+.equipment dt {
+    margin-top: 10px;
 }
 
 .gallery {
@@ -300,6 +304,15 @@ h1 {
     opacity: 1;
 }
 
+.gallery-item img:focus-visible {
+    outline: 3px solid var(--color-accent);
+    outline-offset: -3px;
+}
+
+.gallery-item:focus-within .caption {
+    opacity: 1;
+}
+
 
 .lightbox {
     position: fixed;
@@ -329,10 +342,45 @@ h1 {
     align-items: center;
 }
 
+.lightbox-image-wrap {
+    position: relative;
+    display: inline-flex;
+    max-width: 90vw;
+    max-height: min(75vh, 900px);
+}
+
 .lightbox-image {
     max-width: 90vw;
     max-height: min(75vh, 900px);
     object-fit: contain;
+}
+
+.lightbox-image-wrap.is-loading .lightbox-image {
+    opacity: 0.60;
+}
+
+.lightbox-spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    margin: -20px 0 0 -20px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    border-top-color: #fff;
+    border-radius: 50%;
+    animation: lightbox-spin 800ms linear infinite;
+    pointer-events: none;
+}
+
+.lightbox-spinner[hidden] {
+    display: none;
+}
+
+@keyframes lightbox-spin {
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 .lightbox-details {
@@ -340,6 +388,13 @@ h1 {
     max-width: 90vw;
     overflow-y: auto;
     color: white;
+    opacity: 1;
+    transition: opacity 150ms ease;
+}
+
+.lightbox-details.is-hidden {
+    opacity: 0;
+    transition: none;
 }
 
 .lightbox-title {
