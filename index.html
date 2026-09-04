@@ -55,7 +55,11 @@
 
     <main class="page-content">
         <div id="galleryView">
-            <div id="selectedTags"></div>
+            <div class="gallery-header">
+                <h1 id="collectionTitle" class="collection-title" hidden></h1>
+
+                <div id="selectedTags"></div>
+            </div>
 
             <div class="gallery">
             </div>
@@ -71,37 +75,46 @@
 
             <p>This site's just a personal project — some of what's turned up on the trail. Updates happen whenever motivation and attention span line up, which is to say: unevenly. 🙃</p>
 
+            <section class="license" id="license">
+                <h2>License</h2>
+                <p>These photos are licensed <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 4.0</a> — free to use, crop, or drop into
+                whatever you're making (a flyer, a slide, a webpage) as long as it's non-commercial and
+                credited to JTrailLens. I'd genuinely like it if any of these ended up helping a park
+                service, nonprofit, or environmental-education project get people looking a little
+                closer at what's around them.</p>
+            </section>
+
             <section class="equipment">
                 <h2>Equipment</h2>
                 <p class="disclaimer"><small>The listing below is just the tools I actually use — no affiliate links, no sponsorship, no kickback of any kind. Not intended as some personal recommendations. Only here for context.</small></p>
                 <dl>
-                    <dt><a href="https://www.amazon.com/dp/B01A6D2JVI">Xenvo Pro Lens Kit (Macro)</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B01A6D2JVI" target="_blank" rel="noopener">Xenvo Pro Lens Kit (Macro)</a></dt>
                     <dd>For closest shots of small subjects — insects, fungi, etc.</dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B083QYHX3K">ULANZI Camera Tripod, Mini Flexible Stand</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B083QYHX3K" target="_blank" rel="noopener">ULANZI Camera Tripod, Mini Flexible Stand</a></dt>
                     <dd>For steadier shots, longer exposures, etc. Works well also for handling the phone during humid summer hikes/walks (keeping one's slimy/sweaty hands off the phone).</dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B0BMWRQ77D">Portable Universal 52mm Thread Clip for Cell Phone Camera</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B0BMWRQ77D" target="_blank" rel="noopener">Portable Universal 52mm Thread Clip for Cell Phone Camera</a></dt>
                     <dd>For all kinds of compatible threaded filter lenses (additional macros, color filters, etc). This is for 52mm which has worked both for iPhone 11 and iPhone 17 Pro, but would need to be sure of correct size to cover whatever smartphone model and layout of the lenses.</dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B0CGVKC54C">NEEWER 52mm Macro Close Up Lens Filter Kit</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B0CGVKC54C" target="_blank" rel="noopener">NEEWER 52mm Macro Close Up Lens Filter Kit</a></dt>
                     <dd>For when the Xenvo +15 is too strong and need something inbetween. Used with above clip accessory (threading for both must match).</dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B01K3G36WO">Xenvo Shutterbug - Cammera Shutter Remote Control</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B01K3G36WO" target="_blank" rel="noopener">Xenvo Shutterbug - Cammera Shutter Remote Control</a></dt>
                     <dd>Avoid having to tap the smartphone/camera at all. There are much cheaper versions of these available where you can get a set, but of course the quality will suffer. This one does take a second or two 
                         to re-pair with the phone when it hasn't been used for several minutes. Will most likely improve with
                         future models.
                     </dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B07XD497VL">52mm Graduated Color Filters Kit 9 Pieces</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B07XD497VL" target="_blank" rel="noopener">52mm Graduated Color Filters Kit 9 Pieces</a></dt>
                     <dd>I don't use these too often other than with evening or sunset sky shots. Even then, I tend to stick to the red, pink or purple ones. Used with the above clip-on accessory (threading for both must match).</dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B0BP6GG2Z7">NEEWER N55CR Upgraded 80.7" Carbon Fiber Camera Tripod</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B0BP6GG2Z7" target="_blank" rel="noopener">NEEWER N55CR Upgraded 80.7" Carbon Fiber Camera Tripod</a></dt>
                     <dd>Very durable and seems well made though can be a bit heavy to lug around. I only use this for winter hiking night shots given the limited daylight.
                         Has been in all kinds of wet/snowy/freezing conditions and has held up.
                     </dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B0BKL88WND">NEEWER Basics 2 Pack Magnetic Handheld Light Wand</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B0BKL88WND" target="_blank" rel="noopener">NEEWER Basics 2 Pack Magnetic Handheld Light Wand</a></dt>
                     <dd>Excellent little things. Have used a lot during winter night hikes for lighting up
                         ice/snow formations. Sometimes even keep one with me so on dark rainy days in the woods for providing some
                         additional light for underside mushroom shots. These have gotten wet numerous times and I 
@@ -109,7 +122,7 @@
                         make it nice even as a basic reading light.
                     </dd>
 
-                    <dt><a href="https://www.amazon.com/dp/B06X9V866C">Koala Lens Cleaning Cloth (Pack of 6)</a></dt>
+                    <dt><a href="https://www.amazon.com/dp/B06X9V866C" target="_blank" rel="noopener">Koala Lens Cleaning Cloth (Pack of 6)</a></dt>
                     <dd>I keep one of these in my pocket almost always on walks/hikes so can easily clean off
                         the smartphone lenses or accessory lenses on those humid/rainy days. Have only been switching between
                         the same two cloths and just wash after several uses.
@@ -118,6 +131,10 @@
             </section>
         </div>
     </main>
+
+    <footer class="site-footer">
+        <p>Photos &copy; JTrailLens, licensed CC BY-NC. <a href="#about/license">License details &rarr;</a></p>
+    </footer>
 
     <template id='photo-template'>
         <div class='gallery-item'>

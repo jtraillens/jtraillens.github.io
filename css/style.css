@@ -138,6 +138,14 @@ h1 {
     font-weight: 600;
 }
 
+/* Sets a time-based entry (e.g. "Recently Added") apart from the
+   subject/tag collections above it in the same dropdown. */
+.nav-subject-link--separated {
+    margin-top: 6px;
+    padding-top: 10px;
+    border-top: 1px solid rgba(33, 31, 28, 0.12);
+}
+
 .page-content {
     padding: 30px 40px 40px;
 }
@@ -218,11 +226,11 @@ h1 {
 }
 
 #selectedTags {
-    margin: 0 0 1.5rem 0;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     flex-wrap: wrap;
     gap: 0.5rem;
+    margin-left: auto;
 }
 
 #selectedTags:empty {
@@ -232,6 +240,30 @@ h1 {
 #selectedTags strong {
     margin-left: 0.35rem;
     font-weight: normal;
+}
+
+.chip-group {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0.3rem 0.5rem;
+    background-color: #f2f4f2;
+    border: 1px solid #e0e5e0;
+    border-radius: 1rem;
+}
+
+.chip-group-label {
+    font-size: 0.85rem;
+    color: #5a6b5a;
+    font-weight: 600;
+    margin-right: 0.1rem;
+}
+
+#selectedTags span.chip-group-label,
+#selectedTags span.chip-group-label:hover {
+    cursor: default;
+    background-color: transparent;
 }
 
 #selectedTags span {
@@ -249,6 +281,20 @@ h1 {
     background-color: #d8e5d8;
 }
 
+#selectedTags span.date-filter-chip {
+    background-color: #e6ecf7;
+}
+
+#selectedTags span.date-filter-chip:hover {
+    background-color: #d6e0f2;
+}
+
+.date-filter-icon {
+    margin-right: 0.35rem;
+    color: #5a6b8c;
+    flex-shrink: 0;
+}
+
 
 .about-content {
     max-width: 800px;
@@ -260,8 +306,40 @@ h1 {
     margin-bottom: 1rem;
 }
 
+.collection-title {
+    margin: 0;
+}
+
+.gallery-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0 0 1.5rem;
+}
+
 .equipment dt {
     margin-top: 10px;
+}
+
+/* Footer */
+
+.site-footer {
+    padding: 22px 40px;
+    border-top: 1px solid rgba(33, 31, 28, 0.08);
+    text-align: center;
+}
+
+.site-footer p {
+    margin: 0;
+    color: var(--color-ink);
+    opacity: 0.6;
+    font-size: 0.9rem;
+}
+
+.site-footer a {
+    color: inherit;
 }
 
 .gallery {

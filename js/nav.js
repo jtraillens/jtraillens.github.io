@@ -1,11 +1,19 @@
 const Nav = (function() {
 
+    // How far back "Recently Added" looks, in days. May move to 30 once
+    // there's a better sense of how often batches get published.
+    const RECENTLY_ADDED_WINDOW_DAYS = 15;
+
     const SUBJECT_TAGS = [
-        { text: 'Flower Power', url: '#/subjects/flower' },
-        { text: 'Fungus Among Us', url: '#/subjects/fungus' },
-        { text: 'Seeing Double', url: '#/subjects/reflection' },   
-        { text: 'Tendril Loving Care', url: '#/subjects/tendril' },             
-        { text: 'Up Close and Personal', url: '#/subjects/macro' },
+        { text: 'Flower Power', url: '#/gallery?tags=flower' },
+        { text: 'Fungus Among Us', url: '#/gallery?tags=fungus' },
+        { text: 'Seeing Double', url: '#/gallery?tags=reflection' },
+        { text: 'Tendril Loving Care', url: '#/gallery?tags=tendril' },
+        { text: 'Up Close and Personal', url: '#/gallery?tags=macro' },
+        // Time-based rather than subject-based, so it's set apart from the
+        // tag collections above with a divider rather than blending in as
+        // if it were just another theme.
+        { text: 'Recently Added', url: `#/gallery?addedDays=${RECENTLY_ADDED_WINDOW_DAYS}`, separator: true },
     ];
 
     function init() {
@@ -57,7 +65,9 @@ const Nav = (function() {
 
             link.href = subject.url;
             link.textContent = subject.text;
-            link.className = 'nav-subject-link';
+            link.className = subject.separator
+                ? 'nav-subject-link nav-subject-link--separated'
+                : 'nav-subject-link';
             link.dataset.url = subject.url;
 
             // Let the browser navigate the hash normally (fires 'hashchange',
@@ -75,6 +85,12 @@ const Nav = (function() {
         });
     }
 
+    function getActiveLabel() {
+        const hash = window.location.hash || '';
+        const subject = SUBJECT_TAGS.find(subject => subject.url === hash);
+        return subject ? subject.text : null;
+    }
+
     function updateActiveStyles() {
         const hash = window.location.hash || '';
         const isSubjectActive = SUBJECT_TAGS.some(subject => subject.url === hash);
@@ -85,11 +101,16 @@ const Nav = (function() {
 
         document.querySelector('#subjectsTrigger').classList.toggle('active', isSubjectActive);
 
-        document.querySelector('#aboutLink').classList.toggle('active', hash === '#about');
+        document.querySelector('#aboutLink').classList.toggle('active', hash.startsWith('#about'));
         document.querySelector('#galleryLink').classList.toggle(
             'active',
-            hash !== '#about' && !hash.startsWith('#/subjects')
+            !hash.startsWith('#about') && !isSubjectActive
         );
+
+        const label = getActiveLabel();
+        const collectionTitle = document.querySelector('#collectionTitle');
+        collectionTitle.textContent = label || '';
+        collectionTitle.hidden = !label;
     }
 
     function toggleDropdown(dropdown, trigger, panel) {
@@ -129,7 +150,7 @@ const Nav = (function() {
         panel.hidden = true;
     }
 
-    return { init, updateActiveStyles };
+    return { init, updateActiveStyles, getActiveLabel };
 
 })();
 
