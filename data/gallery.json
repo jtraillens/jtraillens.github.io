@@ -1,5 +1,253 @@
 [
   {
+    "fileName": "2026-09-03_18-28-17_430.webp",
+    "dateTaken": "2026-09-03T18:28:17",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Golden Hour, Goldenrod",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "backlit",
+      "flower",
+      "plant",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/79148"
+  },
+  {
+    "fileName": "2026-09-03_18-17-38_271.webp",
+    "dateTaken": "2026-09-03T18:17:38",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Lone Tree Over the Goldenrod Meadow",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "meadow",
+      "tree",
+      "sky",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-09-03_17-19-16_833.webp",
+    "dateTaken": "2026-09-03T17:19:16",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Golden Coral Fungus",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "fungus",
+      "coral fungus",
+      "macro"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/417351"
+  },
+  {
+    "fileName": "2026-09-03_17-06-00_362.webp",
+    "dateTaken": "2026-09-03T17:06:00",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Pale Sunflower Close-Up",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "flower",
+      "macro",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/147976"
+  },
+  {
+    "fileName": "2026-09-03_14-58-47_115.webp",
+    "dateTaken": "2026-09-03T14:58:47",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Broad Beech Fern",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "fern",
+      "overhead",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-09-03_14-34-48_756.webp",
+    "dateTaken": "2026-09-03T14:34:48",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Super Purple Viscid Violet Cort",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/154583"
+  },
+  {
+    "fileName": "2026-09-03_14-13-19_490.webp",
+    "dateTaken": "2026-09-03T14:13:19",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Smoky Spindles",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "fungus",
+      "coral fungus",
+      "macro",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/123127"
+  },
+  {
+    "fileName": "2026-09-02_12-53-52_149.webp",
+    "dateTaken": "2026-09-02T12:53:52",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Turkey Tail Cluster",
+    "caption": "",
+    "locationName": "PA - Tyler Arboretum",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "clustered",
+      "PA - Tyler Arboretum"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/54134"
+  },
+  {
+    "fileName": "2026-09-02_12-39-15_894.webp",
+    "dateTaken": "2026-09-02T12:39:15",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Radiating Pink Stems",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "plant",
+      "sumac"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/54764"
+  },
+  {
+    "fileName": "2026-09-02_12-34-21_947.webp",
+    "dateTaken": "2026-09-02T12:34:21",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Walnut Caterpillar Moth Cluster",
+    "caption": "",
+    "locationName": "PA - Tyler Arboretum",
+    "tags": [
+      "caterpillar",
+      "insect",
+      "macro",
+      "clustered",
+      "moth",
+      "PA - Tyler Arboretum"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/218166"
+  },
+  {
+    "fileName": "2026-09-02_12-30-35_693.webp",
+    "dateTaken": "2026-09-02T12:30:35",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Tulip Tree House",
+    "caption": "",
+    "locationName": "PA - Tyler Arboretum",
+    "tags": [
+      "forest",
+      "treehouse",
+      "PA - Tyler Arboretum"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/53582"
+  },
+  {
+    "fileName": "2026-09-02_12-26-33_587.webp",
+    "dateTaken": "2026-09-02T12:26:33",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Fort Tyler Walkway",
+    "caption": "",
+    "locationName": "PA - Tyler Arboretum",
+    "tags": [
+      "trail",
+      "treehouse",
+      "PA - Tyler Arboretum"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-09-02_12-18-08_612.webp",
+    "dateTaken": "2026-09-02T12:18:08",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Larch Silhouette",
+    "caption": "",
+    "locationName": "PA - Tyler Arboretum",
+    "tags": [
+      "pine",
+      "sky",
+      "silhouette",
+      "PA - Tyler Arboretum"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/135543"
+  },
+  {
+    "fileName": "2026-09-02_12-12-55_216.webp",
+    "dateTaken": "2026-09-02T12:12:55",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Golden Everlasting",
+    "caption": "",
+    "locationName": "PA - Tyler Arboretum",
+    "tags": [
+      "flower",
+      "macro",
+      "PA - Tyler Arboretum"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/147467"
+  },
+  {
+    "fileName": "2026-08-31_18-26-12_318.webp",
+    "dateTaken": "2026-08-31T18:26:12",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Autumn Olive Blossoms",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "flower",
+      "macro",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/64697"
+  },
+  {
+    "fileName": "2026-08-31_17-48-09_332.webp",
+    "dateTaken": "2026-08-31T17:48:09",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Cloud-Streaked Meadow Sunset",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "sunset",
+      "meadow",
+      "sky",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-08-31_17-40-15_924.webp",
     "dateTaken": "2026-08-31T17:40:15",
     "dateAdded": null,
@@ -13,6 +261,83 @@
     ],
     "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/71034"
+  },
+  {
+    "fileName": "2026-08-31_17-34-34_785.webp",
+    "dateTaken": "2026-08-31T17:34:34",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Bush Clover Blossoms",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "flower",
+      "macro",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/164566"
+  },
+  {
+    "fileName": "2026-08-31_17-04-54_688.webp",
+    "dateTaken": "2026-08-31T17:04:54",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Golden Reishi",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "fungus",
+      "macro",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/335051"
+  },
+  {
+    "fileName": "2026-08-31_16-48-54_637.webp",
+    "dateTaken": "2026-08-31T16:48:54",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Tulip Tree Sapling",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "backlit",
+      "translucent",
+      "leaf",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/53582"
+  },
+  {
+    "fileName": "2026-08-31_16-43-19_773.webp",
+    "dateTaken": "2026-08-31T16:43:19",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Katydid Peeking Over the Leaf",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "insect",
+      "macro",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/55957"
+  },
+  {
+    "fileName": "2026-08-30_16-47-22_445.webp",
+    "dateTaken": "2026-08-30T16:47:22",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Boulder-Strewn Forest Creek",
+    "caption": "",
+    "locationName": "PA - Birdsboro Waters",
+    "tags": [
+      "creek",
+      "forest",
+      "moss",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonUrl": null
   },
   {
     "fileName": "2026-08-30_16-33-47_351.webp",
@@ -91,6 +416,21 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/367745"
   },
   {
+    "fileName": "2026-08-29_17-26-27_445.webp",
+    "dateTaken": "2026-08-29T17:26:27",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Forget-Me-Not",
+    "caption": "",
+    "locationName": "PA - Sadsbury Woods Preserve",
+    "tags": [
+      "flower",
+      "macro",
+      "PA - Sadsbury Woods Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": "https://www.inaturalist.org/taxa/49130"
+  },
+  {
     "fileName": "2026-08-29_17-18-08_831.webp",
     "dateTaken": "2026-08-29T17:18:08",
     "dateAdded": null,
@@ -105,6 +445,22 @@
     ],
     "camera": null,
     "taxonUrl": "https://www.inaturalist.org/taxa/82523"
+  },
+  {
+    "fileName": "2026-08-29_16-30-20_272.webp",
+    "dateTaken": "2026-08-29T16:30:20",
+    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
+    "title": "Maple Canopy Skylight",
+    "caption": "",
+    "locationName": "PA - Sadsbury Woods Preserve",
+    "tags": [
+      "forest",
+      "leaf",
+      "overhead",
+      "PA - Sadsbury Woods Preserve"
+    ],
+    "camera": null,
+    "taxonUrl": null
   },
   {
     "fileName": "2026-08-28_12-18-57_934.webp",
