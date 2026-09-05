@@ -26,11 +26,49 @@ h1 {
 /* Top navigation */
 
 .site-nav {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 22px 40px;
     border-bottom: 1px solid rgba(33, 31, 28, 0.08);
+}
+
+/* Hamburger toggle -- hidden on wide screens, see the mobile media query
+   below for where it and the collapsed .nav-links take over. */
+.nav-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 70;
+}
+
+.nav-toggle span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: var(--color-ink);
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.nav-toggle.open span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+
+.nav-toggle.open span:nth-child(2) {
+    opacity: 0;
+}
+
+.nav-toggle.open span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
 }
 
 .nav-wordmark {
@@ -451,6 +489,10 @@ h1 {
     display: inline-flex;
     max-width: 90vw;
     max-height: min(75vh, 900px);
+    /* Claim horizontal drags for the swipe prev/next gesture (see
+       js/lightbox.js) instead of letting the browser interpret them as a
+       scroll/zoom gesture; vertical panning is still left alone. */
+    touch-action: pan-y;
 }
 
 .lightbox-image {
@@ -569,4 +611,170 @@ h1 {
 .lightbox-prev:hover,
 .lightbox-next:hover {
     background: rgba(0, 0, 0, 0.7);
+}
+
+
+/* Responsive */
+
+/* Touch devices (phones, tablets, regardless of screen size) have no
+   hover state, so a caption that only appears on hover would otherwise
+   never show at all -- keep it visible permanently instead. */
+@media (hover: none) {
+    .caption {
+        opacity: 1;
+        background: linear-gradient(
+            transparent,
+            rgba(0, 0, 0, 0.75) 60%
+        );
+    }
+}
+
+@media (max-width: 760px) {
+    .site-nav {
+        padding: 16px 20px;
+    }
+
+    .nav-toggle {
+        display: flex;
+    }
+
+    /* Collapsed by default; .nav-toggle click adds/removes .open
+       (see js/nav.js). Becomes a full-width dropdown panel below the
+       nav bar rather than the desktop inline row. */
+    .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0;
+        padding: 8px 20px 16px;
+        background: var(--color-bg);
+        border-bottom: 1px solid rgba(33, 31, 28, 0.08);
+        box-shadow: 0 8px 24px rgba(33, 31, 28, 0.1);
+        z-index: 60;
+    }
+
+    .nav-links.open {
+        display: flex;
+    }
+
+    .nav-link {
+        width: 100%;
+        padding: 12px 0;
+        border-top: 1px solid rgba(33, 31, 28, 0.08);
+    }
+
+    .nav-links > .nav-link:first-child,
+    .nav-links > .nav-dropdown:first-child .nav-dropdown-trigger {
+        border-top: none;
+    }
+
+    .nav-dropdown {
+        width: 100%;
+    }
+
+    .nav-dropdown-trigger {
+        width: 100%;
+        justify-content: space-between;
+        border-top: 1px solid rgba(33, 31, 28, 0.08);
+    }
+
+    /* In-flow under its trigger instead of floating, so panels stack
+       inside the mobile menu rather than overlapping it. */
+    .nav-dropdown-panel {
+        position: static;
+        width: 100%;
+        margin: 4px 0 8px;
+        padding: 4px;
+        box-shadow: none;
+        border-radius: 4px;
+    }
+
+    .nav-dropdown-panel--tagFilter {
+        min-width: 0;
+    }
+
+    .page-content {
+        padding: 20px 20px 30px;
+    }
+
+    .gallery-header {
+        justify-content: flex-start;
+    }
+
+    #selectedTags {
+        justify-content: flex-start;
+        margin-left: 0;
+    }
+
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 2px;
+    }
+
+    .site-footer {
+        padding: 16px 20px;
+    }
+
+    /* Maximize the image for mobile viewing -- the details block below
+       it is what has to give room, not the photo itself. */
+    .lightbox-image-wrap,
+    .lightbox-image {
+        max-width: 98vw;
+        max-height: 70vh;
+    }
+
+    .lightbox-details {
+        max-width: 98vw;
+        font-size: 0.9rem;
+    }
+
+    .lightbox-title {
+        font-size: 1.15rem;
+    }
+
+    .lightbox-prev,
+    .lightbox-next {
+        font-size: 1.6rem;
+        padding: 10px 12px;
+    }
+
+    .lightbox-close {
+        top: 0.5rem;
+        right: 0.5rem;
+        font-size: 1.4rem;
+        padding: 0.3rem 0.6rem;
+    }
+
+    .lightbox-taxon {
+        top: 8px;
+    }
+
+    .lightbox-taxon a {
+        font-size: 0.8rem;
+        padding: 5px 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .about-content {
+        margin-top: 1rem;
+        line-height: 1.55;
+    }
+
+    .gallery {
+        grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    }
+
+    .lightbox-prev,
+    .lightbox-next {
+        /* Swipe is the primary way to move between photos this small
+           (see js/lightbox.js) -- shrink the buttons so they sit at the
+           edges without covering much of the image. */
+        font-size: 1.3rem;
+        padding: 8px 8px;
+    }
 }

@@ -18,6 +18,39 @@ const Nav = (function() {
 
     function init() {
         const dropdowns = Array.from(document.querySelectorAll('.nav-dropdown'));
+        const navToggle = document.querySelector('#navToggle');
+        const navLinks = document.querySelector('#navLinks');
+
+        function closeAllDropdowns() {
+            dropdowns.forEach(dropdown => closeDropdown(
+                dropdown,
+                dropdown.querySelector('.nav-dropdown-trigger'),
+                dropdown.querySelector('.nav-dropdown-panel')
+            ));
+        }
+
+        // The hamburger menu (mobile only, see CSS) collapses the whole
+        // .nav-links row -- including the Collections/Tag Search dropdowns,
+        // which stack in-flow inside it there rather than floating.
+        function closeMobileMenu() {
+            navLinks.classList.remove('open');
+            navToggle.classList.remove('open');
+            navToggle.setAttribute('aria-expanded', 'false');
+            closeAllDropdowns();
+        }
+
+        navToggle.addEventListener('click', event => {
+            event.stopPropagation();
+
+            const isOpen = navLinks.classList.toggle('open');
+
+            navToggle.classList.toggle('open', isOpen);
+            navToggle.setAttribute('aria-expanded', String(isOpen));
+
+            if (!isOpen) {
+                closeAllDropdowns();
+            }
+        });
 
         dropdowns.forEach(dropdown => {
             const trigger = dropdown.querySelector('.nav-dropdown-trigger');
@@ -32,6 +65,11 @@ const Nav = (function() {
         renderSubjects(document.querySelector('#subjectsPanel'));
         updateActiveStyles();
 
+        // Plain links (About/Gallery) don't go through toggleDropdown, so
+        // they need their own nudge to fold the mobile menu back up.
+        document.querySelector('#aboutLink').addEventListener('click', closeMobileMenu);
+        document.querySelector('#galleryLink').addEventListener('click', closeMobileMenu);
+
         document.addEventListener('click', event => {
             dropdowns.forEach(dropdown => {
                 if (!event.target.closest(`#${dropdown.id}`)) {
@@ -42,19 +80,22 @@ const Nav = (function() {
                     );
                 }
             });
+
+            if (!event.target.closest('.site-nav')) {
+                closeMobileMenu();
+            }
         });
 
         document.addEventListener('keydown', event => {
             if (event.key === 'Escape') {
-                dropdowns.forEach(dropdown => closeDropdown(
-                    dropdown,
-                    dropdown.querySelector('.nav-dropdown-trigger'),
-                    dropdown.querySelector('.nav-dropdown-panel')
-                ));
+                closeMobileMenu();
             }
         });
 
-        window.addEventListener('hashchange', updateActiveStyles);
+        window.addEventListener('hashchange', () => {
+            updateActiveStyles();
+            closeMobileMenu();
+        });
     }
 
     function renderSubjects(panel) {

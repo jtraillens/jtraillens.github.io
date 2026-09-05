@@ -35,8 +35,14 @@ const Lightbox = (function() {
             return;
         }
 
-        const maxWidth = window.innerWidth * 0.9;
-        const maxHeight = Math.min(window.innerHeight * 0.75, 900);
+        // On narrow screens, give the image as much of the viewport as
+        // possible -- there's less room to spare overall, and the
+        // title/caption block below it can scroll if it needs to.
+        const isMobile = window.innerWidth <= 760;
+        const maxWidth = window.innerWidth * (isMobile ? 0.98 : 0.9);
+        const maxHeight = isMobile
+            ? window.innerHeight * 0.7
+            : Math.min(window.innerHeight * 0.75, 900);
         const ratio = naturalWidth / naturalHeight;
 
         let width = maxWidth;
@@ -267,6 +273,47 @@ const Lightbox = (function() {
             close();
         }
     });
+
+    // Touch swipe: left/right moves between photos, down closes -- the
+    // mobile equivalent of the arrow buttons/keys and the backdrop-click
+    // close above. Bound to the image wrap specifically (not the whole
+    // lightbox) so it doesn't fight with scrolling the caption text.
+    const SWIPE_THRESHOLD = 50;
+    let touchStartX = null;
+    let touchStartY = null;
+
+    lightboxImageWrap.addEventListener('touchstart', event => {
+        const touch = event.changedTouches[0];
+        touchStartX = touch.clientX;
+        touchStartY = touch.clientY;
+    }, { passive: true });
+
+    lightboxImageWrap.addEventListener('touchend', event => {
+        if (touchStartX === null) {
+            return;
+        }
+
+        const touch = event.changedTouches[0];
+        const deltaX = touch.clientX - touchStartX;
+        const deltaY = touch.clientY - touchStartY;
+
+        touchStartX = null;
+        touchStartY = null;
+
+        if (Math.abs(deltaX) > Math.abs(deltaY)) {
+            if (Math.abs(deltaX) < SWIPE_THRESHOLD) {
+                return;
+            }
+
+            if (deltaX > 0) {
+                showPrevious();
+            } else {
+                showNext();
+            }
+        } else if (deltaY > SWIPE_THRESHOLD) {
+            close();
+        }
+    }, { passive: true });
 
     return {
         open,

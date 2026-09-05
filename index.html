@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>JTrailLens</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,7 +22,13 @@
             JTrailLens
         </a>
 
-        <div class="nav-links">
+        <button type="button" class="nav-toggle" id="navToggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false" aria-controls="navLinks">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+
+        <div class="nav-links" id="navLinks">
             <a href="#about" class="nav-link" id="aboutLink">About</a>
 
             <a href="#" class="nav-link" id="galleryLink">Gallery</a>
