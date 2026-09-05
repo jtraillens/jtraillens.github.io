@@ -95,7 +95,7 @@ const Lightbox = (function() {
         }
 
         const token = ++loadToken;
-        const fullSrc = `images/${photo.fileName}`;
+        const fullSrc = `photos/${photo.fileName}`;
 
         // Caption/title text is ready instantly, but the full-res image is a
         // fresh network fetch. Show the (tiny, likely already-cached) grid
@@ -123,7 +123,7 @@ const Lightbox = (function() {
             lightboxSpinner.hidden = true;
             lightboxImageWrap.classList.remove('is-loading');
         } else {
-            lightboxImage.src = `thumbs/${photo.fileName}`;
+            lightboxImage.src = `photo-thumbs/${photo.fileName}`;
             lightboxSpinner.hidden = false;
             lightboxImageWrap.classList.add('is-loading');
 
@@ -193,7 +193,7 @@ const Lightbox = (function() {
                 return;
             }
 
-            const src = `images/${neighbor.fileName}`;
+            const src = `photos/${neighbor.fileName}`;
 
             if (fullImageCache.has(src)) {
                 return;

@@ -102,16 +102,19 @@ const Gallery = (function() {
 
     function renderGallery() {
         const gallery = document.querySelector('.gallery');
+        const emptyState = document.querySelector('#galleryEmpty');
         const template = document.querySelector('#photo-template');
 
         gallery.innerHTML = '';
+
+        emptyState.hidden = filteredPhotos.length > 0;
 
         filteredPhotos.forEach((photo, index) => {
             const item = template.content.cloneNode(true);
             const image = item.querySelector('.photo');
             const caption = item.querySelector('.caption');
 
-            image.src = `thumbs/${photo.fileName}`;
+            image.src = `photo-thumbs/${photo.fileName}`;
             image.alt = photo.title;
             image.tabIndex = 0;
             image.setAttribute('role', 'button');
