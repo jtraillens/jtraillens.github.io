@@ -439,7 +439,14 @@ h1 {
     font-size: 0.8rem;
     font-weight: 400;
     opacity: 0;
-    transition: opacity 0.3s ease;    
+    transition: opacity 0.3s ease;
+    /* Purely decorative text overlay -- let clicks/taps pass through to the
+       image underneath instead of being swallowed by the caption, which
+       otherwise blocks opening the lightbox wherever the caption covers
+       the image (worst on mobile, where a long caption can cover most of
+       a short image and the click handler only recognizes clicks/taps
+       that land on .photo, see js/gallery.js). */
+    pointer-events: none;
 }
 
 .gallery-item:hover .caption {
