@@ -16,6 +16,7 @@ const Lightbox = (function() {
     const lightboxCaption = document.querySelector('.lightbox-caption');
     const lightboxDetails = document.querySelector('.lightbox-details');
     const lightboxTaxon = document.querySelector('.lightbox-taxon a');
+    const lightboxTaxonName = document.querySelector('.lightbox-taxon-name');
     const closeButton = document.querySelector('.lightbox-close');
     const previousButton = document.querySelector('.lightbox-prev');
     const nextButton = document.querySelector('.lightbox-next');
@@ -177,12 +178,16 @@ const Lightbox = (function() {
 
         lightboxCaption.textContent = photo.caption ?? "";
 
-        if (photo.taxonUrl) {
+        // taxonUrl is only ever set alongside taxonName (see build_gallery.py) --
+        // older photos with a taxonId but no taxonName (not yet re-tagged in
+        // tagger-net) have no taxonUrl either, so the link stays hidden for them.
+        if (photo.taxonUrl && photo.taxonName) {
             lightboxTaxon.href = photo.taxonUrl;
+            lightboxTaxonName.textContent = photo.taxonName;
             lightboxTaxon.parentElement.hidden = false;
+        } else {
+            lightboxTaxon.parentElement.hidden = true;
         }
-
-        lightboxTaxon.parentElement.hidden = !photo.taxonUrl;
 
         currentIndex = index;
 

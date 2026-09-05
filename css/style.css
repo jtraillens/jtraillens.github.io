@@ -562,19 +562,29 @@ h1 {
 
 .lightbox-taxon {
     position: absolute;
-    top: 16px;
+    top: 0;
     left: 50%;
     transform: translateX(-50%);
     z-index: 1;
 }
 
 .lightbox-taxon a {
-    background: rgba(0, 0, 0, 0.5);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: rgba(0, 0, 0, 0.75);
     color: white;
-    padding: 6px 12px;
-    border-radius: 15px;
+    padding: 9px 13px;
+    border-radius: 0 0 8px 8px;
     text-decoration: none;
-    font-size: 0.85rem;
+    font-size: .9rem;
+}
+
+.lightbox-taxon-icon {
+    width: 16px;
+    height: 16px;
+    fill: #74ac00;
+    flex-shrink: 0;
 }
 
 .lightbox-close {
@@ -747,10 +757,6 @@ h1 {
         right: 0.5rem;
         font-size: 1.4rem;
         padding: 0.3rem 0.6rem;
-    }
-
-    .lightbox-taxon {
-        top: 8px;
     }
 
     .lightbox-taxon a {
