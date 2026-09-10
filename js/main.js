@@ -5,8 +5,11 @@ const Main = (function() {
     }
 
     // Parses the #/gallery?tags=a,b&from=YYYY-MM-DD&to=YYYY-MM-DD
-    // &dateField=taken|added&addedDays=N hash into a filter object for
-    // Gallery.applyFilter(). All params are optional.
+    // &dateField=taken|added&addedDays=N&sort=taken|added&order=asc|desc
+    // hash into a filter object for Gallery.applyFilter(). All params are
+    // optional -- sort/order come back null when absent so Gallery can pick
+    // its own default (e.g. newest-added-first for a Recently Added view)
+    // rather than always falling back to one fixed default.
     function parseGalleryHash(hash) {
         const queryIndex = hash.indexOf('?');
         const query = queryIndex === -1 ? '' : hash.slice(queryIndex + 1);
@@ -21,12 +24,17 @@ const Main = (function() {
             ? Number(addedDaysParam)
             : null;
 
+        const sortParam = params.get('sort');
+        const orderParam = params.get('order');
+
         return {
             tags,
             from: params.get('from') || null,
             to: params.get('to') || null,
             dateField: params.get('dateField') === 'added' ? 'added' : 'taken',
-            addedDays
+            addedDays,
+            sort: sortParam === 'added' || sortParam === 'taken' ? sortParam : null,
+            order: orderParam === 'asc' || orderParam === 'desc' ? orderParam : null
         };
     }
 

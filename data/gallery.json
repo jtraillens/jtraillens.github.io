@@ -247,23 +247,6 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/64697"
   },
   {
-    "fileName": "2026-08-31_17-48-09_332.webp",
-    "dateTaken": "2026-08-31T17:48:09",
-    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
-    "title": "Cloud-Streaked Meadow Sunset",
-    "caption": "",
-    "locationName": "PA - Starr Farm Park",
-    "tags": [
-      "sunset",
-      "meadow",
-      "sky",
-      "PA - Starr Farm Park"
-    ],
-    "camera": null,
-    "taxonName": null,
-    "taxonUrl": null
-  },
-  {
     "fileName": "2026-08-31_17-40-15_924.webp",
     "dateTaken": "2026-08-31T17:40:15",
     "dateAdded": null,
@@ -315,7 +298,7 @@
     "fileName": "2026-08-31_16-48-54_637.webp",
     "dateTaken": "2026-08-31T16:48:54",
     "dateAdded": "2026-09-05T12:51:54.721772+00:00",
-    "title": "Tulip Tree Sapling",
+    "title": "Sycamore Sapling",
     "caption": "",
     "locationName": "PA - Starr Farm Park",
     "tags": [
@@ -325,8 +308,8 @@
       "PA - Starr Farm Park"
     ],
     "camera": null,
-    "taxonName": "American Tuliptree",
-    "taxonUrl": "https://www.inaturalist.org/taxa/53582"
+    "taxonName": "American sycamore",
+    "taxonUrl": "https://www.inaturalist.org/taxa/49662"
   },
   {
     "fileName": "2026-08-31_16-43-19_773.webp",
@@ -2350,6 +2333,22 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/79109"
   },
   {
+    "fileName": "2026-03-29_09-18-06_152.webp",
+    "dateTaken": "2026-03-29T09:18:06",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Lake Chillisquauqe Reflections",
+    "caption": "",
+    "locationName": "PA - Mountour Preserve",
+    "tags": [
+      "lake",
+      "reflection",
+      "PA - Mountour Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-02-07_16-58-14_613.webp",
     "dateTaken": "2026-02-07T16:58:14",
     "dateAdded": null,
@@ -2434,6 +2433,186 @@
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "2025-12-12_19-33-56_896.webp",
+    "dateTaken": "2025-12-12T19:33:56",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Emerald Branches, Starlit Lake",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "night",
+      "reflection",
+      "color filter",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-11-28_11-23-26_464.webp",
+    "dateTaken": "2025-11-28T11:23:26",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Ingleby View Overlook",
+    "caption": "",
+    "locationName": "PA - Bald Eagle State Forest",
+    "tags": [
+      "rock",
+      "vista",
+      "mountain",
+      "PA - Bald Eagle State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-10-20_18-59-20_323.webp",
+    "dateTaken": "2025-10-20T18:59:20",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Scallop Shell Collection",
+    "caption": "",
+    "locationName": "DE - Cape Henlopen State Park",
+    "tags": [
+      "shell",
+      "DE - Cape Henlopen State Park"
+    ],
+    "camera": null,
+    "taxonName": "Atlantic Bay Scallop",
+    "taxonUrl": "https://www.inaturalist.org/taxa/122039"
+  },
+  {
+    "fileName": "2025-09-14_12-29-21_806.webp",
+    "dateTaken": "2025-09-14T12:29:21",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Steel Truss Bridge over Susquehanna River",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "river",
+      "reflection",
+      "kayak"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-09-13_14-12-21_082.webp",
+    "dateTaken": "2025-09-13T14:12:21",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Cloud Reflections on the Dry Susquehanna Riverbed",
+    "caption": "",
+    "locationName": "PA - Vosburg Neck State Park",
+    "tags": [
+      "river",
+      "reflection",
+      "PA - Vosburg Neck State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-08-15_14-26-01_554.webp",
+    "dateTaken": "2025-08-15T14:26:01",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Stone Pillar at Chimney Rocks Park",
+    "caption": "",
+    "locationName": "PA - Chimney Rocks Park",
+    "tags": [
+      "rock",
+      "vista",
+      "mountain",
+      "PA - Chimney Rocks Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-08-02_16-57-18_232.webp",
+    "dateTaken": "2025-08-02T16:57:18",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Watersnake on the Boardwalk",
+    "caption": "",
+    "locationName": "PA - Myrick Conservation Center",
+    "tags": [
+      "snake",
+      "reptile",
+      "PA - Myrick Conservation Center"
+    ],
+    "camera": null,
+    "taxonName": "Common Watersnake",
+    "taxonUrl": "https://www.inaturalist.org/taxa/29305"
+  },
+  {
+    "fileName": "2025-07-19_15-48-39_454.webp",
+    "dateTaken": "2025-07-19T15:48:39",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Garter Snake Preparing for Strike",
+    "caption": "",
+    "locationName": "PA - Binky Lee Preserve",
+    "tags": [
+      "snake",
+      "reptile",
+      "PA - Binky Lee Preserve"
+    ],
+    "camera": null,
+    "taxonName": "Common Garter Snake",
+    "taxonUrl": "https://www.inaturalist.org/taxa/28362"
+  },
+  {
+    "fileName": "2025-07-06_08-02-55_104.webp",
+    "dateTaken": "2025-07-06T08:02:55",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Morning Fog Over the River Valley",
+    "caption": "",
+    "locationName": "WV - Snake Hill Wildlife Management Area",
+    "tags": [
+      "forest",
+      "vista",
+      "fog",
+      "river",
+      "WV - Snake Hill Wildlife Management Area"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-07-05_15-08-21_994.webp",
+    "dateTaken": "2025-07-05T15:08:21",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Eastern Ratsnake Coil",
+    "caption": "",
+    "locationName": "WV - Toms Run Preserve",
+    "tags": [
+      "snake",
+      "reptile",
+      "WV - Toms Run Preserve"
+    ],
+    "camera": null,
+    "taxonName": "Eastern Ratsnake",
+    "taxonUrl": "https://www.inaturalist.org/taxa/1660911"
+  },
+  {
+    "fileName": "2025-04-14_14-08-16_092.webp",
+    "dateTaken": "2025-04-14T14:08:16",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Big Watersnake in the Leaf Litter",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "snake",
+      "reptile",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": "Common Watersnake",
+    "taxonUrl": "https://www.inaturalist.org/taxa/29305"
   },
   {
     "fileName": "2025-02-19_21-02-49_483.webp",
@@ -2572,6 +2751,23 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2024-03-16_11-45-34_660.webp",
+    "dateTaken": "2024-03-16T11:45:34",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Mt Minsi Watching Over Mt Tammany",
+    "caption": "",
+    "locationName": "PA - Delaware Water Gap National Recreation Area",
+    "tags": [
+      "rock",
+      "mountain",
+      "vista",
+      "PA - Delaware Water Gap National Recreation Area"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2024-01-01_13-55-37_346.webp",
     "dateTaken": "2024-01-01T13:55:37",
     "dateAdded": null,
@@ -2617,24 +2813,6 @@
       "vista",
       "fog",
       "PA - Hamburg Reservoir"
-    ],
-    "camera": null,
-    "taxonName": null,
-    "taxonUrl": null
-  },
-  {
-    "fileName": "2023-12-25_12-39-12_623.webp",
-    "dateTaken": "2023-12-25T12:39:12",
-    "dateAdded": null,
-    "title": "Jeff's Swamp",
-    "caption": "",
-    "locationName": "PA - State Game Lands 211",
-    "tags": [
-      "swamp",
-      "wetland",
-      "game land",
-      "reflection",
-      "PA - State Game Lands 211"
     ],
     "camera": null,
     "taxonName": null,
@@ -3024,6 +3202,57 @@
       "trail",
       "fog",
       "PA - Tioga State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2022-12-30_09-04-05_847.webp",
+    "dateTaken": "2022-12-30T09:04:06",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Tussey Knob Vista",
+    "caption": "",
+    "locationName": "PA - Rothrock State Forest",
+    "tags": [
+      "snow",
+      "vista",
+      "mountain",
+      "PA - Rothrock State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2022-12-28_13-29-52_623.webp",
+    "dateTaken": "2022-12-28T13:29:53",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "View of Jacks Narrows at Thousand Steps",
+    "caption": "",
+    "locationName": "PA - State Game Lands 112",
+    "tags": [
+      "snow",
+      "mountain",
+      "vista",
+      "PA - State Game Lands 112"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2021-07-10_08-36-44_785.webp",
+    "dateTaken": "2021-07-10T08:36:45",
+    "dateAdded": "2026-09-10T11:45:46.018242+00:00",
+    "title": "Tiadaghton Trail Vista over Ramsey",
+    "caption": "",
+    "locationName": "PA - Tiadaghton State Forest",
+    "tags": [
+      "forest",
+      "mountain",
+      "vista",
+      "PA - Tiadaghton State Forest"
     ],
     "camera": null,
     "taxonName": null,

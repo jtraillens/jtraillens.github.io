@@ -263,16 +263,49 @@ h1 {
     display: none;
 }
 
-#selectedTags {
+#galleryControls {
     display: flex;
-    justify-content: flex-end;
-    flex-wrap: wrap;
-    gap: 0.5rem;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.6rem;
     margin-left: auto;
 }
 
-#selectedTags:empty {
-    display: none;
+.controls-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+}
+
+.sort-control {
+    font-size: 0.85rem;
+    color: #5a6b5a;
+    font-weight: 600;
+}
+
+#sortSelect {
+    padding: 0.3rem 0.5rem;
+    font: inherit;
+    font-size: 0.85rem;
+    font-weight: normal;
+    color: var(--color-ink);
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: white;
+}
+
+#photoCount {
+    font-size: 0.85rem;
+    color: #5a6b5a;
+}
+
+#selectedTags {
+    /* Not a box of its own -- its chip-group children become flex items of
+       .controls-row directly, so they wrap and align alongside the sort
+       pill instead of as a separate right-aligned cluster. */
+    display: contents;
 }
 
 #selectedTags strong {
@@ -722,9 +755,14 @@ h1 {
         justify-content: flex-start;
     }
 
-    #selectedTags {
-        justify-content: flex-start;
+    #galleryControls {
+        align-items: flex-start;
         margin-left: 0;
+        width: 100%;
+    }
+
+    .controls-row {
+        justify-content: flex-start;
     }
 
     .gallery {

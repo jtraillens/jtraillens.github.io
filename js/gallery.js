@@ -14,6 +14,20 @@ const Gallery = (function() {
     let dateField = 'taken';   // 'taken' | 'added'
     let addedDays = null;      // rolling-window shorthand, or null
 
+    // Sort state, driven by #sortSelect and mirrored into the ?sort=&order=
+    // hash params. Whenever a route doesn't specify sort/order explicitly,
+    // defaultSort() picks one based on the rest of the filter -- e.g. an
+    // addedDays view (Collections > Recently Added) defaults to newest-added
+    // first rather than the gallery's normal newest-taken-first order.
+    let sortField = 'taken';   // 'taken' | 'added'
+    let sortOrder = 'desc';    // 'asc' | 'desc'
+
+    function defaultSort() {
+        return addedDays !== null
+            ? { field: 'added', order: 'desc' }
+            : { field: 'taken', order: 'desc' };
+    }
+
     async function loadGallery() {
         const [galleryResponse, tagsResponse] = await Promise.all([
             fetch('data/gallery.json'),
@@ -28,6 +42,7 @@ const Gallery = (function() {
         filteredPhotos = photos;
 
         initializeTagFilter();
+        initializeSortControl();
         renderGallery();
 
         const gallery = document.querySelector('.gallery');
@@ -109,6 +124,8 @@ const Gallery = (function() {
 
         emptyState.hidden = filteredPhotos.length > 0;
 
+        renderPhotoCount();
+
         filteredPhotos.forEach((photo, index) => {
             const item = template.content.cloneNode(true);
             const image = item.querySelector('.photo');
@@ -128,6 +145,40 @@ const Gallery = (function() {
         });
     }
 
+    // Shows a plain total when nothing is filtered out, or a "# / # total"
+    // ratio once the filtered list is a strict subset of all photos.
+    function renderPhotoCount() {
+        const el = document.querySelector('#photoCount');
+        const total = photos.length;
+        const shown = filteredPhotos.length;
+
+        el.textContent = shown === total
+            ? `${total} photo${total === 1 ? '' : 's'}`
+            : `${shown} / ${total} photos`;
+    }
+
+
+    function initializeSortControl() {
+        const select = document.querySelector('#sortSelect');
+
+        select.addEventListener('change', () => {
+            const [field, order] = select.value.split('-');
+
+            sortField = field === 'added' ? 'added' : 'taken';
+            sortOrder = order === 'asc' ? 'asc' : 'desc';
+
+            refilterAndRender();
+        });
+    }
+
+    // Reflects the current sortField/sortOrder in the <select> -- called
+    // whenever they're (re)computed from the hash, so the control stays in
+    // sync when navigating between routes (e.g. Collections links) rather
+    // than only when the user changes it directly.
+    function syncSortControl() {
+        const select = document.querySelector('#sortSelect');
+        select.value = `${sortField}-${sortOrder}`;
+    }
 
     function initializeTagFilter() {
         const input = document.querySelector('#tagInput');
@@ -222,15 +273,39 @@ const Gallery = (function() {
         dateField = filters.dateField === 'added' ? 'added' : 'taken';
         addedDays = filters.addedDays ?? null;
 
+        // addedDays affects defaultSort(), so it must be set (just above)
+        // before falling back to it here.
+        const fallback = defaultSort();
+        sortField = filters.sort ?? fallback.field;
+        sortOrder = filters.order ?? fallback.order;
+
         refilterAndRender();
     }
 
     function refilterAndRender() {
-        filteredPhotos = photos.filter(matchesFilters);
+        filteredPhotos = sortPhotos(photos.filter(matchesFilters));
 
+        syncSortControl();
         renderSelectedTags();
         renderGallery();
         updateHash();
+    }
+
+    function sortPhotos(list) {
+        const field = sortField === 'added' ? 'dateAdded' : 'dateTaken';
+        const direction = sortOrder === 'asc' ? 1 : -1;
+
+        // .slice() first since Array.sort() mutates in place -- the caller's
+        // array (here, the freshly-filtered list) shouldn't be assumed safe
+        // to sort destructively.
+        return list.slice().sort((a, b) => {
+            const dateA = a[field] || '';
+            const dateB = b[field] || '';
+
+            if (dateA < dateB) return -1 * direction;
+            if (dateA > dateB) return 1 * direction;
+            return 0;
+        });
     }
 
     function matchesFilters(photo) {
@@ -435,6 +510,16 @@ const Gallery = (function() {
         }
         if (addedDays !== null) {
             params.set('addedDays', String(addedDays));
+        }
+
+        // Only serialize sort/order when they differ from what this view
+        // would default to -- keeps plain URLs (and the Collections nav
+        // links, which match against these hashes exactly) uncluttered when
+        // the user hasn't overridden the default sort.
+        const fallback = defaultSort();
+        if (sortField !== fallback.field || sortOrder !== fallback.order) {
+            params.set('sort', sortField);
+            params.set('order', sortOrder);
         }
 
         const query = params.toString();

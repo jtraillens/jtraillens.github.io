@@ -66,7 +66,23 @@
             <div class="gallery-header">
                 <h1 id="collectionTitle" class="collection-title" hidden></h1>
 
-                <div id="selectedTags"></div>
+                <div id="galleryControls">
+                    <div class="controls-row">
+                        <label class="sort-control chip-group" for="sortSelect">
+                            Sort by
+                            <select id="sortSelect">
+                                <option value="taken-desc">Date Taken (Newest)</option>
+                                <option value="taken-asc">Date Taken (Oldest)</option>
+                                <option value="added-desc">Date Added (Newest)</option>
+                                <option value="added-asc">Date Added (Oldest)</option>
+                            </select>
+                        </label>
+
+                        <div id="selectedTags"></div>
+                    </div>
+
+                    <div id="photoCount"></div>
+                </div>
             </div>
 
             <div class="gallery">
