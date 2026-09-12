@@ -1181,6 +1181,23 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/47165"
   },
   {
+    "fileName": "2026-08-09_11-51-32_383.webp",
+    "dateTaken": "2026-08-09T11:51:32",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Troll-ish Rock Face",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "rock",
+      "trail",
+      "pareidolia",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-08-09_11-40-37_417.webp",
     "dateTaken": "2026-08-09T11:40:37",
     "dateAdded": null,
@@ -1707,6 +1724,22 @@
     "camera": null,
     "taxonName": "Pickerelweed",
     "taxonUrl": "https://www.inaturalist.org/taxa/52599"
+  },
+  {
+    "fileName": "2026-08-01_18-17-42_568.webp",
+    "dateTaken": "2026-08-01T18:17:42",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Triangular Boulder's Pointed Chin",
+    "caption": "",
+    "locationName": "PA - Monocacy Hill Recreation Area",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - Monocacy Hill Recreation Area"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
   },
   {
     "fileName": "2026-08-01_17-58-46_005.webp",
@@ -2350,6 +2383,69 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/79109"
   },
   {
+    "fileName": "2026-06-20_07-44-10_021.webp",
+    "dateTaken": "2026-06-20T07:44:10",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Sandstone's Shallow Eroded Stare",
+    "caption": "",
+    "locationName": "OH - Wayne National Forest",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "OH - Wayne National Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-06-19_10-08-56_502.webp",
+    "dateTaken": "2026-06-19T10:08:56",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Smirky Boulder",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "rock",
+      "fern",
+      "pareidolia"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-05-07_19-03-22_095.webp",
+    "dateTaken": "2026-05-07T19:03:22",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Hanging Stump Face",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "wood",
+      "pareidolia",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-04-05_12-06-45_123.webp",
+    "dateTaken": "2026-04-05T12:06:45",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Wet Rock's Claw-Marked Face",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "rock",
+      "pareidolia"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-03-29_09-18-06_152.webp",
     "dateTaken": "2026-03-29T09:18:06",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -2360,6 +2456,38 @@
       "lake",
       "reflection",
       "PA - Mountour Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-03-21_11-42-48_774.webp",
+    "dateTaken": "2026-03-21T11:42:48",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Swirly Screwy Smile",
+    "caption": "",
+    "locationName": "PA - Powdermill Nature Reserve",
+    "tags": [
+      "wood",
+      "pareidolia",
+      "PA - Powdermill Nature Reserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-03-21_08-34-56_957.webp",
+    "dateTaken": "2026-03-21T08:34:56",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Swirling Stone Carved Like a Face",
+    "caption": "",
+    "locationName": "PA - Forbes State Forest",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "PA - Forbes State Forest"
     ],
     "camera": null,
     "taxonName": null,
@@ -2402,6 +2530,39 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2026-01-24_12-44-47_940.webp",
+    "dateTaken": "2026-01-24T12:44:47",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Rock Face with Snowy Eyes",
+    "caption": "",
+    "locationName": "PA - Springton Manor Farm",
+    "tags": [
+      "rock",
+      "snow",
+      "pareidolia",
+      "PA - Springton Manor Farm"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-22_17-49-44_106.webp",
+    "dateTaken": "2026-01-22T17:49:44",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Grumpy Snow Face at Dusk",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "snow",
+      "pareidolia",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-01-19_11-48-29_628.webp",
     "dateTaken": "2026-01-19T11:48:29",
     "dateAdded": null,
@@ -2419,6 +2580,88 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2026-01-17_09-21-42_226.webp",
+    "dateTaken": "2026-01-17T09:21:42",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Parasaurolophus Tree",
+    "caption": "",
+    "locationName": "MD - Calvert Cliffs State Park",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "MD - Calvert Cliffs State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-03_14-39-00_728.webp",
+    "dateTaken": "2026-01-03T14:39:00",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Boulder Slouching Against the Trees",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "rock",
+      "snow",
+      "pareidolia"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-03_11-25-16_271.webp",
+    "dateTaken": "2026-01-03T11:25:16",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Pine Tree's Crying Sap Tracks",
+    "caption": "",
+    "locationName": "PA - State Game Lands 53",
+    "tags": [
+      "pine",
+      "pareidolia",
+      "PA - State Game Lands 53"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-02_14-02-08_797.webp",
+    "dateTaken": "2026-01-02T14:02:08",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Mr. Moss Nose",
+    "caption": "",
+    "locationName": "PA - Tuscarora State Forest",
+    "tags": [
+      "rock",
+      "snow",
+      "moss",
+      "pareidolia",
+      "PA - Tuscarora State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-01_14-09-10_558.webp",
+    "dateTaken": "2026-01-01T14:09:10",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Melting Wax Face in the Birch Bark",
+    "caption": "",
+    "locationName": "PA - State Game Lands 211",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "PA - State Game Lands 211"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-12-31_17-46-25_394.webp",
     "dateTaken": "2025-12-31T17:46:25",
     "dateAdded": null,
@@ -2429,6 +2672,22 @@
       "rock",
       "ice",
       "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-12-26_14-43-37_934.webp",
+    "dateTaken": "2025-12-26T14:43:37",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Bare Winter Trunk's Two Round Eyes",
+    "caption": "",
+    "locationName": "PA - Binky Lee Preserve",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "PA - Binky Lee Preserve"
     ],
     "camera": null,
     "taxonName": null,
@@ -2452,6 +2711,21 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-12-13_13-54-21_604.webp",
+    "dateTaken": "2025-12-13T13:54:21",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Scared Lichen Rock",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "rock",
+      "pareidolia"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-12-12_19-33-56_896.webp",
     "dateTaken": "2025-12-12T19:33:56",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -2463,6 +2737,22 @@
       "reflection",
       "color filter",
       "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-12-07_15-04-56_432.webp",
+    "dateTaken": "2025-12-07T15:04:56",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Caveman Rock",
+    "caption": "",
+    "locationName": "PA - State Game Lands 43",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - State Game Lands 43"
     ],
     "camera": null,
     "taxonName": null,
@@ -2486,6 +2776,87 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-11-27_13-56-28_245.webp",
+    "dateTaken": "2025-11-27T13:56:28",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Triangular Rock's Shark-Eyed Stare",
+    "caption": "",
+    "locationName": "PA - Rothrock State Forest",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - Rothrock State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-11-26_10-16-00_525.webp",
+    "dateTaken": "2025-11-26T10:16:00",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Glossy Oak Leaf Smile",
+    "caption": "",
+    "locationName": "PA - Moshannon State Forest",
+    "tags": [
+      "leaf",
+      "fall",
+      "pareidolia",
+      "PA - Moshannon State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-11-15_08-06-39_343.webp",
+    "dateTaken": "2025-11-15T08:06:39",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Weathered Plank's Three-Knot Face",
+    "caption": "",
+    "locationName": "PA - Mount Nittany",
+    "tags": [
+      "wood",
+      "pareidolia",
+      "PA - Mount Nittany"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-11-01_10-04-48_836.webp",
+    "dateTaken": "2025-11-01T10:04:48",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Lichen Boulder's Crescent Smile",
+    "caption": "",
+    "locationName": "MD - Sugarloaf Mountain",
+    "tags": [
+      "rock",
+      "fall",
+      "pareidolia",
+      "MD - Sugarloaf Mountain"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-10-27_17-30-57_100.webp",
+    "dateTaken": "2025-10-27T17:30:57",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Dirt Bank's Burrow-Eyed Face",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "pareidolia",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-10-20_18-59-20_323.webp",
     "dateTaken": "2025-10-20T18:59:20",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -2499,6 +2870,40 @@
     "camera": null,
     "taxonName": "Atlantic Bay Scallop",
     "taxonUrl": "https://www.inaturalist.org/taxa/122039"
+  },
+  {
+    "fileName": "2025-10-12_09-49-14_087.webp",
+    "dateTaken": "2025-10-12T09:49:14",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Tree Trunk's Two Dark Eyes on the Trail",
+    "caption": "",
+    "locationName": "PA - Zindel Park",
+    "tags": [
+      "tree",
+      "trail",
+      "fall",
+      "pareidolia",
+      "PA - Zindel Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-09-16_18-04-37_056.webp",
+    "dateTaken": "2025-09-16T18:04:37",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Knobby Burl Face on the Log",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "wood",
+      "pareidolia",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
   },
   {
     "fileName": "2025-09-14_12-29-21_806.webp",
@@ -2527,6 +2932,39 @@
       "river",
       "reflection",
       "PA - Vosburg Neck State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-09-08_18-31-50_256.webp",
+    "dateTaken": "2025-09-08T18:31:50",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Sleepy Leaf",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "wood",
+      "moss",
+      "pareidolia",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-09-07_13-59-39_870.webp",
+    "dateTaken": "2025-09-07T13:59:39",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Wood Grain Face",
+    "caption": "",
+    "locationName": "PA - Evansburg State Park",
+    "tags": [
+      "wood",
+      "pareidolia",
+      "PA - Evansburg State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -2582,6 +3020,56 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/28362"
   },
   {
+    "fileName": "2025-07-15_09-27-56_343.webp",
+    "dateTaken": "2025-07-15T09:27:56",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Fern-Topped Ledge with a Dark Grin",
+    "caption": "",
+    "locationName": "PA - Clear Creek State Forest",
+    "tags": [
+      "rock",
+      "fern",
+      "pareidolia",
+      "PA - Clear Creek State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-07-06_08-48-41_322.webp",
+    "dateTaken": "2025-07-06T08:48:41",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Cliff Wall Full of Watching Eyes",
+    "caption": "",
+    "locationName": "WV - Snake Hill Wildlife Management Area",
+    "tags": [
+      "rock",
+      "cliff",
+      "pareidolia",
+      "WV - Snake Hill Wildlife Management Area"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-07-06_08-04-41_003.webp",
+    "dateTaken": "2025-07-06T08:04:41",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Worried Face on the Wet Stone",
+    "caption": "",
+    "locationName": "WV - Snake Hill Wildlife Management Area",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "WV - Snake Hill Wildlife Management Area"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-07-06_08-02-55_104.webp",
     "dateTaken": "2025-07-06T08:02:55",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -2616,6 +3104,103 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/1660911"
   },
   {
+    "fileName": "2025-06-11_19-06-26_587.webp",
+    "dateTaken": "2025-06-11T19:06:26",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Two-Spot Lichen Face on the Rock",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-06-04_19-02-24_685.webp",
+    "dateTaken": "2025-06-04T19:02:24",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Alien in the Creek",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "rock",
+      "stream",
+      "pareidolia",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-05-20_19-18-55_659.webp",
+    "dateTaken": "2025-05-20T19:18:55",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Owl-Eyed Tree Trunk by the Lake",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-04-27_10-52-24_613.webp",
+    "dateTaken": "2025-04-27T10:52:24",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Fallen Log's Surprised Expression",
+    "caption": "",
+    "locationName": "PA - William H. Kain County Park",
+    "tags": [
+      "wood",
+      "pareidolia",
+      "PA - William H. Kain County Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-04-20_09-28-21_909.webp",
+    "dateTaken": "2025-04-20T09:28:21",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Angled Rock Face",
+    "caption": "",
+    "locationName": "NJ - Elizabeth D. Kay Environmental Center",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "NJ - Elizabeth D. Kay Environmental Center"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-04-19_16-09-35_512.webp",
+    "dateTaken": "2025-04-19T16:09:35",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Boulder with a Cracked Grin",
+    "caption": "",
+    "locationName": "NY - Black Rock Forest",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "NY - Black Rock Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-04-14_14-08-16_092.webp",
     "dateTaken": "2025-04-14T14:08:16",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -2630,6 +3215,102 @@
     "camera": null,
     "taxonName": "Common Watersnake",
     "taxonUrl": "https://www.inaturalist.org/taxa/29305"
+  },
+  {
+    "fileName": "2025-04-05_09-10-34_481.webp",
+    "dateTaken": "2025-04-05T09:10:34",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Wide-Eyed Snag by the Trail",
+    "caption": "",
+    "locationName": "PA - Michaux State Forest",
+    "tags": [
+      "tree",
+      "trail",
+      "pareidolia",
+      "PA - Michaux State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-03-30_13-10-26_066.webp",
+    "dateTaken": "2025-03-30T13:10:26",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Crazy or Unhappy Rock?",
+    "caption": "",
+    "locationName": "PA - Hibernia County Park",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - Hibernia County Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-03-22_10-58-15_951.webp",
+    "dateTaken": "2025-03-22T10:58:15",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Boulder with a Subtle Snout",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "rock",
+      "pareidolia"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-03-01_12-12-41_909.webp",
+    "dateTaken": "2025-03-01T12:12:41",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Birch Bark's Torn-Paper Face",
+    "caption": "",
+    "locationName": "PA - Bald Eagle State Forest",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "PA - Bald Eagle State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-02-28_17-25-45_555.webp",
+    "dateTaken": "2025-02-28T17:25:45",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Bark Face Squinting at the Sky",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-02-28_17-25-35_311.webp",
+    "dateTaken": "2025-02-28T17:25:35",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Bark Knot with a Raised Eyebrow",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
   },
   {
     "fileName": "2025-02-19_21-02-49_483.webp",
@@ -2677,6 +3358,23 @@
       "backlit",
       "night",
       "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-01-20_16-42-13_533.webp",
+    "dateTaken": "2025-01-20T16:42:13",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Snowy Bark Mask by the Creek",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "tree",
+      "snow",
+      "pareidolia",
+      "PA - Starr Farm Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -2768,6 +3466,103 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2024-11-01_13-02-46_003.webp",
+    "dateTaken": "2024-11-01T13:02:46",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Boulder Sadness",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "rock",
+      "pareidolia"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-10-03_16-34-34_862.webp",
+    "dateTaken": "2024-10-03T16:34:34",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Gorilla Tree",
+    "caption": "",
+    "locationName": "PA - Stroud Preserve",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - Stroud Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-09-14_16-55-59_645.webp",
+    "dateTaken": "2024-09-14T16:55:59",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Big Nose Tree Face",
+    "caption": "",
+    "locationName": "NJ - Watchung Reservation",
+    "tags": [
+      "tree",
+      "pareidolia",
+      "NJ - Watchung Reservation"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-08-25_10-36-33_189.webp",
+    "dateTaken": "2024-08-25T10:36:33",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Rock's Simple Little Smile",
+    "caption": "",
+    "locationName": "MD - Savage River State Forest",
+    "tags": [
+      "rock",
+      "moss",
+      "pareidolia",
+      "MD - Savage River State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-08-08_17-35-02_072.webp",
+    "dateTaken": "2024-08-08T17:35:02",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Fishy Grin Leaf",
+    "caption": "",
+    "locationName": "PA - State Game Lands 110",
+    "tags": [
+      "leaf",
+      "pareidolia",
+      "PA - State Game Lands 110"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-06-09_12-40-58_840.webp",
+    "dateTaken": "2024-06-09T12:40:58",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Stream Stone Face",
+    "caption": "",
+    "locationName": "PA - State Game Lands 13",
+    "tags": [
+      "rock",
+      "stream",
+      "pareidolia",
+      "PA - State Game Lands 13"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2024-03-16_11-45-34_660.webp",
     "dateTaken": "2024-03-16T11:45:34",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -2785,6 +3580,39 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2024-01-27_15-27-12_084.webp",
+    "dateTaken": "2024-01-27T15:27:12",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Baby Bird Chestnut Husk",
+    "caption": "",
+    "locationName": "PA - State Game Lands 205",
+    "tags": [
+      "seed head",
+      "pareidolia",
+      "PA - State Game Lands 205"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-01-17_15-17-05_888.webp",
+    "dateTaken": "2024-01-17T15:17:05",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Hatching a Plan",
+    "caption": "",
+    "locationName": "MD - Palmer State Park",
+    "tags": [
+      "rock",
+      "snow",
+      "pareidolia",
+      "MD - Palmer State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2024-01-01_13-55-37_346.webp",
     "dateTaken": "2024-01-01T13:55:37",
     "dateAdded": null,
@@ -2793,6 +3621,22 @@
     "locationName": "PA - Hamburg Reservoir",
     "tags": [
       "moss",
+      "pareidolia",
+      "PA - Hamburg Reservoir"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-01-01_13-30-23_634.webp",
+    "dateTaken": "2024-01-01T13:30:23",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Hollow Tree's Haunted Stare",
+    "caption": "",
+    "locationName": "PA - Hamburg Reservoir",
+    "tags": [
+      "tree",
       "pareidolia",
       "PA - Hamburg Reservoir"
     ],
@@ -2986,6 +3830,23 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2023-10-28_11-56-44_162.webp",
+    "dateTaken": "2023-10-28T11:56:44",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Dog Praying to the Sky",
+    "caption": "",
+    "locationName": "PA - Michaux State Forest",
+    "tags": [
+      "rock",
+      "fall",
+      "pareidolia",
+      "PA - Michaux State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2023-10-28_08-41-52_729.webp",
     "dateTaken": "2023-10-28T08:41:52",
     "dateAdded": null,
@@ -3081,6 +3942,23 @@
       "island",
       "archipelago",
       "kayak",
+      "PA - Holtwood"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-10-01_15-02-17_960.webp",
+    "dateTaken": "2023-10-01T15:02:17",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Stay Puft Marshmallow Rock Man",
+    "caption": "",
+    "locationName": "PA - Holtwood",
+    "tags": [
+      "rock",
+      "portal",
+      "pareidolia",
       "PA - Holtwood"
     ],
     "camera": null,
@@ -3225,6 +4103,39 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2023-07-03_11-50-21_340.webp",
+    "dateTaken": "2023-07-03T11:50:21",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Mossy Log Creature at Rest",
+    "caption": "",
+    "locationName": "PA - State Game Lands 157",
+    "tags": [
+      "moss",
+      "pareidolia",
+      "PA - State Game Lands 157"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-05-13_15-54-05_980.webp",
+    "dateTaken": "2023-05-13T15:54:05",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Moai Boulder Guarding the Trail",
+    "caption": "",
+    "locationName": "PA - Cove Mountain Preserve",
+    "tags": [
+      "rock",
+      "trail",
+      "pareidolia",
+      "PA - Cove Mountain Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2022-12-30_09-04-05_847.webp",
     "dateTaken": "2022-12-30T09:04:06",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -3259,6 +4170,40 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2022-05-14_11-42-41_264.webp",
+    "dateTaken": "2022-05-14T11:42:41",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Smiley Cliff",
+    "caption": "",
+    "locationName": "PA - Elk State Forest",
+    "tags": [
+      "rock",
+      "cliff",
+      "pareidolia",
+      "PA - Elk State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2021-10-10_08-31-07_444.webp",
+    "dateTaken": "2021-10-10T08:31:08",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Grumpy Stone Giant on the Ridge",
+    "caption": "",
+    "locationName": "PA - Rothrock State Forest",
+    "tags": [
+      "rock",
+      "fall",
+      "pareidolia",
+      "PA - Rothrock State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2021-07-10_08-36-44_785.webp",
     "dateTaken": "2021-07-10T08:36:45",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -3270,6 +4215,22 @@
       "mountain",
       "vista",
       "PA - Tiadaghton State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2019-08-03_11-48-39_353.webp",
+    "dateTaken": "2019-08-03T11:48:39",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Smirky Skull Boulder",
+    "caption": "",
+    "locationName": "PA - Loyalsock State Forest",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - Loyalsock State Forest"
     ],
     "camera": null,
     "taxonName": null,

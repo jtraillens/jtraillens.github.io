@@ -189,9 +189,83 @@ h1 {
 }
 
 
-.nav-dropdown-panel--tagFilter {
-    min-width: 220px;
+/* Filter pills (Tags, Date Range) and their popovers -- the pill itself is
+   a .chip-group like the sort control, always sitting in .controls-row; the
+   popover floats below it, matching the look of .nav-dropdown-panel without
+   sharing its class (these aren't part of the nav, and the Date Range one
+   is created/destroyed per render rather than wired up once at load). */
+.filter-control {
+    position: relative;
+}
+
+.chip-icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    background: none;
+    border: none;
+    border-radius: 50%;
+    color: #5a6b5a;
+    cursor: pointer;
+}
+
+.chip-icon-btn:hover {
+    background-color: rgba(33, 31, 28, 0.08);
+    color: var(--color-ink);
+}
+
+/* .chip-icon-btn's own `display` would otherwise outrank the UA [hidden]
+   rule (author styles beat user-agent ones regardless of specificity), so
+   clearTagsBtn's `hidden` attribute needs an explicit author-side rule to
+   actually hide it between tag selections. */
+#clearTagsBtn[hidden] {
+    display: none;
+}
+
+.filter-popover {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
     padding: 10px;
+    background: #ffffff;
+    border: 1px solid rgba(33, 31, 28, 0.12);
+    border-radius: 6px;
+    box-shadow: 0 8px 24px rgba(33, 31, 28, 0.1);
+    z-index: 50;
+}
+
+.filter-popover--tagFilter {
+    min-width: 220px;
+}
+
+.preset-days {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.preset-day-btn {
+    padding: 0.3rem 0.6rem;
+    font: inherit;
+    font-size: 0.8rem;
+    color: var(--color-ink);
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.preset-day-btn:hover {
+    background-color: #f2f4f2;
+}
+
+.preset-day-btn.active {
+    color: white;
+    background-color: var(--color-accent);
+    border-color: var(--color-accent);
 }
 
 #tagSearch {
@@ -239,30 +313,6 @@ h1 {
     border-radius: 6px;
 }
 
-#clearTagsLink {
-    display: block;
-    width: 100%;
-    margin: 0.5rem 0 0;
-    padding: 0;
-    background: none;
-    border: none;
-    font: inherit;
-    font-size: 0.8rem;
-    text-align: left;
-    color: var(--color-accent);
-    text-decoration: underline;
-    text-underline-offset: 2px;
-    cursor: pointer;
-}
-
-#clearTagsLink:hover {
-    opacity: 0.8;
-}
-
-#clearTagsLink[hidden] {
-    display: none;
-}
-
 #galleryControls {
     display: flex;
     flex-direction: column;
@@ -301,24 +351,12 @@ h1 {
     color: #5a6b5a;
 }
 
-#selectedTags {
-    /* Not a box of its own -- its chip-group children become flex items of
-       .controls-row directly, so they wrap and align alongside the sort
-       pill instead of as a separate right-aligned cluster. */
-    display: contents;
-}
-
-#selectedTags strong {
-    margin-left: 0.35rem;
-    font-weight: normal;
-}
-
 .chip-group {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     gap: 0.4rem;
-    padding: 0.3rem 0.5rem;
+    padding: 0.3rem 0.5rem 0.3rem 0.75rem;
     background-color: #f2f4f2;
     border: 1px solid #e0e5e0;
     border-radius: 1rem;
@@ -329,35 +367,47 @@ h1 {
     color: #5a6b5a;
     font-weight: 600;
     margin-right: 0.1rem;
-}
-
-#selectedTags span.chip-group-label,
-#selectedTags span.chip-group-label:hover {
     cursor: default;
-    background-color: transparent;
 }
 
-#selectedTags span {
+.chip {
     display: inline-flex;
     align-items: center;
     padding: 0.3rem 0.65rem;
     background-color: #e8f0e8;
     border-radius: 1rem;
     font-size: 0.9rem;
-    cursor: pointer;
+    cursor: default;
     user-select: none;
 }
 
-#selectedTags span:hover {
+.chip strong {
+    margin-left: 0.35rem;
+    font-weight: normal;
+}
+
+/* Tag chips are clickable as a whole (click to remove); the Date Range
+   chip isn't -- its "x" and edit icon are their own click targets, see
+   below -- so only the tag chip gets a pointer cursor/hover on the chip
+   itself. */
+.tag-chip {
+    cursor: pointer;
+}
+
+.tag-chip:hover {
     background-color: #d8e5d8;
 }
 
-#selectedTags span.date-filter-chip {
+.date-filter-chip {
     background-color: #e6ecf7;
 }
 
-#selectedTags span.date-filter-chip:hover {
-    background-color: #d6e0f2;
+.date-filter-chip strong {
+    cursor: pointer;
+}
+
+.date-filter-chip strong:hover {
+    opacity: 0.7;
 }
 
 .date-filter-icon {
@@ -743,8 +793,15 @@ h1 {
         border-radius: 4px;
     }
 
-    .nav-dropdown-panel--tagFilter {
-        min-width: 0;
+    /* .filter-control (Tags, Date Range) sits in .controls-row rather than
+       the collapsing nav, so its popover can't rely on the nav's absolute
+       positioning staying on-screen at this width -- drop it in-flow below
+       the trigger instead, same idea as .nav-dropdown-panel above. */
+    .filter-popover {
+        position: static;
+        width: min(280px, calc(100vw - 40px));
+        margin: 0.5rem 0 0;
+        box-shadow: none;
     }
 
     .page-content {

@@ -1,28 +1,11 @@
 const Nav = (function() {
 
-    // How far back "Recently Added" looks, in days. May move to 30 once
-    // there's a better sense of how often batches get published.
-    const RECENTLY_ADDED_WINDOW_DAYS = 15;
-
-    const SUBJECT_TAGS = [
-        { text: 'Flower Power', url: '#/gallery?tags=flower' },
-        { text: 'Fungus Among Us', url: '#/gallery?tags=fungus' },
-        { text: 'Seeing Double', url: '#/gallery?tags=reflection' },
-        { text: 'Tendril Loving Care', url: '#/gallery?tags=tendril' },
-        { text: 'Up Close and Personal', url: '#/gallery?tags=macro' },
-        // Time-based rather than subject-based, so it's set apart from the
-        // tag collections above with a divider rather than blending in as
-        // if it were just another theme.
-        { text: 'Recently Added', url: `#/gallery?addedDays=${RECENTLY_ADDED_WINDOW_DAYS}`, separator: true },
-    ];
-
     function init() {
-        const dropdowns = Array.from(document.querySelectorAll('.nav-dropdown'));
         const navToggle = document.querySelector('#navToggle');
         const navLinks = document.querySelector('#navLinks');
 
         function closeAllDropdowns() {
-            dropdowns.forEach(dropdown => closeDropdown(
+            document.querySelectorAll('.nav-dropdown').forEach(dropdown => closeDropdown(
                 dropdown,
                 dropdown.querySelector('.nav-dropdown-trigger'),
                 dropdown.querySelector('.nav-dropdown-panel')
@@ -30,14 +13,17 @@ const Nav = (function() {
         }
 
         // The hamburger menu (mobile only, see CSS) collapses the whole
-        // .nav-links row -- including the Collections/Tag Search dropdowns,
-        // which stack in-flow inside it there rather than floating.
+        // .nav-links row -- including any dropdowns, which stack in-flow
+        // inside it there rather than floating.
         function closeMobileMenu() {
             navLinks.classList.remove('open');
             navToggle.classList.remove('open');
             navToggle.setAttribute('aria-expanded', 'false');
             closeAllDropdowns();
         }
+
+        // Builds the nav's DOM from NavConfig into #navLinks.
+        renderNav(navLinks, closeMobileMenu);
 
         navToggle.addEventListener('click', event => {
             event.stopPropagation();
@@ -52,7 +38,7 @@ const Nav = (function() {
             }
         });
 
-        dropdowns.forEach(dropdown => {
+        document.querySelectorAll('.nav-dropdown').forEach(dropdown => {
             const trigger = dropdown.querySelector('.nav-dropdown-trigger');
             const panel = dropdown.querySelector('.nav-dropdown-panel');
 
@@ -62,16 +48,10 @@ const Nav = (function() {
             });
         });
 
-        renderSubjects(document.querySelector('#subjectsPanel'));
         updateActiveStyles();
 
-        // Plain links (About/Gallery) don't go through toggleDropdown, so
-        // they need their own nudge to fold the mobile menu back up.
-        document.querySelector('#aboutLink').addEventListener('click', closeMobileMenu);
-        document.querySelector('#galleryLink').addEventListener('click', closeMobileMenu);
-
         document.addEventListener('click', event => {
-            dropdowns.forEach(dropdown => {
+            document.querySelectorAll('.nav-dropdown').forEach(dropdown => {
                 if (!event.target.closest(`#${dropdown.id}`)) {
                     closeDropdown(
                         dropdown,
@@ -98,55 +78,124 @@ const Nav = (function() {
         });
     }
 
-    function renderSubjects(panel) {
-        panel.innerHTML = '';
+    // Renders NavConfig into `container`: plain links and dropdown triggers
+    // with their child links, in config order. `onLinkActivate` fires on a
+    // plain link's click -- dropdown children only need to close their own
+    // dropdown (see renderDropdown), since navigating away re-closes the
+    // mobile menu via the hashchange listener; plain links need the direct
+    // nudge for the case where the hash doesn't actually change (e.g.
+    // clicking "Gallery" while already there), which fires no hashchange.
+    function renderNav(container, onLinkActivate) {
+        const fragment = document.createDocumentFragment();
 
-        SUBJECT_TAGS.forEach(subject => {
+        NavConfig.forEach(item => {
+            fragment.appendChild(item.type === 'dropdown' ? renderDropdown(item) : renderLink(item, onLinkActivate));
+        });
+
+        container.prepend(fragment);
+    }
+
+    function renderLink(item, onActivate) {
+        const link = document.createElement('a');
+
+        link.href = item.href;
+        link.textContent = item.label;
+        link.className = 'nav-link';
+        link.id = item.id;
+        link.addEventListener('click', onActivate);
+
+        return link;
+    }
+
+    function renderDropdown(item) {
+        const dropdown = document.createElement('div');
+        dropdown.className = 'nav-dropdown';
+        dropdown.id = item.id;
+
+        const trigger = document.createElement('button');
+        trigger.type = 'button';
+        trigger.className = 'nav-link nav-dropdown-trigger';
+        trigger.setAttribute('aria-haspopup', 'true');
+        trigger.setAttribute('aria-expanded', 'false');
+        trigger.append(document.createTextNode(item.label + ' '));
+        trigger.insertAdjacentHTML('beforeend',
+            '<svg class="nav-caret" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">' +
+                '<path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>' +
+            '</svg>'
+        );
+
+        const panel = document.createElement('div');
+        panel.className = 'nav-dropdown-panel';
+        panel.hidden = true;
+
+        item.children.forEach(child => {
             const link = document.createElement('a');
 
-            link.href = subject.url;
-            link.textContent = subject.text;
-            link.className = subject.separator
+            link.href = child.href;
+            link.textContent = child.label;
+            link.className = child.separator
                 ? 'nav-subject-link nav-subject-link--separated'
                 : 'nav-subject-link';
-            link.dataset.url = subject.url;
+            link.dataset.url = child.href;
 
             // Let the browser navigate the hash normally (fires 'hashchange',
             // so Main's router handles both the tag filter and the view
             // switch) — just close the dropdown afterwards.
-            link.addEventListener('click', () => {
-                closeDropdown(
-                    document.querySelector('#subjectsDropdown'),
-                    document.querySelector('#subjectsTrigger'),
-                    document.querySelector('#subjectsPanel')
-                );
-            });
+            link.addEventListener('click', () => closeDropdown(dropdown, trigger, panel));
 
             panel.appendChild(link);
         });
+
+        dropdown.append(trigger, panel);
+        return dropdown;
+    }
+
+    // Finds the dropdown item (if any) whose child href matches the current
+    // hash, e.g. { item: <Collections config>, child: <Recently Added config> }.
+    function findActiveDropdownChild() {
+        const hash = window.location.hash || '';
+
+        for (const item of NavConfig) {
+            if (item.type !== 'dropdown') continue;
+
+            const child = item.children.find(child => child.href === hash);
+            if (child) return { item, child };
+        }
+
+        return null;
     }
 
     function getActiveLabel() {
-        const hash = window.location.hash || '';
-        const subject = SUBJECT_TAGS.find(subject => subject.url === hash);
-        return subject ? subject.text : null;
+        const activeDropdown = findActiveDropdownChild();
+        return activeDropdown ? activeDropdown.child.label : null;
     }
 
     function updateActiveStyles() {
         const hash = window.location.hash || '';
-        const isSubjectActive = SUBJECT_TAGS.some(subject => subject.url === hash);
+        const activeDropdown = findActiveDropdownChild();
+        const activeLink = NavConfig.find(item =>
+            item.type === 'link' && item.activeMatch === 'prefix' && hash.startsWith(item.href)
+        );
 
         document.querySelectorAll('.nav-subject-link').forEach(link => {
             link.classList.toggle('active', link.dataset.url === hash);
         });
 
-        document.querySelector('#subjectsTrigger').classList.toggle('active', isSubjectActive);
+        NavConfig.forEach(item => {
+            const el = document.getElementById(item.id);
+            if (!el) return;
 
-        document.querySelector('#aboutLink').classList.toggle('active', hash.startsWith('#about'));
-        document.querySelector('#galleryLink').classList.toggle(
-            'active',
-            !hash.startsWith('#about') && !isSubjectActive
-        );
+            if (item.type === 'dropdown') {
+                el.querySelector('.nav-dropdown-trigger').classList.toggle(
+                    'active',
+                    activeDropdown !== null && activeDropdown.item === item
+                );
+            } else if (item.activeMatch === 'default') {
+                el.classList.toggle('active', !activeLink && !activeDropdown);
+            } else {
+                el.classList.toggle('active', item === activeLink);
+            }
+        });
 
         const label = getActiveLabel();
         const collectionTitle = document.querySelector('#collectionTitle');
@@ -177,12 +226,6 @@ const Nav = (function() {
         dropdown.classList.add('open');
         trigger.setAttribute('aria-expanded', 'true');
         panel.hidden = false;
-
-        // Tag Search: jump straight into typing once the panel is open.
-        const input = panel.querySelector('#tagInput');
-        if (input) {
-            input.focus();
-        }
     }
 
     function closeDropdown(dropdown, trigger, panel) {

@@ -9,11 +9,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css"></link>
-    <script src="js/lightbox.js" defer></script>
-    <script src="js/gallery.js" defer></script>
-    <script src="js/nav.js" defer></script>
-    <script src="js/main.js" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=20260912141652"></link>
+    <script src="js/lightbox.js?v=20260912141652" defer></script>
+    <script src="js/gallery.js?v=20260912141652" defer></script>
+    <script src="js/nav.config.js?v=20260912141652" defer></script>
+    <script src="js/nav.js?v=20260912141652" defer></script>
+    <script src="js/main.js?v=20260912141652" defer></script>
 </head>
 <body>
     <nav class="site-nav">
@@ -29,35 +30,8 @@
         </button>
 
         <div class="nav-links" id="navLinks">
-            <a href="#about" class="nav-link" id="aboutLink">About</a>
-
-            <a href="#" class="nav-link" id="galleryLink">Gallery</a>
-
-            <div class="nav-dropdown" id="subjectsDropdown">
-                <button type="button" class="nav-link nav-dropdown-trigger" id="subjectsTrigger" aria-haspopup="true" aria-expanded="false">
-                    Collections
-                    <svg class="nav-caret" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
-                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                </button>
-                <div class="nav-dropdown-panel" id="subjectsPanel" hidden></div>
-            </div>
-
-            <div class="nav-dropdown" id="tagFilterDropdown">
-                <button type="button" class="nav-link nav-dropdown-trigger" id="tagFilterTrigger" aria-haspopup="true" aria-expanded="false">
-                    Tag Search
-                    <svg class="nav-caret" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
-                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                </button>
-                <div class="nav-dropdown-panel nav-dropdown-panel--tagFilter" id="tagFilterPanel" hidden>
-                    <div id="tagSearch">
-                        <input id="tagInput" placeholder="Filter by tag">
-                        <div id="tagSuggestions"></div>
-                    </div>
-                    <button type="button" id="clearTagsLink" hidden>Clear all</button>
-                </div>
-            </div>
+            <!-- About / Gallery / Collections are rendered here from
+                 NavConfig by nav.js (js/nav.config.js, js/nav.js). -->
         </div>
     </nav>
 
@@ -78,7 +52,41 @@
                             </select>
                         </label>
 
-                        <div id="selectedTags"></div>
+                        <!-- Tags pill: always visible. The "+" icon toggles
+                             the popover; renderTagChips() only touches the
+                             tag chip spans in between the label and the "+"
+                             icon. clearTagsBtn sits after the "+", at the
+                             very end of the pill (mirroring the Date Range
+                             chip's trailing "x", which comes after its own
+                             edit icon) -- shown only once a tag is selected,
+                             so clearing doesn't require opening the popover
+                             just to reach "Clear all". -->
+                        <div class="filter-control" id="tagFilterControl">
+                            <div class="chip-group" id="tagsChipGroup">
+                                <span class="chip-group-label">Tags</span>
+                                <button type="button" class="chip-icon-btn filter-popover-toggle" id="tagFilterToggle" aria-haspopup="true" aria-expanded="false" aria-label="Filter by tag">
+                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                                        <path d="M6 1V11M1 6H11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </button>
+                                <button type="button" class="chip-icon-btn clear-tags-btn" id="clearTagsBtn" title="Clear all tags" aria-label="Clear all tags" hidden>
+                                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true">
+                                        <path d="M1 1L9 9M9 1L1 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </button>
+                            </div>
+                            <div class="filter-popover filter-popover--tagFilter" id="tagFilterPopover" hidden>
+                                <div id="tagSearch">
+                                    <input id="tagInput" placeholder="Filter by tag">
+                                    <div id="tagSuggestions"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Date Range pill: rendered/removed entirely by
+                             gallery.js's renderDateFilterChip() since it
+                             only exists once a date filter is active. -->
+                        <div id="dateFilterSlot"></div>
                     </div>
 
                     <div id="photoCount"></div>

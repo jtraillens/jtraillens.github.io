@@ -14,6 +14,11 @@ const Gallery = (function() {
     let dateField = 'taken';   // 'taken' | 'added'
     let addedDays = null;      // rolling-window shorthand, or null
 
+    // Quick-pick options offered in the Date Range pill's edit popover --
+    // addedDays itself accepts any number (e.g. Collections > Recently
+    // Added currently uses 15), these are just the in-UI shortcuts.
+    const ADDED_DAYS_PRESETS = [7, 14, 30, 90];
+
     // Sort state, driven by #sortSelect and mirrored into the ?sort=&order=
     // hash params. Whenever a route doesn't specify sort/order explicitly,
     // defaultSort() picks one based on the rest of the filter -- e.g. an
@@ -43,6 +48,7 @@ const Gallery = (function() {
 
         initializeTagFilter();
         initializeSortControl();
+        initFilterPopovers();
         renderGallery();
 
         const gallery = document.querySelector('.gallery');
@@ -180,12 +186,73 @@ const Gallery = (function() {
         select.value = `${sortField}-${sortOrder}`;
     }
 
+    // Generic open/close for the Tags and Date Range filter popovers -- both
+    // live in a .filter-control (trigger + popover), and only one is open at
+    // a time. The Date Range one is recreated on every render (it only
+    // exists while a date filter is active), so this binds fresh each time
+    // rather than assuming a fixed set of popovers wired up once.
+    function initFilterPopovers() {
+        document.addEventListener('click', event => {
+            document.querySelectorAll('.filter-popover').forEach(popover => {
+                if (!popover.hidden && !popover.closest('.filter-control').contains(event.target)) {
+                    closePopover(popover);
+                }
+            });
+        });
+
+        document.addEventListener('keydown', event => {
+            if (event.key === 'Escape') {
+                document.querySelectorAll('.filter-popover').forEach(closePopover);
+            }
+        });
+    }
+
+    function openPopover(popover) {
+        // Only one filter popover open at a time.
+        document.querySelectorAll('.filter-popover').forEach(other => {
+            if (other !== popover) {
+                closePopover(other);
+            }
+        });
+
+        popover.hidden = false;
+        popover.closest('.filter-control')
+            .querySelector('.filter-popover-toggle')
+            ?.setAttribute('aria-expanded', 'true');
+    }
+
+    function closePopover(popover) {
+        popover.hidden = true;
+        popover.closest('.filter-control')
+            .querySelector('.filter-popover-toggle')
+            ?.setAttribute('aria-expanded', 'false');
+    }
+
+    function togglePopover(popover) {
+        if (popover.hidden) {
+            openPopover(popover);
+        } else {
+            closePopover(popover);
+        }
+    }
+
     function initializeTagFilter() {
         const input = document.querySelector('#tagInput');
         const suggestions = document.querySelector('#tagSuggestions');
-        const clearLink = document.querySelector('#clearTagsLink');
+        const clearBtn = document.querySelector('#clearTagsBtn');
+        const toggle = document.querySelector('#tagFilterToggle');
+        const popover = document.querySelector('#tagFilterPopover');
 
-        clearLink.addEventListener('click', () => {
+        toggle.addEventListener('click', event => {
+            event.stopPropagation();
+            togglePopover(popover);
+
+            if (!popover.hidden) {
+                input.focus();
+            }
+        });
+
+        clearBtn.addEventListener('click', () => {
             input.value = '';
             suggestions.innerHTML = '';
             selectedSuggestionIndex = -1;
@@ -286,7 +353,8 @@ const Gallery = (function() {
         filteredPhotos = sortPhotos(photos.filter(matchesFilters));
 
         syncSortControl();
-        renderSelectedTags();
+        renderTagChips();
+        renderDateFilterChip();
         renderGallery();
         updateHash();
     }
@@ -390,84 +458,144 @@ const Gallery = (function() {
         });
     }
 
-    // Renders both the selected-tag chips and, when a date filter is active
-    // (from a Collections link like "Recently Added", or a hand-typed
-    // from/to/addedDays hash), a chip describing it -- so a date filter
-    // that's silently ANDed with the tag search is never invisible, e.g.
-    // going Recently Added -> Tag Search previously just looked like "no
-    // results" with no indication the date window was still applied.
-    function renderSelectedTags() {
-        const container = document.querySelector('#selectedTags');
+    // Renders just the selected-tag chips into the always-visible Tags pill
+    // (#tagsChipGroup) -- the label, "+" toggle and clear-all button are
+    // static markup in index.html, so this only touches the chip spans in
+    // between the label and the toggle, rather than rebuilding the whole
+    // group.
+    function renderTagChips() {
+        const group = document.querySelector('#tagsChipGroup');
+        const toggle = document.querySelector('#tagFilterToggle');
 
-        document.querySelector('#clearTagsLink').hidden = selectedTags.length === 0;
+        document.querySelector('#clearTagsBtn').hidden = selectedTags.length === 0;
 
-        container.innerHTML = '';
+        group.querySelectorAll('.tag-chip').forEach(chip => chip.remove());
 
-        if (selectedTags.length > 0) {
-            const group = document.createElement('div');
-
-            group.className = 'chip-group';
-
-            const label = document.createElement('span');
-
-            label.className = 'chip-group-label';
-            label.textContent = 'Tags:';
-            group.appendChild(label);
-
-            selectedTags.forEach(tag => {
-                const span = document.createElement('span');
-
-                span.innerHTML = `${tag} <strong>×</strong>`;
-
-                span.addEventListener('click', () => {
-                    selectedTags = selectedTags.filter(t => t !== tag);
-                    refilterAndRender();
-                });
-
-                group.appendChild(span);
-            });
-
-            container.appendChild(group);
-        }
-
-        const dateFilterLabel = formatDateFilterLabel();
-
-        if (dateFilterLabel) {
-            const group = document.createElement('div');
-
-            group.className = 'chip-group';
-
-            const label = document.createElement('span');
-
-            label.className = 'chip-group-label';
-            label.textContent = 'Date Range:';
-            group.appendChild(label);
-
+        selectedTags.forEach(tag => {
             const span = document.createElement('span');
 
-            span.className = 'date-filter-chip';
-            span.title = 'Clear date filter';
-            span.innerHTML = `
-                <svg class="date-filter-icon" width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true">
-                    <rect x="2" y="3" width="12" height="11" rx="1.5" stroke="currentColor" stroke-width="1.3"/>
-                    <path d="M2 6.5H14" stroke="currentColor" stroke-width="1.3"/>
-                    <path d="M5 1.5V4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
-                    <path d="M11 1.5V4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
-                </svg>
-                ${dateFilterLabel} <strong>×</strong>
-            `;
+            span.className = 'chip tag-chip';
+            span.innerHTML = `${tag} <strong>×</strong>`;
 
             span.addEventListener('click', () => {
-                dateFrom = null;
-                dateTo = null;
-                dateField = 'taken';
-                addedDays = null;
+                selectedTags = selectedTags.filter(t => t !== tag);
                 refilterAndRender();
             });
 
-            group.appendChild(span);
-            container.appendChild(group);
+            group.insertBefore(span, toggle);
+        });
+    }
+
+    // The Date Range pill only exists while a date filter is active (from a
+    // Collections link like "Recently Added", or a hand-typed
+    // from/to/addedDays hash) -- so a date filter that's silently ANDed with
+    // the tag search is never invisible, e.g. going Recently Added -> Tag
+    // Search previously just looked like "no results" with no indication
+    // the date window was still applied. Unlike the Tags pill it's rebuilt
+    // wholesale into its slot each render, since it appears/disappears
+    // entirely rather than just changing its chip list.
+    function renderDateFilterChip() {
+        const slot = document.querySelector('#dateFilterSlot');
+
+        slot.innerHTML = '';
+
+        const dateFilterLabel = formatDateFilterLabel();
+
+        if (!dateFilterLabel) {
+            return;
         }
+
+        const control = document.createElement('div');
+        control.className = 'filter-control';
+
+        const group = document.createElement('div');
+        group.className = 'chip-group';
+
+        const label = document.createElement('span');
+        label.className = 'chip-group-label';
+        label.textContent = 'Date Range:';
+        group.appendChild(label);
+
+        const chip = document.createElement('span');
+        chip.className = 'chip date-filter-chip';
+        chip.innerHTML = `
+            <svg class="date-filter-icon" width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                <rect x="2" y="3" width="12" height="11" rx="1.5" stroke="currentColor" stroke-width="1.3"/>
+                <path d="M2 6.5H14" stroke="currentColor" stroke-width="1.3"/>
+                <path d="M5 1.5V4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+                <path d="M11 1.5V4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/>
+            </svg>
+            <span>${dateFilterLabel}</span>
+        `;
+        group.appendChild(chip);
+
+        // Only the addedDays rolling-window shorthand has an in-UI way to
+        // set it in the first place (Collections > Recently Added, or this
+        // popover) -- an explicit from/to range only ever arrives via a
+        // hand-typed hash, so there's nothing meaningful to edit in place.
+        if (addedDays !== null) {
+            const editToggle = document.createElement('button');
+            editToggle.type = 'button';
+            editToggle.className = 'chip-icon-btn filter-popover-toggle';
+            editToggle.setAttribute('aria-haspopup', 'true');
+            editToggle.setAttribute('aria-expanded', 'false');
+            editToggle.setAttribute('aria-label', 'Change day range');
+            editToggle.title = 'Change day range';
+            editToggle.innerHTML = `
+                <svg width="11" height="11" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                    <path d="M8.5 1.5L10.5 3.5L4 10H2V8L8.5 1.5Z" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round"/>
+                </svg>
+            `;
+            chip.appendChild(editToggle);
+        }
+
+        const clearBtn = document.createElement('strong');
+        clearBtn.textContent = '×';
+        clearBtn.title = 'Clear date filter';
+        clearBtn.addEventListener('click', () => {
+            dateFrom = null;
+            dateTo = null;
+            dateField = 'taken';
+            addedDays = null;
+            refilterAndRender();
+        });
+        chip.appendChild(clearBtn);
+
+        control.appendChild(group);
+
+        if (addedDays !== null) {
+            const popover = document.createElement('div');
+            popover.className = 'filter-popover filter-popover--days';
+            popover.hidden = true;
+
+            const presets = document.createElement('div');
+            presets.className = 'preset-days';
+
+            ADDED_DAYS_PRESETS.forEach(days => {
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'preset-day-btn';
+                btn.classList.toggle('active', days === addedDays);
+                btn.textContent = `${days} days`;
+
+                btn.addEventListener('click', () => {
+                    addedDays = days;
+                    refilterAndRender();
+                });
+
+                presets.appendChild(btn);
+            });
+
+            popover.appendChild(presets);
+            control.appendChild(popover);
+
+            control.querySelector('.filter-popover-toggle').addEventListener('click', event => {
+                event.stopPropagation();
+                togglePopover(popover);
+            });
+        }
+
+        slot.appendChild(control);
     }
 
     function formatDateFilterLabel() {
