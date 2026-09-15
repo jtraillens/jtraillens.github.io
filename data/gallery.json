@@ -17,6 +17,21 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2026-09-06_15-04-16_260.webp",
+    "dateTaken": "2026-09-06T15:04:16",
+    "dateAdded": "2026-09-15T09:54:42.653466",
+    "title": "Blue Jay Feather on Weathered Bark",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "feather",
+      "macro"
+    ],
+    "camera": null,
+    "taxonName": "Blue Jay",
+    "taxonUrl": "https://www.inaturalist.org/taxa/8229"
+  },
+  {
     "fileName": "2026-09-03_18-28-17_430.webp",
     "dateTaken": "2026-09-03T18:28:17",
     "dateAdded": "2026-09-05T12:51:54.721772+00:00",
@@ -345,6 +360,22 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/55957"
   },
   {
+    "fileName": "2026-08-30_17-24-26_565.webp",
+    "dateTaken": "2026-08-30T17:24:26",
+    "dateAdded": null,
+    "title": "Coker's Amanitas",
+    "caption": "",
+    "locationName": "PA - Birdsboro Waters",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonName": "Coker's Amanita",
+    "taxonUrl": "https://www.inaturalist.org/taxa/127674"
+  },
+  {
     "fileName": "2026-08-30_16-47-22_445.webp",
     "dateTaken": "2026-08-30T16:47:22",
     "dateAdded": "2026-09-05T12:51:54.721772+00:00",
@@ -491,6 +522,21 @@
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "2026-08-28_12-19-17_622.webp",
+    "dateTaken": "2026-08-28T12:19:17",
+    "dateAdded": "2026-09-15T09:54:42.649373",
+    "title": "Maroon-Tipped Bud on a Green Stem",
+    "caption": "",
+    "locationName": "PA - The Laurels Preserve",
+    "tags": [
+      "flower bud",
+      "PA - The Laurels Preserve"
+    ],
+    "camera": null,
+    "taxonName": "tall blue lettuce",
+    "taxonUrl": "https://www.inaturalist.org/taxa/77616"
   },
   {
     "fileName": "2026-08-28_12-18-57_934.webp",
@@ -2383,6 +2429,38 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/79109"
   },
   {
+    "fileName": "2026-06-27_13-37-38_414.webp",
+    "dateTaken": "2026-06-27T13:37:38",
+    "dateAdded": "2026-09-15T09:54:42.632688",
+    "title": "Witch-Hazel Leaf Beaded With Rain",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "leaf",
+      "droplet",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonName": "american witch-hazel",
+    "taxonUrl": "https://www.inaturalist.org/taxa/51970"
+  },
+  {
+    "fileName": "2026-06-27_13-30-18_254.webp",
+    "dateTaken": "2026-06-27T13:30:18",
+    "dateAdded": "2026-09-15T09:54:42.630117",
+    "title": "Leaf Scattered With Droplets",
+    "caption": "",
+    "locationName": "PA - Warwick County Park",
+    "tags": [
+      "leaf",
+      "droplet",
+      "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-06-20_07-44-10_021.webp",
     "dateTaken": "2026-06-20T07:44:10",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -2397,6 +2475,39 @@
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "2026-06-20_07-31-09_363.webp",
+    "dateTaken": "2026-06-20T07:31:09",
+    "dateAdded": "2026-09-15T09:54:42.627374",
+    "title": "Broad Beech Fern Colony",
+    "caption": "",
+    "locationName": "OH - Wayne National Forest",
+    "tags": [
+      "fern",
+      "overhead",
+      "forest",
+      "OH - Wayne National Forest"
+    ],
+    "camera": null,
+    "taxonName": "broad beech fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/122081"
+  },
+  {
+    "fileName": "2026-06-19_14-59-41_136.webp",
+    "dateTaken": "2026-06-19T14:59:41",
+    "dateAdded": "2026-09-15T09:54:42.622826",
+    "title": "Striped Lynx Spider on a White Daisy",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "spider",
+      "flower",
+      "macro"
+    ],
+    "camera": null,
+    "taxonName": "Striped Lynx Spider",
+    "taxonUrl": "https://www.inaturalist.org/taxa/83844"
   },
   {
     "fileName": "2026-06-19_10-08-56_502.webp",
@@ -2415,6 +2526,105 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2026-05-23_16-51-59_151.webp",
+    "dateTaken": "2026-05-23T16:51:59",
+    "dateAdded": "2026-09-15T09:54:42.618824",
+    "title": "Dewy Stem Before a Blur of White Blossoms",
+    "caption": "",
+    "locationName": "PA - Pickering Creek Trail",
+    "tags": [
+      "droplet",
+      "flower",
+      "PA - Pickering Creek Trail"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-05-23_16-49-41_531.webp",
+    "dateTaken": "2026-05-23T16:49:41",
+    "dateAdded": "2026-09-15T09:54:42.616583",
+    "title": "Dew-Hung Tendril Curled Into a Hook",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "tendril",
+      "droplet",
+      "macro"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-05-19_18-24-54_507.webp",
+    "dateTaken": "2026-05-19T18:24:54",
+    "dateAdded": "2026-09-15T09:54:42.614788",
+    "title": "Tarnished Plant Bug on an Oxeye Daisy",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "insect",
+      "flower",
+      "macro",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": "North American Tarnished Plant Bug",
+    "taxonUrl": "https://www.inaturalist.org/taxa/84507"
+  },
+  {
+    "fileName": "2026-05-10_11-25-44_771.webp",
+    "dateTaken": "2026-05-10T11:25:44",
+    "dateAdded": "2026-09-15T09:54:42.609425",
+    "title": "Backlit Japanese Barberry in Fall",
+    "caption": "",
+    "locationName": "PA - Paradise Valley Nature Area",
+    "tags": [
+      "leaf",
+      "backlit",
+      "PA - Paradise Valley Nature Area"
+    ],
+    "camera": null,
+    "taxonName": "Japanese barberry",
+    "taxonUrl": "https://www.inaturalist.org/taxa/58727"
+  },
+  {
+    "fileName": "2026-05-10_11-12-16_463.webp",
+    "dateTaken": "2026-05-10T11:12:16",
+    "dateAdded": "2026-09-15T09:54:42.605518",
+    "title": "Buckeye Leaves Glowing Against the Sky",
+    "caption": "",
+    "locationName": "PA - Harmony Hill Nature Area",
+    "tags": [
+      "leaf",
+      "backlit",
+      "translucent",
+      "PA - Harmony Hill Nature Area"
+    ],
+    "camera": null,
+    "taxonName": "buckeyes and horse-chestnuts",
+    "taxonUrl": "https://www.inaturalist.org/taxa/53350"
+  },
+  {
+    "fileName": "2026-05-10_08-40-23_407.webp",
+    "dateTaken": "2026-05-10T08:40:23",
+    "dateAdded": "2026-09-15T09:54:42.598323",
+    "title": "Dew-Soaked Dandelion Seed Head",
+    "caption": "",
+    "locationName": "PA - Paradise Valley Nature Area",
+    "tags": [
+      "seed head",
+      "droplet",
+      "macro",
+      "PA - Paradise Valley Nature Area"
+    ],
+    "camera": null,
+    "taxonName": "common dandelion",
+    "taxonUrl": "https://www.inaturalist.org/taxa/47602"
+  },
+  {
     "fileName": "2026-05-07_19-03-22_095.webp",
     "dateTaken": "2026-05-07T19:03:22",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -2425,6 +2635,199 @@
       "wood",
       "pareidolia",
       "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-05-07_18-14-23_706.webp",
+    "dateTaken": "2026-05-07T18:14:23",
+    "dateAdded": "2026-09-15T09:54:42.596171",
+    "title": "A Fiddlehead Peeking Through Open Fronds",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "fiddlehead",
+      "frond",
+      "fern",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": "ostrich fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/82574"
+  },
+  {
+    "fileName": "2026-05-07_18-11-51_719.webp",
+    "dateTaken": "2026-05-07T18:11:51",
+    "dateAdded": "2026-09-15T09:54:42.594100",
+    "title": "Fiddlehead Uncurling Above the Others",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "fiddlehead",
+      "fern",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": "ostrich fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/82574"
+  },
+  {
+    "fileName": "2026-05-07_17-52-26_613.webp",
+    "dateTaken": "2026-05-07T17:52:26",
+    "dateAdded": "2026-09-15T09:54:42.588259",
+    "title": "Downy Feather Resting in the Grass",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "feather",
+      "grass",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-05-02_15-06-30_111.webp",
+    "dateTaken": "2026-05-02T15:06:30",
+    "dateAdded": "2026-09-15T09:54:42.586002",
+    "title": "Sassafras Leafin' Out",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "leaf bud",
+      "forest"
+    ],
+    "camera": null,
+    "taxonName": "Sassafras",
+    "taxonUrl": "https://www.inaturalist.org/taxa/54796"
+  },
+  {
+    "fileName": "2026-04-30_17-38-57_926.webp",
+    "dateTaken": "2026-04-30T17:38:57",
+    "dateAdded": "2026-09-15T09:54:42.582340",
+    "title": "Ostrich Fern Leaflets Overlapping in the Light",
+    "caption": "",
+    "locationName": "PA - Springton Manor Farm",
+    "tags": [
+      "frond",
+      "fern",
+      "macro",
+      "PA - Springton Manor Farm"
+    ],
+    "camera": null,
+    "taxonName": "ostrich fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/82574"
+  },
+  {
+    "fileName": "2026-04-28_18-08-40_040.webp",
+    "dateTaken": "2026-04-28T18:08:40",
+    "dateAdded": "2026-09-15T09:54:42.577776",
+    "title": "Fiddlehead in Profile",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fiddlehead",
+      "fern",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-04-26_12-33-52_450.webp",
+    "dateTaken": "2026-04-26T12:33:52",
+    "dateAdded": "2026-09-15T09:54:42.572659",
+    "title": "Leaves of Three, New and Red",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "poison ivy",
+      "leaf"
+    ],
+    "camera": null,
+    "taxonName": "eastern poison ivy",
+    "taxonUrl": "https://www.inaturalist.org/taxa/58732"
+  },
+  {
+    "fileName": "2026-04-19_15-44-44_922.webp",
+    "dateTaken": "2026-04-19T15:44:44",
+    "dateAdded": "2026-09-15T09:54:42.567862",
+    "title": "Pointed Bud Scales Peeling Back",
+    "caption": "",
+    "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "tags": [
+      "leaf bud",
+      "macro",
+      "PA - Thomas P. Bentley Nature Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-04-14_19-11-44_957.webp",
+    "dateTaken": "2026-04-14T19:11:44",
+    "dateAdded": "2026-09-15T09:54:42.564373",
+    "title": "Rattlesnake Fern Standing in the Litter",
+    "caption": "",
+    "locationName": "PA - Bryn Coed Preserve",
+    "tags": [
+      "frond",
+      "fern",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonName": "rattlesnake fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/75855"
+  },
+  {
+    "fileName": "2026-04-05_16-20-04_348.webp",
+    "dateTaken": "2026-04-05T16:20:04",
+    "dateAdded": "2026-09-15T09:54:42.554948",
+    "title": "Mayapple",
+    "caption": "",
+    "locationName": "PA - Theodore A. Parker III Natural Area",
+    "tags": [
+      "mayapple",
+      "droplet",
+      "overhead",
+      "PA - Theodore A. Parker III Natural Area"
+    ],
+    "camera": null,
+    "taxonName": "mayapple",
+    "taxonUrl": "https://www.inaturalist.org/taxa/49288"
+  },
+  {
+    "fileName": "2026-04-05_13-42-51_345.webp",
+    "dateTaken": "2026-04-05T13:42:51",
+    "dateAdded": "2026-09-15T09:54:42.552635",
+    "title": "Raindrop Caught Virginia Bluebell",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "droplet",
+      "flower",
+      "macro"
+    ],
+    "camera": null,
+    "taxonName": "Virginia bluebells",
+    "taxonUrl": "https://www.inaturalist.org/taxa/59771"
+  },
+  {
+    "fileName": "2026-04-05_13-23-00_689.webp",
+    "dateTaken": "2026-04-05T13:23:00",
+    "dateAdded": "2026-09-15T09:54:42.550563",
+    "title": "Fiddlehead Uncurling Into Multiple Tendrils",
+    "caption": "",
+    "locationName": "PA - Ferncliff Wildlife & Wildflower Preserve",
+    "tags": [
+      "fiddlehead",
+      "fern",
+      "PA - Ferncliff Wildlife & Wildflower Preserve"
     ],
     "camera": null,
     "taxonName": null,
@@ -2462,6 +2865,21 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2026-03-22_11-03-23_434.webp",
+    "dateTaken": "2026-03-22T11:03:23",
+    "dateAdded": "2026-09-15T09:54:42.543651",
+    "title": "Rhododendron Bud, Scales Still Closed",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "flower bud",
+      "rhododendron"
+    ],
+    "camera": null,
+    "taxonName": "great rhododendron",
+    "taxonUrl": "https://www.inaturalist.org/taxa/83059"
+  },
+  {
     "fileName": "2026-03-21_11-42-48_774.webp",
     "dateTaken": "2026-03-21T11:42:48",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -2488,6 +2906,59 @@
       "tree",
       "pareidolia",
       "PA - Forbes State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-03-03_18-01-06_850.webp",
+    "dateTaken": "2026-03-03T18:01:06",
+    "dateAdded": "2026-09-15T09:54:42.539835",
+    "title": "Three Droplets Strung on a Grass Stem",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "droplet",
+      "grass",
+      "backlit",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-02-28_17-12-29_309.webp",
+    "dateTaken": "2026-02-28T17:12:29",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Screwy Ice Face",
+    "caption": "",
+    "locationName": "PA - French Creek State Park",
+    "tags": [
+      "rock",
+      "cliff",
+      "fern",
+      "pareidolia",
+      "PA - French Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-02-10_17-51-21_254.webp",
+    "dateTaken": "2026-02-10T17:51:21",
+    "dateAdded": "2026-09-15T09:54:42.537361",
+    "title": "Contrails Crossing a Winter Sunset",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "sunset",
+      "contrail",
+      "sky",
+      "silhouette",
+      "PA - Marsh Creek State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -2759,6 +3230,23 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-11-29_15-04-49_069.webp",
+    "dateTaken": "2025-11-29T15:04:49",
+    "dateAdded": "2026-09-15T09:54:42.533413",
+    "title": "Backlit Honeysuckle Leaves Glowing Gold",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "leaf",
+      "fall",
+      "backlit",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": "Japanese honeysuckle",
+    "taxonUrl": "https://www.inaturalist.org/taxa/77835"
+  },
+  {
     "fileName": "2025-11-28_11-23-26_464.webp",
     "dateTaken": "2025-11-28T11:23:26",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -2809,6 +3297,22 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-11-22_15-15-13_751.webp",
+    "dateTaken": "2025-11-22T15:15:13",
+    "dateAdded": "2026-09-15T09:54:42.530989",
+    "title": "Dogwood Whorl",
+    "caption": "",
+    "locationName": "PA - Templin Woods Preserve",
+    "tags": [
+      "dogwood",
+      "leaf",
+      "PA - Templin Woods Preserve"
+    ],
+    "camera": null,
+    "taxonName": "dogwoods",
+    "taxonUrl": "https://www.inaturalist.org/taxa/47193"
+  },
+  {
     "fileName": "2025-11-15_08-06-39_343.webp",
     "dateTaken": "2025-11-15T08:06:39",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -2819,6 +3323,22 @@
       "wood",
       "pareidolia",
       "PA - Mount Nittany"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-11-08_07-39-08_663.webp",
+    "dateTaken": "2025-11-08T07:39:08",
+    "dateAdded": "2026-09-15T09:54:42.528578",
+    "title": "Fern Frond Vein Detail",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "frond",
+      "fern",
+      "macro"
     ],
     "camera": null,
     "taxonName": null,
@@ -2836,6 +3356,22 @@
       "fall",
       "pareidolia",
       "MD - Sugarloaf Mountain"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-10-28_17-40-58_314.webp",
+    "dateTaken": "2025-10-28T17:40:58",
+    "dateAdded": "2026-09-15T09:54:42.525988",
+    "title": "Three Maple Leaves on the Deck Boards",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "leaf",
+      "fall",
+      "PA - Exton Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -2890,6 +3426,71 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-10-11_09-37-15_389.webp",
+    "dateTaken": "2025-10-11T09:37:15",
+    "dateAdded": "2026-09-15T09:54:42.523195",
+    "title": "Beech Leaves Turning Gold Against the Sky",
+    "caption": "",
+    "locationName": "PA - Bald Eagle State Forest",
+    "tags": [
+      "leaf",
+      "fall",
+      "backlit",
+      "PA - Bald Eagle State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-10-07_17-19-57_574.webp",
+    "dateTaken": "2025-10-07T17:19:57",
+    "dateAdded": "2026-09-15T09:54:42.521333",
+    "title": "Fallen Oak Leaf on Lichen-Covered Stone",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "leaf",
+      "lichen",
+      "rock",
+      "fall",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonName": "northern red oak",
+    "taxonUrl": "https://www.inaturalist.org/taxa/49005"
+  },
+  {
+    "fileName": "2025-09-28_08-20-05_324.webp",
+    "dateTaken": "2025-09-28T08:20:05",
+    "dateAdded": "2026-09-15T09:54:42.518642",
+    "title": "Every Strand Beaded With Dew",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "web",
+      "droplet"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-09-28_08-16-21_744.webp",
+    "dateTaken": "2025-09-28T08:16:21",
+    "dateAdded": "2026-09-15T09:54:42.517334",
+    "title": "Dew-Strung Web Radiating From Center",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "web",
+      "droplet"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-09-16_18-04-37_056.webp",
     "dateTaken": "2025-09-16T18:04:37",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -2920,6 +3521,23 @@
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "2025-09-13_17-49-54_501.webp",
+    "dateTaken": "2025-09-13T17:49:54",
+    "dateAdded": "2026-09-15T09:54:42.512410",
+    "title": "Candy-Striped Leafhopper on a Leaf Edge",
+    "caption": "",
+    "locationName": "PA - Tunkhannock",
+    "tags": [
+      "leafhopper",
+      "macro",
+      "insect",
+      "PA - Tunkhannock"
+    ],
+    "camera": null,
+    "taxonName": "Red-banded Leafhopper",
+    "taxonUrl": "https://www.inaturalist.org/taxa/56925"
   },
   {
     "fileName": "2025-09-13_14-12-21_082.webp",
@@ -2971,6 +3589,22 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-09-05_18-43-32_515.webp",
+    "dateTaken": "2025-09-05T18:43:32",
+    "dateAdded": "2026-09-15T09:54:42.510712",
+    "title": "Lady Beetle Climbing a Spiky Seed Head",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "ladybug",
+      "macro",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": "Asian Lady Beetle",
+    "taxonUrl": "https://www.inaturalist.org/taxa/48484"
+  },
+  {
     "fileName": "2025-08-15_14-26-01_554.webp",
     "dateTaken": "2025-08-15T14:26:01",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -3004,6 +3638,22 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/29305"
   },
   {
+    "fileName": "2025-07-25_18-02-40_839.webp",
+    "dateTaken": "2025-07-25T18:02:40",
+    "dateAdded": "2026-09-15T09:54:42.502521",
+    "title": "Pickerelweed Spike Just Starting to Bloom",
+    "caption": "",
+    "locationName": "PA - Chester County",
+    "tags": [
+      "flower bud",
+      "macro",
+      "PA - Chester County"
+    ],
+    "camera": null,
+    "taxonName": "pickerelweed",
+    "taxonUrl": "https://www.inaturalist.org/taxa/52599"
+  },
+  {
     "fileName": "2025-07-19_15-48-39_454.webp",
     "dateTaken": "2025-07-19T15:48:39",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
@@ -3031,6 +3681,24 @@
       "fern",
       "pareidolia",
       "PA - Clear Creek State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-07-11_10-02-34_890.webp",
+    "dateTaken": "2025-07-11T10:02:34",
+    "dateAdded": "2026-09-15T09:54:42.492248",
+    "title": "Fern-Patterned Lichen on Mossy Stone",
+    "caption": "",
+    "locationName": "PA - Elk State Park",
+    "tags": [
+      "lichen",
+      "moss",
+      "rock",
+      "shadow",
+      "PA - Elk State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -3104,6 +3772,74 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/1660911"
   },
   {
+    "fileName": "2025-06-17_17-37-12_361.webp",
+    "dateTaken": "2025-06-17T17:37:12",
+    "dateAdded": "2026-09-15T09:54:42.488212",
+    "title": "Moth Mullein Flower Bud",
+    "caption": "",
+    "locationName": "PA - Starr Farm Park",
+    "tags": [
+      "flower bud",
+      "tendril",
+      "macro",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": "moth mullein",
+    "taxonUrl": "https://www.inaturalist.org/taxa/59028"
+  },
+  {
+    "fileName": "2025-06-16_19-57-56_979.webp",
+    "dateTaken": "2025-06-16T19:57:56",
+    "dateAdded": "2026-09-15T09:54:42.487195",
+    "title": "Dew Beaded on a Fuzzy Gray Leaf",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "droplet",
+      "leaf",
+      "macro",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-06-14_15-22-33_791.webp",
+    "dateTaken": "2025-06-14T15:22:33",
+    "dateAdded": "2026-09-15T09:54:42.486206",
+    "title": "Dogbane Beetles Pairing on a Leaf",
+    "caption": "",
+    "locationName": "PA - Stroud Preserve",
+    "tags": [
+      "beetle",
+      "macro",
+      "mating",
+      "PA - Stroud Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-06-13_18-30-40_632.webp",
+    "dateTaken": "2025-06-13T18:30:40",
+    "dateAdded": "2026-09-15T09:54:42.485504",
+    "title": "Red Milkweed Beetle, Head-On",
+    "caption": "",
+    "locationName": "PA - Binky Lee Preserve",
+    "tags": [
+      "beetle",
+      "head on",
+      "macro",
+      "PA - Binky Lee Preserve"
+    ],
+    "camera": null,
+    "taxonName": "Red Milkweed Beetle",
+    "taxonUrl": "https://www.inaturalist.org/taxa/118559"
+  },
+  {
     "fileName": "2025-06-11_19-06-26_587.webp",
     "dateTaken": "2025-06-11T19:06:26",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -3137,6 +3873,23 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-05-21_19-19-47_964.webp",
+    "dateTaken": "2025-05-21T19:19:47",
+    "dateAdded": "2026-09-15T09:54:42.483373",
+    "title": "Single Droplet on a Textured Leaf",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "droplet",
+      "leaf",
+      "macro",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-05-20_19-18-55_659.webp",
     "dateTaken": "2025-05-20T19:18:55",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -3153,6 +3906,54 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-05-03_17-59-35_204.webp",
+    "dateTaken": "2025-05-03T17:59:35",
+    "dateAdded": "2026-09-15T09:54:42.479712",
+    "title": "Radiating Fern Fronds",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "frond",
+      "fern",
+      "overhead"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-05-03_16-05-07_953.webp",
+    "dateTaken": "2025-05-03T16:05:07",
+    "dateAdded": "2026-09-15T09:54:42.477487",
+    "title": "Fern Fronds Circular",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "frond",
+      "fern",
+      "overhead"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-04-29_18-06-48_473.webp",
+    "dateTaken": "2025-04-29T18:06:48",
+    "dateAdded": "2026-09-15T09:54:42.474734",
+    "title": "Maidenhair Fronds Fanning Over the Trail",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "frond",
+      "fern",
+      "trail"
+    ],
+    "camera": null,
+    "taxonName": "northern maidenhair fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/48435"
+  },
+  {
     "fileName": "2025-04-27_10-52-24_613.webp",
     "dateTaken": "2025-04-27T10:52:24",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -3167,6 +3968,72 @@
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "2025-04-24_16-11-14_400.webp",
+    "dateTaken": "2025-04-24T16:11:14",
+    "dateAdded": "2026-09-15T09:54:42.469385",
+    "title": "Cluster of Tight Fiddlehead Spirals",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "fiddlehead",
+      "fern",
+      "spiral",
+      "macro"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-04-24_15-31-12_793.webp",
+    "dateTaken": "2025-04-24T15:31:12",
+    "dateAdded": "2026-09-15T09:54:42.467346",
+    "title": "Single Fiddlehead on a Silver Stalk in the Field",
+    "caption": "",
+    "locationName": null,
+    "tags": [
+      "fiddlehead",
+      "fern",
+      "meadow"
+    ],
+    "camera": null,
+    "taxonName": "common bracken",
+    "taxonUrl": "https://www.inaturalist.org/taxa/52681"
+  },
+  {
+    "fileName": "2025-04-21_19-14-54_765.webp",
+    "dateTaken": "2025-04-21T19:14:54",
+    "dateAdded": "2026-09-15T09:54:42.465798",
+    "title": "Fern Frond Halfway Unrolled",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "frond",
+      "fern",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonName": "Christmas fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/54412"
+  },
+  {
+    "fileName": "2025-04-21_19-08-33_928.webp",
+    "dateTaken": "2025-04-21T19:08:33",
+    "dateAdded": "2026-09-15T09:54:42.463696",
+    "title": "Fuzzy Fiddlehead Among the Leaf Litter",
+    "caption": "",
+    "locationName": "PA - Exton Park",
+    "tags": [
+      "fiddlehead",
+      "fern",
+      "macro",
+      "PA - Exton Park"
+    ],
+    "camera": null,
+    "taxonName": "cinnamon fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/204165"
   },
   {
     "fileName": "2025-04-20_09-28-21_909.webp",
@@ -3215,6 +4082,39 @@
     "camera": null,
     "taxonName": "Common Watersnake",
     "taxonUrl": "https://www.inaturalist.org/taxa/29305"
+  },
+  {
+    "fileName": "2025-04-13_13-48-42_353.webp",
+    "dateTaken": "2025-04-13T13:48:42",
+    "dateAdded": "2026-09-15T09:54:42.461189",
+    "title": "Fiddlehead Coiled Tight",
+    "caption": "",
+    "locationName": "PA - ChesLen Preserve",
+    "tags": [
+      "fiddlehead",
+      "fern",
+      "macro",
+      "PA - ChesLen Preserve"
+    ],
+    "camera": null,
+    "taxonName": "ostrich fern",
+    "taxonUrl": "https://www.inaturalist.org/taxa/82574"
+  },
+  {
+    "fileName": "2025-04-05_15-40-46_200.webp",
+    "dateTaken": "2025-04-05T15:40:46",
+    "dateAdded": "2026-09-15T09:54:42.458979",
+    "title": "Leaf Bud Break into Circus Clown",
+    "caption": "",
+    "locationName": "PA - Michaux State Forest",
+    "tags": [
+      "leaf bud",
+      "pareidolia",
+      "PA - Michaux State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
   },
   {
     "fileName": "2025-04-05_09-10-34_481.webp",
@@ -3416,6 +4316,39 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2024-12-28_14-49-39_623.webp",
+    "dateTaken": "2024-12-28T14:49:39",
+    "dateAdded": "2026-09-15T09:54:42.455526",
+    "title": "Beaded Droplets on a Red-Twig Stem",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "droplet",
+      "macro",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-12-28_14-28-02_048.webp",
+    "dateTaken": "2024-12-28T14:28:02",
+    "dateAdded": "2026-09-15T09:54:42.454379",
+    "title": "Dewdrops on Winter Grass",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "droplet",
+      "grass",
+      "fog",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2024-12-26_10-14-10_528.webp",
     "dateTaken": "2024-12-26T10:14:10",
     "dateAdded": null,
@@ -3481,6 +4414,22 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2024-10-12_10-24-47_907.webp",
+    "dateTaken": "2024-10-12T10:24:47",
+    "dateAdded": "2026-09-15T09:54:42.452340",
+    "title": "Spotted Cucumber Beeter on Purple Beautyberry",
+    "caption": "",
+    "locationName": "NJ - Ringwood State Park",
+    "tags": [
+      "beetle",
+      "macro",
+      "NJ - Ringwood State Park"
+    ],
+    "camera": null,
+    "taxonName": "Spotted Cucumber Beetle",
+    "taxonUrl": "https://www.inaturalist.org/taxa/55487"
+  },
+  {
     "fileName": "2024-10-03_16-34-34_862.webp",
     "dateTaken": "2024-10-03T16:34:34",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -3491,6 +4440,23 @@
       "rock",
       "pareidolia",
       "PA - Stroud Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-09-29_11-48-38_040.webp",
+    "dateTaken": "2024-09-29T11:48:37",
+    "dateAdded": "2026-09-15T09:54:42.450786",
+    "title": "Dewy Web Hammock",
+    "caption": "",
+    "locationName": "PA - Tuscarora State Forest",
+    "tags": [
+      "web",
+      "droplet",
+      "leaf",
+      "PA - Tuscarora State Forest"
     ],
     "camera": null,
     "taxonName": null,
@@ -3528,6 +4494,40 @@
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
+  },
+  {
+    "fileName": "2024-08-10_09-12-23_134.webp",
+    "dateTaken": "2024-08-10T09:12:23",
+    "dateAdded": "2026-09-15T09:54:42.447867",
+    "title": "Orbweaver Web",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "spider",
+      "spider web",
+      "orbweaver",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-08-10_09-01-21_272.webp",
+    "dateTaken": "2024-08-10T09:01:21",
+    "dateAdded": "2026-09-15T09:54:42.445340",
+    "title": "Orbweaver at Work",
+    "caption": "",
+    "locationName": "PA - Marsh Creek State Park",
+    "tags": [
+      "spider",
+      "orbweaver",
+      "spider web",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": "Spined Micrathena",
+    "taxonUrl": "https://www.inaturalist.org/taxa/85333"
   },
   {
     "fileName": "2024-08-08_17-35-02_072.webp",
@@ -3574,6 +4574,22 @@
       "mountain",
       "vista",
       "PA - Delaware Water Gap National Recreation Area"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-03-03_14-31-36_642.webp",
+    "dateTaken": "2024-03-03T14:31:36",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Big Boulder Face",
+    "caption": "",
+    "locationName": "PA - Fulshaw Craeg Preserve",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "PA - Fulshaw Craeg Preserve"
     ],
     "camera": null,
     "taxonName": null,
