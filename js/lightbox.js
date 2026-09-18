@@ -13,7 +13,7 @@ const Lightbox = (function() {
     const lightboxImageWrap = document.querySelector('.lightbox-image-wrap');
     const lightboxTitle = document.querySelector(".lightbox-title");
     const lightboxMeta = document.querySelector(".lightbox-meta");
-    const lightboxCaption = document.querySelector('.lightbox-caption');
+    const lightboxDescription = document.querySelector('.lightbox-description');
     const lightboxDetails = document.querySelector('.lightbox-details');
     const lightboxTaxon = document.querySelector('.lightbox-taxon a');
     const lightboxTaxonName = document.querySelector('.lightbox-taxon-name');
@@ -38,7 +38,7 @@ const Lightbox = (function() {
 
         // On narrow screens, give the image as much of the viewport as
         // possible -- there's less room to spare overall, and the
-        // title/caption block below it can scroll if it needs to.
+        // title/description block below it can scroll if it needs to.
         const isMobile = window.innerWidth <= 760;
         const maxWidth = window.innerWidth * (isMobile ? 0.98 : 0.9);
         const maxHeight = isMobile
@@ -104,19 +104,19 @@ const Lightbox = (function() {
         const token = ++loadToken;
         const fullSrc = `photos/${photo.fileName}`;
 
-        // Caption/title text is ready instantly, but the full-res image is a
-        // fresh network fetch. Show the (tiny, likely already-cached) grid
+        // Title/description text is ready instantly, but the full-res image is
+        // a fresh network fetch. Show the (tiny, likely already-cached) grid
         // thumbnail right away - stretched to the full display size, so it
         // reads as soft/low-quality on its own, no artificial blur needed -
-        // so the caption never outpaces the image, then swap in the full-res
+        // so the text never outpaces the image, then swap in the full-res
         // version once it's loaded.
         lightboxImage.alt = photo.title;
 
-        // Hide the title/meta/caption block until whichever image actually
-        // paints first (the thumbnail, or the cached full-res image) - keeps
-        // the caption from appearing a beat ahead of any visible image.
-        // {once: true} means this only fires for that first paint, not for
-        // the later thumbnail -> full-res swap.
+        // Hide the title/meta/description block until whichever image
+        // actually paints first (the thumbnail, or the cached full-res
+        // image) - keeps the text from appearing a beat ahead of any visible
+        // image. {once: true} means this only fires for that first paint,
+        // not for the later thumbnail -> full-res swap.
         lightboxDetails.classList.add('is-hidden');
 
         lightboxImage.addEventListener('load', () => {
@@ -176,7 +176,8 @@ const Lightbox = (function() {
 
         lightboxMeta.textContent = meta.join(" • ");
 
-        lightboxCaption.textContent = photo.caption ?? "";
+        lightboxDescription.textContent = photo.description ?? "";
+        lightboxDescription.hidden = !photo.description;
 
         // taxonUrl is only ever set alongside taxonName (see build_gallery.py) --
         // older photos with a taxonId but no taxonName (not yet re-tagged in
@@ -282,7 +283,7 @@ const Lightbox = (function() {
     // Touch swipe: left/right moves between photos, down closes -- the
     // mobile equivalent of the arrow buttons/keys and the backdrop-click
     // close above. Bound to the image wrap specifically (not the whole
-    // lightbox) so it doesn't fight with scrolling the caption text.
+    // lightbox) so it doesn't fight with scrolling the description text.
     const SWIPE_THRESHOLD = 50;
     let touchStartX = null;
     let touchStartY = null;
