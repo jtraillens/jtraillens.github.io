@@ -29,5 +29,5 @@ const NavConfig = [
             { label: 'Recently Added', href: `#/gallery?addedDays=${RECENTLY_ADDED_WINDOW_DAYS}`, separator: true },
         ],
     },
-    { type: 'link', id: 'locationsLink', label: 'Locations', href: '#locations', activeMatch: 'prefix' },
+    { type: 'link', id: 'placesLink', label: 'Places', href: '#places', activeMatch: 'prefix' },
 ];

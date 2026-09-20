@@ -449,22 +449,22 @@ h1 {
     margin-bottom: 1rem;
 }
 
-.locations-content {
+.places-content {
     max-width: 800px;
     margin: 2rem auto 0;
     line-height: 1.6;
 }
 
-.locations-content h1 {
+.places-content h1 {
     margin-bottom: 1rem;
 }
 
-.locations-state h2 {
+.places-state h2 {
     font-size: 1.1rem;
     margin: 1.5rem 0 0.5rem;
 }
 
-.locations-list {
+.places-list {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -472,7 +472,7 @@ h1 {
     column-gap: 2rem;
 }
 
-.locations-list li {
+.places-list li {
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -480,7 +480,7 @@ h1 {
     padding: 0.15rem 0;
 }
 
-.location-count {
+.place-count {
     min-width: 1.6rem;
     padding: 0.05rem 0.5rem;
     border-radius: 999px;
@@ -491,7 +491,7 @@ h1 {
     text-align: center;
 }
 
-.location-pin {
+.place-pin {
     display: inline-flex;
     color: #5a6b8c;
 }
@@ -947,7 +947,7 @@ h1 {
 }
 
 @media (max-width: 480px) {
-    .locations-content {
+    .places-content {
         margin-top: 1rem;
     }
 

@@ -49,9 +49,9 @@ const Main = (function() {
             return;
         }
 
-        if (hash === '#locations') {
-            showView('locations');
-            Locations.load();
+        if (hash === '#places') {
+            showView('places');
+            Places.load();
             return;
         }
 
@@ -69,7 +69,7 @@ const Main = (function() {
     function showView(view) {
         document.querySelector('#galleryView').hidden = view !== 'gallery';
         document.querySelector('#aboutView').hidden = view !== 'about';
-        document.querySelector('#locationsView').hidden = view !== 'locations';
+        document.querySelector('#placesView').hidden = view !== 'places';
     }
 
     async function init() {
