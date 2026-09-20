@@ -1,11 +1,48 @@
 [
   {
+    "fileName": "2026-09-16_15-36-38_971.webp",
+    "dateTaken": "2026-09-16T15:36:38",
+    "dateAdded": "2026-09-20T12:24:47.385964",
+    "title": "Stone Wall Face on a Rail Trail",
+    "description": null,
+    "locationName": "PA - Schuylkill River Trail (Port Clinton)",
+    "locationLabel": "Schuylkill River Trail (Port Clinton), PA",
+    "tags": [
+      "pareidolia",
+      "rock",
+      "PA - Schuylkill River Trail (Port Clinton)"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-09-16_11-29-42_903.webp",
+    "dateTaken": "2026-09-16T11:29:42",
+    "dateAdded": "2026-09-20T12:24:47.382827",
+    "title": "Folded Boulder Face",
+    "description": null,
+    "locationName": "PA - Hawk Mountain Sanctuary",
+    "locationLabel": "Hawk Mountain Sanctuary, PA",
+    "tags": [
+      "rock",
+      "lichen",
+      "moss",
+      "pareidolia",
+      "PA - Hawk Mountain Sanctuary"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-09-09_10-45-52_053.webp",
     "dateTaken": "2026-09-09T10:45:52",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
     "title": "Peavine Island Cliff View",
     "description": null,
     "locationName": "PA - Holtwood",
+    "locationLabel": "Holtwood, PA",
     "tags": [
       "river",
       "rock",
@@ -23,6 +60,7 @@
     "title": "Blue Jay Feather on Weathered Bark",
     "description": "The closest road to where this feather was found was Blue Jay Rd. I kid you not!",
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "feather",
       "macro",
@@ -39,6 +77,7 @@
     "title": "Golden Hour, Goldenrod",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "backlit",
       "flower",
@@ -56,6 +95,7 @@
     "title": "Lone Tree Over the Goldenrod Meadow",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "meadow",
       "tree",
@@ -73,6 +113,7 @@
     "title": "Golden Coral Fungus",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "fungus",
       "coral fungus",
@@ -90,6 +131,7 @@
     "title": "Pale Sunflower Close-Up",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "flower",
       "macro",
@@ -106,6 +148,7 @@
     "title": "Broad Beech Fern",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "fern",
       "overhead",
@@ -122,6 +165,7 @@
     "title": "Super Purple Viscid Violet Cort",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -138,6 +182,7 @@
     "title": "Smoky Spindles",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "fungus",
       "coral fungus",
@@ -155,6 +200,7 @@
     "title": "Turkey Tail Cluster",
     "description": null,
     "locationName": "PA - Tyler Arboretum",
+    "locationLabel": "Tyler Arboretum, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -172,6 +218,7 @@
     "title": "Radiating Pink Stems",
     "description": null,
     "locationName": "PA - Tyler Arboretum",
+    "locationLabel": "Tyler Arboretum, PA",
     "tags": [
       "plant",
       "sumac",
@@ -188,6 +235,7 @@
     "title": "Walnut Caterpillar Moth Cluster",
     "description": null,
     "locationName": "PA - Tyler Arboretum",
+    "locationLabel": "Tyler Arboretum, PA",
     "tags": [
       "caterpillar",
       "insect",
@@ -207,6 +255,7 @@
     "title": "Tulip Tree House",
     "description": null,
     "locationName": "PA - Tyler Arboretum",
+    "locationLabel": "Tyler Arboretum, PA",
     "tags": [
       "forest",
       "treehouse",
@@ -223,6 +272,7 @@
     "title": "Fort Tyler Platform",
     "description": null,
     "locationName": "PA - Tyler Arboretum",
+    "locationLabel": "Tyler Arboretum, PA",
     "tags": [
       "trail",
       "treehouse",
@@ -239,6 +289,7 @@
     "title": "Larch Silhouette",
     "description": null,
     "locationName": "PA - Tyler Arboretum",
+    "locationLabel": "Tyler Arboretum, PA",
     "tags": [
       "pine",
       "sky",
@@ -256,6 +307,7 @@
     "title": "Golden Everlasting",
     "description": null,
     "locationName": "PA - Tyler Arboretum",
+    "locationLabel": "Tyler Arboretum, PA",
     "tags": [
       "flower",
       "macro",
@@ -272,6 +324,7 @@
     "title": "Autumn Olive Blossoms",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "flower",
       "macro",
@@ -288,6 +341,7 @@
     "title": "\"Hello there!\"",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "insect",
       "macro",
@@ -304,6 +358,7 @@
     "title": "Bush Clover Blossoms",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "flower",
       "macro",
@@ -320,6 +375,7 @@
     "title": "Golden Reishi",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "fungus",
       "macro",
@@ -336,6 +392,7 @@
     "title": "Sycamore Sapling",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "backlit",
       "translucent",
@@ -353,6 +410,7 @@
     "title": "Katydid Peeking Over the Leaf",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "insect",
       "macro",
@@ -369,6 +427,7 @@
     "title": "Coker's Amanitas",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -385,6 +444,7 @@
     "title": "Boulder-Strewn Forest Creek",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "creek",
       "forest",
@@ -402,6 +462,7 @@
     "title": "Phaeolus Hispidoides",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "fungus",
       "PA - Birdsboro Waters"
@@ -417,6 +478,7 @@
     "title": "Bleeding Fairy Helmet",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -434,6 +496,7 @@
     "title": "Pallid Bolete",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -450,6 +513,7 @@
     "title": "Violet Viscid Cort",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -466,6 +530,7 @@
     "title": "Milky Cap Twins",
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
+    "locationLabel": "Sadsbury Woods Preserve, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -483,6 +548,7 @@
     "title": "Forget-Me-Not",
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
+    "locationLabel": "Sadsbury Woods Preserve, PA",
     "tags": [
       "flower",
       "macro",
@@ -499,6 +565,7 @@
     "title": "Pure Green Sweat Bee on American Burnweed",
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
+    "locationLabel": "Sadsbury Woods Preserve, PA",
     "tags": [
       "macro",
       "bee",
@@ -516,6 +583,7 @@
     "title": "Maple Canopy Skylight",
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
+    "locationLabel": "Sadsbury Woods Preserve, PA",
     "tags": [
       "forest",
       "leaf",
@@ -533,6 +601,7 @@
     "title": "Maroon-Tipped Bud on a Green Stem",
     "description": null,
     "locationName": "PA - The Laurels Preserve",
+    "locationLabel": "The Laurels Preserve, PA",
     "tags": [
       "flower bud",
       "PA - The Laurels Preserve"
@@ -548,6 +617,7 @@
     "title": "Tall Blue Lettuce Flower",
     "description": null,
     "locationName": "PA - The Laurels Preserve",
+    "locationLabel": "The Laurels Preserve, PA",
     "tags": [
       "plant",
       "flower",
@@ -565,6 +635,7 @@
     "title": "Prickly Cucumber Tendril",
     "description": null,
     "locationName": "PA - The Laurels Preserve",
+    "locationLabel": "The Laurels Preserve, PA",
     "tags": [
       "macro",
       "tendril",
@@ -582,6 +653,7 @@
     "title": "Prickly Cucumber Tendril Coil",
     "description": null,
     "locationName": "PA - The Laurels Preserve",
+    "locationLabel": "The Laurels Preserve, PA",
     "tags": [
       "macro",
       "tendril",
@@ -598,6 +670,7 @@
     "title": "Orange Pinwheel Umbrella",
     "description": null,
     "locationName": "PA - The Laurels Preserve",
+    "locationLabel": "The Laurels Preserve, PA",
     "tags": [
       "macro",
       "fungus",
@@ -615,6 +688,7 @@
     "title": "Violet-Toothed Polypore",
     "description": null,
     "locationName": "PA - The Laurels Preserve",
+    "locationLabel": "The Laurels Preserve, PA",
     "tags": [
       "fungus",
       "PA - The Laurels Preserve"
@@ -630,6 +704,7 @@
     "title": "Marasmius capillaris",
     "description": null,
     "locationName": "PA - The Laurels Preserve",
+    "locationLabel": "The Laurels Preserve, PA",
     "tags": [
       "macro",
       "fungus",
@@ -647,6 +722,7 @@
     "title": "Cabbage White on Goldenrod (moth)",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "moth",
       "macro",
@@ -666,6 +742,7 @@
     "title": "Smooth Chanterelle",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -683,6 +760,7 @@
     "title": "Lynx Paw Oyster",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -700,6 +778,7 @@
     "title": "Northern Crab Spider on Swamp Aster",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "macro",
       "spider",
@@ -717,6 +796,7 @@
     "title": "Forest Path",
     "description": null,
     "locationName": "PA - Opalanie Park",
+    "locationLabel": "Opalanie Park, PA",
     "tags": [
       "trail",
       "forest",
@@ -734,6 +814,7 @@
     "title": "Preserve Meadow Path",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "meadow",
       "curvy trail",
@@ -751,6 +832,7 @@
     "title": "Orange Mycena",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -768,6 +850,7 @@
     "title": "Monarch Caterpillar",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "butterfly",
       "caterpillar",
@@ -784,6 +867,7 @@
     "title": "Ambush Bug on New England Aster",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "macro",
       "insect",
@@ -802,6 +886,7 @@
     "title": "Field Thistle Flower",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "macro",
       "flower",
@@ -820,6 +905,7 @@
     "title": "Orange Gilled Waxcap",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -837,6 +923,7 @@
     "title": "Morning Sailing at Marsh Creek",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "lake",
       "vista",
@@ -854,6 +941,7 @@
     "title": "Snail Shell Spiral",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "macro",
       "snail",
@@ -871,6 +959,7 @@
     "title": "Red Chanterelle",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -889,6 +978,7 @@
     "title": "Turkey Tail",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fungus",
       "PA - Exton Park"
@@ -904,6 +994,7 @@
     "title": "Fungus Neighbors",
     "description": null,
     "locationName": "PA - Bondsville Mill Park",
+    "locationLabel": "Bondsville Mill Park, PA",
     "tags": [
       "fungus",
       "PA - Bondsville Mill Park"
@@ -919,6 +1010,7 @@
     "title": "Dryad's Saddle",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -936,6 +1028,7 @@
     "title": "Japanese Barberry",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "plant",
       "leaf",
@@ -954,6 +1047,7 @@
     "title": "Ivy-Leaved Morning-Glory",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "macro",
       "flower",
@@ -970,6 +1064,7 @@
     "title": "American Hoverfly on Chicory",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "insect",
       "macro",
@@ -987,6 +1082,7 @@
     "title": "False Turkey Tail",
     "description": null,
     "locationName": "PA - Myrick Conservation Center",
+    "locationLabel": "Myrick Conservation Center, PA",
     "tags": [
       "fungus",
       "PA - Myrick Conservation Center"
@@ -1002,6 +1098,7 @@
     "title": "Sunlight through the Canopy",
     "description": null,
     "locationName": "PA - Coventry Woods Park",
+    "locationLabel": "Coventry Woods Park, PA",
     "tags": [
       "forest",
       "trail",
@@ -1018,6 +1115,7 @@
     "title": "Indigo Milk Cap",
     "description": null,
     "locationName": "PA - Coventry Woods Park",
+    "locationLabel": "Coventry Woods Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1035,6 +1133,7 @@
     "title": "Hairy Skullcap Calyx Scoops",
     "description": null,
     "locationName": "PA - Woody's Woods",
+    "locationLabel": "Woody's Woods, PA",
     "tags": [
       "macro",
       "plant",
@@ -1051,6 +1150,7 @@
     "title": "Hairy Oyster Mushroom",
     "description": null,
     "locationName": "PA - Woody's Woods",
+    "locationLabel": "Woody's Woods, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1070,6 +1170,7 @@
     "title": "Evening Clouds Moon",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "sky",
       "moon",
@@ -1087,6 +1188,7 @@
     "title": "Marsh Creek Sunset",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "sunset",
       "sky",
@@ -1103,6 +1205,7 @@
     "title": "Preserve Forest Path",
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
     "tags": [
       "forest",
       "trail",
@@ -1120,6 +1223,7 @@
     "title": "Field Thistle",
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
     "tags": [
       "thistle",
       "PA - Thomas P. Bentley Nature Preserve"
@@ -1135,6 +1239,7 @@
     "title": "Spiral Tendril",
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
     "tags": [
       "tendril",
       "macro",
@@ -1151,6 +1256,7 @@
     "title": "Sunset Foxtail",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "sunset",
       "grass",
@@ -1168,6 +1274,7 @@
     "title": "I <3 Purple-edged Lute",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1186,6 +1293,7 @@
     "title": "That's One Big Lynx Paw",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1204,6 +1312,7 @@
     "title": "Candy Apple Waxy Cap",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1220,6 +1329,7 @@
     "title": "Feeling Blue",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1236,6 +1346,7 @@
     "title": "Troll-ish Rock Face",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "rock",
       "trail",
@@ -1253,6 +1364,7 @@
     "title": "Cauliflower Mushroom",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "mushroom",
       "fungus",
@@ -1269,6 +1381,7 @@
     "title": "Yellow Star Grass",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "flower",
       "grass",
@@ -1286,6 +1399,7 @@
     "title": "Cross-Veined Troop Mushroom",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1304,6 +1418,7 @@
     "title": "False Turkey Tail",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fungus",
       "PA - Exton Park"
@@ -1319,6 +1434,7 @@
     "title": "Eastern American Platterful Mushroom",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1336,6 +1452,7 @@
     "title": "Curled Edge of a Blusher Mushroom",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1353,6 +1470,7 @@
     "title": "Golden Twins",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1369,6 +1487,7 @@
     "title": "Fairy Parachute",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1387,6 +1506,7 @@
     "title": "Rosepink Flower",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "flower",
       "macro",
@@ -1403,6 +1523,7 @@
     "title": "Meadow/Powerline Clearing at Silver Mine Park",
     "description": null,
     "locationName": "PA - Silver Mine Park",
+    "locationLabel": "Silver Mine Park, PA",
     "tags": [
       "powerline clearing",
       "wide trail",
@@ -1420,6 +1541,7 @@
     "title": "Primrose Moth on Primrose Flower",
     "description": null,
     "locationName": "PA - Silver Mine Park",
+    "locationLabel": "Silver Mine Park, PA",
     "tags": [
       "moth",
       "head on",
@@ -1437,6 +1559,7 @@
     "title": "Small Cave on the Geology Trail at Silver Mine Park",
     "description": null,
     "locationName": "PA - Silver Mine Park",
+    "locationLabel": "Silver Mine Park, PA",
     "tags": [
       "cave",
       "looking out",
@@ -1455,6 +1578,7 @@
     "title": "Silver Mine Rd by Historic Home",
     "description": null,
     "locationName": "PA - Silver Mine Park",
+    "locationLabel": "Silver Mine Park, PA",
     "tags": [
       "road",
       "historic house",
@@ -1473,6 +1597,7 @@
     "title": "Red-Spotted Admirals",
     "description": null,
     "locationName": "PA - Silver Mine Park",
+    "locationLabel": "Silver Mine Park, PA",
     "tags": [
       "butterfly",
       "PA - Silver Mine Park"
@@ -1488,6 +1613,7 @@
     "title": "Mill Creek Trail at Kiwanis Natural Area",
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
+    "locationLabel": "Lancaster County Central Park, PA",
     "tags": [
       "leading lines",
       "trail",
@@ -1504,6 +1630,7 @@
     "title": "Green Stink Bud Nymph on Hibiscus Flower",
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
+    "locationLabel": "Lancaster County Central Park, PA",
     "tags": [
       "insect",
       "stinkbug",
@@ -1521,6 +1648,7 @@
     "title": "Hibiscus Flower Bud",
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
+    "locationLabel": "Lancaster County Central Park, PA",
     "tags": [
       "flower",
       "flower bud",
@@ -1539,6 +1667,7 @@
     "title": "Zabulon Skipper",
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
+    "locationLabel": "Lancaster County Central Park, PA",
     "tags": [
       "skipper",
       "macro",
@@ -1556,6 +1685,7 @@
     "title": "Species of Xylaria (genus)",
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
+    "locationLabel": "Lancaster County Central Park, PA",
     "tags": [
       "fungus",
       "xylaria",
@@ -1573,6 +1703,7 @@
     "title": "Helmeted Squash Bug",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "insect",
       "squash bug",
@@ -1591,6 +1722,7 @@
     "title": "Black-staining Polypore \"Brain\"",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "fungus",
       "polypore",
@@ -1608,6 +1740,7 @@
     "title": "Luminescent Panellus",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "fungus",
       "underside",
@@ -1626,6 +1759,7 @@
     "title": "Pholiota Granulosa",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1644,6 +1778,7 @@
     "title": "Spotted St. John's Wort",
     "description": null,
     "locationName": "PA - Ridley Creek State Park",
+    "locationLabel": "Ridley Creek State Park, PA",
     "tags": [
       "flower",
       "st. john's wort",
@@ -1662,6 +1797,7 @@
     "title": "Onion (cultivated)",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "flower",
       "onion",
@@ -1679,6 +1815,7 @@
     "title": "Meadow-rue",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "flower",
       "meadow-rue",
@@ -1696,6 +1833,7 @@
     "title": "Fluted Bird's Nest Fungus",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "fungus",
       "bird's nest fungus",
@@ -1713,6 +1851,7 @@
     "title": "Swamp Agrimony",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "plant",
       "overhead",
@@ -1730,6 +1869,7 @@
     "title": "Blue-Green Cracking Russula",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1747,6 +1887,7 @@
     "title": "Eastern Tiger Swallowtail on Hollow Joe-Pye Weed",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "butterfly",
       "joe-pye weed",
@@ -1765,6 +1906,7 @@
     "title": "Pickerelweed",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "wetland",
       "flower",
@@ -1781,6 +1923,7 @@
     "title": "Triangular Boulder's Pointed Chin",
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
+    "locationLabel": "Monocacy Hill Recreation Area, PA",
     "tags": [
       "rock",
       "pareidolia",
@@ -1797,6 +1940,7 @@
     "title": "Stylogaster Neglecta on Alsike Clover",
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
+    "locationLabel": "Monocacy Hill Recreation Area, PA",
     "tags": [
       "flower",
       "insect",
@@ -1815,6 +1959,7 @@
     "title": "Alsike Clover",
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
+    "locationLabel": "Monocacy Hill Recreation Area, PA",
     "tags": [
       "clover",
       "flower",
@@ -1833,6 +1978,7 @@
     "title": "Trooping Crumble Cap",
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
+    "locationLabel": "Monocacy Hill Recreation Area, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -1850,6 +1996,7 @@
     "title": "Two-striped Grasshopper",
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
+    "locationLabel": "Daniel Boone Homestead, PA",
     "tags": [
       "grasshopper",
       "macro",
@@ -1866,6 +2013,7 @@
     "title": "Acrobat Ant on American Burnweed Flower",
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
+    "locationLabel": "Daniel Boone Homestead, PA",
     "tags": [
       "macro",
       "flower",
@@ -1883,6 +2031,7 @@
     "title": "Ironweed Clearwing Moth",
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
+    "locationLabel": "Daniel Boone Homestead, PA",
     "tags": [
       "moth",
       "macro",
@@ -1901,6 +2050,7 @@
     "title": "Blue Vervain",
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
+    "locationLabel": "Daniel Boone Homestead, PA",
     "tags": [
       "flower",
       "macro",
@@ -1917,6 +2067,7 @@
     "title": "Sweet Joe-Pye Weed",
     "description": null,
     "locationName": "PA - Wissahickon Valley Park",
+    "locationLabel": "Wissahickon Valley Park, PA",
     "tags": [
       "flower",
       "joe-pye weed",
@@ -1935,6 +2086,7 @@
     "title": "Field Garlic flowers",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "flower",
       "onion",
@@ -1952,6 +2104,7 @@
     "title": "North American Luna Moth",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "moth",
       "macro",
@@ -1969,6 +2122,7 @@
     "title": "Old Race Track at Marsh Creek SP",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "trail",
       "PA - Marsh Creek State Park"
@@ -1984,6 +2138,7 @@
     "title": "Brown-belted Bumble Bee",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "bumble bee",
       "bee",
@@ -2001,6 +2156,7 @@
     "title": "Condylostylus Sipho (long-legged fly)",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "fly",
       "long-legged fly",
@@ -2018,6 +2174,7 @@
     "title": "Naked-Flowered Tick-Trefoil",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "flower",
       "macro",
@@ -2035,6 +2192,7 @@
     "title": "Wild Teasel",
     "description": null,
     "locationName": "PA - Paradise Valley Nature Area",
+    "locationLabel": "Paradise Valley Nature Area, PA",
     "tags": [
       "flower",
       "macro",
@@ -2053,6 +2211,7 @@
     "title": "Margined Calligrapher",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "calligrapher fly",
       "fly",
@@ -2071,6 +2230,7 @@
     "title": "Thaumatomyia Glabra",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "fly",
       "grass fly",
@@ -2088,6 +2248,7 @@
     "title": "River Oats",
     "description": null,
     "locationName": "PA - Hildacy Preserve",
+    "locationLabel": "Hildacy Preserve, PA",
     "tags": [
       "plant",
       "grass",
@@ -2105,6 +2266,7 @@
     "title": "Grape Tendrils",
     "description": null,
     "locationName": "PA - Brandywine Meadows Preserve",
+    "locationLabel": "PA - Brandywine Meadows Preserve",
     "tags": [
       "plant",
       "vine",
@@ -2123,6 +2285,7 @@
     "title": "Chocolate Tube Slime",
     "description": null,
     "locationName": "PA - Harmony Hill Nature Area",
+    "locationLabel": "Harmony Hill Nature Area, PA",
     "tags": [
       "fungus",
       "slime mold",
@@ -2140,6 +2303,7 @@
     "title": "Pale Oyster Mushroom",
     "description": null,
     "locationName": "PA - Harmony Hill Nature Area",
+    "locationLabel": "Harmony Hill Nature Area, PA",
     "tags": [
       "fungus",
       "mushroom",
@@ -2157,6 +2321,7 @@
     "title": "Sensitive Fern Fronds",
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
+    "locationLabel": "Binky Lee Preserve, PA",
     "tags": [
       "fern",
       "frond",
@@ -2175,6 +2340,7 @@
     "title": "Orange Assassin Bug on Queen Anne's Lace",
     "description": null,
     "locationName": "DE - Auburn Valley State Park",
+    "locationLabel": "Auburn Valley State Park, DE",
     "tags": [
       "insect",
       "assassin bug",
@@ -2192,6 +2358,7 @@
     "title": "Kousa Dogwood Leaf",
     "description": null,
     "locationName": "PA - Stateline Woods Preserve",
+    "locationLabel": "Stateline Woods Preserve, PA",
     "tags": [
       "tree",
       "leaf",
@@ -2209,6 +2376,7 @@
     "title": "Peppered Jumping Spider",
     "description": null,
     "locationName": "PA - Stateline Woods Preserve",
+    "locationLabel": "Stateline Woods Preserve, PA",
     "tags": [
       "spider",
       "jumping spider",
@@ -2227,6 +2395,7 @@
     "title": "Buffalo Treehopper",
     "description": null,
     "locationName": "PA - ChesLen Preserve",
+    "locationLabel": "ChesLen Preserve, PA",
     "tags": [
       "insect",
       "treehopper",
@@ -2244,6 +2413,7 @@
     "title": "Yellow-faced Micropanther with Prey",
     "description": null,
     "locationName": "PA - ChesLen Preserve",
+    "locationLabel": "ChesLen Preserve, PA",
     "tags": [
       "insect",
       "fly",
@@ -2262,6 +2432,7 @@
     "title": "Cutleaf Coneflower",
     "description": null,
     "locationName": "PA - ChesLen Preserve",
+    "locationLabel": "ChesLen Preserve, PA",
     "tags": [
       "flower",
       "macro",
@@ -2279,6 +2450,7 @@
     "title": "Common Eastern Physocephala on Butterfly Milkweed.",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "fly",
       "insect",
@@ -2296,6 +2468,7 @@
     "title": "Central floret of Queen Anne's lace",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "flower",
       "macro",
@@ -2313,6 +2486,7 @@
     "title": "Pure Green Sweat Bee on Black-eyed Susan",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "insect",
       "fly",
@@ -2332,6 +2506,7 @@
     "title": "Fly Perched on Quack Grass",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "fly",
       "macro",
@@ -2350,6 +2525,7 @@
     "title": "Spotted Knapweed Flower Bud",
     "description": null,
     "locationName": "DE - Auburn Valley State Park",
+    "locationLabel": "Auburn Valley State Park, DE",
     "tags": [
       "flower",
       "flower bud",
@@ -2369,6 +2545,7 @@
     "title": "Gray Goggle-Eye (Fly)",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "insect",
       "fly",
@@ -2387,6 +2564,7 @@
     "title": "Musk Thistle Seed Head",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "thistle",
       "seed head",
@@ -2403,6 +2581,7 @@
     "title": "Musk Thistle Flower",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "thistle",
       "flower",
@@ -2421,6 +2600,7 @@
     "title": "White campion (seed pod)",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "flower",
       "macro",
@@ -2438,6 +2618,7 @@
     "title": "Witch-Hazel Leaf Beaded With Rain",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "leaf",
       "droplet",
@@ -2454,10 +2635,47 @@
     "title": "Leaf Scattered With Droplets",
     "description": null,
     "locationName": "PA - Warwick County Park",
+    "locationLabel": "Warwick County Park, PA",
     "tags": [
       "leaf",
       "droplet",
       "PA - Warwick County Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-06-22_09-15-12_724.webp",
+    "dateTaken": "2026-06-22T09:15:12",
+    "dateAdded": "2026-09-20T12:24:47.376553",
+    "title": "Muddy Creek Falls",
+    "description": null,
+    "locationName": "MD - Swallow Falls State Park",
+    "locationLabel": "Swallow Falls State Park, MD",
+    "tags": [
+      "waterfall",
+      "rock",
+      "slow shutter",
+      "MD - Swallow Falls State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-06-21_14-01-55_536.webp",
+    "dateTaken": "2026-06-21T14:01:55",
+    "dateAdded": "2026-09-20T12:24:47.373416",
+    "title": "Sun-Bleached Dappled Fern Shadow",
+    "description": null,
+    "locationName": "WV - Cranesville Swamp Preserve",
+    "locationLabel": "Cranesville Swamp Preserve, WV",
+    "tags": [
+      "fern",
+      "wood",
+      "shadow",
+      "WV - Cranesville Swamp Preserve"
     ],
     "camera": null,
     "taxonName": null,
@@ -2470,6 +2688,7 @@
     "title": "Sandstone's Shallow Eroded Stare",
     "description": null,
     "locationName": "OH - Wayne National Forest",
+    "locationLabel": "Wayne National Forest, OH",
     "tags": [
       "rock",
       "pareidolia",
@@ -2486,6 +2705,7 @@
     "title": "Broad Beech Fern Colony",
     "description": null,
     "locationName": "OH - Wayne National Forest",
+    "locationLabel": "Wayne National Forest, OH",
     "tags": [
       "fern",
       "overhead",
@@ -2503,6 +2723,7 @@
     "title": "Striped Lynx Spider on a White Daisy",
     "description": null,
     "locationName": "PA - Mingo Creek County Park",
+    "locationLabel": "Mingo Creek County Park, PA",
     "tags": [
       "spider",
       "flower",
@@ -2520,11 +2741,50 @@
     "title": "Smirky Boulder",
     "description": null,
     "locationName": "PA - Jumonville Glen",
+    "locationLabel": "Jumonville Glen, PA",
     "tags": [
       "rock",
       "fern",
       "pareidolia",
       "PA - Jumonville Glen"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-05-31_09-32-33_503.webp",
+    "dateTaken": "2026-05-31T09:32:33",
+    "dateAdded": "2026-09-20T12:24:47.370279",
+    "title": "Spring Trunks Doubled in a Dark Woodland Pool",
+    "description": null,
+    "locationName": "PA - Moshannon State Forest",
+    "locationLabel": "Moshannon State Forest, PA",
+    "tags": [
+      "reflection",
+      "forest",
+      "tree",
+      "pond",
+      "PA - Moshannon State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-05-25_13-00-35_504.webp",
+    "dateTaken": "2026-05-25T13:00:35",
+    "dateAdded": "2026-09-20T12:24:47.368101",
+    "title": "Hoverfly Grasping a Speedwell Anther Mid-Meal",
+    "description": null,
+    "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
+    "tags": [
+      "fly",
+      "flower",
+      "macro",
+      "pollinator",
+      "PA - Birdsboro Waters"
     ],
     "camera": null,
     "taxonName": null,
@@ -2537,6 +2797,7 @@
     "title": "Dewy Stem Before a Blur of White Blossoms",
     "description": null,
     "locationName": "PA - Pickering Creek Trail",
+    "locationLabel": "Pickering Creek Trail, PA",
     "tags": [
       "droplet",
       "flower",
@@ -2553,6 +2814,7 @@
     "title": "Dew-Hung Tendril Curled Into a Hook",
     "description": null,
     "locationName": "PA - Pickering Creek Trail",
+    "locationLabel": "Pickering Creek Trail, PA",
     "tags": [
       "tendril",
       "droplet",
@@ -2570,6 +2832,7 @@
     "title": "Tarnished Plant Bug on an Oxeye Daisy",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "insect",
       "flower",
@@ -2587,6 +2850,7 @@
     "title": "Backlit Japanese Barberry in Fall",
     "description": null,
     "locationName": "PA - Paradise Valley Nature Area",
+    "locationLabel": "Paradise Valley Nature Area, PA",
     "tags": [
       "leaf",
       "backlit",
@@ -2603,6 +2867,7 @@
     "title": "Buckeye Leaves Glowing Against the Sky",
     "description": null,
     "locationName": "PA - Harmony Hill Nature Area",
+    "locationLabel": "Harmony Hill Nature Area, PA",
     "tags": [
       "leaf",
       "backlit",
@@ -2620,6 +2885,7 @@
     "title": "Sunlit Frond \"Zipper\"",
     "description": null,
     "locationName": "PA - Brandywine Meadows Preserve",
+    "locationLabel": "PA - Brandywine Meadows Preserve",
     "tags": [
       "frond",
       "fern",
@@ -2637,6 +2903,7 @@
     "title": "Dew-Soaked Dandelion Seed Head",
     "description": null,
     "locationName": "PA - Paradise Valley Nature Area",
+    "locationLabel": "Paradise Valley Nature Area, PA",
     "tags": [
       "seed head",
       "droplet",
@@ -2654,6 +2921,7 @@
     "title": "Hanging Stump Face",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "wood",
       "pareidolia",
@@ -2670,6 +2938,7 @@
     "title": "A Fiddlehead Peeking Through Open Fronds",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "fiddlehead",
       "frond",
@@ -2687,6 +2956,7 @@
     "title": "Fiddlehead Uncurling Above the Others",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "fiddlehead",
       "fern",
@@ -2703,6 +2973,7 @@
     "title": "Downy Feather Resting in the Grass",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "feather",
       "grass",
@@ -2719,6 +2990,7 @@
     "title": "Sassafras Leafin' Out",
     "description": null,
     "locationName": "MD - Swan Harbor Farm",
+    "locationLabel": "Swan Harbor Farm, MD",
     "tags": [
       "forest",
       "leaf",
@@ -2735,10 +3007,29 @@
     "title": "Fern Frond Hug",
     "description": null,
     "locationName": "MD - Susquehanna State Park",
+    "locationLabel": "Susquehanna State Park, MD",
     "tags": [
       "frond",
       "fern",
       "MD - Susquehanna State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-04-30_18-17-50_059.webp",
+    "dateTaken": "2026-04-30T18:17:50",
+    "dateAdded": "2026-09-20T12:24:47.358690",
+    "title": "Glassy Larva Curled Around a Grass Blade",
+    "description": null,
+    "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
+    "tags": [
+      "insect",
+      "grass",
+      "macro",
+      "PA - Springton Manor Farm"
     ],
     "camera": null,
     "taxonName": null,
@@ -2751,6 +3042,7 @@
     "title": "Ostrich Fern Leaflets Overlapping in the Light",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "frond",
       "fern",
@@ -2762,12 +3054,30 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/82574"
   },
   {
+    "fileName": "2026-04-29_18-09-10_042.webp",
+    "dateTaken": "2026-04-29T18:09:10",
+    "dateAdded": "2026-09-20T12:24:47.355553",
+    "title": "Fuzzy Catkin Studded With Tiny White Anthers",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "flower",
+      "macro",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-04-28_18-08-40_040.webp",
     "dateTaken": "2026-04-28T18:08:40",
     "dateAdded": "2026-09-15T09:54:42.577776",
     "title": "Fiddlehead in Profile",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fiddlehead",
       "fern",
@@ -2784,6 +3094,7 @@
     "title": "Leaves of Three, New and Red",
     "description": null,
     "locationName": "PA - Schuylkill East Trail",
+    "locationLabel": "Schuylkill East Trail, PA",
     "tags": [
       "poison ivy",
       "leaf",
@@ -2800,6 +3111,7 @@
     "title": "Bud Break on a Dark Twig",
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
     "tags": [
       "leaf bud",
       "macro",
@@ -2816,6 +3128,7 @@
     "title": "Pointed Bud Scales Peeling Back",
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
     "tags": [
       "leaf bud",
       "macro",
@@ -2832,6 +3145,7 @@
     "title": "Dogwood Flower Bud Cluster",
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
+    "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
     "tags": [
       "flower bud",
       "clustered",
@@ -2848,6 +3162,7 @@
     "title": "Rattlesnake Fern Standing in the Litter",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "frond",
       "fern",
@@ -2864,6 +3179,7 @@
     "title": "Mayapple",
     "description": null,
     "locationName": "PA - Theodore A. Parker III Natural Area",
+    "locationLabel": "Theodore A. Parker III Natural Area, PA",
     "tags": [
       "mayapple",
       "droplet",
@@ -2881,6 +3197,7 @@
     "title": "Raindrop Caught on Virginia Bluebell",
     "description": null,
     "locationName": "PA - Ferncliff Wildlife & Wildflower Preserve",
+    "locationLabel": "Ferncliff Wildlife & Wildflower Preserve, PA",
     "tags": [
       "droplet",
       "flower",
@@ -2898,6 +3215,7 @@
     "title": "Fiddlehead Uncurling Into Multiple Tendrils",
     "description": null,
     "locationName": "PA - Ferncliff Wildlife & Wildflower Preserve",
+    "locationLabel": "Ferncliff Wildlife & Wildflower Preserve, PA",
     "tags": [
       "fiddlehead",
       "fern",
@@ -2914,6 +3232,7 @@
     "title": "Lake Chillisquauqe Reflections",
     "description": null,
     "locationName": "PA - Mountour Preserve",
+    "locationLabel": "Mountour Preserve, PA",
     "tags": [
       "lake",
       "reflection",
@@ -2930,6 +3249,7 @@
     "title": "Periwinkle Bud Emerging",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "flower bud",
       "macro",
@@ -2947,6 +3267,7 @@
     "title": "Rhododendron Bud, Scales Still Closed",
     "description": null,
     "locationName": "PA - Laurel Hill State Park",
+    "locationLabel": "Laurel Hill State Park, PA",
     "tags": [
       "flower bud",
       "rhododendron",
@@ -2957,12 +3278,32 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/83059"
   },
   {
+    "fileName": "2026-03-22_09-08-47_711.webp",
+    "dateTaken": "2026-03-22T09:08:47",
+    "dateAdded": "2026-09-20T12:24:47.349279",
+    "title": "Cole Run Falls Framed by Tree-Root Arch",
+    "description": null,
+    "locationName": "PA - Forbes State Forest",
+    "locationLabel": "Forbes State Forest, PA",
+    "tags": [
+      "waterfall",
+      "arch",
+      "natural frame",
+      "tree",
+      "PA - Forbes State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-03-21_11-42-48_774.webp",
     "dateTaken": "2026-03-21T11:42:48",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
     "title": "Swirly Screwy Smile",
     "description": null,
     "locationName": "PA - Powdermill Nature Reserve",
+    "locationLabel": "Powdermill Nature Reserve, PA",
     "tags": [
       "wood",
       "pareidolia",
@@ -2979,6 +3320,7 @@
     "title": "Swirling Stone Carved Like a Face",
     "description": null,
     "locationName": "PA - Forbes State Forest",
+    "locationLabel": "Forbes State Forest, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -2995,6 +3337,7 @@
     "title": "Three Droplets Strung on a Grass Stem",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "droplet",
       "grass",
@@ -3012,6 +3355,7 @@
     "title": "Screwy Ice Face",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "rock",
       "cliff",
@@ -3024,12 +3368,31 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2026-02-24_19-27-42_471.webp",
+    "dateTaken": "2026-02-24T19:27:42",
+    "dateAdded": "2026-09-20T12:24:47.347101",
+    "title": "Bare Tree Over a Frozen Lake at Twilight",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "tree",
+      "silhouette",
+      "frozen lake",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-02-10_17-51-21_254.webp",
     "dateTaken": "2026-02-10T17:51:21",
     "dateAdded": "2026-09-15T09:54:42.537361",
     "title": "Contrails Crossing a Winter Sunset",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "sunset",
       "contrail",
@@ -3048,6 +3411,7 @@
     "title": "Windy Day on Frozen Lake",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "snow",
       "lake",
@@ -3065,6 +3429,7 @@
     "title": "Glowing Snow Stack",
     "description": "Small light wands backlighting a stack of frozen snow layers",
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "snow",
       "ice",
@@ -3078,12 +3443,50 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2026-01-31_12-41-14_579.webp",
+    "dateTaken": "2026-01-31T12:41:14",
+    "dateAdded": "2026-09-20T12:24:47.343964",
+    "title": "Blue Tree Shadow Sprawling Across a Snowfield",
+    "description": null,
+    "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
+    "tags": [
+      "snow",
+      "shadow",
+      "tree",
+      "PA - Starr Farm Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-27_19-02-29_750.webp",
+    "dateTaken": "2026-01-27T19:02:29",
+    "dateAdded": "2026-09-20T12:24:47.340827",
+    "title": "Shadows Sweeping Across a Snowy Mound at Night",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "snow",
+      "shadow",
+      "night",
+      "trail",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-01-24_12-44-47_940.webp",
     "dateTaken": "2026-01-24T12:44:47",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
     "title": "Rock Face with Snowy Eyes",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "rock",
       "snow",
@@ -3101,6 +3504,7 @@
     "title": "Grumpy Snow Face at Dusk",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "snow",
       "pareidolia",
@@ -3117,11 +3521,46 @@
     "title": "Frozen Leaf Droplet",
     "description": null,
     "locationName": "MD - Tuckahoe State Park",
+    "locationLabel": "Tuckahoe State Park, MD",
     "tags": [
       "ice",
       "droplet",
       "macro",
       "MD - Tuckahoe State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-19_08-03-39_982.webp",
+    "dateTaken": "2026-01-19T08:03:39",
+    "dateAdded": "2026-09-20T12:24:47.337690",
+    "title": "Feathery Ice Plates Catching Golden Reflections",
+    "description": null,
+    "locationName": null,
+    "locationLabel": null,
+    "tags": [
+      "ice",
+      "ice sheet",
+      "ice crystals"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-18_12-36-25_942.webp",
+    "dateTaken": "2026-01-18T12:36:25",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Log Hole Face",
+    "description": null,
+    "locationName": "MD - Flag Ponds Nature Park",
+    "locationLabel": "Flag Ponds Nature Park, MD",
+    "tags": [
+      "wood",
+      "pareidolia",
+      "MD - Flag Ponds Nature Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -3134,10 +3573,30 @@
     "title": "Parasaurolophus Tree",
     "description": null,
     "locationName": "MD - Calvert Cliffs State Park",
+    "locationLabel": "Calvert Cliffs State Park, MD",
     "tags": [
       "tree",
       "pareidolia",
       "MD - Calvert Cliffs State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2026-01-06_18-41-21_053.webp",
+    "dateTaken": "2026-01-06T18:41:21",
+    "dateAdded": "2026-09-20T12:24:47.328279",
+    "title": "Branches Above a Glowing Overcast Horizon",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "silhouette",
+      "tree",
+      "sky",
+      "night",
+      "PA - Marsh Creek State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -3150,6 +3609,7 @@
     "title": "Boulder Slouching Against the Trees",
     "description": null,
     "locationName": "PA - State Game Lands 235",
+    "locationLabel": "State Game Lands 235, PA",
     "tags": [
       "rock",
       "snow",
@@ -3167,6 +3627,7 @@
     "title": "Pine Tree's Crying Sap Tracks",
     "description": null,
     "locationName": "PA - State Game Lands 53",
+    "locationLabel": "State Game Lands 53, PA",
     "tags": [
       "pine",
       "pareidolia",
@@ -3183,6 +3644,7 @@
     "title": "Mr. Moss Nose",
     "description": null,
     "locationName": "PA - Tuscarora State Forest",
+    "locationLabel": "Tuscarora State Forest, PA",
     "tags": [
       "rock",
       "snow",
@@ -3201,6 +3663,7 @@
     "title": "Melting Wax Face in the Birch Bark",
     "description": null,
     "locationName": "PA - State Game Lands 211",
+    "locationLabel": "State Game Lands 211, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -3217,6 +3680,7 @@
     "title": "Ice-Encased Rock",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "rock",
       "ice",
@@ -3233,6 +3697,7 @@
     "title": "Bare Winter Trunk's Two Round Eyes",
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
+    "locationLabel": "Binky Lee Preserve, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -3249,6 +3714,7 @@
     "title": "Cliff Icicles",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "ice",
       "icicle",
@@ -3266,10 +3732,48 @@
     "title": "Scared Lichen Rock",
     "description": null,
     "locationName": "PA - William Penn State Forest",
+    "locationLabel": "William Penn State Forest, PA",
     "tags": [
       "rock",
       "pareidolia",
       "PA - William Penn State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-12-13_12-03-22_193.webp",
+    "dateTaken": "2025-12-13T12:03:22",
+    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
+    "title": "Lichen-eyed Rock",
+    "description": null,
+    "locationName": "PA - William Penn State Forest",
+    "locationLabel": "William Penn State Forest, PA",
+    "tags": [
+      "rock",
+      "pareidolia",
+      "lichen",
+      "PA - William Penn State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-12-12_19-34-57_185.webp",
+    "dateTaken": "2025-12-12T19:34:57",
+    "dateAdded": "2026-09-20T12:24:47.326101",
+    "title": "Starry Sky Behind a Leaning Bare Tree",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "night",
+      "silhouette",
+      "tree",
+      "sky",
+      "PA - Marsh Creek State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -3282,10 +3786,30 @@
     "title": "Emerald Branches, Starlit Lake",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "night",
       "reflection",
       "color filter",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-12-10_18-54-26_404.webp",
+    "dateTaken": "2025-12-10T18:54:26",
+    "dateAdded": "2026-09-20T12:24:47.322964",
+    "title": "Elephant Silhouette in the Winter Canopy",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "silhouette",
+      "tree",
+      "pareidolia",
+      "sky",
       "PA - Marsh Creek State Park"
     ],
     "camera": null,
@@ -3299,6 +3823,7 @@
     "title": "Caveman Rock",
     "description": null,
     "locationName": "PA - State Game Lands 43",
+    "locationLabel": "State Game Lands 43, PA",
     "tags": [
       "rock",
       "pareidolia",
@@ -3315,6 +3840,7 @@
     "title": "Backlit Honeysuckle Leaves Glowing Gold",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "leaf",
       "fall",
@@ -3332,6 +3858,7 @@
     "title": "Ingleby View Overlook",
     "description": null,
     "locationName": "PA - Bald Eagle State Forest",
+    "locationLabel": "Bald Eagle State Forest, PA",
     "tags": [
       "rock",
       "vista",
@@ -3349,6 +3876,7 @@
     "title": "Triangular Rock's Shark-Eyed Stare",
     "description": null,
     "locationName": "PA - Rothrock State Forest",
+    "locationLabel": "Rothrock State Forest, PA",
     "tags": [
       "rock",
       "pareidolia",
@@ -3365,6 +3893,7 @@
     "title": "Glossy Oak Leaf Smile",
     "description": null,
     "locationName": "PA - Moshannon State Forest",
+    "locationLabel": "Moshannon State Forest, PA",
     "tags": [
       "leaf",
       "fall",
@@ -3382,6 +3911,7 @@
     "title": "Dogwood Whorl",
     "description": null,
     "locationName": "PA - Templin Woods Preserve",
+    "locationLabel": "Templin Woods Preserve, PA",
     "tags": [
       "dogwood",
       "leaf",
@@ -3398,10 +3928,49 @@
     "title": "Weathered Plank's Three-Knot Face",
     "description": null,
     "locationName": "PA - Mount Nittany",
+    "locationLabel": "Mount Nittany, PA",
     "tags": [
       "wood",
       "pareidolia",
       "PA - Mount Nittany"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-11-13_19-52-23_441.webp",
+    "dateTaken": "2025-11-13T19:52:23",
+    "dateAdded": "2026-09-20T12:24:47.319827",
+    "title": "Lone Glowing Figure in a Field",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "night",
+      "silhouette",
+      "meadow",
+      "sky",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-11-08_08-01-19_638.webp",
+    "dateTaken": "2025-11-08T08:01:19",
+    "dateAdded": "2026-09-20T12:24:47.316690",
+    "title": "Hazy Morning Sun Glowing Down a Leafy Trail",
+    "description": null,
+    "locationName": "PA - Blue Marsh Recreation Area",
+    "locationLabel": "Blue Marsh Recreation Area, PA",
+    "tags": [
+      "trail",
+      "fall",
+      "fog",
+      "forest",
+      "PA - Blue Marsh Recreation Area"
     ],
     "camera": null,
     "taxonName": null,
@@ -3414,6 +3983,7 @@
     "title": "Fern Frond Vein Detail",
     "description": null,
     "locationName": "PA - Blue Marsh Recreation Area",
+    "locationLabel": "Blue Marsh Recreation Area, PA",
     "tags": [
       "frond",
       "fern",
@@ -3425,12 +3995,31 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/54410"
   },
   {
+    "fileName": "2025-11-02_07-11-09_733.webp",
+    "dateTaken": "2025-11-02T07:11:09",
+    "dateAdded": "2026-09-20T12:24:47.313553",
+    "title": "Lone Shadow Down a Leaf-Gold Trail",
+    "description": null,
+    "locationName": "MD - Terrapin Nature Park",
+    "locationLabel": "Terrapin Nature Park, MD",
+    "tags": [
+      "trail",
+      "fall",
+      "shadow",
+      "MD - Terrapin Nature Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-11-01_10-04-48_836.webp",
     "dateTaken": "2025-11-01T10:04:48",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
     "title": "Lichen Boulder's Crescent Smile",
     "description": null,
     "locationName": "MD - Sugarloaf Mountain",
+    "locationLabel": "Sugarloaf Mountain, MD",
     "tags": [
       "rock",
       "fall",
@@ -3448,6 +4037,7 @@
     "title": "Three Maple Leaves on the Deck Boards",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "leaf",
       "fall",
@@ -3464,6 +4054,7 @@
     "title": "Dirt Bank's Burrow-Eyed Face",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "pareidolia",
       "PA - Marsh Creek State Park"
@@ -3479,6 +4070,7 @@
     "title": "Scallop Shell Collection",
     "description": null,
     "locationName": "DE - Cape Henlopen State Park",
+    "locationLabel": "Cape Henlopen State Park, DE",
     "tags": [
       "shell",
       "DE - Cape Henlopen State Park"
@@ -3494,6 +4086,7 @@
     "title": "Tree Trunk's Two Dark Eyes on the Trail",
     "description": null,
     "locationName": "PA - Zindel Park",
+    "locationLabel": "Zindel Park, PA",
     "tags": [
       "tree",
       "trail",
@@ -3512,6 +4105,7 @@
     "title": "Beech Leaves Turning Gold Against the Sky",
     "description": null,
     "locationName": "PA - Bald Eagle State Forest",
+    "locationLabel": "Bald Eagle State Forest, PA",
     "tags": [
       "leaf",
       "fall",
@@ -3529,6 +4123,7 @@
     "title": "Fallen Oak Leaf on Lichen-Covered Stone",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "leaf",
       "lichen",
@@ -3547,6 +4142,7 @@
     "title": "Every Strand Beaded With Dew",
     "description": null,
     "locationName": "PA - Opposum Lake",
+    "locationLabel": "Opposum Lake, PA",
     "tags": [
       "web",
       "droplet",
@@ -3563,6 +4159,7 @@
     "title": "Dew-Strung Web Radiating From Center",
     "description": null,
     "locationName": "PA - Opposum Lake",
+    "locationLabel": "Opposum Lake, PA",
     "tags": [
       "web",
       "droplet",
@@ -3579,6 +4176,7 @@
     "title": "Tent Web Woven Into the Branches",
     "description": null,
     "locationName": "PA - Opposum Lake",
+    "locationLabel": "Opposum Lake, PA",
     "tags": [
       "web",
       "dew",
@@ -3595,6 +4193,7 @@
     "title": "Knobby Burl Face on the Log",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "wood",
       "pareidolia",
@@ -3611,6 +4210,7 @@
     "title": "Steel Truss Bridge over Susquehanna River",
     "description": null,
     "locationName": "PA - Shickshinny",
+    "locationLabel": "Shickshinny, PA",
     "tags": [
       "river",
       "reflection",
@@ -3622,12 +4222,32 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-09-13_19-02-34_966.webp",
+    "dateTaken": "2025-09-13T19:02:34",
+    "dateAdded": "2026-09-20T12:24:47.310416",
+    "title": "Banded Garden Spider Among Thistle Down",
+    "description": "Miller Mountain Tract",
+    "locationName": "PA - Pinchot State Forest",
+    "locationLabel": "Pinchot State Forest, PA",
+    "tags": [
+      "spider",
+      "web",
+      "macro",
+      "seed head",
+      "PA - Pinchot State Forest"
+    ],
+    "camera": null,
+    "taxonName": "Banded Garden Spider",
+    "taxonUrl": "https://www.inaturalist.org/taxa/67708"
+  },
+  {
     "fileName": "2025-09-13_17-49-54_501.webp",
     "dateTaken": "2025-09-13T17:49:54",
     "dateAdded": "2026-09-15T09:54:42.512410",
     "title": "Candy-Striped Leafhopper on a Leaf Edge",
     "description": null,
     "locationName": "PA - Tunkhannock",
+    "locationLabel": "Tunkhannock, PA",
     "tags": [
       "leafhopper",
       "macro",
@@ -3645,6 +4265,7 @@
     "title": "Cloud Reflections on the Dry Susquehanna Riverbed",
     "description": null,
     "locationName": "PA - Vosburg Neck State Park",
+    "locationLabel": "Vosburg Neck State Park, PA",
     "tags": [
       "river",
       "reflection",
@@ -3661,6 +4282,7 @@
     "title": "Sleepy Leaf",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "wood",
       "moss",
@@ -3678,6 +4300,7 @@
     "title": "Wood Grain Face",
     "description": null,
     "locationName": "PA - Evansburg State Park",
+    "locationLabel": "Evansburg State Park, PA",
     "tags": [
       "wood",
       "pareidolia",
@@ -3694,6 +4317,7 @@
     "title": "Lady Beetle Climbing a Spiky Seed Head",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "ladybug",
       "macro",
@@ -3710,6 +4334,7 @@
     "title": "Stone Pillar at Chimney Rocks Park",
     "description": null,
     "locationName": "PA - Chimney Rocks Park",
+    "locationLabel": "Chimney Rocks Park, PA",
     "tags": [
       "rock",
       "vista",
@@ -3727,6 +4352,7 @@
     "title": "Lined Orbweaver",
     "description": null,
     "locationName": "PA - Jennings Environmental Education Center",
+    "locationLabel": "Jennings Environmental Education Center, PA",
     "tags": [
       "spider",
       "web",
@@ -3743,6 +4369,7 @@
     "title": "Joe-Pye Weed Flower Buds",
     "description": null,
     "locationName": "PA - Stroud Preserve",
+    "locationLabel": "Stroud Preserve, PA",
     "tags": [
       "flower bud",
       "macro",
@@ -3759,6 +4386,7 @@
     "title": "Watersnake on the Boardwalk",
     "description": null,
     "locationName": "PA - Myrick Conservation Center",
+    "locationLabel": "Myrick Conservation Center, PA",
     "tags": [
       "snake",
       "reptile",
@@ -3769,12 +4397,32 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/29305"
   },
   {
+    "fileName": "2025-08-01_18-14-16_596.webp",
+    "dateTaken": "2025-08-01T18:14:16",
+    "dateAdded": "2026-09-20T12:24:47.305101",
+    "title": "One Bee Among Many",
+    "description": null,
+    "locationName": "PA - Templin Woods Preserve",
+    "locationLabel": "Templin Woods Preserve, PA",
+    "tags": [
+      "bee",
+      "insect",
+      "macro",
+      "clustered",
+      "PA - Templin Woods Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-07-25_18-02-40_839.webp",
     "dateTaken": "2025-07-25T18:02:40",
     "dateAdded": "2026-09-15T09:54:42.502521",
     "title": "Pickerelweed Spike Just Starting to Bloom",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "flower bud",
       "macro",
@@ -3791,6 +4439,7 @@
     "title": "Garter Snake Preparing for Strike",
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
+    "locationLabel": "Binky Lee Preserve, PA",
     "tags": [
       "snake",
       "reptile",
@@ -3807,6 +4456,7 @@
     "title": "Fern-Topped Ledge with a Dark Grin",
     "description": null,
     "locationName": "PA - Clear Creek State Forest",
+    "locationLabel": "Clear Creek State Forest, PA",
     "tags": [
       "rock",
       "fern",
@@ -3824,6 +4474,7 @@
     "title": "Fern-Patterned Lichen on Mossy Stone",
     "description": null,
     "locationName": "PA - Elk State Park",
+    "locationLabel": "Elk State Park, PA",
     "tags": [
       "lichen",
       "moss",
@@ -3842,6 +4493,7 @@
     "title": "Cliff Wall Full of Watching Eyes",
     "description": null,
     "locationName": "WV - Snake Hill Wildlife Management Area",
+    "locationLabel": "Snake Hill Wildlife Management Area, WV",
     "tags": [
       "rock",
       "cliff",
@@ -3859,6 +4511,7 @@
     "title": "Worried Face on the Wet Stone",
     "description": null,
     "locationName": "WV - Snake Hill Wildlife Management Area",
+    "locationLabel": "Snake Hill Wildlife Management Area, WV",
     "tags": [
       "rock",
       "pareidolia",
@@ -3875,6 +4528,7 @@
     "title": "Morning Fog Over the River Valley",
     "description": null,
     "locationName": "WV - Snake Hill Wildlife Management Area",
+    "locationLabel": "Snake Hill Wildlife Management Area, WV",
     "tags": [
       "forest",
       "vista",
@@ -3893,6 +4547,7 @@
     "title": "Eastern Ratsnake Coil",
     "description": null,
     "locationName": "WV - Toms Run Preserve",
+    "locationLabel": "Toms Run Preserve, WV",
     "tags": [
       "snake",
       "reptile",
@@ -3903,12 +4558,32 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/1660911"
   },
   {
+    "fileName": "2025-07-05_08-52-09_855.webp",
+    "dateTaken": "2025-07-05T08:52:09",
+    "dateAdded": "2026-09-20T12:24:47.301964",
+    "title": "Clay Run Mini Falls",
+    "description": null,
+    "locationName": "WV - Coopers Rock State Forest",
+    "locationLabel": "Coopers Rock State Forest, WV",
+    "tags": [
+      "waterfall",
+      "rock",
+      "forest",
+      "slow shutter",
+      "WV - Coopers Rock State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-06-17_17-37-12_361.webp",
     "dateTaken": "2025-06-17T17:37:12",
     "dateAdded": "2026-09-15T09:54:42.488212",
     "title": "Moth Mullein Flower Bud",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "flower bud",
       "tendril",
@@ -3926,6 +4601,7 @@
     "title": "Dew Beaded on a Fuzzy Gray Leaf",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "droplet",
       "leaf",
@@ -3943,6 +4619,7 @@
     "title": "Dogbane Beetles Pairing on a Leaf",
     "description": null,
     "locationName": "PA - Stroud Preserve",
+    "locationLabel": "Stroud Preserve, PA",
     "tags": [
       "beetle",
       "macro",
@@ -3960,6 +4637,7 @@
     "title": "Red Milkweed Beetle, Head-On",
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
+    "locationLabel": "Binky Lee Preserve, PA",
     "tags": [
       "beetle",
       "head on",
@@ -3977,6 +4655,7 @@
     "title": "Two-Spot Lichen Face on the Rock",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "rock",
       "pareidolia",
@@ -3993,11 +4672,87 @@
     "title": "Alien in the Creek",
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "rock",
       "stream",
       "pareidolia",
       "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-06-04_18-44-51_989.webp",
+    "dateTaken": "2025-06-04T18:44:51",
+    "dateAdded": "2026-09-20T12:24:47.295690",
+    "title": "Curling Vine Tip Silhouetted Against the Evening Sky",
+    "description": null,
+    "locationName": "PA - Bryn Coed Preserve",
+    "locationLabel": "Bryn Coed Preserve, PA",
+    "tags": [
+      "vine",
+      "tendril",
+      "silhouette",
+      "sky",
+      "PA - Bryn Coed Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-05-25_11-04-21_778.webp",
+    "dateTaken": "2025-05-25T11:04:21",
+    "dateAdded": "2026-09-20T12:24:47.292553",
+    "title": "Insect Swarm Speckling a Gap in the Canopy",
+    "description": null,
+    "locationName": "PA - Glacier Pools Preserve",
+    "locationLabel": "Glacier Pools Preserve, PA",
+    "tags": [
+      "forest",
+      "sky",
+      "tree",
+      "PA - Glacier Pools Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-05-24_12-00-00_469.webp",
+    "dateTaken": "2025-05-24T12:00:00",
+    "dateAdded": "2026-09-20T12:24:47.289416",
+    "title": "Gotshall Run Tributary Cascade",
+    "description": null,
+    "locationName": "PA - Tiadaghton State Forest",
+    "locationLabel": "Tiadaghton State Forest, PA",
+    "tags": [
+      "stream",
+      "forest",
+      "moss",
+      "slow shutter",
+      "PA - Tiadaghton State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-05-24_10-39-47_453.webp",
+    "dateTaken": "2025-05-24T10:39:47",
+    "dateAdded": "2026-09-20T12:24:47.284101",
+    "title": "Silky Gottshall Run",
+    "description": null,
+    "locationName": "PA - Tiadaghton State Forest",
+    "locationLabel": "Tiadaghton State Forest, PA",
+    "tags": [
+      "stream",
+      "moss",
+      "forest",
+      "slow shutter",
+      "PA - Tiadaghton State Forest"
     ],
     "camera": null,
     "taxonName": null,
@@ -4010,6 +4765,7 @@
     "title": "Single Droplet on a Textured Leaf",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "droplet",
       "leaf",
@@ -4027,6 +4783,7 @@
     "title": "Owl-Eyed Tree Trunk by the Lake",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -4043,6 +4800,7 @@
     "title": "Daisy Flower about to Bloom",
     "description": null,
     "locationName": "PA - Green Hills Preserve",
+    "locationLabel": "Green Hills Preserve, PA",
     "tags": [
       "flower bud",
       "macro",
@@ -4053,12 +4811,32 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/56057"
   },
   {
+    "fileName": "2025-05-05_18-40-58_856.webp",
+    "dateTaken": "2025-05-05T18:40:58",
+    "dateAdded": "2026-09-20T12:24:47.280964",
+    "title": "Spider Crossing Violet-Toothed Polypore",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "spider",
+      "fungus",
+      "polypore",
+      "macro",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-05-03_17-59-35_204.webp",
     "dateTaken": "2025-05-03T17:59:35",
     "dateAdded": "2026-09-15T09:54:42.479712",
     "title": "Radiating Fern Fronds",
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
+    "locationLabel": "Tiadaghton State Forest, PA",
     "tags": [
       "frond",
       "fern",
@@ -4076,6 +4854,7 @@
     "title": "Fern Fronds Circular",
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
+    "locationLabel": "Tiadaghton State Forest, PA",
     "tags": [
       "frond",
       "fern",
@@ -4093,6 +4872,7 @@
     "title": "Maidenhair Fronds Fanning Over the Trail",
     "description": null,
     "locationName": "PA - Templin Woods Preserve",
+    "locationLabel": "Templin Woods Preserve, PA",
     "tags": [
       "frond",
       "fern",
@@ -4110,6 +4890,7 @@
     "title": "Fallen Log's Surprised Expression",
     "description": null,
     "locationName": "PA - William H. Kain County Park",
+    "locationLabel": "William H. Kain County Park, PA",
     "tags": [
       "wood",
       "pareidolia",
@@ -4126,6 +4907,7 @@
     "title": "Cluster of Tight Fiddlehead Spirals",
     "description": null,
     "locationName": "PA - State Game Lands 52",
+    "locationLabel": "State Game Lands 52, PA",
     "tags": [
       "fiddlehead",
       "fern",
@@ -4144,6 +4926,7 @@
     "title": "Single Fiddlehead on a Silver Stalk in the Field",
     "description": null,
     "locationName": "PA - State Game Lands 52",
+    "locationLabel": "State Game Lands 52, PA",
     "tags": [
       "fiddlehead",
       "fern",
@@ -4161,6 +4944,7 @@
     "title": "Fern Frond Halfway Unrolled",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "frond",
       "fern",
@@ -4177,6 +4961,7 @@
     "title": "Fuzzy Fiddlehead Among the Leaf Litter",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "fiddlehead",
       "fern",
@@ -4194,6 +4979,7 @@
     "title": "Angled Rock Face",
     "description": null,
     "locationName": "NJ - Elizabeth D. Kay Environmental Center",
+    "locationLabel": "Elizabeth D. Kay Environmental Center, NJ",
     "tags": [
       "rock",
       "pareidolia",
@@ -4210,6 +4996,7 @@
     "title": "Boulder with a Cracked Grin",
     "description": null,
     "locationName": "NY - Black Rock Forest",
+    "locationLabel": "Black Rock Forest, NY",
     "tags": [
       "rock",
       "pareidolia",
@@ -4226,6 +5013,7 @@
     "title": "Big Watersnake in the Leaf Litter",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "snake",
       "reptile",
@@ -4242,6 +5030,7 @@
     "title": "Fiddlehead Coiled Tight",
     "description": null,
     "locationName": "PA - ChesLen Preserve",
+    "locationLabel": "ChesLen Preserve, PA",
     "tags": [
       "fiddlehead",
       "fern",
@@ -4253,12 +5042,33 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/82574"
   },
   {
+    "fileName": "2025-04-07_19-57-21_509.webp",
+    "dateTaken": "2025-04-07T19:57:21",
+    "dateAdded": "2026-09-20T12:24:47.274690",
+    "title": "Dew-Beaded Moss Capsules Glowing in the Dark",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "moss",
+      "droplet",
+      "macro",
+      "night",
+      "backlit",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2025-04-05_15-40-46_200.webp",
     "dateTaken": "2025-04-05T15:40:46",
     "dateAdded": "2026-09-15T09:54:42.458979",
     "title": "Leaf Bud Break into Circus Clown",
     "description": null,
     "locationName": "PA - Michaux State Forest",
+    "locationLabel": "Michaux State Forest, PA",
     "tags": [
       "leaf bud",
       "pareidolia",
@@ -4275,6 +5085,7 @@
     "title": "Wide-Eyed Snag by the Trail",
     "description": null,
     "locationName": "PA - Michaux State Forest",
+    "locationLabel": "Michaux State Forest, PA",
     "tags": [
       "tree",
       "trail",
@@ -4292,6 +5103,7 @@
     "title": "Crazy or Unhappy Rock?",
     "description": null,
     "locationName": "PA - Hibernia County Park",
+    "locationLabel": "Hibernia County Park, PA",
     "tags": [
       "rock",
       "pareidolia",
@@ -4308,10 +5120,84 @@
     "title": "Boulder with a Subtle Snout",
     "description": null,
     "locationName": "NY - Harriman State Park",
+    "locationLabel": "Harriman State Park, NY",
     "tags": [
       "rock",
       "pareidolia",
       "NY - Harriman State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-03-15_16-59-11_467.webp",
+    "dateTaken": "2025-03-15T16:59:11",
+    "dateAdded": "2026-09-20T12:24:47.271553",
+    "title": "Lone Tree among the Pitch Pines",
+    "description": null,
+    "locationName": null,
+    "locationLabel": null,
+    "tags": [
+      "forest",
+      "fog",
+      "pine",
+      "tree"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-03-14_15-00-57_809.webp",
+    "dateTaken": "2025-03-14T15:00:57",
+    "dateAdded": "2026-09-20T12:24:47.268416",
+    "title": "Leaves Stamped With Firmoss Shadow",
+    "description": null,
+    "locationName": "PA - Sadsbury Woods Preserve",
+    "locationLabel": "Sadsbury Woods Preserve, PA",
+    "tags": [
+      "leaf",
+      "shadow",
+      "overhead",
+      "moss",
+      "PA - Sadsbury Woods Preserve"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-03-08_16-34-46_746.webp",
+    "dateTaken": "2025-03-08T16:34:46",
+    "dateAdded": "2026-09-20T12:24:47.263101",
+    "title": "Rippled Reflections of Sunlit Cliff",
+    "description": null,
+    "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
+    "tags": [
+      "reflection",
+      "reservoir",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-03-02_15-24-27_273.webp",
+    "dateTaken": "2025-03-02T15:24:27",
+    "dateAdded": "2026-09-20T12:24:47.259964",
+    "title": "Iced Moss Ledges on Gamble Run",
+    "description": null,
+    "locationName": "PA - Tiadaghton State Forest",
+    "locationLabel": "Tiadaghton State Forest, PA",
+    "tags": [
+      "stream",
+      "moss",
+      "icicle",
+      "slow shutter",
+      "PA - Tiadaghton State Forest"
     ],
     "camera": null,
     "taxonName": null,
@@ -4324,6 +5210,7 @@
     "title": "Birch Bark's Torn-Paper Face",
     "description": null,
     "locationName": "PA - Bald Eagle State Forest",
+    "locationLabel": "Bald Eagle State Forest, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -4340,6 +5227,7 @@
     "title": "Bark Face Squinting at the Sky",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -4356,6 +5244,7 @@
     "title": "Bark Knot with a Raised Eyebrow",
     "description": null,
     "locationName": "PA - Exton Park",
+    "locationLabel": "Exton Park, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -4372,10 +5261,30 @@
     "title": "Ice by the Lake",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "backlit",
       "night",
       "ice",
+      "PA - Marsh Creek State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-02-06_20-23-42_645.webp",
+    "dateTaken": "2025-02-06T20:23:42",
+    "dateAdded": "2026-09-20T12:24:47.256827",
+    "title": "Fog-Lit Glow Beyond Bare Branches at Night",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "night",
+      "fog",
+      "tree",
+      "silhouette",
       "PA - Marsh Creek State Park"
     ],
     "camera": null,
@@ -4389,6 +5298,7 @@
     "title": "Lake Ice Tunnel Glow",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "ice",
       "backlit",
@@ -4406,6 +5316,7 @@
     "title": "Ice Glow",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "ice",
       "backlit",
@@ -4423,6 +5334,7 @@
     "title": "Snowy Bark Mask by the Creek",
     "description": null,
     "locationName": "PA - Starr Farm Park",
+    "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "tree",
       "snow",
@@ -4440,6 +5352,7 @@
     "title": "Large Lake Ice Sheet",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "ice",
       "ice sheet",
@@ -4457,6 +5370,7 @@
     "title": "Evening Frozen Lake",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "color filter",
       "frozen lake",
@@ -4475,6 +5389,7 @@
     "title": "Beaded Droplets on a Red-Twig Stem",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "droplet",
       "macro",
@@ -4491,6 +5406,7 @@
     "title": "Dewdrops on Winter Grass",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "droplet",
       "grass",
@@ -4508,11 +5424,49 @@
     "title": "Ice Crystals",
     "description": null,
     "locationName": "NJ - Tourne County Park",
+    "locationLabel": "Tourne County Park, NJ",
     "tags": [
       "ice",
       "macro",
       "ice crystals",
       "NJ - Tourne County Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-12-25_13-42-36_707.webp",
+    "dateTaken": "2024-12-25T13:42:36",
+    "dateAdded": "2026-09-20T12:24:47.253690",
+    "title": "Bowed Dry Stalk and Its Arching Shadow on Snow",
+    "description": null,
+    "locationName": "NJ - Wawayanda State Park",
+    "locationLabel": "Wawayanda State Park, NJ",
+    "tags": [
+      "snow",
+      "shadow",
+      "plant",
+      "NJ - Wawayanda State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-12-25_10-22-29_458.webp",
+    "dateTaken": "2024-12-25T10:22:29",
+    "dateAdded": "2026-09-20T12:24:47.250553",
+    "title": "Snow-Covered Rocks in a Dark Winter Stream",
+    "description": null,
+    "locationName": "NJ - Wawayanda State Park",
+    "locationLabel": "Wawayanda State Park, NJ",
+    "tags": [
+      "snow",
+      "stream",
+      "rock",
+      "slow shutter",
+      "NJ - Wawayanda State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -4525,6 +5479,7 @@
     "title": "Ice Crystal Trees",
     "description": null,
     "locationName": "NY - Black Rock Forest",
+    "locationLabel": "Black Rock Forest, NY",
     "tags": [
       "ice",
       "ice crystals",
@@ -4542,6 +5497,7 @@
     "title": "Under the Icicles",
     "description": null,
     "locationName": "NY - Catskills Park",
+    "locationLabel": "Catskills Park, NY",
     "tags": [
       "ice",
       "icicle",
@@ -4558,10 +5514,30 @@
     "title": "Lichen Boulder Happy to See You",
     "description": null,
     "locationName": "PA - Tuscarora Trail",
+    "locationLabel": "Tuscarora Trail, PA",
     "tags": [
       "pareidolia",
       "rock",
       "PA - Tuscarora Trail"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-11-03_07-15-30_589.webp",
+    "dateTaken": "2024-11-03T07:15:30",
+    "dateAdded": "2026-09-20T12:24:47.244279",
+    "title": "Sunrise Mist Rising off Keystone Lake",
+    "description": null,
+    "locationName": "PA - Keystone State Park",
+    "locationLabel": "Keystone State Park, PA",
+    "tags": [
+      "lake",
+      "fog",
+      "fall",
+      "reflection",
+      "PA - Keystone State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -4574,10 +5550,29 @@
     "title": "Boulder Sadness",
     "description": null,
     "locationName": "PA - McConnells Mill State Park",
+    "locationLabel": "McConnells Mill State Park, PA",
     "tags": [
       "rock",
       "pareidolia",
       "PA - McConnells Mill State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-10-13_10-18-58_740.webp",
+    "dateTaken": "2024-10-13T10:18:58",
+    "dateAdded": "2026-09-20T12:24:47.238964",
+    "title": "India Brook",
+    "description": null,
+    "locationName": "NJ - India Brook Natural Area",
+    "locationLabel": "India Brook Natural Area, NJ",
+    "tags": [
+      "creek",
+      "rock",
+      "slow shutter",
+      "NJ - India Brook Natural Area"
     ],
     "camera": null,
     "taxonName": null,
@@ -4590,6 +5585,7 @@
     "title": "Spotted Cucumber Beeter on Purple Beautyberry",
     "description": null,
     "locationName": "NJ - Ringwood State Park",
+    "locationLabel": "Ringwood State Park, NJ",
     "tags": [
       "beetle",
       "macro",
@@ -4606,6 +5602,7 @@
     "title": "Gorilla Tree",
     "description": null,
     "locationName": "PA - Stroud Preserve",
+    "locationLabel": "Stroud Preserve, PA",
     "tags": [
       "rock",
       "pareidolia",
@@ -4622,6 +5619,7 @@
     "title": "Dewy Web Hammock",
     "description": null,
     "locationName": "PA - Tuscarora State Forest",
+    "locationLabel": "Tuscarora State Forest, PA",
     "tags": [
       "web",
       "droplet",
@@ -4639,10 +5637,29 @@
     "title": "Big Nose Tree Face",
     "description": null,
     "locationName": "NJ - Watchung Reservation",
+    "locationLabel": "Watchung Reservation, NJ",
     "tags": [
       "tree",
       "pareidolia",
       "NJ - Watchung Reservation"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-09-12_12-24-08_673.webp",
+    "dateTaken": "2024-09-12T12:24:08",
+    "dateAdded": "2026-09-20T12:24:47.235827",
+    "title": "Mini Mill Creek Falls under the Bridge",
+    "description": null,
+    "locationName": "PA - Holtwood",
+    "locationLabel": "Holtwood, PA",
+    "tags": [
+      "waterfall",
+      "moss",
+      "forest",
+      "PA - Holtwood"
     ],
     "camera": null,
     "taxonName": null,
@@ -4655,6 +5672,7 @@
     "title": "Rock's Simple Little Smile",
     "description": null,
     "locationName": "MD - Savage River State Forest",
+    "locationLabel": "Savage River State Forest, MD",
     "tags": [
       "rock",
       "moss",
@@ -4672,6 +5690,7 @@
     "title": "Orbweaver Web",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "spider",
       "spider web",
@@ -4689,6 +5708,7 @@
     "title": "Orbweaver at Work",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "spider",
       "orbweaver",
@@ -4706,10 +5726,29 @@
     "title": "Fishy Grin Leaf",
     "description": null,
     "locationName": "PA - State Game Lands 110",
+    "locationLabel": "State Game Lands 110, PA",
     "tags": [
       "leaf",
       "pareidolia",
       "PA - State Game Lands 110"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-06-09_13-01-37_023.webp",
+    "dateTaken": "2024-06-09T13:01:37",
+    "dateAdded": "2026-09-20T12:24:47.232690",
+    "title": "Lewis Falls",
+    "description": null,
+    "locationName": "PA - State Game Lands 13",
+    "locationLabel": "State Game Lands 13, PA",
+    "tags": [
+      "waterfall",
+      "moss",
+      "slow shutter",
+      "PA - State Game Lands 13"
     ],
     "camera": null,
     "taxonName": null,
@@ -4722,11 +5761,86 @@
     "title": "Stream Stone Face",
     "description": null,
     "locationName": "PA - State Game Lands 13",
+    "locationLabel": "State Game Lands 13, PA",
     "tags": [
       "rock",
       "stream",
       "pareidolia",
       "PA - State Game Lands 13"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-06-09_11-25-12_279.webp",
+    "dateTaken": "2024-06-09T11:25:12",
+    "dateAdded": "2026-09-20T12:24:47.229553",
+    "title": "Narrow Falls along Heberley Run",
+    "description": null,
+    "locationName": "PA - State Game Lands 13",
+    "locationLabel": "State Game Lands 13, PA",
+    "tags": [
+      "waterfall",
+      "stream",
+      "slow shutter",
+      "PA - State Game Lands 13"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-04-20_16-44-17_214.webp",
+    "dateTaken": "2024-04-20T16:44:17",
+    "dateAdded": "2026-09-20T12:24:47.226416",
+    "title": "Monksville Reservoir from Horse Pond Mountain",
+    "description": null,
+    "locationName": "NJ - Long Pond Ironworks State Park",
+    "locationLabel": "Long Pond Ironworks State Park, NJ",
+    "tags": [
+      "reservoir",
+      "vista",
+      "lake",
+      "NJ - Long Pond Ironworks State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-04-16_10-29-21_110.webp",
+    "dateTaken": "2024-04-16T10:29:21",
+    "dateAdded": "2026-09-20T12:24:47.223279",
+    "title": "Muddy Creek along the Mason-Dixon Trail",
+    "description": null,
+    "locationName": "PA - Delta",
+    "locationLabel": "Delta, PA",
+    "tags": [
+      "rock",
+      "cascade",
+      "slow shutter",
+      "creek",
+      "PA - Delta"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-03-26_18-50-23_413.webp",
+    "dateTaken": "2024-03-26T18:50:23",
+    "dateAdded": "2026-09-20T12:24:47.214827",
+    "title": "Sun Sinking Behind a Bare Tree's Fine Branches",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "silhouette",
+      "tree",
+      "sunset",
+      "sky",
+      "PA - Marsh Creek State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -4739,6 +5853,7 @@
     "title": "Mt Minsi Watching Over Mt Tammany",
     "description": null,
     "locationName": "PA - Delaware Water Gap National Recreation Area",
+    "locationLabel": "Delaware Water Gap National Recreation Area, PA",
     "tags": [
       "rock",
       "mountain",
@@ -4756,6 +5871,7 @@
     "title": "Big Boulder Face",
     "description": null,
     "locationName": "PA - Fulshaw Craeg Preserve",
+    "locationLabel": "Fulshaw Craeg Preserve, PA",
     "tags": [
       "rock",
       "pareidolia",
@@ -4772,6 +5888,7 @@
     "title": "Baby Bird Chestnut Husk",
     "description": null,
     "locationName": "PA - State Game Lands 205",
+    "locationLabel": "State Game Lands 205, PA",
     "tags": [
       "seed head",
       "pareidolia",
@@ -4788,11 +5905,28 @@
     "title": "Hatching a Plan",
     "description": null,
     "locationName": "MD - Palmer State Park",
+    "locationLabel": "Palmer State Park, MD",
     "tags": [
       "rock",
       "snow",
       "pareidolia",
       "MD - Palmer State Park"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-01-14_10-33-43_323.webp",
+    "dateTaken": "2024-01-14T10:33:43",
+    "dateAdded": "2026-09-20T12:24:47.205416",
+    "title": "Spillway Curtain on Shades of Death Trail",
+    "description": null,
+    "locationName": "PA - Hickory Run State Park",
+    "locationLabel": "Hickory Run State Park, PA",
+    "tags": [
+      "waterfall",
+      "PA - Hickory Run State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -4805,6 +5939,7 @@
     "title": "Sleepy Moss T-Rex",
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
+    "locationLabel": "Hamburg Reservoir, PA",
     "tags": [
       "moss",
       "pareidolia",
@@ -4821,6 +5956,7 @@
     "title": "Hollow Tree's Haunted Stare",
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
+    "locationLabel": "Hamburg Reservoir, PA",
     "tags": [
       "tree",
       "pareidolia",
@@ -4837,6 +5973,7 @@
     "title": "Snowy Morning on the AT",
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
+    "locationLabel": "Hamburg Reservoir, PA",
     "tags": [
       "snow",
       "forest",
@@ -4855,6 +5992,7 @@
     "title": "Morning Pinnacle Overlook",
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
+    "locationLabel": "Hamburg Reservoir, PA",
     "tags": [
       "appalachian trail",
       "vista",
@@ -4872,6 +6010,7 @@
     "title": "National Memorial Arch",
     "description": null,
     "locationName": "PA - Valley Forge National Historical Park",
+    "locationLabel": "Valley Forge National Historical Park, PA",
     "tags": [
       "historical",
       "monument",
@@ -4889,6 +6028,7 @@
     "title": "Aughwick Rd near Cowan's Gap State Park",
     "description": null,
     "locationName": "PA - Buchanan State Forest",
+    "locationLabel": "Buchanan State Forest, PA",
     "tags": [
       "curvy road",
       "leading lines",
@@ -4905,6 +6045,7 @@
     "title": "Foggy Reservoir",
     "description": null,
     "locationName": "PA - Lykens Municipal Watershed",
+    "locationLabel": "Lykens Municipal Watershed, PA",
     "tags": [
       "pond",
       "reservoir",
@@ -4923,6 +6064,7 @@
     "title": "Shawangunk Ridge View",
     "description": null,
     "locationName": "NY - Shawangunk Ridge State Forest",
+    "locationLabel": "Shawangunk Ridge State Forest, NY",
     "tags": [
       "shawangunk ridge trail",
       "vista",
@@ -4940,6 +6082,7 @@
     "title": "Shawankgunk Ridge Rock Passage",
     "description": null,
     "locationName": "NY - Shawangunk Ridge State Forest",
+    "locationLabel": "Shawangunk Ridge State Forest, NY",
     "tags": [
       "rock",
       "rock wall",
@@ -4956,6 +6099,7 @@
     "title": "Rhododendron on Preachers Camp Trail",
     "description": null,
     "locationName": "PA - Beltzville State Park",
+    "locationLabel": "Beltzville State Park, PA",
     "tags": [
       "rhododendron",
       "trail",
@@ -4973,6 +6117,7 @@
     "title": "Receding Tree Line at Springton Manor Farm",
     "description": null,
     "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
     "tags": [
       "leading lines",
       "fall",
@@ -4989,6 +6134,7 @@
     "title": "Misty Morning on the Mason-Dixon Trail",
     "description": null,
     "locationName": "PA - Apollo County Park",
+    "locationLabel": "Apollo County Park, PA",
     "tags": [
       "fog",
       "forest",
@@ -5005,6 +6151,7 @@
     "title": "Autumn Brandywine",
     "description": null,
     "locationName": "PA - Hibernia County Park",
+    "locationLabel": "Hibernia County Park, PA",
     "tags": [
       "creek",
       "fall",
@@ -5022,6 +6169,7 @@
     "title": "Dog Praying to the Sky",
     "description": null,
     "locationName": "PA - Michaux State Forest",
+    "locationLabel": "Michaux State Forest, PA",
     "tags": [
       "rock",
       "fall",
@@ -5039,6 +6187,7 @@
     "title": "Traverse Loop at Michaux State Forest",
     "description": null,
     "locationName": "PA - Michaux State Forest",
+    "locationLabel": "Michaux State Forest, PA",
     "tags": [
       "pine",
       "trail",
@@ -5056,6 +6205,7 @@
     "title": "Autumn at Marsh Creek Lake",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "fall",
       "lake",
@@ -5073,6 +6223,7 @@
     "title": "Birdsboro Reservoir",
     "description": null,
     "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
     "tags": [
       "reservoir",
       "pond",
@@ -5091,6 +6242,7 @@
     "title": "Early Autumn at Marsh Creek",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "fall",
       "curvy road",
@@ -5107,6 +6259,7 @@
     "title": "Evening Stroll",
     "description": null,
     "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
     "tags": [
       "leading lines",
       "forest",
@@ -5124,6 +6277,7 @@
     "title": "Conowingo Islands",
     "description": null,
     "locationName": "PA - Holtwood",
+    "locationLabel": "Holtwood, PA",
     "tags": [
       "river",
       "island",
@@ -5142,6 +6296,7 @@
     "title": "Stay Puft Marshmallow Rock Man",
     "description": null,
     "locationName": "PA - Holtwood",
+    "locationLabel": "Holtwood, PA",
     "tags": [
       "rock",
       "portal",
@@ -5159,6 +6314,7 @@
     "title": "Through the Bridge Tunnel",
     "description": null,
     "locationName": "PA - Struble Lake",
+    "locationLabel": "Struble Lake, PA",
     "tags": [
       "leading lines",
       "tunnel",
@@ -5177,6 +6333,7 @@
     "title": "Lily on the Pads",
     "description": null,
     "locationName": "PA - French Creek State Park",
+    "locationLabel": "French Creek State Park, PA",
     "tags": [
       "lake",
       "lily",
@@ -5195,6 +6352,7 @@
     "title": "Marsh Creek Lake Mirror",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
     "tags": [
       "lake",
       "reflection",
@@ -5212,6 +6370,7 @@
     "title": "Round Island Run Falls",
     "description": null,
     "locationName": "PA - Sproul State Forest",
+    "locationLabel": "Sproul State Forest, PA",
     "tags": [
       "waterfall",
       "forest",
@@ -5229,6 +6388,7 @@
     "title": "Beach Bottom Hollow Sunbeam",
     "description": null,
     "locationName": "PA - Hammersley Wild Area",
+    "locationLabel": "Hammersley Wild Area, PA",
     "tags": [
       "sunbeam",
       "forest",
@@ -5245,6 +6405,7 @@
     "title": "Upright Coral Fungus",
     "description": null,
     "locationName": "PA - Hammersley Wild Area",
+    "locationLabel": "Hammersley Wild Area, PA",
     "tags": [
       "fungus",
       "coral fungus",
@@ -5261,6 +6422,7 @@
     "title": "Beach Bottom Hollow at Forest H. Dutlinger Natural Area",
     "description": null,
     "locationName": "PA - Hammersley Wild Area",
+    "locationLabel": "Hammersley Wild Area, PA",
     "tags": [
       "creek",
       "cascade",
@@ -5278,11 +6440,30 @@
     "title": "Fork Hill Forest Light",
     "description": null,
     "locationName": "PA - Tioga State Forest",
+    "locationLabel": "Tioga State Forest, PA",
     "tags": [
       "forest",
       "sunbeam",
       "trail",
       "fog",
+      "PA - Tioga State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-07-04_14-53-50_177.webp",
+    "dateTaken": "2023-07-04T14:53:50",
+    "dateAdded": "2026-09-20T12:24:47.200101",
+    "title": "Sand Run Falls Pouring Into an Amber Pool",
+    "description": null,
+    "locationName": "PA - Tioga State Forest",
+    "locationLabel": "Tioga State Forest, PA",
+    "tags": [
+      "waterfall",
+      "rock",
+      "slow shutter",
       "PA - Tioga State Forest"
     ],
     "camera": null,
@@ -5296,6 +6477,7 @@
     "title": "Mossy Log Creature at Rest",
     "description": null,
     "locationName": "PA - State Game Lands 157",
+    "locationLabel": "State Game Lands 157, PA",
     "tags": [
       "moss",
       "pareidolia",
@@ -5312,6 +6494,7 @@
     "title": "Moai Boulder Guarding the Trail",
     "description": null,
     "locationName": "PA - Cove Mountain Preserve",
+    "locationLabel": "Cove Mountain Preserve, PA",
     "tags": [
       "rock",
       "trail",
@@ -5329,6 +6512,7 @@
     "title": "Tussey Knob Vista",
     "description": null,
     "locationName": "PA - Rothrock State Forest",
+    "locationLabel": "Rothrock State Forest, PA",
     "tags": [
       "snow",
       "vista",
@@ -5346,11 +6530,88 @@
     "title": "View of Jacks Narrows at Thousand Steps",
     "description": null,
     "locationName": "PA - State Game Lands 112",
+    "locationLabel": "State Game Lands 112, PA",
     "tags": [
       "snow",
       "mountain",
       "vista",
       "PA - State Game Lands 112"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2022-10-22_11-00-46_886.webp",
+    "dateTaken": "2022-10-22T11:00:47",
+    "dateAdded": "2026-09-20T12:24:47.193827",
+    "title": "Lehigh Gorge via Off-Trail Overlook",
+    "description": null,
+    "locationName": "PA - State Game Lands 141",
+    "locationLabel": "State Game Lands 141, PA",
+    "tags": [
+      "vista",
+      "fall",
+      "rock",
+      "gorge",
+      "PA - State Game Lands 141"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2022-10-22_08-32-35_739.webp",
+    "dateTaken": "2022-10-22T08:32:36",
+    "dateAdded": "2026-09-20T12:24:47.187553",
+    "title": "Autumn Jeans Run Mini Falls",
+    "description": null,
+    "locationName": "PA - State Game Lands 141",
+    "locationLabel": "State Game Lands 141, PA",
+    "tags": [
+      "waterfall",
+      "slow shutter",
+      "rhododendron",
+      "fall",
+      "PA - State Game Lands 141"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2022-10-22_08-14-59_926.webp",
+    "dateTaken": "2022-10-22T08:15:00",
+    "dateAdded": "2026-09-20T12:24:47.181279",
+    "title": "Silky Cascades of Jeans Run",
+    "description": "Off-trail down Jeans Run gorge",
+    "locationName": "PA - State Game Lands 141",
+    "locationLabel": "State Game Lands 141, PA",
+    "tags": [
+      "cascade",
+      "slow shutter",
+      "fall",
+      "waterfall",
+      "PA - State Game Lands 141"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2022-05-29_09-02-16_676.webp",
+    "dateTaken": "2022-05-29T09:02:17",
+    "dateAdded": "2026-09-20T12:24:47.175964",
+    "title": "Lehigh Gorge View from Switchback Railroad Trail",
+    "description": null,
+    "locationName": "PA - Jim Thorpe",
+    "locationLabel": "Jim Thorpe, PA",
+    "tags": [
+      "vista",
+      "rock",
+      "river",
+      "gorge",
+      "PA - Jim Thorpe"
     ],
     "camera": null,
     "taxonName": null,
@@ -5363,11 +6624,49 @@
     "title": "Smiley Cliff",
     "description": null,
     "locationName": "PA - Elk State Forest",
+    "locationLabel": "Elk State Forest, PA",
     "tags": [
       "rock",
       "cliff",
       "pareidolia",
       "PA - Elk State Forest"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2022-01-30_10-53-17_968.webp",
+    "dateTaken": "2022-01-30T10:53:18",
+    "dateAdded": "2026-09-20T12:24:47.169690",
+    "title": "Lehigh Gorge Oxbow Bend Vista",
+    "description": null,
+    "locationName": "PA - State Game Lands 141",
+    "locationLabel": "State Game Lands 141, PA",
+    "tags": [
+      "vista",
+      "river",
+      "snow",
+      "gorge",
+      "PA - State Game Lands 141"
+    ],
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2021-12-11_11-38-39_867.webp",
+    "dateTaken": "2021-12-11T11:38:40",
+    "dateAdded": "2026-09-20T12:24:47.163416",
+    "title": "Fog-Veiled Saylorsville Falls",
+    "description": null,
+    "locationName": "PA - Hickory Run State Park",
+    "locationLabel": "Hickory Run State Park, PA",
+    "tags": [
+      "waterfall",
+      "fog",
+      "slow shutter",
+      "PA - Hickory Run State Park"
     ],
     "camera": null,
     "taxonName": null,
@@ -5380,6 +6679,7 @@
     "title": "Grumpy Stone Giant on the Ridge",
     "description": null,
     "locationName": "PA - Rothrock State Forest",
+    "locationLabel": "Rothrock State Forest, PA",
     "tags": [
       "rock",
       "fall",
@@ -5391,12 +6691,31 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2021-09-19_07-17-11_104.webp",
+    "dateTaken": "2021-09-19T07:17:11",
+    "dateAdded": "2026-09-20T12:24:47.160279",
+    "title": "Marbled Orbweaver Building its Web",
+    "description": null,
+    "locationName": "PA - Birdsboro Waters",
+    "locationLabel": "Birdsboro Waters, PA",
+    "tags": [
+      "spider",
+      "web",
+      "forest",
+      "PA - Birdsboro Waters"
+    ],
+    "camera": null,
+    "taxonName": "Marbled Orbweaver",
+    "taxonUrl": "https://www.inaturalist.org/taxa/120183"
+  },
+  {
     "fileName": "2021-07-10_08-36-44_785.webp",
     "dateTaken": "2021-07-10T08:36:45",
     "dateAdded": "2026-09-10T11:45:46.018242+00:00",
     "title": "Tiadaghton Trail Vista over Ramsey",
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
+    "locationLabel": "Tiadaghton State Forest, PA",
     "tags": [
       "forest",
       "mountain",
@@ -5414,6 +6733,7 @@
     "title": "Smirky Skull Boulder",
     "description": null,
     "locationName": "PA - Loyalsock State Forest",
+    "locationLabel": "Loyalsock State Forest, PA",
     "tags": [
       "rock",
       "pareidolia",

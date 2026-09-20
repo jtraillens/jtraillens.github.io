@@ -164,8 +164,10 @@ const Lightbox = (function() {
 
         const meta = [];
 
-        if (photo.locationName) {
-            meta.push(photo.locationName);
+        const location = photo.locationLabel || photo.locationName;
+
+        if (location) {
+            meta.push(location);
         }
 
         const formattedDate = formatDateTaken(photo.dateTaken);

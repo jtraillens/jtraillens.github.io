@@ -24,13 +24,35 @@ const Gallery = (function() {
     // defaultSort() picks one based on the rest of the filter -- e.g. an
     // addedDays view (Collections > Recently Added) defaults to newest-added
     // first rather than the gallery's normal newest-taken-first order.
-    let sortField = 'taken';   // 'taken' | 'added'
-    let sortOrder = 'desc';    // 'asc' | 'desc'
+    let sortField = 'random';  // 'random' | 'taken' | 'added'
+    let sortOrder = 'desc';    // 'asc' | 'desc' (ignored for 'random')
 
+    // Random order is derived from a per-photo hash of fileName + seed, so it
+    // stays stable while filtering and only changes on an explicit shuffle.
+    // The seed is deliberately not in the URL: every load starts fresh.
+    let shuffleSeed = newShuffleSeed();
+
+    function newShuffleSeed() {
+        return Math.floor(Math.random() * 0x7fffffff);
+    }
+
+    function shuffleKey(photo) {
+        // FNV-1a over the seed + fileName
+        let hash = 2166136261 ^ shuffleSeed;
+        const text = photo.fileName || '';
+        for (let i = 0; i < text.length; i++) {
+            hash ^= text.charCodeAt(i);
+            hash = Math.imul(hash, 16777619);
+        }
+        return hash >>> 0;
+    }
+
+    // A plain gallery starts shuffled so batches of similar photos don't
+    // clump; a Recently Added view (addedDays) stays newest-added-first.
     function defaultSort() {
         return addedDays !== null
             ? { field: 'added', order: 'desc' }
-            : { field: 'taken', order: 'desc' };
+            : { field: 'random', order: 'desc' };
     }
 
     async function loadGallery() {
@@ -168,11 +190,22 @@ const Gallery = (function() {
         const select = document.querySelector('#sortSelect');
 
         select.addEventListener('change', () => {
-            const [field, order] = select.value.split('-');
+            if (select.value === 'random') {
+                sortField = 'random';
+                sortOrder = 'desc';
+                shuffleSeed = newShuffleSeed();
+            } else {
+                const [field, order] = select.value.split('-');
 
-            sortField = field === 'added' ? 'added' : 'taken';
-            sortOrder = order === 'asc' ? 'asc' : 'desc';
+                sortField = field === 'added' ? 'added' : 'taken';
+                sortOrder = order === 'asc' ? 'asc' : 'desc';
+            }
 
+            refilterAndRender();
+        });
+
+        document.querySelector('#shuffleBtn').addEventListener('click', () => {
+            shuffleSeed = newShuffleSeed();
             refilterAndRender();
         });
     }
@@ -183,7 +216,10 @@ const Gallery = (function() {
     // than only when the user changes it directly.
     function syncSortControl() {
         const select = document.querySelector('#sortSelect');
-        select.value = `${sortField}-${sortOrder}`;
+        const isRandom = sortField === 'random';
+
+        select.value = isRandom ? 'random' : `${sortField}-${sortOrder}`;
+        document.querySelector('#shuffleBtn').hidden = !isRandom;
     }
 
     // Generic open/close for the Tags and Date Range filter popovers -- both
@@ -360,6 +396,10 @@ const Gallery = (function() {
     }
 
     function sortPhotos(list) {
+        if (sortField === 'random') {
+            return list.slice().sort((a, b) => shuffleKey(a) - shuffleKey(b));
+        }
+
         const field = sortField === 'added' ? 'dateAdded' : 'dateTaken';
         const direction = sortOrder === 'asc' ? 1 : -1;
 
@@ -645,7 +685,11 @@ const Gallery = (function() {
         // links, which match against these hashes exactly) uncluttered when
         // the user hasn't overridden the default sort.
         const fallback = defaultSort();
-        if (sortField !== fallback.field || sortOrder !== fallback.order) {
+        if (sortField === 'random') {
+            if (fallback.field !== 'random') {
+                params.set('sort', 'random');
+            }
+        } else if (sortField !== fallback.field || sortOrder !== fallback.order) {
             params.set('sort', sortField);
             params.set('order', sortOrder);
         }

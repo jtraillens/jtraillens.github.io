@@ -346,6 +346,28 @@ h1 {
     background-color: white;
 }
 
+.shuffle-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.2rem;
+    color: #5a6b5a;
+    background: none;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.shuffle-btn[hidden] {
+    display: none;
+}
+
+.shuffle-btn:hover,
+.shuffle-btn:focus-visible {
+    color: var(--color-ink);
+    background-color: #e0e5e0;
+}
+
 #photoCount {
     font-size: 0.85rem;
     color: #5a6b5a;
@@ -425,6 +447,53 @@ h1 {
 
 .about-content h1 {
     margin-bottom: 1rem;
+}
+
+.locations-content {
+    max-width: 800px;
+    margin: 2rem auto 0;
+    line-height: 1.6;
+}
+
+.locations-content h1 {
+    margin-bottom: 1rem;
+}
+
+.locations-state h2 {
+    font-size: 1.1rem;
+    margin: 1.5rem 0 0.5rem;
+}
+
+.locations-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    columns: 2 260px;
+    column-gap: 2rem;
+}
+
+.locations-list li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    break-inside: avoid;
+    padding: 0.15rem 0;
+}
+
+.location-count {
+    min-width: 1.6rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    background: rgba(90, 107, 140, 0.15);
+    color: #5a6b8c;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.location-pin {
+    display: inline-flex;
+    color: #5a6b8c;
 }
 
 .collection-title {
@@ -729,6 +798,16 @@ h1 {
     }
 }
 
+/* On phones the thumbnails are only ~110-140px wide, so even a small
+   caption wraps to several lines and covers most of the image. Hide it
+   there; the lightbox shows the title on tap. */
+@media (hover: none) and (max-width: 760px) {
+    .caption,
+    .gallery-item:focus-within .caption {
+        display: none;
+    }
+}
+
 @media (max-width: 760px) {
     .site-nav {
         padding: 16px 20px;
@@ -868,6 +947,10 @@ h1 {
 }
 
 @media (max-width: 480px) {
+    .locations-content {
+        margin-top: 1rem;
+    }
+
     .about-content {
         margin-top: 1rem;
         line-height: 1.55;

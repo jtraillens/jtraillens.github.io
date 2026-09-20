@@ -5,7 +5,7 @@ const Main = (function() {
     }
 
     // Parses the #/gallery?tags=a,b&from=YYYY-MM-DD&to=YYYY-MM-DD
-    // &dateField=taken|added&addedDays=N&sort=taken|added&order=asc|desc
+    // &dateField=taken|added&addedDays=N&sort=taken|added|random&order=asc|desc
     // hash into a filter object for Gallery.applyFilter(). All params are
     // optional -- sort/order come back null when absent so Gallery can pick
     // its own default (e.g. newest-added-first for a Recently Added view)
@@ -33,7 +33,7 @@ const Main = (function() {
             to: params.get('to') || null,
             dateField: params.get('dateField') === 'added' ? 'added' : 'taken',
             addedDays,
-            sort: sortParam === 'added' || sortParam === 'taken' ? sortParam : null,
+            sort: sortParam === 'added' || sortParam === 'taken' || sortParam === 'random' ? sortParam : null,
             order: orderParam === 'asc' || orderParam === 'desc' ? orderParam : null
         };
     }
@@ -46,6 +46,12 @@ const Main = (function() {
             if (hash === '#about/license') {
                 document.querySelector('#license')?.scrollIntoView();
             }
+            return;
+        }
+
+        if (hash === '#locations') {
+            showView('locations');
+            Locations.load();
             return;
         }
 
@@ -63,6 +69,7 @@ const Main = (function() {
     function showView(view) {
         document.querySelector('#galleryView').hidden = view !== 'gallery';
         document.querySelector('#aboutView').hidden = view !== 'about';
+        document.querySelector('#locationsView').hidden = view !== 'locations';
     }
 
     async function init() {

@@ -9,12 +9,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css?v=20260917205913"></link>
-    <script src="js/lightbox.js?v=20260917205913" defer></script>
-    <script src="js/gallery.js?v=20260917205913" defer></script>
-    <script src="js/nav.config.js?v=20260917205913" defer></script>
-    <script src="js/nav.js?v=20260917205913" defer></script>
-    <script src="js/main.js?v=20260917205913" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=20260920154234"></link>
+    <script src="js/lightbox.js?v=20260920154234" defer></script>
+    <script src="js/gallery.js?v=20260920154234" defer></script>
+    <script src="js/locations.js?v=20260920154234" defer></script>
+    <script src="js/nav.config.js?v=20260920154234" defer></script>
+    <script src="js/nav.js?v=20260920154234" defer></script>
+    <script src="js/main.js?v=20260920154234" defer></script>
 </head>
 <body>
     <nav class="site-nav">
@@ -45,11 +46,21 @@
                         <label class="sort-control chip-group" for="sortSelect">
                             Sort by
                             <select id="sortSelect">
+                                <option value="random">Random</option>
                                 <option value="taken-desc">Date Taken (Newest)</option>
                                 <option value="taken-asc">Date Taken (Oldest)</option>
                                 <option value="added-desc">Date Added (Newest)</option>
                                 <option value="added-asc">Date Added (Oldest)</option>
                             </select>
+                            <button type="button" id="shuffleBtn" class="shuffle-btn" aria-label="Shuffle" title="Shuffle" hidden>
+                                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                                    <polyline points="16 3 21 3 21 8"/>
+                                    <line x1="4" y1="20" x2="21" y2="3"/>
+                                    <polyline points="21 16 21 21 16 21"/>
+                                    <line x1="15" y1="15" x2="21" y2="21"/>
+                                    <line x1="4" y1="4" x2="9" y2="9"/>
+                                </svg>
+                            </button>
                         </label>
 
                         <!-- Tags pill: always visible. The "+" icon toggles
@@ -100,6 +111,11 @@
                 <p>Nothing to see here.</p>
                 <img src="images/mushroom-shrug.png" alt="">
             </div>
+        </div>
+
+        <div id="locationsView" class="locations-content" hidden>
+            <h1>Locations</h1>
+            <div id="locationsList"></div>
         </div>
 
         <div id="aboutView" class="about-content" hidden>
