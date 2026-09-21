@@ -177,7 +177,7 @@ const Gallery = (function() {
     // ratio once the filtered list is a strict subset of all photos.
     function renderPhotoCount() {
         const el = document.querySelector('#photoCount');
-        const total = photos.length;
+        const total = photos.filter(photo => !isHiddenByDefault(photo)).length;
         const shown = filteredPhotos.length;
 
         el.textContent = shown === total
@@ -416,7 +416,20 @@ const Gallery = (function() {
         });
     }
 
+    // Tag hidden from every view unless it's explicitly selected in the tag
+    // filter -- keeps the default gallery to the prettier photos.
+    const HIDDEN_BY_DEFAULT_TAG = 'pareidolia';
+
+    function isHiddenByDefault(photo) {
+        return !selectedTags.includes(HIDDEN_BY_DEFAULT_TAG) &&
+            !!photo.tags?.includes(HIDDEN_BY_DEFAULT_TAG);
+    }
+
     function matchesFilters(photo) {
+        if (isHiddenByDefault(photo)) {
+            return false;
+        }
+
         if (!selectedTags.every(tag => photo.tags?.includes(tag))) {
             return false;
         }
