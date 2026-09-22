@@ -3,8 +3,8 @@
     "tag": "DE - Auburn Valley State Park",
     "name": "Auburn Valley State Park",
     "state": "DE",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Auburn+Valley+State+Park/@39.8082059,-75.6827554,841m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c6ff3c0b01d049:0x47836f1a7456e5f7!2sAuburn+Valley+State+Park!8m2!3d39.80964!4d-75.679408!16s%2Fm%2F012m2kqf!3m5!1s0x89c6ff3c0b01d049:0x47836f1a7456e5f7!8m2!3d39.80964!4d-75.679408!16s%2Fm%2F012m2kqf?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.destateparks.com/park/auburn-valley/",
     "photoCount": 3
   },
   {
@@ -59,16 +59,16 @@
     "tag": "NJ - Elizabeth D. Kay Environmental Center",
     "name": "Elizabeth D. Kay Environmental Center",
     "state": "NJ",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Kay+Center/@40.7662032,-74.7343131,4692m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c39a4757112f19:0xc2048158ac2ec5bf!2sKay+Center!8m2!3d40.763901!4d-74.712055!16s%2Fg%2F11fl0g0yd4!3m5!1s0x89c39a4757112f19:0xc2048158ac2ec5bf!8m2!3d40.763901!4d-74.712055!16s%2Fg%2F11fl0g0yd4?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.morrisparks.net/parks_trails/elizabeth-d-kay-environmental-center/",
     "photoCount": 3
   },
   {
     "tag": "NJ - Ringwood State Park",
     "name": "Ringwood State Park",
     "state": "NJ",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Ringwood+State+Park/@41.1289363,-74.2564107,2775m/data=!3m1!1e3!4m6!3m5!1s0x89c31db240c30b9b:0x92faa873bfe127b!8m2!3d41.1310947!4d-74.2472059!16zL20vMDd5M21x?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://dep.nj.gov/parksandforests/state-park/ringwood-state-park/",
     "photoCount": 2
   },
   {
@@ -115,8 +115,8 @@
     "tag": "OH - Wayne National Forest",
     "name": "Wayne National Forest",
     "state": "OH",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Archers+Fork+Trailhead/@39.5240627,-81.1834931,845m/data=!3m2!1e3!4b1!4m6!3m5!1s0x8849dd9e0df23297:0x2066dd9604cfcf39!8m2!3d39.5240627!4d-81.1809182!16s%2Fg%2F1pzqmgjfw?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.nationalforests.org/forest/wayne-national-forest/",
     "photoCount": 3
   },
   {
@@ -157,7 +157,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Birdsboro+Waters/@40.2427018,-75.8400028,1990m/data=!3m1!1e3!4m12!1m5!3m4!2zNDDCsDE0JzM3LjEiTiA3NcKwNTAnMjIuNyJX!8m2!3d40.2436417!4d-75.8396389!3m5!1s0x89c67b4aa252a5a3:0x70b728de1b716201!8m2!3d40.2465547!4d-75.8317871!16s%2Fg%2F1tsr44m3?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": null,
-    "photoCount": 13
+    "photoCount": 12
   },
   {
     "tag": "PA - Bondsville Mill Park",
@@ -197,7 +197,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 11
+    "photoCount": 10
   },
   {
     "tag": "PA - Chimney Rocks Park",
@@ -268,7 +268,7 @@
     "name": "Exton Park",
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Exton+Park+Parking+area/@40.0427582,-75.6218848,839m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c6f30ceaef41c7:0x75a810c680d4ad5!2sExton+Dog+Park!8m2!3d40.0375136!4d-75.6106732!16s%2Fg%2F11kqrsrj2c!3m5!1s0x89c6f531df3bdabd:0x6b0dafa4c4795967!8m2!3d40.0433891!4d-75.6226076!16s%2Fg%2F11kxm3zy1m?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
-    "websiteUrl": null,
+    "websiteUrl": "https://www.chesco.org/4736/Exton-County-Park",
     "photoCount": 17
   },
   {
@@ -276,7 +276,7 @@
     "name": "Forbes State Forest",
     "state": "PA",
     "mapsUrl": null,
-    "websiteUrl": null,
+    "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/find-a-forest/forbes",
     "photoCount": 2
   },
   {
@@ -467,8 +467,8 @@
     "tag": "PA - Sadsbury Woods Preserve",
     "name": "Sadsbury Woods Preserve",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Sadsbury+Woods+Natural+Lands+Parking/@40.0018128,-75.911582,204m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c644c72cc55dbd:0x94bf234c0f329945!2sNatural+Lands'+Sadsbury+Woods+Preserve!8m2!3d39.9923361!4d-75.9174668!16s%2Fg%2F1hc7s9_zh!3m5!1s0x89c64543dd932977:0xa9d9ff2e39c0d9b!8m2!3d40.0020132!4d-75.9109594!16s%2Fg%2F11q86gnb__?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.natlands.org/visit/sadsbury-woods-preserve/",
     "photoCount": 5
   },
   {
@@ -483,8 +483,8 @@
     "tag": "PA - Springton Manor Farm",
     "name": "Springton Manor Farm",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Springton+Manor+Farm/@40.072067,-75.7793443,838m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c65e2481f0673b:0x50a680947b172e7b!2sSprington+Manor+Farm!8m2!3d40.0721245!4d-75.7768659!16s%2Fm%2F0ndxnvy!3m5!1s0x89c65e2481f0673b:0x50a680947b172e7b!8m2!3d40.0721245!4d-75.7768659!16s%2Fm%2F0ndxnvy?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.chesco.org/4627/Springton-Manor-Farm",
     "photoCount": 13
   },
   {
@@ -500,7 +500,7 @@
     "name": "Starr Farm Park",
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Starr+Farm+Park/@39.9806207,-75.6735427,840m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c6f67edc6b6e77:0x2d4a818f166fe292!8m2!3d39.9806166!4d-75.6709678!16s%2Fg%2F11gbk419jy?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
-    "websiteUrl": null,
+    "websiteUrl": "https://www.eastbradford.org/Facilities/Facility/Details/Starr-Farm-Park-19",
     "photoCount": 27
   },
   {
@@ -523,8 +523,8 @@
     "tag": "PA - State Game Lands 13",
     "name": "State Game Lands 13",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Heberly+Run/@41.3195666,-76.3443384,112m/data=!3m1!1e3!4m6!3m5!1s0x89c56410316b44a9:0xb9595fccf1d60540!8m2!3d41.33846!4d-76.3799669!16s%2Fm%2F011q36h1?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://en.wikipedia.org/wiki/Pennsylvania_State_Game_Lands_Number_13",
     "photoCount": 3
   },
   {
@@ -579,8 +579,8 @@
     "tag": "PA - Stroud Preserve",
     "name": "Stroud Preserve",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Natural+Lands'+Stroud+Preserve/@39.9548687,-75.6491625,2447m/data=!3m1!1e3!4m6!3m5!1s0x89c6f6fac3402e65:0x2421ab65721ab4a0!8m2!3d39.9536724!4d-75.6478804!16s%2Fg%2F1v3_3n9t?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.natlands.org/visit/stroud-preserve/",
     "photoCount": 10
   },
   {
@@ -612,7 +612,7 @@
     "name": "Tiadaghton State Forest",
     "state": "PA",
     "mapsUrl": null,
-    "websiteUrl": null,
+    "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/find-a-forest/tiadaghton",
     "photoCount": 6
   },
   {
@@ -637,7 +637,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 7
+    "photoCount": 6
   },
   {
     "tag": "PA - Valley Forge National Historical Park",
@@ -651,8 +651,8 @@
     "tag": "PA - Vosburg Neck State Park",
     "name": "Vosburg Neck State Park",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Vosburg+Neck+State+Park/@41.5475501,-76.0248551,5056m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c5376f2758dc4d:0xfa2ed50065d3403f!2sVosburg+Neck+State+Park!8m2!3d41.5500489!4d-76.0097235!16s%2Fg%2F11s8kkc20c!3m5!1s0x89c5376f2758dc4d:0xfa2ed50065d3403f!8m2!3d41.5500489!4d-76.0097235!16s%2Fg%2F11s8kkc20c?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/vosburg-neck-state-park",
     "photoCount": 2
   },
   {
@@ -731,8 +731,8 @@
     "tag": "PA - Templin Woods Preserve",
     "name": "Templin Woods Preserve",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Templin+Woods+Preserve/@40.1361609,-75.744933,837m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c661d2ed37967d:0x1904a3d09cf8b402!2sTemplin+Woods+Preserve!8m2!3d40.1361609!4d-75.7423581!16s%2Fg%2F11rt4_t2k5!3m5!1s0x89c661d2ed37967d:0x1904a3d09cf8b402!8m2!3d40.1361609!4d-75.7423581!16s%2Fg%2F11rt4_t2k5?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://frenchandpickering.org/preserves/templin-woods-preserve/",
     "photoCount": 3
   },
   {
@@ -752,11 +752,11 @@
     "photoCount": 1
   },
   {
-    "tag": "PA - Blue Marsh Recreation Area",
-    "name": "Blue Marsh Recreation Area",
+    "tag": "PA - Blue Marsh Lake",
+    "name": "Blue Marsh Lake",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Blue+Marsh+Nat'l+Recreation+Area/@40.3704314,-76.1059271,17820m/data=!3m1!1e3!4m6!3m5!1s0x89c6752f563af0ab:0xc3dca3abac605627!8m2!3d40.3844548!4d-76.0377403!16s%2Fm%2F0b6n331?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.nap.usace.army.mil/bluemarshlake/",
     "photoCount": 3
   },
   {
@@ -899,7 +899,7 @@
     "tag": "PA - Schuylkill River Trail (Port Clinton)",
     "name": "Schuylkill River Trail (Port Clinton)",
     "state": "PA",
-    "mapsUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/John+Bartram+Trail+-+Trailhead/@40.5631286,-75.9961661,642m/data=!3m1!1e3!4m15!1m8!3m7!1s0x89c5db639bcf5bdb:0x4af3f36105a7219b!2sHamburg,+PA+19526!3b1!8m2!3d40.5556484!4d-75.9818772!16zL20vMHpsNF8!3m5!1s0x89c5dc9e4e97526b:0xbb1eb9dd6edf2f65!8m2!3d40.5623352!4d-75.9946913!16s%2Fg%2F11cs5v2rpj?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": null,
     "photoCount": 3
   },
@@ -907,32 +907,32 @@
     "tag": "PA - Hawk Mountain Sanctuary",
     "name": "Hawk Mountain Sanctuary",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Hawk+Mountain+Sanctuary/@40.6338069,-75.989503,832m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c5c47748658a69:0xeca6dda83991cfeb!2sHawk+Mountain+Sanctuary!8m2!3d40.6338029!4d-75.9869281!16s%2Fm%2F047rlxf!3m5!1s0x89c5c47748658a69:0xeca6dda83991cfeb!8m2!3d40.6338029!4d-75.9869281!16s%2Fm%2F047rlxf?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.hawkmountain.org/",
     "photoCount": 2
   },
   {
     "tag": "WV - Coopers Rock State Forest",
     "name": "Coopers Rock State Forest",
     "state": "WV",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Coopers+Rock+State+Forest/@39.6555478,-79.8289772,13491m/data=!3m2!1e3!4b1!4m6!3m5!1s0x88356655a11f0ec7:0x81dded3da0b21e56!8m2!3d39.6555556!4d-79.7877778!16s%2Fg%2F1vwlpss6?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://wvstateparks.com/parks/coopers-rock-state-forest/",
     "photoCount": 1
   },
   {
     "tag": "NJ - Long Pond Ironworks State Park",
     "name": "Long Pond Ironworks State Park",
     "state": "NJ",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Long+Pond+Ironworks+State+Park/@41.1328311,-74.3220097,6229m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c31f4b8b4df3d5:0x85ccedc416fc01f1!2sLong+Pond+Ironworks+State+Park!8m2!3d41.1411241!4d-74.3089952!16zL20vMGRrMG5z!3m5!1s0x89c31f4b8b4df3d5:0x85ccedc416fc01f1!8m2!3d41.1411241!4d-74.3089952!16zL20vMGRrMG5z?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://dep.nj.gov/parksandforests/state-park/long-pond-ironworks-state-park/",
     "photoCount": 1
   },
   {
     "tag": "NJ - India Brook Natural Area",
     "name": "India Brook Natural Area",
     "state": "NJ",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/India+Brook+Natural+Area/@40.7899212,-74.6228544,829m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c398c6bb6d5033:0x113b74ca80b0c17a!8m2!3d40.7899212!4d-74.6202795!16s%2Fg%2F1tycxlg4?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.hikemendham.org/",
     "photoCount": 1
   },
   {
@@ -963,24 +963,24 @@
     "tag": "PA - Keystone State Park",
     "name": "Keystone State Park",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Keystone+State+Park/@40.3725903,-79.3875897,834m/data=!3m1!1e3!4m14!1m7!3m6!1s0x8834ccb41f4b67cb:0xe301b8aa3deca99c!2sKeystone+State+Park!8m2!3d40.3725903!4d-79.3850148!16zL20vMGc4ajVn!3m5!1s0x8834ccb41f4b67cb:0xe301b8aa3deca99c!8m2!3d40.3725903!4d-79.3850148!16zL20vMGc4ajVn?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/keystone-state-park",
     "photoCount": 1
   },
   {
     "tag": "PA - Glacier Pools Preserve",
     "name": "Glacier Pools Preserve",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Glacier+Pools+Preserve/@41.3181329,-76.7371094,823m/data=!3m1!1e3!4m6!3m5!1s0x89cf9752a28a7c97:0x2ed6a85714544746!8m2!3d41.3181329!4d-76.7345345!16s%2Fg%2F11g8v572fs?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://linnconservancy.org/trails/glacier-pools-preserve/",
     "photoCount": 1
   },
   {
     "tag": "MD - Terrapin Nature Park",
     "name": "Terrapin Nature Park",
     "state": "MD",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Terrapin+Nature+Park/@38.9897719,-76.3233334,851m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89b81b228f60e9b5:0xfc318212da52bf65!2sTerrapin+Nature+Park!8m2!3d38.9897719!4d-76.3207585!16s%2Fg%2F1tj22fsp!3m5!1s0x89b81b228f60e9b5:0xfc318212da52bf65!8m2!3d38.9897719!4d-76.3207585!16s%2Fg%2F1tj22fsp?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.qac.org/facilities/facility/details/terrapinnaturepark-97",
     "photoCount": 1
   },
   {
@@ -988,23 +988,23 @@
     "name": "Pinchot State Forest",
     "state": "PA",
     "mapsUrl": null,
-    "websiteUrl": null,
+    "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/find-a-forest/pinchot",
     "photoCount": 1
   },
   {
     "tag": "WV - Cranesville Swamp Preserve",
     "name": "Cranesville Swamp Preserve",
     "state": "WV",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Cranesville+Swamp+Preserve/@39.5306908,-79.4888885,1266m/data=!3m1!1e3!4m14!1m7!3m6!1s0x883556635a459029:0xd60281a8f659510!2sCranesville+Swamp+Preserve!8m2!3d39.5317469!4d-79.4855343!16s%2Fm%2F05mwk7l!3m5!1s0x883556635a459029:0xd60281a8f659510!8m2!3d39.5317469!4d-79.4855343!16s%2Fm%2F05mwk7l?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/cranesville-swamp-preserve/?en_txn1=bl.ch_md.eg.x.g",
     "photoCount": 1
   },
   {
     "tag": "NJ - Wawayanda State Park",
     "name": "Wawayanda State Park",
     "state": "NJ",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Wawayanda+State+Park/@41.1860937,-74.4315486,2772m/data=!3m1!1e3!4m6!3m5!1s0x89c33d914c0847db:0x191db93fc14b9c24!8m2!3d41.1936635!4d-74.4264638!16zL20vMDV5NjN5?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://dep.nj.gov/parksandforests/state-park/wawayanda-state-park/",
     "photoCount": 2
   },
   {
@@ -1035,16 +1035,16 @@
     "tag": "PA - Green Lane Park",
     "name": "Green Lane Park",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Green+Lane+Park/@40.3535102,-75.5038053,5461m/data=!3m1!1e3!4m10!1m2!2m1!1sgreen+lane+park!3m6!1s0x89c69d7eb9a55377:0x50eb800470403259!8m2!3d40.3536007!4d-75.4847736!15sCg9ncmVlbiBsYW5lIHBhcmuSAQRwYXJr4AEA!16s%2Fg%2F11jmwmkjz9?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.montgomerycountypa.gov/departments/parks-trails-historic-sites/parks/green-lane-park",
     "photoCount": 2
   },
   {
     "tag": "PA - Upland Farms Park",
     "name": "Upland Farms Park",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Upland+Farms/@40.0848522,-75.6954124,839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c68abfa8732241:0x241632edbb1525b4!8m2!3d40.0848481!4d-75.6928375!16s%2Fg%2F11cs37w1lc?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.upperuwchlan-pa.gov/facilities/facility/details/Upland-Farm-Park-26",
     "photoCount": 2
   },
   {
@@ -1083,8 +1083,16 @@
     "tag": "PA - Wolf Run Wild Area",
     "name": "Wolf Run Wild Area",
     "state": "PA",
-    "mapsUrl": null,
-    "websiteUrl": null,
+    "mapsUrl": "https://www.google.com/maps/place/Wolf+Run+Wild+Area/@41.4254665,-77.4659803,7164m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89ce446fdb310b43:0xb6b065e180f74e02!2sWolf+Run+Wild+Area!8m2!3d41.4417357!4d-77.4580351!16s%2Fg%2F1tflh60r!3m5!1s0x89ce446fdb310b43:0xb6b065e180f74e02!8m2!3d41.4417357!4d-77.4580351!16s%2Fg%2F1tflh60r?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/find-a-forest/tiadaghton/wild-and-natural-areas",
+    "photoCount": 1
+  },
+  {
+    "tag": "MD - Pickering Creek Audobon Center",
+    "name": "Pickering Creek Audobon Center",
+    "state": "MD",
+    "mapsUrl": "https://www.google.com/maps/place/Pickering+Creek+Audubon+Center/@38.8599191,-76.1260586,853m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89b815068544b7dd:0x628015724cc146ca!2sPickering+Creek+Audubon+Center!8m2!3d38.8599191!4d-76.1234837!16s%2Fg%2F1tcx_qyw!3m5!1s0x89b815068544b7dd:0x628015724cc146ca!8m2!3d38.8599191!4d-76.1234837!16s%2Fg%2F1tcx_qyw?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "websiteUrl": "https://pickeringcreek.org/",
     "photoCount": 1
   }
 ]

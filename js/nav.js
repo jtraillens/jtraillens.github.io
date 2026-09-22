@@ -191,7 +191,9 @@ const Nav = (function() {
                     activeDropdown !== null && activeDropdown.item === item
                 );
             } else if (item.activeMatch === 'default') {
-                el.classList.toggle('active', !activeLink && !activeDropdown);
+                // '' is the Splash/home route, not Gallery -- exclude it so
+                // the fallback doesn't wrongly highlight Gallery there.
+                el.classList.toggle('active', hash !== '' && !activeLink && !activeDropdown);
             } else {
                 el.classList.toggle('active', item === activeLink);
             }

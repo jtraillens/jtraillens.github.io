@@ -11,6 +11,8 @@
       "flower",
       "PA - Bondsville Mill Park"
     ],
+    "width": 4010,
+    "height": 3007,
     "camera": null,
     "taxonName": "Red Sunflower",
     "taxonUrl": "https://www.inaturalist.org/taxa/169780"
@@ -19,14 +21,17 @@
     "fileName": "2026-09-19_18-37-53_070.webp",
     "dateTaken": "2026-09-19T18:37:53",
     "dateAdded": "2026-09-21T18:05:34.455276",
-    "title": "Spiky Wingstem Ball",
+    "title": "Wingstem Seed Head",
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
     "tags": [
       "macro",
+      "seed head",
       "PA - Stroud Preserve"
     ],
+    "width": 2989,
+    "height": 2241,
     "camera": null,
     "taxonName": "Wingstem",
     "taxonUrl": "https://www.inaturalist.org/taxa/117442"
@@ -43,6 +48,8 @@
       "trail",
       "PA - Stroud Preserve"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -60,6 +67,8 @@
       "macro",
       "PA - Stroud Preserve"
     ],
+    "width": 2127,
+    "height": 1595,
     "camera": null,
     "taxonName": "Oneseed Bur Cucumber",
     "taxonUrl": "https://www.inaturalist.org/taxa/117435"
@@ -77,6 +86,8 @@
       "macro",
       "PA - Stroud Preserve"
     ],
+    "width": 3002,
+    "height": 2251,
     "camera": null,
     "taxonName": "Oneseed Bur Cucumber",
     "taxonUrl": "https://www.inaturalist.org/taxa/117435"
@@ -94,6 +105,8 @@
       "macro",
       "PA - Stroud Preserve"
     ],
+    "width": 3200,
+    "height": 4266,
     "camera": null,
     "taxonName": "Oneseed Bur Cucumber",
     "taxonUrl": "https://www.inaturalist.org/taxa/117435"
@@ -111,6 +124,8 @@
       "macro",
       "PA - Stroud Preserve"
     ],
+    "width": 2556,
+    "height": 3408,
     "camera": null,
     "taxonName": "Oneseed Bur Cucumber",
     "taxonUrl": "https://www.inaturalist.org/taxa/117435"
@@ -128,6 +143,8 @@
       "flower",
       "PA - Stroud Preserve"
     ],
+    "width": 2188,
+    "height": 1640,
     "camera": null,
     "taxonName": "Alfalfa",
     "taxonUrl": "https://www.inaturalist.org/taxa/57057"
@@ -144,6 +161,8 @@
       "seed head",
       "PA - Starr Farm Park"
     ],
+    "width": 1894,
+    "height": 1420,
     "camera": null,
     "taxonName": "milkweeds",
     "taxonUrl": "https://www.inaturalist.org/taxa/373579"
@@ -161,6 +180,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 3544,
+    "height": 4725,
     "camera": null,
     "taxonName": "meadow salsify",
     "taxonUrl": "https://www.inaturalist.org/taxa/79385"
@@ -178,6 +199,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 2351,
+    "height": 3135,
     "camera": null,
     "taxonName": "Spotted Orbweaver",
     "taxonUrl": "https://www.inaturalist.org/taxa/85034"
@@ -196,6 +219,8 @@
       "curvy trail",
       "PA - Chester County"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -213,6 +238,8 @@
       "reptile",
       "PA - Schuylkill River Trail (Port Clinton)"
     ],
+    "width": 4758,
+    "height": 3568,
     "camera": null,
     "taxonName": "Central Ratsnake",
     "taxonUrl": "https://www.inaturalist.org/taxa/1661279"
@@ -230,6 +257,8 @@
       "bridge",
       "PA - Schuylkill River Trail (Port Clinton)"
     ],
+    "width": 5150,
+    "height": 3862,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -247,6 +276,8 @@
       "rock",
       "PA - Schuylkill River Trail (Port Clinton)"
     ],
+    "width": 2957,
+    "height": 3942,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -264,6 +295,8 @@
       "moth",
       "PA - Hawk Mountain Sanctuary"
     ],
+    "width": 3686,
+    "height": 2764,
     "camera": null,
     "taxonName": "Blinded Sphinx",
     "taxonUrl": "https://www.inaturalist.org/taxa/49716"
@@ -283,6 +316,8 @@
       "pareidolia",
       "PA - Hawk Mountain Sanctuary"
     ],
+    "width": 2799,
+    "height": 2099,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -299,6 +334,8 @@
       "chestnut",
       "PA - Green Lane Park"
     ],
+    "width": 2449,
+    "height": 1837,
     "camera": null,
     "taxonName": "Chestnuts",
     "taxonUrl": "https://www.inaturalist.org/taxa/49187"
@@ -316,6 +353,8 @@
       "wood",
       "PA - Green Lane Park"
     ],
+    "width": 4810,
+    "height": 3607,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -333,6 +372,8 @@
       "seed head",
       "PA - Upland Farms Park"
     ],
+    "width": 3823,
+    "height": 5098,
     "camera": null,
     "taxonName": "wild teasel",
     "taxonUrl": "https://www.inaturalist.org/taxa/56002"
@@ -350,6 +391,8 @@
       "meadow",
       "PA - Upland Farms Park"
     ],
+    "width": 5270,
+    "height": 3953,
     "camera": null,
     "taxonName": "tall goldenrod",
     "taxonUrl": "https://www.inaturalist.org/taxa/79148"
@@ -366,6 +409,8 @@
       "pareidolia",
       "PA - Downingtown"
     ],
+    "width": 2787,
+    "height": 3716,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -384,6 +429,8 @@
       "cliff",
       "PA - Holtwood"
     ],
+    "width": 3841,
+    "height": 5121,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -401,6 +448,8 @@
       "macro",
       "PA - Birdsboro Waters"
     ],
+    "width": 3338,
+    "height": 2504,
     "camera": null,
     "taxonName": "Blue Jay",
     "taxonUrl": "https://www.inaturalist.org/taxa/8229"
@@ -419,6 +468,8 @@
       "plant",
       "PA - Warwick County Park"
     ],
+    "width": 3221,
+    "height": 4295,
     "camera": null,
     "taxonName": "Tall Goldenrod",
     "taxonUrl": "https://www.inaturalist.org/taxa/79148"
@@ -437,6 +488,8 @@
       "sky",
       "PA - Warwick County Park"
     ],
+    "width": 3650,
+    "height": 4867,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -455,6 +508,8 @@
       "macro",
       "PA - Warwick County Park"
     ],
+    "width": 2364,
+    "height": 3152,
     "camera": null,
     "taxonName": "Coral Fungi",
     "taxonUrl": "https://www.inaturalist.org/taxa/48707"
@@ -472,6 +527,8 @@
       "macro",
       "PA - Warwick County Park"
     ],
+    "width": 3201,
+    "height": 2401,
     "camera": null,
     "taxonName": "Pale Sunflower",
     "taxonUrl": "https://www.inaturalist.org/taxa/147976"
@@ -489,6 +546,8 @@
       "overhead",
       "PA - Warwick County Park"
     ],
+    "width": 3935,
+    "height": 5247,
     "camera": null,
     "taxonName": "broad beech fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/122081"
@@ -506,6 +565,8 @@
       "mushroom",
       "PA - Warwick County Park"
     ],
+    "width": 3423,
+    "height": 2568,
     "camera": null,
     "taxonName": "Viscid Violet Cort",
     "taxonUrl": "https://www.inaturalist.org/taxa/154583"
@@ -524,6 +585,8 @@
       "macro",
       "PA - Warwick County Park"
     ],
+    "width": 4489,
+    "height": 3367,
     "camera": null,
     "taxonName": "Smoky Spindles",
     "taxonUrl": "https://www.inaturalist.org/taxa/123127"
@@ -542,6 +605,8 @@
       "clustered",
       "PA - Tyler Arboretum"
     ],
+    "width": 3106,
+    "height": 2330,
     "camera": null,
     "taxonName": "Turkey-tail",
     "taxonUrl": "https://www.inaturalist.org/taxa/54134"
@@ -559,6 +624,8 @@
       "sumac",
       "PA - Tyler Arboretum"
     ],
+    "width": 3530,
+    "height": 4707,
     "camera": null,
     "taxonName": "sumacs",
     "taxonUrl": "https://www.inaturalist.org/taxa/54765"
@@ -579,6 +646,8 @@
       "moth",
       "PA - Tyler Arboretum"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": "Walnut Caterpillar Moth",
     "taxonUrl": "https://www.inaturalist.org/taxa/218166"
@@ -596,6 +665,8 @@
       "treehouse",
       "PA - Tyler Arboretum"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": "American Tuliptree",
     "taxonUrl": "https://www.inaturalist.org/taxa/53582"
@@ -613,27 +684,11 @@
       "treehouse",
       "PA - Tyler Arboretum"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
-  },
-  {
-    "fileName": "2026-09-02_12-18-08_612.webp",
-    "dateTaken": "2026-09-02T12:18:08",
-    "dateAdded": "2026-09-05T12:51:54.721772+00:00",
-    "title": "Larch Silhouette",
-    "description": null,
-    "locationName": "PA - Tyler Arboretum",
-    "locationLabel": "Tyler Arboretum, PA",
-    "tags": [
-      "pine",
-      "sky",
-      "silhouette",
-      "PA - Tyler Arboretum"
-    ],
-    "camera": null,
-    "taxonName": "Chinese Golden Larch",
-    "taxonUrl": "https://www.inaturalist.org/taxa/135543"
   },
   {
     "fileName": "2026-09-02_12-12-55_216.webp",
@@ -648,6 +703,8 @@
       "macro",
       "PA - Tyler Arboretum"
     ],
+    "width": 3317,
+    "height": 4423,
     "camera": null,
     "taxonName": "Golden Everlasting",
     "taxonUrl": "https://www.inaturalist.org/taxa/147467"
@@ -665,6 +722,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 4247,
+    "height": 3185,
     "camera": null,
     "taxonName": "Autumn Olive",
     "taxonUrl": "https://www.inaturalist.org/taxa/64697"
@@ -682,6 +741,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 2965,
+    "height": 2224,
     "camera": null,
     "taxonName": "Chinese Mantis",
     "taxonUrl": "https://www.inaturalist.org/taxa/71034"
@@ -699,6 +760,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 2350,
+    "height": 1762,
     "camera": null,
     "taxonName": "Chinese Bushclover",
     "taxonUrl": "https://www.inaturalist.org/taxa/164566"
@@ -716,6 +779,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 3814,
+    "height": 5086,
     "camera": null,
     "taxonName": "Golden Reishi",
     "taxonUrl": "https://www.inaturalist.org/taxa/335051"
@@ -734,6 +799,8 @@
       "leaf",
       "PA - Starr Farm Park"
     ],
+    "width": 4142,
+    "height": 5522,
     "camera": null,
     "taxonName": "American sycamore",
     "taxonUrl": "https://www.inaturalist.org/taxa/49662"
@@ -751,6 +818,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 2082,
+    "height": 2776,
     "camera": null,
     "taxonName": "Fork-tailed Bush Katydid",
     "taxonUrl": "https://www.inaturalist.org/taxa/55957"
@@ -768,6 +837,8 @@
       "mushroom",
       "PA - Birdsboro Waters"
     ],
+    "width": 3185,
+    "height": 4246,
     "camera": null,
     "taxonName": "Coker's Amanita",
     "taxonUrl": "https://www.inaturalist.org/taxa/127674"
@@ -786,6 +857,8 @@
       "moss",
       "PA - Birdsboro Waters"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -802,6 +875,8 @@
       "fungus",
       "PA - Birdsboro Waters"
     ],
+    "width": 3602,
+    "height": 2702,
     "camera": null,
     "taxonName": "Phaeolus Hispidoides",
     "taxonUrl": "https://www.inaturalist.org/taxa/1633475"
@@ -820,6 +895,8 @@
       "clustered",
       "PA - Birdsboro Waters"
     ],
+    "width": 3515,
+    "height": 4687,
     "camera": null,
     "taxonName": "Bleeding Fairy Helmet",
     "taxonUrl": "https://www.inaturalist.org/taxa/63460"
@@ -837,6 +914,8 @@
       "mushroom",
       "PA - Birdsboro Waters"
     ],
+    "width": 3404,
+    "height": 4538,
     "camera": null,
     "taxonName": "Pallid Bolete",
     "taxonUrl": "https://www.inaturalist.org/taxa/1040179"
@@ -854,6 +933,8 @@
       "mushroom",
       "PA - Birdsboro Waters"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": "Viscid Violet Cort",
     "taxonUrl": "https://www.inaturalist.org/taxa/154583"
@@ -872,6 +953,8 @@
       "confluence",
       "PA - Sadsbury Woods Preserve"
     ],
+    "width": 3592,
+    "height": 4790,
     "camera": null,
     "taxonName": "Peck's Milky Cap",
     "taxonUrl": "https://www.inaturalist.org/taxa/367745"
@@ -889,6 +972,8 @@
       "macro",
       "PA - Sadsbury Woods Preserve"
     ],
+    "width": 2722,
+    "height": 2041,
     "camera": null,
     "taxonName": "Water Forget-me-not",
     "taxonUrl": "https://www.inaturalist.org/taxa/49130"
@@ -907,6 +992,8 @@
       "flower",
       "PA - Sadsbury Woods Preserve"
     ],
+    "width": 2926,
+    "height": 2194,
     "camera": null,
     "taxonName": "Sweat Bees",
     "taxonUrl": "https://www.inaturalist.org/taxa/49707"
@@ -925,6 +1012,8 @@
       "overhead",
       "PA - Sadsbury Woods Preserve"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -941,6 +1030,8 @@
       "flower bud",
       "PA - The Laurels Preserve"
     ],
+    "width": 3523,
+    "height": 2642,
     "camera": null,
     "taxonName": "tall blue lettuce",
     "taxonUrl": "https://www.inaturalist.org/taxa/77616"
@@ -959,6 +1050,8 @@
       "macro",
       "PA - The Laurels Preserve"
     ],
+    "width": 2170,
+    "height": 2893,
     "camera": null,
     "taxonName": "Tall Blue Lettuce",
     "taxonUrl": "https://www.inaturalist.org/taxa/77616"
@@ -977,6 +1070,8 @@
       "spiral",
       "PA - The Laurels Preserve"
     ],
+    "width": 2144,
+    "height": 2859,
     "camera": null,
     "taxonName": "Prickly Cucumber",
     "taxonUrl": "https://www.inaturalist.org/taxa/48618"
@@ -994,6 +1089,8 @@
       "tendril",
       "PA - The Laurels Preserve"
     ],
+    "width": 2196,
+    "height": 1647,
     "camera": null,
     "taxonName": "Prickly Cucumber",
     "taxonUrl": "https://www.inaturalist.org/taxa/48618"
@@ -1012,6 +1109,8 @@
       "mushroom",
       "PA - The Laurels Preserve"
     ],
+    "width": 2448,
+    "height": 3264,
     "camera": null,
     "taxonName": "Orange Pinwheel",
     "taxonUrl": "https://www.inaturalist.org/taxa/136398"
@@ -1028,6 +1127,8 @@
       "fungus",
       "PA - The Laurels Preserve"
     ],
+    "width": 4836,
+    "height": 3627,
     "camera": null,
     "taxonName": "Violet-toothed Polypore",
     "taxonUrl": "https://www.inaturalist.org/taxa/125705"
@@ -1046,6 +1147,8 @@
       "mushroom",
       "PA - The Laurels Preserve"
     ],
+    "width": 3469,
+    "height": 4625,
     "camera": null,
     "taxonName": "Marasmius Capillaris",
     "taxonUrl": "https://www.inaturalist.org/taxa/334044"
@@ -1066,6 +1169,8 @@
       "compound eye",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": "Small White",
     "taxonUrl": "https://www.inaturalist.org/taxa/55626"
@@ -1084,6 +1189,8 @@
       "chanterelle",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3679,
+    "height": 4906,
     "camera": null,
     "taxonName": "chanterelles",
     "taxonUrl": "https://www.inaturalist.org/taxa/47348"
@@ -1102,6 +1209,8 @@
       "underside",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 3665,
+    "height": 4887,
     "camera": null,
     "taxonName": "Lynx Paw Oyster",
     "taxonUrl": "https://www.inaturalist.org/taxa/1247035"
@@ -1120,6 +1229,8 @@
       "flower",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 2684,
+    "height": 2012,
     "camera": null,
     "taxonName": "Northern Crab Spider",
     "taxonUrl": "https://www.inaturalist.org/taxa/224488"
@@ -1138,6 +1249,8 @@
       "curvy trail",
       "PA - Opalanie Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1156,6 +1269,8 @@
       "trail",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1174,6 +1289,8 @@
       "mycena",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 3282,
+    "height": 2461,
     "camera": null,
     "taxonName": "Orange Mycena",
     "taxonUrl": "https://www.inaturalist.org/taxa/128516"
@@ -1191,6 +1308,8 @@
       "caterpillar",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 3579,
+    "height": 2684,
     "camera": null,
     "taxonName": "Monarch",
     "taxonUrl": "https://www.inaturalist.org/taxa/48662"
@@ -1210,6 +1329,8 @@
       "flower",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 2795,
+    "height": 2096,
     "camera": null,
     "taxonName": "Phymata Fasciata",
     "taxonUrl": "https://www.inaturalist.org/taxa/145582"
@@ -1229,6 +1350,8 @@
       "starburst",
       "PA - Starr Farm Park"
     ],
+    "width": 2786,
+    "height": 3714,
     "camera": null,
     "taxonName": "Field Thistle",
     "taxonUrl": "https://www.inaturalist.org/taxa/61340"
@@ -1247,6 +1370,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3909,
+    "height": 5212,
     "camera": null,
     "taxonName": "Orange Gilled Waxcap",
     "taxonUrl": "https://www.inaturalist.org/taxa/125684"
@@ -1265,6 +1390,8 @@
       "boat",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1283,6 +1410,8 @@
       "shell",
       "PA - Exton Park"
     ],
+    "width": 2148,
+    "height": 1611,
     "camera": null,
     "taxonName": "Common Land Snails and Slugs",
     "taxonUrl": "https://www.inaturalist.org/taxa/47485"
@@ -1302,6 +1431,8 @@
       "chanterelle",
       "PA - Exton Park"
     ],
+    "width": 2795,
+    "height": 3727,
     "camera": null,
     "taxonName": "Red Chanterelle",
     "taxonUrl": "https://www.inaturalist.org/taxa/143393"
@@ -1318,6 +1449,8 @@
       "fungus",
       "PA - Exton Park"
     ],
+    "width": 3266,
+    "height": 4355,
     "camera": null,
     "taxonName": "Turkey-tail",
     "taxonUrl": "https://www.inaturalist.org/taxa/54134"
@@ -1334,6 +1467,8 @@
       "fungus",
       "PA - Bondsville Mill Park"
     ],
+    "width": 3048,
+    "height": 2286,
     "camera": null,
     "taxonName": "Turkey-tails and allies",
     "taxonUrl": "https://www.inaturalist.org/taxa/47378"
@@ -1350,6 +1485,8 @@
       "pareidolia",
       "PA - Bondsville Mill Park"
     ],
+    "width": 4260,
+    "height": 3195,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1368,6 +1505,8 @@
       "macro",
       "PA - Chester County"
     ],
+    "width": 2544,
+    "height": 3392,
     "camera": null,
     "taxonName": "Dryad's Saddle",
     "taxonUrl": "https://www.inaturalist.org/taxa/940028"
@@ -1387,6 +1526,8 @@
       "macro",
       "PA - Chester County"
     ],
+    "width": 3121,
+    "height": 4161,
     "camera": null,
     "taxonName": "Japanese Barberry",
     "taxonUrl": "https://www.inaturalist.org/taxa/58727"
@@ -1404,6 +1545,8 @@
       "flower",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2748,
+    "height": 2061,
     "camera": null,
     "taxonName": "Ivy-leaved Morning-glory",
     "taxonUrl": "https://www.inaturalist.org/taxa/77495"
@@ -1422,6 +1565,8 @@
       "flower",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2849,
+    "height": 2137,
     "camera": null,
     "taxonName": "Hover Flies",
     "taxonUrl": "https://www.inaturalist.org/taxa/49995"
@@ -1438,6 +1583,8 @@
       "fungus",
       "PA - Myrick Conservation Center"
     ],
+    "width": 4073,
+    "height": 3055,
     "camera": null,
     "taxonName": "False Turkeytail",
     "taxonUrl": "https://www.inaturalist.org/taxa/1031780"
@@ -1455,6 +1602,8 @@
       "trail",
       "PA - Coventry Woods Park"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1473,6 +1622,8 @@
       "underside",
       "PA - Coventry Woods Park"
     ],
+    "width": 4092,
+    "height": 3069,
     "camera": null,
     "taxonName": "Indigo Milk Cap",
     "taxonUrl": "https://www.inaturalist.org/taxa/120951"
@@ -1490,6 +1641,8 @@
       "plant",
       "PA - Woody's Woods"
     ],
+    "width": 2599,
+    "height": 1949,
     "camera": null,
     "taxonName": "Hairy Skullcap",
     "taxonUrl": "https://www.inaturalist.org/taxa/134213"
@@ -1510,6 +1663,8 @@
       "underside",
       "PA - Woody's Woods"
     ],
+    "width": 2567,
+    "height": 3422,
     "camera": null,
     "taxonName": "Hairy Oyster Mushroom",
     "taxonUrl": "https://www.inaturalist.org/taxa/536019"
@@ -1528,6 +1683,8 @@
       "cloud",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3498,
+    "height": 2624,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1545,6 +1702,8 @@
       "sky",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3202,
+    "height": 2402,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1563,6 +1722,8 @@
       "curvy trail",
       "PA - Thomas P. Bentley Nature Preserve"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1579,6 +1740,8 @@
       "thistle",
       "PA - Thomas P. Bentley Nature Preserve"
     ],
+    "width": 2776,
+    "height": 3701,
     "camera": null,
     "taxonName": "Field Thistle",
     "taxonUrl": "https://www.inaturalist.org/taxa/61340"
@@ -1596,6 +1759,8 @@
       "macro",
       "PA - Thomas P. Bentley Nature Preserve"
     ],
+    "width": 3070,
+    "height": 4093,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1614,6 +1779,8 @@
       "foxtail",
       "PA - Exton Park"
     ],
+    "width": 3684,
+    "height": 2763,
     "camera": null,
     "taxonName": "Giant Foxtail",
     "taxonUrl": "https://www.inaturalist.org/taxa/79067"
@@ -1633,6 +1800,8 @@
       "macro",
       "PA - French Creek State Park"
     ],
+    "width": 2278,
+    "height": 1709,
     "camera": null,
     "taxonName": "Purple-edged Lute",
     "taxonUrl": "https://www.inaturalist.org/taxa/500027"
@@ -1652,6 +1821,8 @@
       "underside",
       "PA - French Creek State Park"
     ],
+    "width": 4466,
+    "height": 3350,
     "camera": null,
     "taxonName": "Lynx Paw Oyster",
     "taxonUrl": "https://www.inaturalist.org/taxa/1247035"
@@ -1669,6 +1840,8 @@
       "mushroom",
       "PA - French Creek State Park"
     ],
+    "width": 2351,
+    "height": 3134,
     "camera": null,
     "taxonName": "Candy Apple Waxy Cap",
     "taxonUrl": "https://www.inaturalist.org/taxa/481923"
@@ -1686,6 +1859,8 @@
       "mushroom",
       "PA - French Creek State Park"
     ],
+    "width": 2527,
+    "height": 3370,
     "camera": null,
     "taxonName": "Pinkgills",
     "taxonUrl": "https://www.inaturalist.org/taxa/47165"
@@ -1704,6 +1879,8 @@
       "pareidolia",
       "PA - French Creek State Park"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1721,6 +1898,8 @@
       "fungus",
       "PA - French Creek State Park"
     ],
+    "width": 3224,
+    "height": 2418,
     "camera": null,
     "taxonName": "Eastern Cauliflower Mushroom",
     "taxonUrl": "https://www.inaturalist.org/taxa/334319"
@@ -1739,6 +1918,8 @@
       "macro",
       "PA - French Creek State Park"
     ],
+    "width": 2198,
+    "height": 2931,
     "camera": null,
     "taxonName": "Yellow Star Grass",
     "taxonUrl": "https://www.inaturalist.org/taxa/81797"
@@ -1758,6 +1939,8 @@
       "clustered",
       "PA - French Creek State Park"
     ],
+    "width": 2374,
+    "height": 1780,
     "camera": null,
     "taxonName": "Cross-veined Troop Mushroom",
     "taxonUrl": "https://www.inaturalist.org/taxa/63419"
@@ -1774,6 +1957,8 @@
       "fungus",
       "PA - Exton Park"
     ],
+    "width": 1964,
+    "height": 1473,
     "camera": null,
     "taxonName": "False Turkeytail",
     "taxonUrl": "https://www.inaturalist.org/taxa/1031780"
@@ -1792,6 +1977,8 @@
       "underside",
       "PA - Exton Park"
     ],
+    "width": 4837,
+    "height": 3628,
     "camera": null,
     "taxonName": "Eastern American Platterful Mushroom",
     "taxonUrl": "https://www.inaturalist.org/taxa/488500"
@@ -1810,6 +1997,8 @@
       "macro",
       "PA - Exton Park"
     ],
+    "width": 2493,
+    "height": 1869,
     "camera": null,
     "taxonName": "Blushing Amanitas",
     "taxonUrl": "https://www.inaturalist.org/taxa/1678242"
@@ -1827,6 +2016,8 @@
       "mushroom",
       "PA - Exton Park"
     ],
+    "width": 2165,
+    "height": 2886,
     "camera": null,
     "taxonName": "Entoloma Unicolor",
     "taxonUrl": "https://www.inaturalist.org/taxa/499645"
@@ -1846,6 +2037,8 @@
       "underside",
       "PA - Exton Park"
     ],
+    "width": 3106,
+    "height": 4142,
     "camera": null,
     "taxonName": "Fairy Parachutes",
     "taxonUrl": "https://www.inaturalist.org/taxa/118242"
@@ -1863,6 +2056,8 @@
       "macro",
       "PA - Exton Park"
     ],
+    "width": 4667,
+    "height": 3500,
     "camera": null,
     "taxonName": "Rosepink",
     "taxonUrl": "https://www.inaturalist.org/taxa/84666"
@@ -1881,6 +2076,8 @@
       "meadow",
       "PA - Silver Mine Park"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1899,6 +2096,8 @@
       "macro",
       "PA - Silver Mine Park"
     ],
+    "width": 3764,
+    "height": 2823,
     "camera": null,
     "taxonName": "Primrose Moth",
     "taxonUrl": "https://www.inaturalist.org/taxa/143316"
@@ -1918,6 +2117,8 @@
       "portal",
       "PA - Silver Mine Park"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1937,6 +2138,8 @@
       "leading lines",
       "PA - Silver Mine Park"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1953,6 +2156,8 @@
       "butterfly",
       "PA - Silver Mine Park"
     ],
+    "width": 2548,
+    "height": 3397,
     "camera": null,
     "taxonName": "Red-spotted Admiral",
     "taxonUrl": "https://www.inaturalist.org/taxa/60607"
@@ -1970,6 +2175,8 @@
       "trail",
       "PA - Lancaster County Central Park"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -1988,6 +2195,8 @@
       "macro",
       "PA - Lancaster County Central Park"
     ],
+    "width": 2449,
+    "height": 1836,
     "camera": null,
     "taxonName": "Green Stink Bug",
     "taxonUrl": "https://www.inaturalist.org/taxa/485010"
@@ -2007,6 +2216,8 @@
       "starburst",
       "PA - Lancaster County Central Park"
     ],
+    "width": 3349,
+    "height": 2512,
     "camera": null,
     "taxonName": "Common Hibiscus",
     "taxonUrl": "https://www.inaturalist.org/taxa/126585"
@@ -2025,6 +2236,8 @@
       "butterfly",
       "PA - Lancaster County Central Park"
     ],
+    "width": 4888,
+    "height": 3666,
     "camera": null,
     "taxonName": "Zabulon Skipper",
     "taxonUrl": "https://www.inaturalist.org/taxa/1081329"
@@ -2043,6 +2256,8 @@
       "macro",
       "PA - Lancaster County Central Park"
     ],
+    "width": 2692,
+    "height": 2019,
     "camera": null,
     "taxonName": "Xylaria",
     "taxonUrl": "https://www.inaturalist.org/taxa/55268"
@@ -2062,6 +2277,8 @@
       "overhead",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2382,
+    "height": 3176,
     "camera": null,
     "taxonName": "Helmeted Squash Bug",
     "taxonUrl": "https://www.inaturalist.org/taxa/119697"
@@ -2080,6 +2297,8 @@
       "pareidolia",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3554,
+    "height": 4739,
     "camera": null,
     "taxonName": "Black-staining Polypore",
     "taxonUrl": "https://www.inaturalist.org/taxa/125738"
@@ -2099,28 +2318,11 @@
       "macro",
       "PA - Chester County"
     ],
+    "width": 2919,
+    "height": 2189,
     "camera": null,
     "taxonName": "Luminescent Panellus",
     "taxonUrl": "https://www.inaturalist.org/taxa/68309"
-  },
-  {
-    "fileName": "2026-08-05_14-27-48_375.webp",
-    "dateTaken": "2026-08-05T14:27:48",
-    "dateAdded": null,
-    "title": "Pholiota Granulosa",
-    "description": null,
-    "locationName": "PA - Chester County",
-    "locationLabel": "Chester County, PA",
-    "tags": [
-      "fungus",
-      "mushroom",
-      "macro",
-      "underside",
-      "PA - Chester County"
-    ],
-    "camera": null,
-    "taxonName": "Pholiota Granulosa",
-    "taxonUrl": "https://www.inaturalist.org/taxa/466792"
   },
   {
     "fileName": "2026-08-04_11-42-34_222.webp",
@@ -2137,6 +2339,8 @@
       "overhead",
       "PA - Ridley Creek State Park"
     ],
+    "width": 3741,
+    "height": 2806,
     "camera": null,
     "taxonName": "spotted St. John's wort",
     "taxonUrl": "https://www.inaturalist.org/taxa/132711"
@@ -2155,6 +2359,8 @@
       "macro",
       "PA - Springton Manor Farm"
     ],
+    "width": 2118,
+    "height": 1589,
     "camera": null,
     "taxonName": "onions",
     "taxonUrl": "https://www.inaturalist.org/taxa/47357"
@@ -2173,6 +2379,8 @@
       "macro",
       "PA - Springton Manor Farm"
     ],
+    "width": 3255,
+    "height": 2441,
     "camera": null,
     "taxonName": "meadow-rues",
     "taxonUrl": "https://www.inaturalist.org/taxa/53300"
@@ -2191,6 +2399,8 @@
       "macro",
       "PA - Springton Manor Farm"
     ],
+    "width": 3553,
+    "height": 2665,
     "camera": null,
     "taxonName": "Fluted Bird's Nest Fungus",
     "taxonUrl": "https://www.inaturalist.org/taxa/120242"
@@ -2209,6 +2419,8 @@
       "agrimony",
       "PA - Springton Manor Farm"
     ],
+    "width": 2735,
+    "height": 3647,
     "camera": null,
     "taxonName": "Swamp Agrimony",
     "taxonUrl": "https://www.inaturalist.org/taxa/55895"
@@ -2227,6 +2439,8 @@
       "russula",
       "PA - Springton Manor Farm"
     ],
+    "width": 2784,
+    "height": 3712,
     "camera": null,
     "taxonName": "brittlegills",
     "taxonUrl": "https://www.inaturalist.org/taxa/48339"
@@ -2246,6 +2460,8 @@
       "pollinator",
       "PA - Springton Manor Farm"
     ],
+    "width": 3044,
+    "height": 4059,
     "camera": null,
     "taxonName": "Eastern Tiger Swallowtail",
     "taxonUrl": "https://www.inaturalist.org/taxa/60551"
@@ -2263,6 +2479,8 @@
       "flower",
       "PA - Springton Manor Farm"
     ],
+    "width": 2486,
+    "height": 3314,
     "camera": null,
     "taxonName": "Pickerelweed",
     "taxonUrl": "https://www.inaturalist.org/taxa/52599"
@@ -2280,6 +2498,8 @@
       "pareidolia",
       "PA - Monocacy Hill Recreation Area"
     ],
+    "width": 3844,
+    "height": 5126,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -2299,6 +2519,8 @@
       "macro",
       "PA - Monocacy Hill Recreation Area"
     ],
+    "width": 2238,
+    "height": 1678,
     "camera": null,
     "taxonName": "Stylogaster neglecta",
     "taxonUrl": "https://www.inaturalist.org/taxa/62033"
@@ -2318,6 +2540,8 @@
       "starburst",
       "PA - Monocacy Hill Recreation Area"
     ],
+    "width": 2574,
+    "height": 3432,
     "camera": null,
     "taxonName": "Alsike Clover",
     "taxonUrl": "https://www.inaturalist.org/taxa/61824"
@@ -2336,6 +2560,8 @@
       "clustered",
       "PA - Monocacy Hill Recreation Area"
     ],
+    "width": 3273,
+    "height": 2455,
     "camera": null,
     "taxonName": "Trooping Crumble Cap",
     "taxonUrl": "https://www.inaturalist.org/taxa/56314"
@@ -2353,6 +2579,8 @@
       "macro",
       "PA - Daniel Boone Homestead"
     ],
+    "width": 2388,
+    "height": 1791,
     "camera": null,
     "taxonName": "Two-striped Grasshopper",
     "taxonUrl": "https://www.inaturalist.org/taxa/129305"
@@ -2371,6 +2599,8 @@
       "ant",
       "PA - Daniel Boone Homestead"
     ],
+    "width": 2721,
+    "height": 2041,
     "camera": null,
     "taxonName": "American Burnweed",
     "taxonUrl": "https://www.inaturalist.org/taxa/130888"
@@ -2390,6 +2620,8 @@
       "clearwing",
       "PA - Daniel Boone Homestead"
     ],
+    "width": 3859,
+    "height": 2895,
     "camera": null,
     "taxonName": "Ironweed Clearwing Moth",
     "taxonUrl": "https://www.inaturalist.org/taxa/121961"
@@ -2407,6 +2639,8 @@
       "macro",
       "PA - Daniel Boone Homestead"
     ],
+    "width": 2404,
+    "height": 3205,
     "camera": null,
     "taxonName": "Blue Vervain",
     "taxonUrl": "https://www.inaturalist.org/taxa/60251"
@@ -2426,6 +2660,8 @@
       "flower bud",
       "PA - Wissahickon Valley Park"
     ],
+    "width": 2168,
+    "height": 2890,
     "camera": null,
     "taxonName": "Sweet Joe-Pye-weed",
     "taxonUrl": "https://www.inaturalist.org/taxa/85378"
@@ -2444,6 +2680,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2721,
+    "height": 3628,
     "camera": null,
     "taxonName": "Field Garlic",
     "taxonUrl": "https://www.inaturalist.org/taxa/158185"
@@ -2462,6 +2700,8 @@
       "head on",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 2759,
+    "height": 3678,
     "camera": null,
     "taxonName": "North American Luna Moth",
     "taxonUrl": "https://www.inaturalist.org/taxa/47916"
@@ -2478,6 +2718,8 @@
       "trail",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4190,
+    "height": 5586,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -2496,6 +2738,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2129,
+    "height": 2840,
     "camera": null,
     "taxonName": "Brown-belted Bumble Bee",
     "taxonUrl": "https://www.inaturalist.org/taxa/120215"
@@ -2514,6 +2758,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2636,
+    "height": 1977,
     "camera": null,
     "taxonName": "Condylostylus Sipho",
     "taxonUrl": "https://www.inaturalist.org/taxa/259850"
@@ -2532,6 +2778,8 @@
       "trefoil",
       "PA - French Creek State Park"
     ],
+    "width": 2672,
+    "height": 3562,
     "camera": null,
     "taxonName": "Naked-flowered Tick-trefoil",
     "taxonUrl": "https://www.inaturalist.org/taxa/204173"
@@ -2551,6 +2799,8 @@
       "starburst",
       "PA - Paradise Valley Nature Area"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": "Wild Teasel",
     "taxonUrl": "https://www.inaturalist.org/taxa/56002"
@@ -2570,6 +2820,8 @@
       "overhead",
       "PA - Starr Farm Park"
     ],
+    "width": 2397,
+    "height": 1798,
     "camera": null,
     "taxonName": "Margined Calligrapher",
     "taxonUrl": "https://www.inaturalist.org/taxa/126889"
@@ -2588,6 +2840,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 2673,
+    "height": 2004,
     "camera": null,
     "taxonName": "Thaumatomyia Glabra",
     "taxonUrl": "https://www.inaturalist.org/taxa/133767"
@@ -2606,6 +2860,8 @@
       "meadow",
       "PA - Hildacy Preserve"
     ],
+    "width": 3078,
+    "height": 2308,
     "camera": null,
     "taxonName": "River Oats",
     "taxonUrl": "https://www.inaturalist.org/taxa/84364"
@@ -2625,6 +2881,8 @@
       "macro",
       "PA - Brandywine Meadows Preserve"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Grapes and Allies",
     "taxonUrl": "https://www.inaturalist.org/taxa/71291"
@@ -2643,6 +2901,8 @@
       "macro",
       "PA - Harmony Hill Nature Area"
     ],
+    "width": 2071,
+    "height": 2761,
     "camera": null,
     "taxonName": "Chocolate Tube Slime",
     "taxonUrl": "https://www.inaturalist.org/taxa/53838"
@@ -2661,6 +2921,8 @@
       "oyster mushroom",
       "PA - Harmony Hill Nature Area"
     ],
+    "width": 2434,
+    "height": 1826,
     "camera": null,
     "taxonName": "Pale Oyster",
     "taxonUrl": "https://www.inaturalist.org/taxa/136399"
@@ -2680,6 +2942,8 @@
       "translucent",
       "PA - Binky Lee Preserve"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": "Sensitive Fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/82576"
@@ -2698,6 +2962,8 @@
       "macro",
       "DE - Auburn Valley State Park"
     ],
+    "width": 2279,
+    "height": 1709,
     "camera": null,
     "taxonName": "Orange Assassin Bug",
     "taxonUrl": "https://www.inaturalist.org/taxa/82026"
@@ -2716,6 +2982,8 @@
       "dogwood",
       "PA - Stateline Woods Preserve"
     ],
+    "width": 2584,
+    "height": 3445,
     "camera": null,
     "taxonName": "Kousa Dogwood",
     "taxonUrl": "https://www.inaturalist.org/taxa/128614"
@@ -2735,6 +3003,8 @@
       "head on",
       "PA - Stateline Woods Preserve"
     ],
+    "width": 3562,
+    "height": 2672,
     "camera": null,
     "taxonName": "Peppered Jumping Spider",
     "taxonUrl": "https://www.inaturalist.org/taxa/148090"
@@ -2753,6 +3023,8 @@
       "macro",
       "PA - ChesLen Preserve"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Buffalo Treehopper",
     "taxonUrl": "https://www.inaturalist.org/taxa/1110561"
@@ -2772,6 +3044,8 @@
       "predation",
       "PA - ChesLen Preserve"
     ],
+    "width": 1900,
+    "height": 1425,
     "camera": null,
     "taxonName": "Yellow-faced Micropanther",
     "taxonUrl": "https://www.inaturalist.org/taxa/61569"
@@ -2790,6 +3064,8 @@
       "coneflower",
       "PA - ChesLen Preserve"
     ],
+    "width": 1586,
+    "height": 2115,
     "camera": null,
     "taxonName": "Cutleaf Coneflower",
     "taxonUrl": "https://www.inaturalist.org/taxa/116735"
@@ -2808,6 +3084,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 1930,
+    "height": 2573,
     "camera": null,
     "taxonName": "Common Eastern Physocephala",
     "taxonUrl": "https://www.inaturalist.org/taxa/133978"
@@ -2826,6 +3104,8 @@
       "meadow",
       "PA - Starr Farm Park"
     ],
+    "width": 3553,
+    "height": 2665,
     "camera": null,
     "taxonName": "Wild Carrot",
     "taxonUrl": "https://www.inaturalist.org/taxa/76610"
@@ -2846,6 +3126,8 @@
       "bee",
       "PA - French Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Pure Green Sweat Bee",
     "taxonUrl": "https://www.inaturalist.org/taxa/82523"
@@ -2865,6 +3147,8 @@
       "insect",
       "PA - Springton Manor Farm"
     ],
+    "width": 2059,
+    "height": 1544,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -2885,6 +3169,8 @@
       "knapweed",
       "DE - Auburn Valley State Park"
     ],
+    "width": 2394,
+    "height": 1796,
     "camera": null,
     "taxonName": "Spotted Knapweed",
     "taxonUrl": "https://www.inaturalist.org/taxa/76214"
@@ -2904,6 +3190,8 @@
       "compound eye",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2433,
+    "height": 1824,
     "camera": null,
     "taxonName": "Gray Goggle Eye",
     "taxonUrl": "https://www.inaturalist.org/taxa/61694"
@@ -2921,6 +3209,8 @@
       "seed head",
       "PA - Starr Farm Park"
     ],
+    "width": 2967,
+    "height": 2225,
     "camera": null,
     "taxonName": "Musk Thistle",
     "taxonUrl": "https://www.inaturalist.org/taxa/76007"
@@ -2940,6 +3230,8 @@
       "starburst",
       "PA - Starr Farm Park"
     ],
+    "width": 2764,
+    "height": 2073,
     "camera": null,
     "taxonName": "Musk Thistle",
     "taxonUrl": "https://www.inaturalist.org/taxa/76007"
@@ -2958,6 +3250,8 @@
       "seed pod",
       "PA - Starr Farm Park"
     ],
+    "width": 2675,
+    "height": 3567,
     "camera": null,
     "taxonName": "White Campion",
     "taxonUrl": "https://www.inaturalist.org/taxa/79109"
@@ -2975,6 +3269,8 @@
       "droplet",
       "PA - Warwick County Park"
     ],
+    "width": 2562,
+    "height": 3416,
     "camera": null,
     "taxonName": "american witch-hazel",
     "taxonUrl": "https://www.inaturalist.org/taxa/51970"
@@ -2992,6 +3288,8 @@
       "droplet",
       "PA - Warwick County Park"
     ],
+    "width": 3508,
+    "height": 2631,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3010,6 +3308,8 @@
       "slow shutter",
       "MD - Swallow Falls State Park"
     ],
+    "width": 5122,
+    "height": 3843,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3028,6 +3328,8 @@
       "shadow",
       "WV - Cranesville Swamp Preserve"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3047,6 +3349,8 @@
       "turtle",
       "OH - Wayne National Forest"
     ],
+    "width": 4929,
+    "height": 3697,
     "camera": null,
     "taxonName": "Box Turtles",
     "taxonUrl": "https://www.inaturalist.org/taxa/39806"
@@ -3064,6 +3368,8 @@
       "pareidolia",
       "OH - Wayne National Forest"
     ],
+    "width": 3915,
+    "height": 2936,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3082,6 +3388,8 @@
       "forest",
       "OH - Wayne National Forest"
     ],
+    "width": 4284,
+    "height": 3213,
     "camera": null,
     "taxonName": "broad beech fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/122081"
@@ -3100,6 +3408,8 @@
       "macro",
       "PA - Mingo Creek County Park"
     ],
+    "width": 2218,
+    "height": 2957,
     "camera": null,
     "taxonName": "Striped Lynx Spider",
     "taxonUrl": "https://www.inaturalist.org/taxa/83844"
@@ -3118,6 +3428,8 @@
       "pareidolia",
       "PA - Jumonville Glen"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3135,6 +3447,8 @@
       "forest",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "bromes",
     "taxonUrl": "https://www.inaturalist.org/taxa/52701"
@@ -3154,6 +3468,8 @@
       "pond",
       "PA - Moshannon State Forest"
     ],
+    "width": 4860,
+    "height": 3645,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3171,6 +3487,8 @@
       "starburst",
       "PA - Downingtown"
     ],
+    "width": 2447,
+    "height": 1835,
     "camera": null,
     "taxonName": "purple crownvetch",
     "taxonUrl": "https://www.inaturalist.org/taxa/127186"
@@ -3190,6 +3508,8 @@
       "pollinator",
       "PA - Birdsboro Waters"
     ],
+    "width": 1969,
+    "height": 1476,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3207,6 +3527,8 @@
       "flower",
       "PA - Pickering Creek Trail"
     ],
+    "width": 3694,
+    "height": 2770,
     "camera": null,
     "taxonName": "roundleaf greenbrier",
     "taxonUrl": "https://www.inaturalist.org/taxa/60746"
@@ -3225,6 +3547,8 @@
       "macro",
       "PA - Pickering Creek Trail"
     ],
+    "width": 1915,
+    "height": 2553,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3243,6 +3567,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3024,
+    "height": 2268,
     "camera": null,
     "taxonName": "North American Tarnished Plant Bug",
     "taxonUrl": "https://www.inaturalist.org/taxa/84507"
@@ -3253,14 +3579,16 @@
     "dateAdded": "2026-09-15T09:54:42.612618",
     "title": "Carpet of Meadow Rue Leaves",
     "description": null,
-    "locationName": "PA - Blue Marsh Recreation Area",
-    "locationLabel": "Blue Marsh Recreation Area, PA",
+    "locationName": "PA - Blue Marsh Lake",
+    "locationLabel": "Blue Marsh Lake, PA",
     "tags": [
       "leaf",
       "overhead",
       "clustered",
-      "PA - Blue Marsh Recreation Area"
+      "PA - Blue Marsh Lake"
     ],
+    "width": 3372,
+    "height": 4496,
     "camera": null,
     "taxonName": "meadow-rues",
     "taxonUrl": "https://www.inaturalist.org/taxa/53300"
@@ -3278,6 +3606,8 @@
       "backlit",
       "PA - Paradise Valley Nature Area"
     ],
+    "width": 4516,
+    "height": 3387,
     "camera": null,
     "taxonName": "Japanese barberry",
     "taxonUrl": "https://www.inaturalist.org/taxa/58727"
@@ -3296,6 +3626,8 @@
       "translucent",
       "PA - Harmony Hill Nature Area"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": "buckeyes and horse-chestnuts",
     "taxonUrl": "https://www.inaturalist.org/taxa/53350"
@@ -3314,6 +3646,8 @@
       "macro",
       "PA - Brandywine Meadows Preserve"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": "Ferns",
     "taxonUrl": "https://www.inaturalist.org/taxa/121943"
@@ -3332,6 +3666,8 @@
       "macro",
       "PA - Paradise Valley Nature Area"
     ],
+    "width": 2069,
+    "height": 1552,
     "camera": null,
     "taxonName": "common dandelion",
     "taxonUrl": "https://www.inaturalist.org/taxa/47602"
@@ -3349,6 +3685,8 @@
       "pareidolia",
       "PA - Starr Farm Park"
     ],
+    "width": 3148,
+    "height": 4196,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3367,6 +3705,8 @@
       "fern",
       "PA - Starr Farm Park"
     ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": "ostrich fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/82574"
@@ -3384,6 +3724,8 @@
       "fern",
       "PA - Starr Farm Park"
     ],
+    "width": 3129,
+    "height": 4172,
     "camera": null,
     "taxonName": "ostrich fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/82574"
@@ -3401,6 +3743,8 @@
       "grass",
       "PA - Starr Farm Park"
     ],
+    "width": 2632,
+    "height": 3509,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3418,6 +3762,8 @@
       "leaf",
       "MD - Swan Harbor Farm"
     ],
+    "width": 3489,
+    "height": 2616,
     "camera": null,
     "taxonName": "Sassafras",
     "taxonUrl": "https://www.inaturalist.org/taxa/54796"
@@ -3435,6 +3781,8 @@
       "fern",
       "MD - Susquehanna State Park"
     ],
+    "width": 1470,
+    "height": 1961,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3453,6 +3801,8 @@
       "macro",
       "PA - Springton Manor Farm"
     ],
+    "width": 2008,
+    "height": 1506,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3471,6 +3821,8 @@
       "macro",
       "PA - Springton Manor Farm"
     ],
+    "width": 1306,
+    "height": 980,
     "camera": null,
     "taxonName": "ostrich fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/82574"
@@ -3488,6 +3840,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3505,6 +3859,8 @@
       "fern",
       "PA - Exton Park"
     ],
+    "width": 2396,
+    "height": 1797,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3522,6 +3878,8 @@
       "leaf",
       "PA - Schuylkill East Trail"
     ],
+    "width": 3963,
+    "height": 5284,
     "camera": null,
     "taxonName": "eastern poison ivy",
     "taxonUrl": "https://www.inaturalist.org/taxa/58732"
@@ -3539,6 +3897,8 @@
       "macro",
       "PA - Thomas P. Bentley Nature Preserve"
     ],
+    "width": 2436,
+    "height": 3248,
     "camera": null,
     "taxonName": "black cherry",
     "taxonUrl": "https://www.inaturalist.org/taxa/54834"
@@ -3556,6 +3916,8 @@
       "macro",
       "PA - Thomas P. Bentley Nature Preserve"
     ],
+    "width": 4284,
+    "height": 3214,
     "camera": null,
     "taxonName": "American beech",
     "taxonUrl": "https://www.inaturalist.org/taxa/49202"
@@ -3573,6 +3935,8 @@
       "clustered",
       "PA - Thomas P. Bentley Nature Preserve"
     ],
+    "width": 1492,
+    "height": 1119,
     "camera": null,
     "taxonName": "dogwoods",
     "taxonUrl": "https://www.inaturalist.org/taxa/47193"
@@ -3590,6 +3954,8 @@
       "fern",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 3820,
+    "height": 2864,
     "camera": null,
     "taxonName": "rattlesnake fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/75855"
@@ -3606,6 +3972,8 @@
       "flower bud",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2540,
+    "height": 3387,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3625,6 +3993,8 @@
       "slow shutter",
       "PA - Wolf Run Wild Area"
     ],
+    "width": 3819,
+    "height": 5093,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3642,6 +4012,8 @@
       "macro",
       "PA - Springton Manor Farm"
     ],
+    "width": 3821,
+    "height": 5095,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3660,6 +4032,8 @@
       "overhead",
       "PA - Theodore A. Parker III Natural Area"
     ],
+    "width": 2411,
+    "height": 3216,
     "camera": null,
     "taxonName": "mayapple",
     "taxonUrl": "https://www.inaturalist.org/taxa/49288"
@@ -3678,6 +4052,8 @@
       "macro",
       "PA - Ferncliff Wildlife & Wildflower Preserve"
     ],
+    "width": 2358,
+    "height": 3144,
     "camera": null,
     "taxonName": "Virginia bluebells",
     "taxonUrl": "https://www.inaturalist.org/taxa/59771"
@@ -3695,6 +4071,8 @@
       "fern",
       "PA - Ferncliff Wildlife & Wildflower Preserve"
     ],
+    "width": 2468,
+    "height": 3290,
     "camera": null,
     "taxonName": "silvery glade fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/82552"
@@ -3712,6 +4090,8 @@
       "reflection",
       "PA - Mountour Preserve"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3730,6 +4110,8 @@
       "sky",
       "PA - Marsh Creek State Park"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3748,6 +4130,8 @@
       "color filter",
       "PA - Marsh Creek State Park"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3766,6 +4150,8 @@
       "flower",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2544,
+    "height": 3392,
     "camera": null,
     "taxonName": "lesser periwinkle",
     "taxonUrl": "https://www.inaturalist.org/taxa/55844"
@@ -3783,6 +4169,8 @@
       "rhododendron",
       "PA - Laurel Hill State Park"
     ],
+    "width": 3738,
+    "height": 4984,
     "camera": null,
     "taxonName": "great rhododendron",
     "taxonUrl": "https://www.inaturalist.org/taxa/83059"
@@ -3802,6 +4190,8 @@
       "tree",
       "PA - Forbes State Forest"
     ],
+    "width": 4319,
+    "height": 3239,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3819,6 +4209,8 @@
       "pareidolia",
       "PA - Powdermill Nature Reserve"
     ],
+    "width": 2863,
+    "height": 3817,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3836,6 +4228,8 @@
       "pareidolia",
       "PA - Forbes State Forest"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3854,6 +4248,8 @@
       "backlit",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2059,
+    "height": 2745,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3873,6 +4269,8 @@
       "pareidolia",
       "PA - French Creek State Park"
     ],
+    "width": 3694,
+    "height": 2770,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3892,6 +4290,8 @@
       "silhouette",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3910,6 +4310,8 @@
       "ice",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4877,
+    "height": 3658,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3930,6 +4332,8 @@
       "night",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3733,
+    "height": 2800,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3948,6 +4352,8 @@
       "tree",
       "PA - Starr Farm Park"
     ],
+    "width": 4277,
+    "height": 5702,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3967,6 +4373,8 @@
       "trail",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -3985,6 +4393,8 @@
       "pareidolia",
       "PA - Springton Manor Farm"
     ],
+    "width": 5712,
+    "height": 4284,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4002,6 +4412,8 @@
       "pareidolia",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2295,
+    "height": 3060,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4020,6 +4432,8 @@
       "macro",
       "MD - Tuckahoe State Park"
     ],
+    "width": 2041,
+    "height": 2721,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4030,13 +4444,16 @@
     "dateAdded": "2026-09-20T12:24:47.337690",
     "title": "Feathery Ice Plates Catching Golden Reflections",
     "description": null,
-    "locationName": null,
-    "locationLabel": null,
+    "locationName": "MD - Pickering Creek Audobon Center",
+    "locationLabel": "Pickering Creek Audobon Center, MD",
     "tags": [
       "ice",
       "ice sheet",
-      "ice crystals"
+      "ice crystals",
+      "MD - Pickering Creek Audobon Center"
     ],
+    "width": 3731,
+    "height": 2798,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4054,6 +4471,8 @@
       "pareidolia",
       "MD - Flag Ponds Nature Park"
     ],
+    "width": 1912,
+    "height": 2549,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4071,6 +4490,8 @@
       "pareidolia",
       "MD - Calvert Cliffs State Park"
     ],
+    "width": 3976,
+    "height": 5301,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4089,6 +4510,8 @@
       "pareidolia",
       "PA - State Game Lands 235"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4106,6 +4529,8 @@
       "pareidolia",
       "PA - State Game Lands 53"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4125,6 +4550,8 @@
       "pareidolia",
       "PA - Tuscarora State Forest"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4142,6 +4569,8 @@
       "pareidolia",
       "PA - State Game Lands 211"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4159,6 +4588,8 @@
       "ice",
       "PA - Marsh Creek State Park"
     ],
+    "width": 5041,
+    "height": 3781,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4176,6 +4607,8 @@
       "pareidolia",
       "PA - Binky Lee Preserve"
     ],
+    "width": 2875,
+    "height": 3833,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4194,6 +4627,8 @@
       "cliff",
       "PA - Birdsboro Waters"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4211,6 +4646,8 @@
       "pareidolia",
       "PA - William Penn State Forest"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4229,6 +4666,8 @@
       "lichen",
       "PA - William Penn State Forest"
     ],
+    "width": 4284,
+    "height": 5712,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4248,6 +4687,8 @@
       "sky",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4266,6 +4707,8 @@
       "color filter",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4285,6 +4728,8 @@
       "sky",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2693,
+    "height": 3590,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4302,6 +4747,8 @@
       "pareidolia",
       "PA - State Game Lands 43"
     ],
+    "width": 3674,
+    "height": 4900,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4320,6 +4767,8 @@
       "backlit",
       "PA - Starr Farm Park"
     ],
+    "width": 2578,
+    "height": 3438,
     "camera": null,
     "taxonName": "Japanese honeysuckle",
     "taxonUrl": "https://www.inaturalist.org/taxa/77835"
@@ -4338,6 +4787,8 @@
       "mountain",
       "PA - Bald Eagle State Forest"
     ],
+    "width": 2898,
+    "height": 3864,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4355,6 +4806,8 @@
       "pareidolia",
       "PA - Rothrock State Forest"
     ],
+    "width": 3546,
+    "height": 2659,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4373,6 +4826,8 @@
       "pareidolia",
       "PA - Moshannon State Forest"
     ],
+    "width": 3161,
+    "height": 2371,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4390,6 +4845,8 @@
       "leaf",
       "PA - Templin Woods Preserve"
     ],
+    "width": 2384,
+    "height": 3179,
     "camera": null,
     "taxonName": "dogwoods",
     "taxonUrl": "https://www.inaturalist.org/taxa/47193"
@@ -4407,6 +4864,8 @@
       "pareidolia",
       "PA - Mount Nittany"
     ],
+    "width": 2533,
+    "height": 3378,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4426,6 +4885,8 @@
       "sky",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3337,
+    "height": 2502,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4436,15 +4897,17 @@
     "dateAdded": "2026-09-20T12:24:47.316690",
     "title": "Hazy Morning Sun Glowing Down a Leafy Trail",
     "description": null,
-    "locationName": "PA - Blue Marsh Recreation Area",
-    "locationLabel": "Blue Marsh Recreation Area, PA",
+    "locationName": "PA - Blue Marsh Lake",
+    "locationLabel": "Blue Marsh Lake, PA",
     "tags": [
       "trail",
       "fall",
       "fog",
       "forest",
-      "PA - Blue Marsh Recreation Area"
+      "PA - Blue Marsh Lake"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4455,14 +4918,16 @@
     "dateAdded": "2026-09-15T09:54:42.528578",
     "title": "Fern Frond Vein Detail",
     "description": null,
-    "locationName": "PA - Blue Marsh Recreation Area",
-    "locationLabel": "Blue Marsh Recreation Area, PA",
+    "locationName": "PA - Blue Marsh Lake",
+    "locationLabel": "Blue Marsh Lake, PA",
     "tags": [
       "frond",
       "fern",
       "macro",
-      "PA - Blue Marsh Recreation Area"
+      "PA - Blue Marsh Lake"
     ],
+    "width": 2837,
+    "height": 3783,
     "camera": null,
     "taxonName": "marginal wood fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/54410"
@@ -4481,6 +4946,8 @@
       "shadow",
       "MD - Terrapin Nature Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4499,6 +4966,8 @@
       "pareidolia",
       "MD - Sugarloaf Mountain"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4516,6 +4985,8 @@
       "fall",
       "PA - Exton Park"
     ],
+    "width": 2541,
+    "height": 1905,
     "camera": null,
     "taxonName": "red maple",
     "taxonUrl": "https://www.inaturalist.org/taxa/48098"
@@ -4532,6 +5003,8 @@
       "pareidolia",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4550,6 +5023,8 @@
       "kayak",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4566,6 +5041,8 @@
       "shell",
       "DE - Cape Henlopen State Park"
     ],
+    "width": 2930,
+    "height": 3907,
     "camera": null,
     "taxonName": "Atlantic Bay Scallop",
     "taxonUrl": "https://www.inaturalist.org/taxa/122039"
@@ -4585,6 +5062,8 @@
       "pareidolia",
       "PA - Zindel Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4603,6 +5082,8 @@
       "backlit",
       "PA - Bald Eagle State Forest"
     ],
+    "width": 2508,
+    "height": 3344,
     "camera": null,
     "taxonName": "American beech",
     "taxonUrl": "https://www.inaturalist.org/taxa/49202"
@@ -4622,6 +5103,8 @@
       "fall",
       "PA - Chester County"
     ],
+    "width": 2671,
+    "height": 3561,
     "camera": null,
     "taxonName": "northern red oak",
     "taxonUrl": "https://www.inaturalist.org/taxa/49005"
@@ -4639,6 +5122,8 @@
       "droplet",
       "PA - Opposum Lake"
     ],
+    "width": 1841,
+    "height": 2454,
     "camera": null,
     "taxonName": "Orbweavers",
     "taxonUrl": "https://www.inaturalist.org/taxa/47535"
@@ -4656,6 +5141,8 @@
       "droplet",
       "PA - Opposum Lake"
     ],
+    "width": 2256,
+    "height": 3008,
     "camera": null,
     "taxonName": "Orbweavers",
     "taxonUrl": "https://www.inaturalist.org/taxa/47535"
@@ -4673,6 +5160,8 @@
       "dew",
       "PA - Opposum Lake"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4690,6 +5179,8 @@
       "pareidolia",
       "PA - Chester County"
     ],
+    "width": 3012,
+    "height": 2259,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4708,6 +5199,8 @@
       "kayak",
       "PA - Shickshinny"
     ],
+    "width": 3998,
+    "height": 2249,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4727,6 +5220,8 @@
       "seed head",
       "PA - Pinchot State Forest"
     ],
+    "width": 2499,
+    "height": 1874,
     "camera": null,
     "taxonName": "Banded Garden Spider",
     "taxonUrl": "https://www.inaturalist.org/taxa/67708"
@@ -4745,6 +5240,8 @@
       "insect",
       "PA - Tunkhannock"
     ],
+    "width": 1320,
+    "height": 1760,
     "camera": null,
     "taxonName": "Red-banded Leafhopper",
     "taxonUrl": "https://www.inaturalist.org/taxa/56925"
@@ -4762,6 +5259,8 @@
       "reflection",
       "PA - Vosburg Neck State Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4780,6 +5279,8 @@
       "pareidolia",
       "PA - Chester County"
     ],
+    "width": 2754,
+    "height": 3672,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4797,6 +5298,8 @@
       "pareidolia",
       "PA - Evansburg State Park"
     ],
+    "width": 2614,
+    "height": 3486,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4814,6 +5317,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 1422,
+    "height": 1896,
     "camera": null,
     "taxonName": "Asian Lady Beetle",
     "taxonUrl": "https://www.inaturalist.org/taxa/48484"
@@ -4832,6 +5337,8 @@
       "mountain",
       "PA - Chimney Rocks Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4849,6 +5356,8 @@
       "web",
       "PA - Jennings Environmental Education Center"
     ],
+    "width": 2237,
+    "height": 2983,
     "camera": null,
     "taxonName": "lined orbweaver",
     "taxonUrl": "https://www.inaturalist.org/taxa/153557"
@@ -4869,6 +5378,8 @@
       "kayak",
       "PA - Allegheny Islands State Park"
     ],
+    "width": 2636,
+    "height": 1977,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4886,6 +5397,8 @@
       "macro",
       "PA - Stroud Preserve"
     ],
+    "width": 2033,
+    "height": 1525,
     "camera": null,
     "taxonName": "Joe-Pye weeds",
     "taxonUrl": "https://www.inaturalist.org/taxa/85380"
@@ -4903,6 +5416,8 @@
       "reptile",
       "PA - Myrick Conservation Center"
     ],
+    "width": 3443,
+    "height": 2582,
     "camera": null,
     "taxonName": "Common Watersnake",
     "taxonUrl": "https://www.inaturalist.org/taxa/29305"
@@ -4922,6 +5437,8 @@
       "clustered",
       "PA - Templin Woods Preserve"
     ],
+    "width": 1206,
+    "height": 905,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4939,6 +5456,8 @@
       "macro",
       "PA - Chester County"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": "pickerelweed",
     "taxonUrl": "https://www.inaturalist.org/taxa/52599"
@@ -4956,6 +5475,8 @@
       "reptile",
       "PA - Binky Lee Preserve"
     ],
+    "width": 2992,
+    "height": 2244,
     "camera": null,
     "taxonName": "Common Garter Snake",
     "taxonUrl": "https://www.inaturalist.org/taxa/28362"
@@ -4974,6 +5495,8 @@
       "pareidolia",
       "PA - Clear Creek State Forest"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -4993,6 +5516,8 @@
       "shadow",
       "PA - Elk State Park"
     ],
+    "width": 3630,
+    "height": 2722,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5011,6 +5536,8 @@
       "pareidolia",
       "WV - Snake Hill Wildlife Management Area"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5028,6 +5555,8 @@
       "pareidolia",
       "WV - Snake Hill Wildlife Management Area"
     ],
+    "width": 3024,
+    "height": 2268,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5047,6 +5576,8 @@
       "river",
       "WV - Snake Hill Wildlife Management Area"
     ],
+    "width": 4032,
+    "height": 2268,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5064,6 +5595,8 @@
       "reptile",
       "WV - Toms Run Preserve"
     ],
+    "width": 2189,
+    "height": 2919,
     "camera": null,
     "taxonName": "Eastern Ratsnake",
     "taxonUrl": "https://www.inaturalist.org/taxa/1660911"
@@ -5083,6 +5616,8 @@
       "slow shutter",
       "WV - Coopers Rock State Forest"
     ],
+    "width": 2683,
+    "height": 3578,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5101,6 +5636,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 2269,
+    "height": 1702,
     "camera": null,
     "taxonName": "moth mullein",
     "taxonUrl": "https://www.inaturalist.org/taxa/59028"
@@ -5119,6 +5656,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2093,
+    "height": 1570,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5137,6 +5676,8 @@
       "mating",
       "PA - Stroud Preserve"
     ],
+    "width": 1737,
+    "height": 1302,
     "camera": null,
     "taxonName": "Dogbane Leaf Beetle",
     "taxonUrl": "https://www.inaturalist.org/taxa/84162"
@@ -5155,6 +5696,8 @@
       "macro",
       "PA - Binky Lee Preserve"
     ],
+    "width": 1778,
+    "height": 1333,
     "camera": null,
     "taxonName": "Red Milkweed Beetle",
     "taxonUrl": "https://www.inaturalist.org/taxa/118559"
@@ -5172,6 +5715,8 @@
       "pareidolia",
       "PA - Chester County"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5190,6 +5735,8 @@
       "turtle",
       "DE - Auburn Valley State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Box Turtles",
     "taxonUrl": "https://www.inaturalist.org/taxa/39806"
@@ -5208,6 +5755,8 @@
       "slow shutter",
       "PA - Sweet Arrow Lake"
     ],
+    "width": 3637,
+    "height": 2730,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5226,6 +5775,8 @@
       "pareidolia",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 2663,
+    "height": 3550,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5245,6 +5796,8 @@
       "sky",
       "PA - Bryn Coed Preserve"
     ],
+    "width": 2318,
+    "height": 3091,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5263,6 +5816,8 @@
       "tree",
       "PA - Glacier Pools Preserve"
     ],
+    "width": 2918,
+    "height": 2189,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5271,7 +5826,7 @@
     "fileName": "2025-05-24_12-00-00_469.webp",
     "dateTaken": "2025-05-24T12:00:00",
     "dateAdded": "2026-09-20T12:24:47.289416",
-    "title": "Gotshall Run Tributary Cascade",
+    "title": "Gottshall Run Tributary Cascade",
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
     "locationLabel": "Tiadaghton State Forest, PA",
@@ -5282,6 +5837,8 @@
       "slow shutter",
       "PA - Tiadaghton State Forest"
     ],
+    "width": 2721,
+    "height": 3628,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5301,6 +5858,8 @@
       "slow shutter",
       "PA - Tiadaghton State Forest"
     ],
+    "width": 3072,
+    "height": 2304,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5319,6 +5878,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2056,
+    "height": 1541,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5336,6 +5897,8 @@
       "macro",
       "PA - Starr Farm Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5353,6 +5916,8 @@
       "pareidolia",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5370,6 +5935,8 @@
       "macro",
       "PA - Green Hills Preserve"
     ],
+    "width": 2221,
+    "height": 1666,
     "camera": null,
     "taxonName": "oxeye daisy",
     "taxonUrl": "https://www.inaturalist.org/taxa/56057"
@@ -5387,6 +5954,8 @@
       "macro",
       "PA - Exton Park"
     ],
+    "width": 1825,
+    "height": 2433,
     "camera": null,
     "taxonName": "orchard grass",
     "taxonUrl": "https://www.inaturalist.org/taxa/52720"
@@ -5406,6 +5975,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3421,
+    "height": 2566,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5424,6 +5995,8 @@
       "overhead",
       "PA - Tiadaghton State Forest"
     ],
+    "width": 3019,
+    "height": 2264,
     "camera": null,
     "taxonName": "ostrich fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/82574"
@@ -5442,6 +6015,8 @@
       "overhead",
       "PA - Tiadaghton State Forest"
     ],
+    "width": 3056,
+    "height": 2292,
     "camera": null,
     "taxonName": "Interrupted Fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/895688"
@@ -5460,6 +6035,8 @@
       "trail",
       "PA - Templin Woods Preserve"
     ],
+    "width": 3146,
+    "height": 2359,
     "camera": null,
     "taxonName": "northern maidenhair fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/48435"
@@ -5477,6 +6054,8 @@
       "pareidolia",
       "PA - William H. Kain County Park"
     ],
+    "width": 2553,
+    "height": 3404,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5496,6 +6075,8 @@
       "macro",
       "PA - State Game Lands 52"
     ],
+    "width": 1298,
+    "height": 971,
     "camera": null,
     "taxonName": "Ferns",
     "taxonUrl": "https://www.inaturalist.org/taxa/121943"
@@ -5514,6 +6095,8 @@
       "meadow",
       "PA - State Game Lands 52"
     ],
+    "width": 2310,
+    "height": 3080,
     "camera": null,
     "taxonName": "common bracken",
     "taxonUrl": "https://www.inaturalist.org/taxa/52681"
@@ -5531,6 +6114,8 @@
       "fern",
       "PA - Exton Park"
     ],
+    "width": 2626,
+    "height": 3501,
     "camera": null,
     "taxonName": "Christmas fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/54412"
@@ -5549,6 +6134,8 @@
       "macro",
       "PA - Exton Park"
     ],
+    "width": 1880,
+    "height": 2507,
     "camera": null,
     "taxonName": "cinnamon fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/204165"
@@ -5566,6 +6153,8 @@
       "plant",
       "NJ - Elizabeth D. Kay Environmental Center"
     ],
+    "width": 3024,
+    "height": 2268,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5583,6 +6172,8 @@
       "historical",
       "NJ - Elizabeth D. Kay Environmental Center"
     ],
+    "width": 3438,
+    "height": 2579,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5600,6 +6191,8 @@
       "pareidolia",
       "NJ - Elizabeth D. Kay Environmental Center"
     ],
+    "width": 2422,
+    "height": 3230,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5617,6 +6210,8 @@
       "pareidolia",
       "NY - Black Rock Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5634,6 +6229,8 @@
       "reptile",
       "PA - Marsh Creek State Park"
     ],
+    "width": 1710,
+    "height": 2280,
     "camera": null,
     "taxonName": "Common Watersnake",
     "taxonUrl": "https://www.inaturalist.org/taxa/29305"
@@ -5652,6 +6249,8 @@
       "macro",
       "PA - ChesLen Preserve"
     ],
+    "width": 2008,
+    "height": 2677,
     "camera": null,
     "taxonName": "ostrich fern",
     "taxonUrl": "https://www.inaturalist.org/taxa/82574"
@@ -5672,6 +6271,8 @@
       "backlit",
       "PA - Marsh Creek State Park"
     ],
+    "width": 1984,
+    "height": 1488,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5689,6 +6290,8 @@
       "pareidolia",
       "PA - Michaux State Forest"
     ],
+    "width": 2102,
+    "height": 2803,
     "camera": null,
     "taxonName": "flowering plants",
     "taxonUrl": "https://www.inaturalist.org/taxa/47125"
@@ -5707,6 +6310,8 @@
       "pareidolia",
       "PA - Michaux State Forest"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5724,6 +6329,8 @@
       "pareidolia",
       "PA - Hibernia County Park"
     ],
+    "width": 2519,
+    "height": 3359,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5741,6 +6348,8 @@
       "pareidolia",
       "NY - Harriman State Park"
     ],
+    "width": 3452,
+    "height": 2589,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5759,6 +6368,8 @@
       "pine",
       "tree"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5778,6 +6389,8 @@
       "moss",
       "PA - Sadsbury Woods Preserve"
     ],
+    "width": 2221,
+    "height": 1665,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5797,6 +6410,8 @@
       "sunset",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3705,
+    "height": 2779,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5814,6 +6429,8 @@
       "reservoir",
       "PA - Birdsboro Waters"
     ],
+    "width": 3368,
+    "height": 2526,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5833,6 +6450,8 @@
       "slow shutter",
       "PA - Tiadaghton State Forest"
     ],
+    "width": 3612,
+    "height": 2709,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5850,6 +6469,8 @@
       "pareidolia",
       "PA - Bald Eagle State Forest"
     ],
+    "width": 2874,
+    "height": 3832,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5867,6 +6488,8 @@
       "pareidolia",
       "PA - Exton Park"
     ],
+    "width": 2886,
+    "height": 2164,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5884,6 +6507,8 @@
       "pareidolia",
       "PA - Exton Park"
     ],
+    "width": 3018,
+    "height": 2264,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5902,6 +6527,8 @@
       "ice",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3384,
+    "height": 2537,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5921,6 +6548,8 @@
       "silhouette",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5939,6 +6568,8 @@
       "night",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3050,
+    "height": 2287,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5957,6 +6588,8 @@
       "night",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3021,
+    "height": 2266,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5975,6 +6608,8 @@
       "pareidolia",
       "PA - Starr Farm Park"
     ],
+    "width": 2685,
+    "height": 3581,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -5993,6 +6628,8 @@
       "translucent",
       "PA - Marsh Creek State Park"
     ],
+    "width": 2716,
+    "height": 3621,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6012,6 +6649,8 @@
       "ice",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3598,
+    "height": 2698,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6029,6 +6668,8 @@
       "macro",
       "PA - Marsh Creek State Park"
     ],
+    "width": 1554,
+    "height": 1165,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6047,6 +6688,8 @@
       "fog",
       "PA - Marsh Creek State Park"
     ],
+    "width": 1354,
+    "height": 1805,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6064,6 +6707,8 @@
       "grass",
       "PA - Marsh Creek State Park"
     ],
+    "width": 1791,
+    "height": 2388,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6082,6 +6727,8 @@
       "ice crystals",
       "NJ - Tourne County Park"
     ],
+    "width": 1386,
+    "height": 1040,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6100,6 +6747,8 @@
       "plant",
       "NJ - Wawayanda State Park"
     ],
+    "width": 3568,
+    "height": 2676,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6119,6 +6768,8 @@
       "slow shutter",
       "NJ - Wawayanda State Park"
     ],
+    "width": 3595,
+    "height": 2696,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6137,6 +6788,8 @@
       "macro",
       "NY - Black Rock Forest"
     ],
+    "width": 1762,
+    "height": 1321,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6154,6 +6807,8 @@
       "icicle",
       "NY - Catskills Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6171,6 +6826,8 @@
       "rock",
       "PA - Tuscarora Trail"
     ],
+    "width": 2920,
+    "height": 3893,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6190,6 +6847,8 @@
       "reflection",
       "PA - Keystone State Park"
     ],
+    "width": 3951,
+    "height": 2963,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6207,6 +6866,8 @@
       "pareidolia",
       "PA - McConnells Mill State Park"
     ],
+    "width": 3589,
+    "height": 2692,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6225,6 +6886,8 @@
       "slow shutter",
       "NJ - India Brook Natural Area"
     ],
+    "width": 2721,
+    "height": 3628,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6242,6 +6905,8 @@
       "macro",
       "NJ - Ringwood State Park"
     ],
+    "width": 1633,
+    "height": 1225,
     "camera": null,
     "taxonName": "Spotted Cucumber Beetle",
     "taxonUrl": "https://www.inaturalist.org/taxa/55487"
@@ -6260,6 +6925,8 @@
       "reflection",
       "NJ - Ringwood State Park"
     ],
+    "width": 3741,
+    "height": 2805,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6277,6 +6944,8 @@
       "pareidolia",
       "PA - Stroud Preserve"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6295,6 +6964,8 @@
       "leaf",
       "PA - Tuscarora State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Bowl-and-doily Spider",
     "taxonUrl": "https://www.inaturalist.org/taxa/209810"
@@ -6312,6 +6983,8 @@
       "pareidolia",
       "NJ - Watchung Reservation"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6330,6 +7003,8 @@
       "forest",
       "PA - Holtwood"
     ],
+    "width": 3637,
+    "height": 2725,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6348,6 +7023,8 @@
       "pareidolia",
       "MD - Savage River State Forest"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6366,6 +7043,8 @@
       "orbweaver",
       "PA - Marsh Creek State Park"
     ],
+    "width": 3265,
+    "height": 2449,
     "camera": null,
     "taxonName": "Orbweavers",
     "taxonUrl": "https://www.inaturalist.org/taxa/47535"
@@ -6384,6 +7063,8 @@
       "spider web",
       "PA - Marsh Creek State Park"
     ],
+    "width": 1932,
+    "height": 2575,
     "camera": null,
     "taxonName": "Spined Micrathena",
     "taxonUrl": "https://www.inaturalist.org/taxa/85333"
@@ -6401,6 +7082,8 @@
       "pareidolia",
       "PA - State Game Lands 110"
     ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6419,6 +7102,8 @@
       "slow shutter",
       "PA - State Game Lands 13"
     ],
+    "width": 3654,
+    "height": 2742,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6437,6 +7122,8 @@
       "pareidolia",
       "PA - State Game Lands 13"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6455,6 +7142,8 @@
       "slow shutter",
       "PA - State Game Lands 13"
     ],
+    "width": 2636,
+    "height": 3513,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6472,6 +7161,8 @@
       "rock",
       "PA - Vosburg Neck State Park"
     ],
+    "width": 3661,
+    "height": 2746,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6490,6 +7181,8 @@
       "lake",
       "NJ - Long Pond Ironworks State Park"
     ],
+    "width": 5422,
+    "height": 3065,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6509,6 +7202,8 @@
       "creek",
       "PA - Delta"
     ],
+    "width": 3586,
+    "height": 2692,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6528,6 +7223,8 @@
       "sky",
       "PA - Marsh Creek State Park"
     ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6546,6 +7243,8 @@
       "vista",
       "PA - Delaware Water Gap National Recreation Area"
     ],
+    "width": 4032,
+    "height": 2268,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6563,6 +7262,8 @@
       "pareidolia",
       "PA - Fulshaw Craeg Preserve"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6580,6 +7281,8 @@
       "pareidolia",
       "PA - State Game Lands 205"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Chestnuts",
     "taxonUrl": "https://www.inaturalist.org/taxa/49187"
@@ -6598,6 +7301,8 @@
       "pareidolia",
       "MD - Palmer State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6614,6 +7319,8 @@
       "waterfall",
       "PA - Hickory Run State Park"
     ],
+    "width": 3023,
+    "height": 4031,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6631,6 +7338,8 @@
       "pareidolia",
       "PA - Hamburg Reservoir"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Forkmosses",
     "taxonUrl": "https://www.inaturalist.org/taxa/123120"
@@ -6648,6 +7357,8 @@
       "pareidolia",
       "PA - Hamburg Reservoir"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6667,6 +7378,8 @@
       "appalachian trail",
       "PA - Hamburg Reservoir"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6685,6 +7398,8 @@
       "fog",
       "PA - Hamburg Reservoir"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6703,6 +7418,8 @@
       "arch",
       "PA - Valley Forge National Historical Park"
     ],
+    "width": 3735,
+    "height": 2801,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6720,6 +7437,8 @@
       "leading lines",
       "PA - Buchanan State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6739,6 +7458,8 @@
       "reflection",
       "PA - Lykens Municipal Watershed"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6757,6 +7478,8 @@
       "mountain",
       "NY - Shawangunk Ridge State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6774,6 +7497,8 @@
       "rock wall",
       "NY - Shawangunk Ridge State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6792,6 +7517,8 @@
       "forest",
       "PA - Beltzville State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6809,6 +7536,8 @@
       "fall",
       "PA - Springton Manor Farm"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6826,6 +7555,8 @@
       "forest",
       "PA - Apollo County Park"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6844,6 +7575,8 @@
       "slow shutter",
       "PA - Hibernia County Park"
     ],
+    "width": 3607,
+    "height": 2704,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6862,6 +7595,8 @@
       "pareidolia",
       "PA - Michaux State Forest"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6880,6 +7615,8 @@
       "leading lines",
       "PA - Michaux State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6898,6 +7635,8 @@
       "kayak",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6917,6 +7656,8 @@
       "lake",
       "PA - Birdsboro Waters"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6934,6 +7675,8 @@
       "curvy road",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6952,6 +7695,8 @@
       "trail",
       "PA - Chester County"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6971,6 +7716,8 @@
       "kayak",
       "PA - Holtwood"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -6989,6 +7736,8 @@
       "pareidolia",
       "PA - Holtwood"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7008,6 +7757,8 @@
       "kayak",
       "PA - Struble Lake"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7027,6 +7778,8 @@
       "kayak",
       "PA - French Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "American White Waterlily",
     "taxonUrl": "https://www.inaturalist.org/taxa/51119"
@@ -7045,6 +7798,8 @@
       "kayak",
       "PA - Marsh Creek State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7063,6 +7818,8 @@
       "rhododendron",
       "PA - Sproul State Forest"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7081,6 +7838,8 @@
       "slow shutter",
       "PA - Sproul State Forest"
     ],
+    "width": 2371,
+    "height": 3164,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7098,6 +7857,8 @@
       "forest",
       "PA - Hammersley Wild Area"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7115,6 +7876,8 @@
       "coral fungus",
       "PA - Hammersley Wild Area"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": "Coral Fungi",
     "taxonUrl": "https://www.inaturalist.org/taxa/48707"
@@ -7133,6 +7896,8 @@
       "forest",
       "PA - Hammersley Wild Area"
     ],
+    "width": 3654,
+    "height": 2742,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7152,6 +7917,8 @@
       "fog",
       "PA - Tioga State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7170,6 +7937,8 @@
       "slow shutter",
       "PA - Tioga State Forest"
     ],
+    "width": 3607,
+    "height": 2704,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7187,6 +7956,8 @@
       "pareidolia",
       "PA - State Game Lands 157"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7205,6 +7976,8 @@
       "pareidolia",
       "PA - Cove Mountain Preserve"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7223,6 +7996,8 @@
       "mountain",
       "PA - Rothrock State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7241,6 +8016,8 @@
       "vista",
       "PA - State Game Lands 112"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7260,6 +8037,8 @@
       "gorge",
       "PA - State Game Lands 141"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7279,6 +8058,8 @@
       "fall",
       "PA - State Game Lands 141"
     ],
+    "width": 3620,
+    "height": 2717,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7298,6 +8079,8 @@
       "waterfall",
       "PA - State Game Lands 141"
     ],
+    "width": 3570,
+    "height": 2679,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7317,6 +8100,8 @@
       "gorge",
       "PA - Jim Thorpe"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7335,6 +8120,8 @@
       "pareidolia",
       "PA - Elk State Forest"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7354,6 +8141,8 @@
       "gorge",
       "PA - State Game Lands 141"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7373,6 +8162,8 @@
       "gorge",
       "PA - State Game Lands 141"
     ],
+    "width": 4032,
+    "height": 2268,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7391,6 +8182,8 @@
       "slow shutter",
       "PA - Hickory Run State Park"
     ],
+    "width": 3620,
+    "height": 2713,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7409,27 +8202,11 @@
       "pareidolia",
       "PA - Rothrock State Forest"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
-  },
-  {
-    "fileName": "2021-09-19_07-17-11_104.webp",
-    "dateTaken": "2021-09-19T07:17:11",
-    "dateAdded": "2026-09-20T12:24:47.160279",
-    "title": "Marbled Orbweaver Building its Web",
-    "description": null,
-    "locationName": "PA - Birdsboro Waters",
-    "locationLabel": "Birdsboro Waters, PA",
-    "tags": [
-      "spider",
-      "web",
-      "forest",
-      "PA - Birdsboro Waters"
-    ],
-    "camera": null,
-    "taxonName": "Marbled Orbweaver",
-    "taxonUrl": "https://www.inaturalist.org/taxa/120183"
   },
   {
     "fileName": "2021-09-19_07-17-11_389.webp",
@@ -7444,6 +8221,8 @@
       "orbweaver",
       "PA - Birdsboro Waters"
     ],
+    "width": 2853,
+    "height": 2140,
     "camera": null,
     "taxonName": "Marbled Orbweaver",
     "taxonUrl": "https://www.inaturalist.org/taxa/120183"
@@ -7461,6 +8240,8 @@
       "sky",
       "NJ - Allaire State Park"
     ],
+    "width": 4032,
+    "height": 3024,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7479,6 +8260,8 @@
       "vista",
       "PA - Tiadaghton State Forest"
     ],
+    "width": 4032,
+    "height": 2268,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7496,6 +8279,8 @@
       "pareidolia",
       "PA - Loyalsock State Forest"
     ],
+    "width": 3024,
+    "height": 4032,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null

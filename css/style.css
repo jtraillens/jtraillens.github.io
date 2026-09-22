@@ -459,6 +459,145 @@ h1 {
     margin-bottom: 1rem;
 }
 
+
+/* Splash / landing view -- shown at the home route (the '' hash); a
+   rotating full-bleed slideshow of a random sample of public photos,
+   crossfaded via .splash-slide--visible (mirrors .lightbox's own opacity
+   transition), plus a "View Gallery" CTA. See js/splash.js. */
+.splash-view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    margin: 0 auto;
+    /* No max-width here (unlike the design this was based on) -- as an
+       experiment, the hero is intentionally left full-page-width. */
+}
+
+/* Setting display:flex above overrides the UA stylesheet's [hidden] {
+   display: none } for this element (an author rule always wins over UA,
+   regardless of the hidden attribute/property) -- without this, toggling
+   Main.showView()'s .hidden would stop having any visible effect here and
+   the slideshow would stay on top of every other view. */
+.splash-view[hidden] {
+    display: none;
+}
+
+.splash-slideshow {
+    position: relative;
+    width: 90%;
+    aspect-ratio: 14 / 10;
+    max-height: 70vh;
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--color-ink);
+}
+
+.splash-slideshow:focus-visible {
+    outline: 3px solid var(--color-accent);
+    outline-offset: 2px;
+}
+
+.splash-slide {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 800ms ease;
+}
+
+.splash-slide--visible {
+    opacity: 1;
+}
+
+.splash-slideshow--reduced-motion .splash-slide {
+    transition: none;
+}
+
+/* Countdown bar for the auto-rotate timer -- js/splash.js drives its width
+   via an inline transition (so the duration can vary with ROTATE_MS and be
+   skipped under prefers-reduced-motion) rather than a fixed CSS animation. */
+.splash-progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: rgba(255, 255, 255, 0.25);
+    z-index: 2;
+}
+
+.splash-progress-bar {
+    height: 100%;
+    width: 0%;
+    background: var(--color-accent);
+}
+
+.splash-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.35);
+    color: white;
+    border: none;
+    padding: 0.7rem;
+    border-radius: 999px;
+    cursor: pointer;
+    z-index: 2;
+    transition: background-color 0.2s ease;
+}
+
+.splash-nav:hover {
+    background: rgba(0, 0, 0, 0.55);
+}
+
+.splash-nav:focus-visible {
+    outline: 3px solid var(--color-accent);
+    outline-offset: 2px;
+}
+
+.splash-prev {
+    left: 0.75rem;
+}
+
+.splash-next {
+    right: 0.75rem;
+}
+
+.splash-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 1.5rem 1.25rem 1rem;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0));
+    color: white;
+    font-size: 0.95rem;
+    text-align: left;
+}
+
+.btn-hero {
+    display: inline-block;
+    padding: 0.9rem 2.5rem;
+    background-color: var(--color-accent);
+    color: white;
+    font-size: 1.05rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 999px;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.btn-hero:hover {
+    background-color: #a34c2f;
+    transform: translateY(-1px);
+}
+
 .places-state h2 {
     font-size: 1.1rem;
     margin: 1.5rem 0 0.5rem;
@@ -944,11 +1083,44 @@ h1 {
         font-size: 0.8rem;
         padding: 5px 10px;
     }
+
+    .splash-view {
+        margin-top: 0.5rem;
+        gap: 1.25rem;
+    }
+
+    .splash-slideshow {
+        max-height: 55vh;
+    }
 }
 
 @media (max-width: 480px) {
     .places-content {
         margin-top: 1rem;
+    }
+
+    .splash-slideshow {
+        aspect-ratio: 4 / 5;
+        max-height: 60vh;
+    }
+
+    .splash-caption {
+        padding: 1rem 1rem 0.75rem;
+        font-size: 0.85rem;
+    }
+
+    .splash-nav {
+        padding: 0.55rem;
+    }
+
+    .splash-nav svg {
+        width: 15px;
+        height: 15px;
+    }
+
+    .btn-hero {
+        padding: 0.75rem 2rem;
+        font-size: 1rem;
     }
 
     .about-content {

@@ -741,7 +741,9 @@ const Gallery = (function() {
     return {
         loadGallery,
         applyFilter,
-        openPhotoByFilename
+        openPhotoByFilename,
+        getPhotos: () => photos,
+        HIDDEN_BY_DEFAULT_TAG
     }
 
 })();

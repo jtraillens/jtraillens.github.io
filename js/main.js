@@ -1,9 +1,5 @@
 const Main = (function() {
 
-    const routes = {
-        '': Gallery.loadGallery
-    }
-
     // Parses the #/gallery?tags=a,b&from=YYYY-MM-DD&to=YYYY-MM-DD
     // &dateField=taken|added&addedDays=N&sort=taken|added|random&order=asc|desc
     // hash into a filter object for Gallery.applyFilter(). All params are
@@ -41,6 +37,12 @@ const Main = (function() {
     function router() {
         const hash = window.location.hash || '';
 
+        if (hash === '') {
+            showView('splash');
+            Splash.show();
+            return;
+        }
+
         if (hash === '#about' || hash === '#about/license') {
             showView('about');
             if (hash === '#about/license') {
@@ -67,9 +69,14 @@ const Main = (function() {
     }
 
     function showView(view) {
+        document.querySelector('#splashView').hidden = view !== 'splash';
         document.querySelector('#galleryView').hidden = view !== 'gallery';
         document.querySelector('#aboutView').hidden = view !== 'about';
         document.querySelector('#placesView').hidden = view !== 'places';
+
+        if (view !== 'splash') {
+            Splash.stop();
+        }
     }
 
     async function init() {

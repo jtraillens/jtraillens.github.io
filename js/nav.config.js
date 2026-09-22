@@ -12,7 +12,7 @@ const NavConfig = [
     // link when nothing else -- no prefix match, no dropdown child -- is
     // active, i.e. it's the fallback/home item.
     { type: 'link', id: 'aboutLink', label: 'About', href: '#about', activeMatch: 'prefix' },
-    { type: 'link', id: 'galleryLink', label: 'Gallery', href: '#', activeMatch: 'default' },
+    { type: 'link', id: 'galleryLink', label: 'Gallery', href: '#/gallery', activeMatch: 'default' },
     {
         type: 'dropdown',
         id: 'subjectsDropdown',
