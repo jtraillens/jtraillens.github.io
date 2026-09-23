@@ -125,7 +125,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 1
+    "photoCount": 4
   },
   {
     "tag": "PA - Bald Eagle State Forest",
@@ -141,7 +141,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 1
+    "photoCount": 4
   },
   {
     "tag": "PA - Binky Lee Preserve",
@@ -197,7 +197,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 10
+    "photoCount": 11
   },
   {
     "tag": "PA - Chimney Rocks Park",
@@ -317,7 +317,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 3
+    "photoCount": 4
   },
   {
     "tag": "PA - Hibernia County Park",
@@ -373,7 +373,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Marsh+Creek+State+Park/@40.0690228,-75.722828,685m/data=!3m1!1e3!4m6!3m5!1s0x89c65fe23b59daa7:0x5d089a7a2c08db4e!8m2!3d40.0691776!4d-75.7197565!16s%2Fm%2F026szbm?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/marsh-creek-state-park",
-    "photoCount": 56
+    "photoCount": 59
   },
   {
     "tag": "PA - Michaux State Forest",
@@ -485,7 +485,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Springton+Manor+Farm/@40.072067,-75.7793443,838m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c65e2481f0673b:0x50a680947b172e7b!2sSprington+Manor+Farm!8m2!3d40.0721245!4d-75.7768659!16s%2Fm%2F0ndxnvy!3m5!1s0x89c65e2481f0673b:0x50a680947b172e7b!8m2!3d40.0721245!4d-75.7768659!16s%2Fm%2F0ndxnvy?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": "https://www.chesco.org/4627/Springton-Manor-Farm",
-    "photoCount": 13
+    "photoCount": 14
   },
   {
     "tag": "PA - Sproul State Forest",
@@ -549,7 +549,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 1
+    "photoCount": 5
   },
   {
     "tag": "PA - State Game Lands 43",
@@ -805,7 +805,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 2
+    "photoCount": 3
   },
   {
     "tag": "PA - Opposum Lake",
@@ -813,7 +813,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 3
+    "photoCount": 4
   },
   {
     "tag": "PA - State Game Lands 52",
@@ -1013,7 +1013,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 1
+    "photoCount": 2
   },
   {
     "tag": "MD - Flag Ponds Nature Park",
@@ -1077,7 +1077,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 1
+    "photoCount": 2
   },
   {
     "tag": "PA - Wolf Run Wild Area",
@@ -1093,6 +1093,38 @@
     "state": "MD",
     "mapsUrl": "https://www.google.com/maps/place/Pickering+Creek+Audubon+Center/@38.8599191,-76.1260586,853m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89b815068544b7dd:0x628015724cc146ca!2sPickering+Creek+Audubon+Center!8m2!3d38.8599191!4d-76.1234837!16s%2Fg%2F1tcx_qyw!3m5!1s0x89b815068544b7dd:0x628015724cc146ca!8m2!3d38.8599191!4d-76.1234837!16s%2Fg%2F1tcx_qyw?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": "https://pickeringcreek.org/",
+    "photoCount": 1
+  },
+  {
+    "tag": "PA - Middle Creek Wildlife Managment Area",
+    "name": "Middle Creek Wildlife Managment Area",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2
+  },
+  {
+    "tag": "PA - Palmerton",
+    "name": "Palmerton",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1
+  },
+  {
+    "tag": "NY - Schunnemunk State Park",
+    "name": "Schunnemunk State Park",
+    "state": "NY",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1
+  },
+  {
+    "tag": "PA - Lock 2 Recreation Area",
+    "name": "Lock 2 Recreation Area",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
     "photoCount": 1
   }
 ]

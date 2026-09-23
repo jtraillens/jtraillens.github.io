@@ -3133,6 +3133,27 @@
     "taxonUrl": "https://www.inaturalist.org/taxa/82523"
   },
   {
+    "fileName": "2026-07-05_18-00-32_615.webp",
+    "dateTaken": "2026-07-05T18:00:32",
+    "dateAdded": "2026-09-15T09:54:42.638279",
+    "title": "Flower Bug Viewed Head-On",
+    "description": null,
+    "locationName": "PA - Springton Manor Farm",
+    "locationLabel": "Springton Manor Farm, PA",
+    "tags": [
+      "overhead",
+      "flower bud",
+      "flower",
+      "macro",
+      "PA - Springton Manor Farm"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2026-07-05_17-20-39_370.webp",
     "dateTaken": "2026-07-05T17:20:39",
     "dateAdded": null,
@@ -5632,8 +5653,8 @@
     "locationLabel": "Starr Farm Park, PA",
     "tags": [
       "flower bud",
-      "tendril",
       "macro",
+      "flower",
       "PA - Starr Farm Park"
     ],
     "width": 2269,
@@ -5762,6 +5783,25 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-06-08_10-23-58_363.webp",
+    "dateTaken": "2025-06-08T10:23:58",
+    "dateAdded": "2026-09-23T11:01:59.265413",
+    "title": "Deep Pink Mountain Laurel",
+    "description": null,
+    "locationName": "PA - Sweet Arrow Lake",
+    "locationLabel": "Sweet Arrow Lake, PA",
+    "tags": [
+      "flower",
+      "cultivar",
+      "PA - Sweet Arrow Lake"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": "mountain laurel",
+    "taxonUrl": "https://www.inaturalist.org/taxa/49397"
+  },
+  {
     "fileName": "2025-06-04_19-02-24_685.webp",
     "dateTaken": "2025-06-04T19:02:24",
     "dateAdded": "2026-09-12T11:43:37.446482+00:00",
@@ -5791,7 +5831,6 @@
     "locationLabel": "Bryn Coed Preserve, PA",
     "tags": [
       "vine",
-      "tendril",
       "silhouette",
       "sky",
       "PA - Bryn Coed Preserve"
@@ -5964,7 +6003,7 @@
     "fileName": "2025-05-05_18-40-58_856.webp",
     "dateTaken": "2025-05-05T18:40:58",
     "dateAdded": "2026-09-20T12:24:47.280964",
-    "title": "Spider Crossing Violet-Toothed Polypore",
+    "title": "Spider Resting on Violet-Toothed Polypore",
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
@@ -6656,6 +6695,67 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2025-01-11_16-00-01_811.webp",
+    "dateTaken": "2025-01-11T16:00:01",
+    "dateAdded": "2026-09-23T11:01:59.258413",
+    "title": "Snowy Evergreen Bough",
+    "description": null,
+    "locationName": "PA - State Game Lands 211",
+    "locationLabel": "State Game Lands 211, PA",
+    "tags": [
+      "tree",
+      "silhouette",
+      "overhead",
+      "PA - State Game Lands 211"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-01-11_15-51-22_555.webp",
+    "dateTaken": "2025-01-11T15:51:22",
+    "dateAdded": "2026-09-23T11:01:59.251413",
+    "title": "Woodpecker-Carved Face on a Pine Trunk",
+    "description": null,
+    "locationName": "PA - State Game Lands 211",
+    "locationLabel": "State Game Lands 211, PA",
+    "tags": [
+      "pareidolia",
+      "tree",
+      "snow",
+      "PA - State Game Lands 211"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2025-01-11_14-50-17_859.webp",
+    "dateTaken": "2025-01-11T14:50:17",
+    "dateAdded": "2026-09-23T11:01:59.244413",
+    "title": "Angry Stream Snaking Through Ice Layer",
+    "description": null,
+    "locationName": "PA - State Game Lands 211",
+    "locationLabel": "State Game Lands 211, PA",
+    "tags": [
+      "stream",
+      "snow",
+      "ice",
+      "pareidolia",
+      "PA - State Game Lands 211"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2024-12-28_14-49-39_623.webp",
     "dateTaken": "2024-12-28T14:49:39",
     "dateAdded": "2026-09-15T09:54:42.455526",
@@ -7200,6 +7300,7 @@
       "cascade",
       "slow shutter",
       "creek",
+      "mason-dixon trail",
       "PA - Delta"
     ],
     "width": 3586,
@@ -7321,6 +7422,48 @@
     ],
     "width": 3023,
     "height": 4031,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2024-01-07_15-01-14_712.webp",
+    "dateTaken": "2024-01-07T15:01:14",
+    "dateAdded": "2026-09-23T11:01:59.237413",
+    "title": "Row of Bonnet Mushrooms Along a Log Crack",
+    "description": null,
+    "locationName": "PA - Middle Creek Wildlife Managment Area",
+    "locationLabel": "Middle Creek Wildlife Managment Area, PA",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "clustered",
+      "PA - Middle Creek Wildlife Managment Area"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": "Bonnets",
+    "taxonUrl": "https://www.inaturalist.org/taxa/55922"
+  },
+  {
+    "fileName": "2024-01-07_09-31-54_896.webp",
+    "dateTaken": "2024-01-07T09:31:54",
+    "dateAdded": "2026-09-23T11:01:59.230413",
+    "title": "Snowy Elders Run Cascade",
+    "description": null,
+    "locationName": "PA - Middle Creek Wildlife Managment Area",
+    "locationLabel": "Middle Creek Wildlife Managment Area, PA",
+    "tags": [
+      "cascade",
+      "stream",
+      "snow",
+      "moss",
+      "slow shutter",
+      "PA - Middle Creek Wildlife Managment Area"
+    ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7504,6 +7647,48 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2023-11-22_15-34-34_116.webp",
+    "dateTaken": "2023-11-22T15:34:34",
+    "dateAdded": "2026-09-23T11:01:59.223413",
+    "title": "Pitch Pines on a Fog-Shrouded Rock Ridge",
+    "description": null,
+    "locationName": "NY - Schunnemunk State Park",
+    "locationLabel": "Schunnemunk State Park, NY",
+    "tags": [
+      "fog",
+      "pine",
+      "rock",
+      "tree",
+      "NY - Schunnemunk State Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-19_14-07-51_923.webp",
+    "dateTaken": "2023-11-19T14:07:51",
+    "dateAdded": "2026-09-23T11:01:59.216413",
+    "title": "White AT Blaze Above the Lehigh River Valley",
+    "description": null,
+    "locationName": "PA - Palmerton",
+    "locationLabel": "Palmerton, PA",
+    "tags": [
+      "appalachian trail",
+      "vista",
+      "river",
+      "rock",
+      "PA - Palmerton"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2023-11-19_12-56-21_890.webp",
     "dateTaken": "2023-11-19T12:56:21",
     "dateAdded": null,
@@ -7524,6 +7709,66 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2023-11-19_12-02-55_322.webp",
+    "dateTaken": "2023-11-19T12:02:55",
+    "dateAdded": "2026-09-23T11:01:59.209413",
+    "title": "Fallen Logs Stretching into Beltzville Lake",
+    "description": null,
+    "locationName": "PA - Beltzville State Park",
+    "locationLabel": "Beltzville State Park, PA",
+    "tags": [
+      "lake",
+      "tree",
+      "sky",
+      "PA - Beltzville State Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-19_10-59-25_245.webp",
+    "dateTaken": "2023-11-19T10:59:25",
+    "dateAdded": "2026-09-23T11:01:59.202413",
+    "title": "Sawmill Run",
+    "description": null,
+    "locationName": "PA - Beltzville State Park",
+    "locationLabel": "Beltzville State Park, PA",
+    "tags": [
+      "creek",
+      "rock",
+      "forest",
+      "PA - Beltzville State Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-19_09-56-41_851.webp",
+    "dateTaken": "2023-11-19T09:56:41",
+    "dateAdded": "2026-09-23T11:01:59.195413",
+    "title": "Sandy Shore of Beltzville Lake",
+    "description": null,
+    "locationName": "PA - Beltzville State Park",
+    "locationLabel": "Beltzville State Park, PA",
+    "tags": [
+      "lake",
+      "rock",
+      "mountain",
+      "PA - Beltzville State Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2023-11-18_13-49-40_191.webp",
     "dateTaken": "2023-11-18T13:49:40",
     "dateAdded": null,
@@ -7538,6 +7783,115 @@
     ],
     "width": 4032,
     "height": 3024,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-14_13-43-33_491.webp",
+    "dateTaken": "2023-11-14T13:43:33",
+    "dateAdded": "2026-09-23T11:01:59.188413",
+    "title": "Yellow-Blazed Trunk Along a Leafy Hillside Trail",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "trail",
+      "forest",
+      "tree",
+      "fall",
+      "PA - Marsh Creek State Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-11_12-35-18_846.webp",
+    "dateTaken": "2023-11-11T12:35:18",
+    "dateAdded": "2026-09-23T11:01:59.181413",
+    "title": "Fishing Creek near the Mason-Dixon Trail",
+    "description": null,
+    "locationName": "PA - Lock 2 Recreation Area",
+    "locationLabel": "Lock 2 Recreation Area, PA",
+    "tags": [
+      "creek",
+      "rock",
+      "moss",
+      "fall",
+      "mason-dixon trail",
+      "PA - Lock 2 Recreation Area"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-11_10-40-34_975.webp",
+    "dateTaken": "2023-11-11T10:40:34",
+    "dateAdded": "2026-09-23T11:01:59.174413",
+    "title": "Cuffs Run Cascade",
+    "description": null,
+    "locationName": "PA - Apollo County Park",
+    "locationLabel": "Apollo County Park, PA",
+    "tags": [
+      "waterfall",
+      "cascade",
+      "moss",
+      "rock",
+      "fall",
+      "mason-dixon trail",
+      "PA - Apollo County Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-11_09-09-37_551.webp",
+    "dateTaken": "2023-11-11T09:09:37",
+    "dateAdded": "2026-09-23T11:01:59.167413",
+    "title": "Hazy Sunlight Behind a Tilted Rock Outcrop",
+    "description": null,
+    "locationName": "PA - Apollo County Park",
+    "locationLabel": "Apollo County Park, PA",
+    "tags": [
+      "rock",
+      "fog",
+      "forest",
+      "fall",
+      "mason-dixon trail",
+      "PA - Apollo County Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-11_08-43-59_953.webp",
+    "dateTaken": "2023-11-11T08:43:59",
+    "dateAdded": "2026-09-23T11:01:59.160413",
+    "title": "Autumn Colors Crowding the Mason-Dixon Trail",
+    "description": null,
+    "locationName": "PA - Apollo County Park",
+    "locationLabel": "Apollo County Park, PA",
+    "tags": [
+      "trail",
+      "forest",
+      "fall",
+      "mason-dixon trail",
+      "PA - Apollo County Park"
+    ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7577,6 +7931,48 @@
     ],
     "width": 3607,
     "height": 2704,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-11-02_16-44-22_736.webp",
+    "dateTaken": "2023-11-02T16:44:22",
+    "dateAdded": "2026-09-23T11:01:59.153413",
+    "title": "East Branch Brandywine Creek Bend",
+    "description": "Unmarked path off of Struble Trail",
+    "locationName": "PA - Chester County",
+    "locationLabel": "Chester County, PA",
+    "tags": [
+      "creek",
+      "fall",
+      "rock",
+      "cliff",
+      "PA - Chester County"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-10-28_17-48-58_058.webp",
+    "dateTaken": "2023-10-28T17:48:58",
+    "dateAdded": "2026-09-23T11:01:59.146413",
+    "title": "Double Clouds among Autumn Treeline",
+    "description": null,
+    "locationName": "PA - Opposum Lake",
+    "locationLabel": "Opposum Lake, PA",
+    "tags": [
+      "lake",
+      "reflection",
+      "fall",
+      "cloud",
+      "PA - Opposum Lake"
+    ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7642,6 +8038,27 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2023-10-25_16-42-28_634.webp",
+    "dateTaken": "2023-10-25T16:42:28",
+    "dateAdded": "2026-09-23T11:01:59.139413",
+    "title": "Row of Old Pilings Mirrored in Marsh Creek Lake",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "lake",
+      "reflection",
+      "fall",
+      "cloud",
+      "PA - Marsh Creek State Park"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2023-10-22_08-14-15_160.webp",
     "dateTaken": "2023-10-22T08:14:15",
     "dateAdded": null,
@@ -7682,6 +8099,25 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2023-10-15_12-46-18_526.webp",
+    "dateTaken": "2023-10-15T12:46:18",
+    "dateAdded": "2026-09-23T11:01:59.132413",
+    "title": "Leaf Print on Mushroom Cap",
+    "description": null,
+    "locationName": "PA - William Penn State Forest",
+    "locationLabel": "William Penn State Forest, PA",
+    "tags": [
+      "fungus",
+      "mushroom",
+      "PA - William Penn State Forest"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2023-10-10_17-21-20_724.webp",
     "dateTaken": "2023-10-10T17:21:20",
     "dateAdded": null,
@@ -7697,6 +8133,47 @@
     ],
     "width": 4032,
     "height": 3024,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-10-08_15-52-44_887.webp",
+    "dateTaken": "2023-10-08T15:52:44",
+    "dateAdded": "2026-09-23T11:01:59.125413",
+    "title": "First Fallen Leaves Along a Tall-Trunked Forest Path",
+    "description": null,
+    "locationName": "PA - Harmony Hill Nature Area",
+    "locationLabel": "Harmony Hill Nature Area, PA",
+    "tags": [
+      "trail",
+      "forest",
+      "fall",
+      "PA - Harmony Hill Nature Area"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2023-10-02_18-00-37_355.webp",
+    "dateTaken": "2023-10-02T18:00:37",
+    "dateAdded": "2026-09-23T11:01:59.118413",
+    "title": "Green Shoreline in Evening Light",
+    "description": null,
+    "locationName": "PA - Marsh Creek State Park",
+    "locationLabel": "Marsh Creek State Park, PA",
+    "tags": [
+      "lake",
+      "reflection",
+      "goldenrod",
+      "sky",
+      "PA - Marsh Creek State Park"
+    ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -8127,6 +8604,27 @@
     "taxonUrl": null
   },
   {
+    "fileName": "2022-01-30_11-52-15_660.webp",
+    "dateTaken": "2022-01-30T11:52:16",
+    "dateAdded": "2026-09-20T12:24:47.172827",
+    "title": "Train Passing by in Snowy Lehigh Gorge",
+    "description": null,
+    "locationName": "PA - Jim Thorpe",
+    "locationLabel": "Jim Thorpe, PA",
+    "tags": [
+      "snow",
+      "trail",
+      "leading lines",
+      "train",
+      "PA - Jim Thorpe"
+    ],
+    "width": null,
+    "height": null,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
     "fileName": "2022-01-30_10-53-17_968.webp",
     "dateTaken": "2022-01-30T10:53:18",
     "dateAdded": "2026-09-20T12:24:47.169690",
@@ -8262,6 +8760,27 @@
     ],
     "width": 4032,
     "height": 2268,
+    "camera": null,
+    "taxonName": null,
+    "taxonUrl": null
+  },
+  {
+    "fileName": "2021-06-13_13-36-37_132.webp",
+    "dateTaken": "2021-06-13T13:36:37",
+    "dateAdded": "2026-09-23T11:01:59.111413",
+    "title": "Boulder-Strewn Shallows Lebanon Reservoir",
+    "description": null,
+    "locationName": "PA - State Game Lands 211",
+    "locationLabel": "State Game Lands 211, PA",
+    "tags": [
+      "lake",
+      "rock",
+      "reflection",
+      "mountain",
+      "PA - State Game Lands 211"
+    ],
+    "width": null,
+    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
