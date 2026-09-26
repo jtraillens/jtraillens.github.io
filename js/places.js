@@ -47,9 +47,9 @@ const Places = (function() {
         return STATE_NAMES[state] || state;
     }
 
-    // Same tag-filter hash the gallery itself writes (see Main's parser).
+    // Same place-filter hash the gallery itself writes (see Main's parser).
     function galleryHref(place) {
-        return '#/gallery?' + new URLSearchParams({ tags: place.tag });
+        return '#/gallery?' + new URLSearchParams({ place: place.id });
     }
 
     function renderPlaces(container, places) {

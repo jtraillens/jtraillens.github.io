@@ -438,6 +438,25 @@ h1 {
     flex-shrink: 0;
 }
 
+/* Place pill -- same shape as the Date Range chip, with its own tint. */
+.place-filter-chip {
+    background-color: #f3ede2;
+}
+
+.place-filter-chip strong {
+    cursor: pointer;
+}
+
+.place-filter-chip strong:hover {
+    opacity: 0.7;
+}
+
+.place-filter-icon {
+    margin-right: 0.35rem;
+    color: #8c6f4a;
+    flex-shrink: 0;
+}
+
 
 .about-content {
     max-width: 800px;

@@ -6,6 +6,12 @@ const Gallery = (function() {
     let selectedTags = [];
     let selectedSuggestionIndex = -1;
 
+    // Location filter: a locations.json id matched against each photo's
+    // locationId (added by build_gallery.py). Like the date range, it's only
+    // set via the URL (?place=, e.g. from a Places link) -- ANDed with
+    // the tag filter, and shown as its own removable pill while active.
+    let selectedLocation = null;
+
     // Date-range filter state, driven by the #/gallery?... hash (see
     // Main's router and updateHash() below) -- there's no in-page UI for
     // these yet, they're only set/read via the URL.
@@ -371,6 +377,7 @@ const Gallery = (function() {
     // than merging into whatever was previously selected.
     function applyFilter(filters = {}) {
         selectedTags = filters.tags ?? [];
+        selectedLocation = filters.location ?? null;
         dateFrom = filters.from ?? null;
         dateTo = filters.to ?? null;
         dateField = filters.dateField === 'added' ? 'added' : 'taken';
@@ -390,6 +397,7 @@ const Gallery = (function() {
 
         syncSortControl();
         renderTagChips();
+        renderPlaceFilterChip();
         renderDateFilterChip();
         renderGallery();
         updateHash();
@@ -417,7 +425,9 @@ const Gallery = (function() {
     }
 
     // Tag hidden from every view unless it's explicitly selected in the tag
-    // filter -- keeps the default gallery to the prettier photos.
+    // filter -- keeps the default gallery to the prettier photos. Must match
+    // HIDDEN_BY_DEFAULT_TAG in tools/build_gallery.py, which leaves these
+    // photos out of the Places page counts.
     const HIDDEN_BY_DEFAULT_TAG = 'pareidolia';
 
     function isHiddenByDefault(photo) {
@@ -431,6 +441,10 @@ const Gallery = (function() {
         }
 
         if (!selectedTags.every(tag => photo.tags?.includes(tag))) {
+            return false;
+        }
+
+        if (selectedLocation && photo.locationId !== selectedLocation) {
             return false;
         }
 
@@ -537,6 +551,59 @@ const Gallery = (function() {
 
             group.insertBefore(span, toggle);
         });
+    }
+
+    // The Place pill only exists while ?place= is set -- same idea as
+    // the Date Range pill below, so a location filter ANDed with the tag
+    // search is never invisible. The display name comes from any photo at
+    // that location (gallery.json carries locationLabel per photo), falling
+    // back to the raw id if nothing matches, e.g. a stale or mistyped link.
+    function renderPlaceFilterChip() {
+        const slot = document.querySelector('#placeFilterSlot');
+
+        slot.innerHTML = '';
+
+        if (!selectedLocation) {
+            return;
+        }
+
+        const label = photos.find(photo => photo.locationId === selectedLocation)
+            ?.locationLabel ?? selectedLocation;
+
+        const group = document.createElement('div');
+        group.className = 'chip-group';
+
+        const groupLabel = document.createElement('span');
+        groupLabel.className = 'chip-group-label';
+        groupLabel.textContent = 'Place:';
+        group.appendChild(groupLabel);
+
+        const chip = document.createElement('span');
+        chip.className = 'chip place-filter-chip';
+        chip.innerHTML = `
+            <svg class="place-filter-icon" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/>
+                <circle cx="12" cy="10" r="2.5"/>
+            </svg>
+        `;
+
+        // textContent rather than innerHTML for the label -- it can come
+        // straight from the URL when no photo matches.
+        const text = document.createElement('span');
+        text.textContent = label;
+        chip.appendChild(text);
+
+        const clearBtn = document.createElement('strong');
+        clearBtn.textContent = '×';
+        clearBtn.title = 'Clear place filter';
+        clearBtn.addEventListener('click', () => {
+            selectedLocation = null;
+            refilterAndRender();
+        });
+        chip.appendChild(clearBtn);
+
+        group.appendChild(chip);
+        slot.appendChild(group);
     }
 
     // The Date Range pill only exists while a date filter is active (from a
@@ -679,6 +746,9 @@ const Gallery = (function() {
             // the whole joined value on serialization, and decodes it whole
             // again via .get() on the way back in (see Main's router).
             params.set('tags', selectedTags.join(','));
+        }
+        if (selectedLocation) {
+            params.set('place', selectedLocation);
         }
         if (dateFrom) {
             params.set('from', dateFrom);

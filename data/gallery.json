@@ -7,9 +7,9 @@
     "description": null,
     "locationName": "PA - Bondsville Mill Park",
     "locationLabel": "Bondsville Mill Park, PA",
+    "locationId": "pa-bondsville-mill-park",
     "tags": [
-      "flower",
-      "PA - Bondsville Mill Park"
+      "flower"
     ],
     "width": 4010,
     "height": 3007,
@@ -25,10 +25,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "macro",
-      "seed head",
-      "PA - Stroud Preserve"
+      "seed head"
     ],
     "width": 2989,
     "height": 2241,
@@ -44,9 +44,9 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
-      "trail",
-      "PA - Stroud Preserve"
+      "trail"
     ],
     "width": 5712,
     "height": 4284,
@@ -62,10 +62,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "tendril",
-      "macro",
-      "PA - Stroud Preserve"
+      "macro"
     ],
     "width": 2127,
     "height": 1595,
@@ -81,10 +81,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "tendril",
-      "macro",
-      "PA - Stroud Preserve"
+      "macro"
     ],
     "width": 3002,
     "height": 2251,
@@ -100,10 +100,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "tendril",
-      "macro",
-      "PA - Stroud Preserve"
+      "macro"
     ],
     "width": 3200,
     "height": 4266,
@@ -119,10 +119,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "tendril",
-      "macro",
-      "PA - Stroud Preserve"
+      "macro"
     ],
     "width": 2556,
     "height": 3408,
@@ -138,10 +138,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "macro",
-      "flower",
-      "PA - Stroud Preserve"
+      "flower"
     ],
     "width": 2188,
     "height": 1640,
@@ -157,9 +157,9 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
-      "seed head",
-      "PA - Starr Farm Park"
+      "seed head"
     ],
     "width": 1894,
     "height": 1420,
@@ -175,10 +175,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "seed head",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 3544,
     "height": 4725,
@@ -194,10 +194,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "spider",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 2351,
     "height": 3135,
@@ -213,11 +213,11 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "trail",
       "forest",
-      "curvy trail",
-      "PA - Chester County"
+      "curvy trail"
     ],
     "width": 5712,
     "height": 4284,
@@ -233,10 +233,10 @@
     "description": null,
     "locationName": "PA - Schuylkill River Trail (Port Clinton)",
     "locationLabel": "Schuylkill River Trail (Port Clinton), PA",
+    "locationId": "pa-schuylkill-river-trail-port-clinton",
     "tags": [
       "snake",
-      "reptile",
-      "PA - Schuylkill River Trail (Port Clinton)"
+      "reptile"
     ],
     "width": 4758,
     "height": 3568,
@@ -252,10 +252,10 @@
     "description": null,
     "locationName": "PA - Schuylkill River Trail (Port Clinton)",
     "locationLabel": "Schuylkill River Trail (Port Clinton), PA",
+    "locationId": "pa-schuylkill-river-trail-port-clinton",
     "tags": [
       "river",
-      "bridge",
-      "PA - Schuylkill River Trail (Port Clinton)"
+      "bridge"
     ],
     "width": 5150,
     "height": 3862,
@@ -271,10 +271,10 @@
     "description": null,
     "locationName": "PA - Schuylkill River Trail (Port Clinton)",
     "locationLabel": "Schuylkill River Trail (Port Clinton), PA",
+    "locationId": "pa-schuylkill-river-trail-port-clinton",
     "tags": [
       "pareidolia",
-      "rock",
-      "PA - Schuylkill River Trail (Port Clinton)"
+      "rock"
     ],
     "width": 2957,
     "height": 3942,
@@ -290,10 +290,10 @@
     "description": null,
     "locationName": "PA - Hawk Mountain Sanctuary",
     "locationLabel": "Hawk Mountain Sanctuary, PA",
+    "locationId": "pa-hawk-mountain-sanctuary",
     "tags": [
       "caterpillar",
-      "moth",
-      "PA - Hawk Mountain Sanctuary"
+      "moth"
     ],
     "width": 3686,
     "height": 2764,
@@ -309,12 +309,12 @@
     "description": null,
     "locationName": "PA - Hawk Mountain Sanctuary",
     "locationLabel": "Hawk Mountain Sanctuary, PA",
+    "locationId": "pa-hawk-mountain-sanctuary",
     "tags": [
       "rock",
       "lichen",
       "moss",
-      "pareidolia",
-      "PA - Hawk Mountain Sanctuary"
+      "pareidolia"
     ],
     "width": 2799,
     "height": 2099,
@@ -330,9 +330,9 @@
     "description": null,
     "locationName": "PA - Green Lane Park",
     "locationLabel": "Green Lane Park, PA",
+    "locationId": "pa-green-lane-park",
     "tags": [
-      "chestnut",
-      "PA - Green Lane Park"
+      "chestnut"
     ],
     "width": 2449,
     "height": 1837,
@@ -348,10 +348,10 @@
     "description": null,
     "locationName": "PA - Green Lane Park",
     "locationLabel": "Green Lane Park, PA",
+    "locationId": "pa-green-lane-park",
     "tags": [
       "pareidolia",
-      "wood",
-      "PA - Green Lane Park"
+      "wood"
     ],
     "width": 4810,
     "height": 3607,
@@ -367,10 +367,10 @@
     "description": null,
     "locationName": "PA - Upland Farms Park",
     "locationLabel": "Upland Farms Park, PA",
+    "locationId": "pa-upland-farms-park",
     "tags": [
       "teasel",
-      "seed head",
-      "PA - Upland Farms Park"
+      "seed head"
     ],
     "width": 3823,
     "height": 5098,
@@ -386,10 +386,10 @@
     "description": null,
     "locationName": "PA - Upland Farms Park",
     "locationLabel": "Upland Farms Park, PA",
+    "locationId": "pa-upland-farms-park",
     "tags": [
       "goldenrod",
-      "meadow",
-      "PA - Upland Farms Park"
+      "meadow"
     ],
     "width": 5270,
     "height": 3953,
@@ -405,9 +405,9 @@
     "description": "On the exterior of the Downingtown Regal theater",
     "locationName": "PA - Downingtown",
     "locationLabel": "Downingtown, PA",
+    "locationId": "pa-downingtown",
     "tags": [
-      "pareidolia",
-      "PA - Downingtown"
+      "pareidolia"
     ],
     "width": 2787,
     "height": 3716,
@@ -423,11 +423,11 @@
     "description": null,
     "locationName": "PA - Holtwood",
     "locationLabel": "Holtwood, PA",
+    "locationId": "pa-holtwood",
     "tags": [
       "river",
       "rock",
-      "cliff",
-      "PA - Holtwood"
+      "cliff"
     ],
     "width": 3841,
     "height": 5121,
@@ -443,10 +443,10 @@
     "description": "The closest road to where this feather was found was Blue Jay Rd. I kid you not!",
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "feather",
-      "macro",
-      "PA - Birdsboro Waters"
+      "macro"
     ],
     "width": 3338,
     "height": 2504,
@@ -462,11 +462,11 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "backlit",
       "flower",
-      "plant",
-      "PA - Warwick County Park"
+      "plant"
     ],
     "width": 3221,
     "height": 4295,
@@ -482,11 +482,11 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "meadow",
       "tree",
-      "sky",
-      "PA - Warwick County Park"
+      "sky"
     ],
     "width": 3650,
     "height": 4867,
@@ -502,11 +502,11 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "fungus",
       "coral fungus",
-      "macro",
-      "PA - Warwick County Park"
+      "macro"
     ],
     "width": 2364,
     "height": 3152,
@@ -522,10 +522,10 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "flower",
-      "macro",
-      "PA - Warwick County Park"
+      "macro"
     ],
     "width": 3201,
     "height": 2401,
@@ -541,10 +541,10 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "fern",
-      "overhead",
-      "PA - Warwick County Park"
+      "overhead"
     ],
     "width": 3935,
     "height": 5247,
@@ -560,10 +560,10 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - Warwick County Park"
+      "mushroom"
     ],
     "width": 3423,
     "height": 2568,
@@ -579,11 +579,11 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "fungus",
       "coral fungus",
-      "macro",
-      "PA - Warwick County Park"
+      "macro"
     ],
     "width": 4489,
     "height": 3367,
@@ -599,11 +599,11 @@
     "description": null,
     "locationName": "PA - Tyler Arboretum",
     "locationLabel": "Tyler Arboretum, PA",
+    "locationId": "pa-tyler-arboretum",
     "tags": [
       "fungus",
       "mushroom",
-      "clustered",
-      "PA - Tyler Arboretum"
+      "clustered"
     ],
     "width": 3106,
     "height": 2330,
@@ -619,10 +619,10 @@
     "description": null,
     "locationName": "PA - Tyler Arboretum",
     "locationLabel": "Tyler Arboretum, PA",
+    "locationId": "pa-tyler-arboretum",
     "tags": [
       "plant",
-      "sumac",
-      "PA - Tyler Arboretum"
+      "sumac"
     ],
     "width": 3530,
     "height": 4707,
@@ -638,13 +638,13 @@
     "description": null,
     "locationName": "PA - Tyler Arboretum",
     "locationLabel": "Tyler Arboretum, PA",
+    "locationId": "pa-tyler-arboretum",
     "tags": [
       "caterpillar",
       "insect",
       "macro",
       "clustered",
-      "moth",
-      "PA - Tyler Arboretum"
+      "moth"
     ],
     "width": 5712,
     "height": 4284,
@@ -660,10 +660,10 @@
     "description": null,
     "locationName": "PA - Tyler Arboretum",
     "locationLabel": "Tyler Arboretum, PA",
+    "locationId": "pa-tyler-arboretum",
     "tags": [
       "forest",
-      "treehouse",
-      "PA - Tyler Arboretum"
+      "treehouse"
     ],
     "width": 4284,
     "height": 5712,
@@ -679,10 +679,10 @@
     "description": null,
     "locationName": "PA - Tyler Arboretum",
     "locationLabel": "Tyler Arboretum, PA",
+    "locationId": "pa-tyler-arboretum",
     "tags": [
       "trail",
-      "treehouse",
-      "PA - Tyler Arboretum"
+      "treehouse"
     ],
     "width": 5712,
     "height": 4284,
@@ -698,10 +698,10 @@
     "description": null,
     "locationName": "PA - Tyler Arboretum",
     "locationLabel": "Tyler Arboretum, PA",
+    "locationId": "pa-tyler-arboretum",
     "tags": [
       "flower",
-      "macro",
-      "PA - Tyler Arboretum"
+      "macro"
     ],
     "width": 3317,
     "height": 4423,
@@ -717,10 +717,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "flower",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 4247,
     "height": 3185,
@@ -736,10 +736,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "insect",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 2965,
     "height": 2224,
@@ -755,10 +755,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "flower",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 2350,
     "height": 1762,
@@ -774,10 +774,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "fungus",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 3814,
     "height": 5086,
@@ -793,11 +793,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "backlit",
       "translucent",
-      "leaf",
-      "PA - Starr Farm Park"
+      "leaf"
     ],
     "width": 4142,
     "height": 5522,
@@ -813,10 +813,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "insect",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 2082,
     "height": 2776,
@@ -832,10 +832,10 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - Birdsboro Waters"
+      "mushroom"
     ],
     "width": 3185,
     "height": 4246,
@@ -851,11 +851,11 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "creek",
       "forest",
-      "moss",
-      "PA - Birdsboro Waters"
+      "moss"
     ],
     "width": 4284,
     "height": 5712,
@@ -871,9 +871,9 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
-      "fungus",
-      "PA - Birdsboro Waters"
+      "fungus"
     ],
     "width": 3602,
     "height": 2702,
@@ -889,11 +889,11 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "fungus",
       "mushroom",
-      "clustered",
-      "PA - Birdsboro Waters"
+      "clustered"
     ],
     "width": 3515,
     "height": 4687,
@@ -909,10 +909,10 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - Birdsboro Waters"
+      "mushroom"
     ],
     "width": 3404,
     "height": 4538,
@@ -928,10 +928,10 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - Birdsboro Waters"
+      "mushroom"
     ],
     "width": 4284,
     "height": 5712,
@@ -947,11 +947,11 @@
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
     "locationLabel": "Sadsbury Woods Preserve, PA",
+    "locationId": "pa-sadsbury-woods-preserve",
     "tags": [
       "fungus",
       "mushroom",
-      "confluence",
-      "PA - Sadsbury Woods Preserve"
+      "confluence"
     ],
     "width": 3592,
     "height": 4790,
@@ -967,10 +967,10 @@
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
     "locationLabel": "Sadsbury Woods Preserve, PA",
+    "locationId": "pa-sadsbury-woods-preserve",
     "tags": [
       "flower",
-      "macro",
-      "PA - Sadsbury Woods Preserve"
+      "macro"
     ],
     "width": 2722,
     "height": 2041,
@@ -986,11 +986,11 @@
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
     "locationLabel": "Sadsbury Woods Preserve, PA",
+    "locationId": "pa-sadsbury-woods-preserve",
     "tags": [
       "macro",
       "bee",
-      "flower",
-      "PA - Sadsbury Woods Preserve"
+      "flower"
     ],
     "width": 2926,
     "height": 2194,
@@ -1006,11 +1006,11 @@
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
     "locationLabel": "Sadsbury Woods Preserve, PA",
+    "locationId": "pa-sadsbury-woods-preserve",
     "tags": [
       "forest",
       "leaf",
-      "overhead",
-      "PA - Sadsbury Woods Preserve"
+      "overhead"
     ],
     "width": 4284,
     "height": 5712,
@@ -1026,9 +1026,9 @@
     "description": null,
     "locationName": "PA - The Laurels Preserve",
     "locationLabel": "The Laurels Preserve, PA",
+    "locationId": "pa-the-laurels-preserve",
     "tags": [
-      "flower bud",
-      "PA - The Laurels Preserve"
+      "flower bud"
     ],
     "width": 3523,
     "height": 2642,
@@ -1044,11 +1044,11 @@
     "description": null,
     "locationName": "PA - The Laurels Preserve",
     "locationLabel": "The Laurels Preserve, PA",
+    "locationId": "pa-the-laurels-preserve",
     "tags": [
       "plant",
       "flower",
-      "macro",
-      "PA - The Laurels Preserve"
+      "macro"
     ],
     "width": 2170,
     "height": 2893,
@@ -1064,11 +1064,11 @@
     "description": null,
     "locationName": "PA - The Laurels Preserve",
     "locationLabel": "The Laurels Preserve, PA",
+    "locationId": "pa-the-laurels-preserve",
     "tags": [
       "macro",
       "tendril",
-      "spiral",
-      "PA - The Laurels Preserve"
+      "spiral"
     ],
     "width": 2144,
     "height": 2859,
@@ -1084,10 +1084,10 @@
     "description": null,
     "locationName": "PA - The Laurels Preserve",
     "locationLabel": "The Laurels Preserve, PA",
+    "locationId": "pa-the-laurels-preserve",
     "tags": [
       "macro",
-      "tendril",
-      "PA - The Laurels Preserve"
+      "tendril"
     ],
     "width": 2196,
     "height": 1647,
@@ -1103,11 +1103,11 @@
     "description": null,
     "locationName": "PA - The Laurels Preserve",
     "locationLabel": "The Laurels Preserve, PA",
+    "locationId": "pa-the-laurels-preserve",
     "tags": [
       "macro",
       "fungus",
-      "mushroom",
-      "PA - The Laurels Preserve"
+      "mushroom"
     ],
     "width": 2448,
     "height": 3264,
@@ -1123,9 +1123,9 @@
     "description": null,
     "locationName": "PA - The Laurels Preserve",
     "locationLabel": "The Laurels Preserve, PA",
+    "locationId": "pa-the-laurels-preserve",
     "tags": [
-      "fungus",
-      "PA - The Laurels Preserve"
+      "fungus"
     ],
     "width": 4836,
     "height": 3627,
@@ -1141,11 +1141,11 @@
     "description": null,
     "locationName": "PA - The Laurels Preserve",
     "locationLabel": "The Laurels Preserve, PA",
+    "locationId": "pa-the-laurels-preserve",
     "tags": [
       "macro",
       "fungus",
-      "mushroom",
-      "PA - The Laurels Preserve"
+      "mushroom"
     ],
     "width": 3469,
     "height": 4625,
@@ -1161,13 +1161,13 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "moth",
       "macro",
       "flower",
       "head on",
-      "compound eye",
-      "PA - Marsh Creek State Park"
+      "compound eye"
     ],
     "width": 3024,
     "height": 4032,
@@ -1183,11 +1183,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "fungus",
       "mushroom",
-      "chanterelle",
-      "PA - Marsh Creek State Park"
+      "chanterelle"
     ],
     "width": 3679,
     "height": 4906,
@@ -1203,11 +1203,11 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "fungus",
       "mushroom",
-      "underside",
-      "PA - Bryn Coed Preserve"
+      "underside"
     ],
     "width": 3665,
     "height": 4887,
@@ -1223,11 +1223,11 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "macro",
       "spider",
-      "flower",
-      "PA - Bryn Coed Preserve"
+      "flower"
     ],
     "width": 2684,
     "height": 2012,
@@ -1243,11 +1243,11 @@
     "description": null,
     "locationName": "PA - Opalanie Park",
     "locationLabel": "Opalanie Park, PA",
+    "locationId": "pa-opalanie-park",
     "tags": [
       "trail",
       "forest",
-      "curvy trail",
-      "PA - Opalanie Park"
+      "curvy trail"
     ],
     "width": 3024,
     "height": 4032,
@@ -1263,11 +1263,11 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "meadow",
       "curvy trail",
-      "trail",
-      "PA - Bryn Coed Preserve"
+      "trail"
     ],
     "width": 5712,
     "height": 4284,
@@ -1283,11 +1283,11 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "fungus",
       "mushroom",
-      "mycena",
-      "PA - Bryn Coed Preserve"
+      "mycena"
     ],
     "width": 3282,
     "height": 2461,
@@ -1303,10 +1303,10 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "butterfly",
-      "caterpillar",
-      "PA - Bryn Coed Preserve"
+      "caterpillar"
     ],
     "width": 3579,
     "height": 2684,
@@ -1322,12 +1322,12 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "macro",
       "insect",
       "ambush bug",
-      "flower",
-      "PA - Bryn Coed Preserve"
+      "flower"
     ],
     "width": 2795,
     "height": 2096,
@@ -1343,12 +1343,12 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "macro",
       "flower",
       "thistle",
-      "starburst",
-      "PA - Starr Farm Park"
+      "starburst"
     ],
     "width": 2786,
     "height": 3714,
@@ -1364,11 +1364,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "fungus",
       "mushroom",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 3909,
     "height": 5212,
@@ -1384,11 +1384,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "lake",
       "vista",
-      "boat",
-      "PA - Marsh Creek State Park"
+      "boat"
     ],
     "width": 4032,
     "height": 3024,
@@ -1404,11 +1404,11 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "macro",
       "snail",
-      "shell",
-      "PA - Exton Park"
+      "shell"
     ],
     "width": 2148,
     "height": 1611,
@@ -1424,12 +1424,12 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "fungus",
       "mushroom",
       "macro",
-      "chanterelle",
-      "PA - Exton Park"
+      "chanterelle"
     ],
     "width": 2795,
     "height": 3727,
@@ -1445,9 +1445,9 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
-      "fungus",
-      "PA - Exton Park"
+      "fungus"
     ],
     "width": 3266,
     "height": 4355,
@@ -1463,9 +1463,9 @@
     "description": null,
     "locationName": "PA - Bondsville Mill Park",
     "locationLabel": "Bondsville Mill Park, PA",
+    "locationId": "pa-bondsville-mill-park",
     "tags": [
-      "fungus",
-      "PA - Bondsville Mill Park"
+      "fungus"
     ],
     "width": 3048,
     "height": 2286,
@@ -1481,9 +1481,9 @@
     "description": null,
     "locationName": "PA - Bondsville Mill Park",
     "locationLabel": "Bondsville Mill Park, PA",
+    "locationId": "pa-bondsville-mill-park",
     "tags": [
-      "pareidolia",
-      "PA - Bondsville Mill Park"
+      "pareidolia"
     ],
     "width": 4260,
     "height": 3195,
@@ -1499,11 +1499,11 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "fungus",
       "mushroom",
-      "macro",
-      "PA - Chester County"
+      "macro"
     ],
     "width": 2544,
     "height": 3392,
@@ -1519,12 +1519,12 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "plant",
       "leaf",
       "droplet",
-      "macro",
-      "PA - Chester County"
+      "macro"
     ],
     "width": 3121,
     "height": 4161,
@@ -1540,10 +1540,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "macro",
-      "flower",
-      "PA - Marsh Creek State Park"
+      "flower"
     ],
     "width": 2748,
     "height": 2061,
@@ -1559,11 +1559,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "insect",
       "macro",
-      "flower",
-      "PA - Marsh Creek State Park"
+      "flower"
     ],
     "width": 2849,
     "height": 2137,
@@ -1579,9 +1579,9 @@
     "description": null,
     "locationName": "PA - Myrick Conservation Center",
     "locationLabel": "Myrick Conservation Center, PA",
+    "locationId": "pa-myrick-conservation-center",
     "tags": [
-      "fungus",
-      "PA - Myrick Conservation Center"
+      "fungus"
     ],
     "width": 4073,
     "height": 3055,
@@ -1597,10 +1597,10 @@
     "description": null,
     "locationName": "PA - Coventry Woods Park",
     "locationLabel": "Coventry Woods Park, PA",
+    "locationId": "pa-coventry-woods-park",
     "tags": [
       "forest",
-      "trail",
-      "PA - Coventry Woods Park"
+      "trail"
     ],
     "width": 4284,
     "height": 5712,
@@ -1616,11 +1616,11 @@
     "description": null,
     "locationName": "PA - Coventry Woods Park",
     "locationLabel": "Coventry Woods Park, PA",
+    "locationId": "pa-coventry-woods-park",
     "tags": [
       "fungus",
       "mushroom",
-      "underside",
-      "PA - Coventry Woods Park"
+      "underside"
     ],
     "width": 4092,
     "height": 3069,
@@ -1636,10 +1636,10 @@
     "description": null,
     "locationName": "PA - Woody's Woods",
     "locationLabel": "Woody's Woods, PA",
+    "locationId": "pa-woodys-woods",
     "tags": [
       "macro",
-      "plant",
-      "PA - Woody's Woods"
+      "plant"
     ],
     "width": 2599,
     "height": 1949,
@@ -1655,13 +1655,13 @@
     "description": null,
     "locationName": "PA - Woody's Woods",
     "locationLabel": "Woody's Woods, PA",
+    "locationId": "pa-woodys-woods",
     "tags": [
       "fungus",
       "mushroom",
       "oyster mushroom",
       "macro",
-      "underside",
-      "PA - Woody's Woods"
+      "underside"
     ],
     "width": 2567,
     "height": 3422,
@@ -1677,11 +1677,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "sky",
       "moon",
-      "cloud",
-      "PA - Marsh Creek State Park"
+      "cloud"
     ],
     "width": 3498,
     "height": 2624,
@@ -1697,10 +1697,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "sunset",
-      "sky",
-      "PA - Marsh Creek State Park"
+      "sky"
     ],
     "width": 3202,
     "height": 2402,
@@ -1716,11 +1716,11 @@
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
     "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
+    "locationId": "pa-thomas-p-bentley-nature-preserve",
     "tags": [
       "forest",
       "trail",
-      "curvy trail",
-      "PA - Thomas P. Bentley Nature Preserve"
+      "curvy trail"
     ],
     "width": 4284,
     "height": 5712,
@@ -1736,9 +1736,9 @@
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
     "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
+    "locationId": "pa-thomas-p-bentley-nature-preserve",
     "tags": [
-      "thistle",
-      "PA - Thomas P. Bentley Nature Preserve"
+      "thistle"
     ],
     "width": 2776,
     "height": 3701,
@@ -1754,10 +1754,10 @@
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
     "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
+    "locationId": "pa-thomas-p-bentley-nature-preserve",
     "tags": [
       "tendril",
-      "macro",
-      "PA - Thomas P. Bentley Nature Preserve"
+      "macro"
     ],
     "width": 3070,
     "height": 4093,
@@ -1773,11 +1773,11 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "sunset",
       "grass",
-      "foxtail",
-      "PA - Exton Park"
+      "foxtail"
     ],
     "width": 3684,
     "height": 2763,
@@ -1793,12 +1793,12 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "fungus",
       "mushroom",
       "underside",
-      "macro",
-      "PA - French Creek State Park"
+      "macro"
     ],
     "width": 2278,
     "height": 1709,
@@ -1814,12 +1814,12 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "fungus",
       "mushroom",
       "oyster mushroom",
-      "underside",
-      "PA - French Creek State Park"
+      "underside"
     ],
     "width": 4466,
     "height": 3350,
@@ -1835,10 +1835,10 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - French Creek State Park"
+      "mushroom"
     ],
     "width": 2351,
     "height": 3134,
@@ -1854,10 +1854,10 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - French Creek State Park"
+      "mushroom"
     ],
     "width": 2527,
     "height": 3370,
@@ -1873,11 +1873,11 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "rock",
       "trail",
-      "pareidolia",
-      "PA - French Creek State Park"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -1893,10 +1893,10 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "mushroom",
-      "fungus",
-      "PA - French Creek State Park"
+      "fungus"
     ],
     "width": 3224,
     "height": 2418,
@@ -1912,11 +1912,11 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "flower",
       "grass",
-      "macro",
-      "PA - French Creek State Park"
+      "macro"
     ],
     "width": 2198,
     "height": 2931,
@@ -1932,12 +1932,12 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "fungus",
       "mushroom",
       "underside",
-      "clustered",
-      "PA - French Creek State Park"
+      "clustered"
     ],
     "width": 2374,
     "height": 1780,
@@ -1953,9 +1953,9 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
-      "fungus",
-      "PA - Exton Park"
+      "fungus"
     ],
     "width": 1964,
     "height": 1473,
@@ -1971,11 +1971,11 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "fungus",
       "mushroom",
-      "underside",
-      "PA - Exton Park"
+      "underside"
     ],
     "width": 4837,
     "height": 3628,
@@ -1991,11 +1991,11 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "fungus",
       "mushroom",
-      "macro",
-      "PA - Exton Park"
+      "macro"
     ],
     "width": 2493,
     "height": 1869,
@@ -2011,10 +2011,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - Exton Park"
+      "mushroom"
     ],
     "width": 2165,
     "height": 2886,
@@ -2030,12 +2030,12 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "fungus",
       "mushroom",
       "macro",
-      "underside",
-      "PA - Exton Park"
+      "underside"
     ],
     "width": 3106,
     "height": 4142,
@@ -2051,10 +2051,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "flower",
-      "macro",
-      "PA - Exton Park"
+      "macro"
     ],
     "width": 4667,
     "height": 3500,
@@ -2070,11 +2070,11 @@
     "description": null,
     "locationName": "PA - Silver Mine Park",
     "locationLabel": "Silver Mine Park, PA",
+    "locationId": "pa-silver-mine-park",
     "tags": [
       "powerline clearing",
       "wide trail",
-      "meadow",
-      "PA - Silver Mine Park"
+      "meadow"
     ],
     "width": 5712,
     "height": 4284,
@@ -2090,11 +2090,11 @@
     "description": null,
     "locationName": "PA - Silver Mine Park",
     "locationLabel": "Silver Mine Park, PA",
+    "locationId": "pa-silver-mine-park",
     "tags": [
       "moth",
       "head on",
-      "macro",
-      "PA - Silver Mine Park"
+      "macro"
     ],
     "width": 3764,
     "height": 2823,
@@ -2110,12 +2110,12 @@
     "description": null,
     "locationName": "PA - Silver Mine Park",
     "locationLabel": "Silver Mine Park, PA",
+    "locationId": "pa-silver-mine-park",
     "tags": [
       "cave",
       "looking out",
       "natural frame",
-      "portal",
-      "PA - Silver Mine Park"
+      "portal"
     ],
     "width": 5712,
     "height": 4284,
@@ -2131,12 +2131,12 @@
     "description": null,
     "locationName": "PA - Silver Mine Park",
     "locationLabel": "Silver Mine Park, PA",
+    "locationId": "pa-silver-mine-park",
     "tags": [
       "road",
       "historic house",
       "curvy road",
-      "leading lines",
-      "PA - Silver Mine Park"
+      "leading lines"
     ],
     "width": 5712,
     "height": 4284,
@@ -2152,9 +2152,9 @@
     "description": null,
     "locationName": "PA - Silver Mine Park",
     "locationLabel": "Silver Mine Park, PA",
+    "locationId": "pa-silver-mine-park",
     "tags": [
-      "butterfly",
-      "PA - Silver Mine Park"
+      "butterfly"
     ],
     "width": 2548,
     "height": 3397,
@@ -2170,10 +2170,10 @@
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
     "locationLabel": "Lancaster County Central Park, PA",
+    "locationId": "pa-lancaster-county-central-park",
     "tags": [
       "leading lines",
-      "trail",
-      "PA - Lancaster County Central Park"
+      "trail"
     ],
     "width": 5712,
     "height": 4284,
@@ -2189,11 +2189,11 @@
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
     "locationLabel": "Lancaster County Central Park, PA",
+    "locationId": "pa-lancaster-county-central-park",
     "tags": [
       "insect",
       "stinkbug",
-      "macro",
-      "PA - Lancaster County Central Park"
+      "macro"
     ],
     "width": 2449,
     "height": 1836,
@@ -2209,12 +2209,12 @@
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
     "locationLabel": "Lancaster County Central Park, PA",
+    "locationId": "pa-lancaster-county-central-park",
     "tags": [
       "flower",
       "flower bud",
       "overhead",
-      "starburst",
-      "PA - Lancaster County Central Park"
+      "starburst"
     ],
     "width": 3349,
     "height": 2512,
@@ -2230,11 +2230,11 @@
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
     "locationLabel": "Lancaster County Central Park, PA",
+    "locationId": "pa-lancaster-county-central-park",
     "tags": [
       "skipper",
       "macro",
-      "butterfly",
-      "PA - Lancaster County Central Park"
+      "butterfly"
     ],
     "width": 4888,
     "height": 3666,
@@ -2250,11 +2250,11 @@
     "description": null,
     "locationName": "PA - Lancaster County Central Park",
     "locationLabel": "Lancaster County Central Park, PA",
+    "locationId": "pa-lancaster-county-central-park",
     "tags": [
       "fungus",
       "xylaria",
-      "macro",
-      "PA - Lancaster County Central Park"
+      "macro"
     ],
     "width": 2692,
     "height": 2019,
@@ -2270,12 +2270,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "insect",
       "squash bug",
       "macro",
-      "overhead",
-      "PA - Marsh Creek State Park"
+      "overhead"
     ],
     "width": 2382,
     "height": 3176,
@@ -2291,11 +2291,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "fungus",
       "polypore",
-      "pareidolia",
-      "PA - Marsh Creek State Park"
+      "pareidolia"
     ],
     "width": 3554,
     "height": 4739,
@@ -2311,12 +2311,12 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "fungus",
       "underside",
       "mushroom",
-      "macro",
-      "PA - Chester County"
+      "macro"
     ],
     "width": 2919,
     "height": 2189,
@@ -2332,12 +2332,12 @@
     "description": null,
     "locationName": "PA - Ridley Creek State Park",
     "locationLabel": "Ridley Creek State Park, PA",
+    "locationId": "pa-ridley-creek-state-park",
     "tags": [
       "flower",
       "st. john's wort",
       "macro",
-      "overhead",
-      "PA - Ridley Creek State Park"
+      "overhead"
     ],
     "width": 3741,
     "height": 2806,
@@ -2353,11 +2353,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "flower",
       "onion",
-      "macro",
-      "PA - Springton Manor Farm"
+      "macro"
     ],
     "width": 2118,
     "height": 1589,
@@ -2373,11 +2373,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "flower",
       "meadow-rue",
-      "macro",
-      "PA - Springton Manor Farm"
+      "macro"
     ],
     "width": 3255,
     "height": 2441,
@@ -2393,11 +2393,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "fungus",
       "bird's nest fungus",
-      "macro",
-      "PA - Springton Manor Farm"
+      "macro"
     ],
     "width": 3553,
     "height": 2665,
@@ -2413,11 +2413,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "plant",
       "overhead",
-      "agrimony",
-      "PA - Springton Manor Farm"
+      "agrimony"
     ],
     "width": 2735,
     "height": 3647,
@@ -2433,11 +2433,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "fungus",
       "mushroom",
-      "russula",
-      "PA - Springton Manor Farm"
+      "russula"
     ],
     "width": 2784,
     "height": 3712,
@@ -2453,12 +2453,12 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "butterfly",
       "joe-pye weed",
       "backlit",
-      "pollinator",
-      "PA - Springton Manor Farm"
+      "pollinator"
     ],
     "width": 3044,
     "height": 4059,
@@ -2474,10 +2474,10 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "wetland",
-      "flower",
-      "PA - Springton Manor Farm"
+      "flower"
     ],
     "width": 2486,
     "height": 3314,
@@ -2493,10 +2493,10 @@
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
     "locationLabel": "Monocacy Hill Recreation Area, PA",
+    "locationId": "pa-monocacy-hill-recreation-area",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - Monocacy Hill Recreation Area"
+      "pareidolia"
     ],
     "width": 3844,
     "height": 5126,
@@ -2512,12 +2512,12 @@
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
     "locationLabel": "Monocacy Hill Recreation Area, PA",
+    "locationId": "pa-monocacy-hill-recreation-area",
     "tags": [
       "flower",
       "insect",
       "clover",
-      "macro",
-      "PA - Monocacy Hill Recreation Area"
+      "macro"
     ],
     "width": 2238,
     "height": 1678,
@@ -2533,12 +2533,12 @@
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
     "locationLabel": "Monocacy Hill Recreation Area, PA",
+    "locationId": "pa-monocacy-hill-recreation-area",
     "tags": [
       "clover",
       "flower",
       "macro",
-      "starburst",
-      "PA - Monocacy Hill Recreation Area"
+      "starburst"
     ],
     "width": 2574,
     "height": 3432,
@@ -2554,11 +2554,11 @@
     "description": null,
     "locationName": "PA - Monocacy Hill Recreation Area",
     "locationLabel": "Monocacy Hill Recreation Area, PA",
+    "locationId": "pa-monocacy-hill-recreation-area",
     "tags": [
       "fungus",
       "mushroom",
-      "clustered",
-      "PA - Monocacy Hill Recreation Area"
+      "clustered"
     ],
     "width": 3273,
     "height": 2455,
@@ -2574,10 +2574,10 @@
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
     "locationLabel": "Daniel Boone Homestead, PA",
+    "locationId": "pa-daniel-boone-homestead",
     "tags": [
       "grasshopper",
-      "macro",
-      "PA - Daniel Boone Homestead"
+      "macro"
     ],
     "width": 2388,
     "height": 1791,
@@ -2593,11 +2593,11 @@
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
     "locationLabel": "Daniel Boone Homestead, PA",
+    "locationId": "pa-daniel-boone-homestead",
     "tags": [
       "macro",
       "flower",
-      "ant",
-      "PA - Daniel Boone Homestead"
+      "ant"
     ],
     "width": 2721,
     "height": 2041,
@@ -2613,12 +2613,12 @@
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
     "locationLabel": "Daniel Boone Homestead, PA",
+    "locationId": "pa-daniel-boone-homestead",
     "tags": [
       "moth",
       "macro",
       "overhead",
-      "clearwing",
-      "PA - Daniel Boone Homestead"
+      "clearwing"
     ],
     "width": 3859,
     "height": 2895,
@@ -2634,10 +2634,10 @@
     "description": null,
     "locationName": "PA - Daniel Boone Homestead",
     "locationLabel": "Daniel Boone Homestead, PA",
+    "locationId": "pa-daniel-boone-homestead",
     "tags": [
       "flower",
-      "macro",
-      "PA - Daniel Boone Homestead"
+      "macro"
     ],
     "width": 2404,
     "height": 3205,
@@ -2653,12 +2653,12 @@
     "description": null,
     "locationName": "PA - Wissahickon Valley Park",
     "locationLabel": "Wissahickon Valley Park, PA",
+    "locationId": "pa-wissahickon-valley-park",
     "tags": [
       "flower",
       "joe-pye weed",
       "macro",
-      "flower bud",
-      "PA - Wissahickon Valley Park"
+      "flower bud"
     ],
     "width": 2168,
     "height": 2890,
@@ -2674,11 +2674,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "flower",
       "onion",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 2721,
     "height": 3628,
@@ -2694,11 +2694,11 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "moth",
       "macro",
-      "head on",
-      "PA - Bryn Coed Preserve"
+      "head on"
     ],
     "width": 2759,
     "height": 3678,
@@ -2714,9 +2714,9 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
-      "trail",
-      "PA - Marsh Creek State Park"
+      "trail"
     ],
     "width": 4190,
     "height": 5586,
@@ -2732,11 +2732,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "bumble bee",
       "bee",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 2129,
     "height": 2840,
@@ -2752,11 +2752,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "fly",
       "long-legged fly",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 2636,
     "height": 1977,
@@ -2772,11 +2772,11 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "flower",
       "macro",
-      "trefoil",
-      "PA - French Creek State Park"
+      "trefoil"
     ],
     "width": 2672,
     "height": 3562,
@@ -2792,12 +2792,12 @@
     "description": null,
     "locationName": "PA - Paradise Valley Nature Area",
     "locationLabel": "Paradise Valley Nature Area, PA",
+    "locationId": "pa-paradise-valley-nature-area",
     "tags": [
       "flower",
       "macro",
       "overhead",
-      "starburst",
-      "PA - Paradise Valley Nature Area"
+      "starburst"
     ],
     "width": 3024,
     "height": 4032,
@@ -2813,12 +2813,12 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "calligrapher fly",
       "fly",
       "macro",
-      "overhead",
-      "PA - Starr Farm Park"
+      "overhead"
     ],
     "width": 2397,
     "height": 1798,
@@ -2834,11 +2834,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "fly",
       "grass fly",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 2673,
     "height": 2004,
@@ -2854,11 +2854,11 @@
     "description": null,
     "locationName": "PA - Hildacy Preserve",
     "locationLabel": "Hildacy Preserve, PA",
+    "locationId": "pa-hildacy-preserve",
     "tags": [
       "plant",
       "grass",
-      "meadow",
-      "PA - Hildacy Preserve"
+      "meadow"
     ],
     "width": 3078,
     "height": 2308,
@@ -2873,13 +2873,13 @@
     "title": "Grape Tendrils",
     "description": null,
     "locationName": "PA - Brandywine Meadows Preserve",
-    "locationLabel": "PA - Brandywine Meadows Preserve",
+    "locationLabel": "Brandywine Meadows Preserve, PA",
+    "locationId": "pa-brandywine-meadows-preserve",
     "tags": [
       "plant",
       "vine",
       "tendril",
-      "macro",
-      "PA - Brandywine Meadows Preserve"
+      "macro"
     ],
     "width": 4032,
     "height": 3024,
@@ -2895,11 +2895,11 @@
     "description": null,
     "locationName": "PA - Harmony Hill Nature Area",
     "locationLabel": "Harmony Hill Nature Area, PA",
+    "locationId": "pa-harmony-hill-nature-area",
     "tags": [
       "fungus",
       "slime mold",
-      "macro",
-      "PA - Harmony Hill Nature Area"
+      "macro"
     ],
     "width": 2071,
     "height": 2761,
@@ -2915,11 +2915,11 @@
     "description": null,
     "locationName": "PA - Harmony Hill Nature Area",
     "locationLabel": "Harmony Hill Nature Area, PA",
+    "locationId": "pa-harmony-hill-nature-area",
     "tags": [
       "fungus",
       "mushroom",
-      "oyster mushroom",
-      "PA - Harmony Hill Nature Area"
+      "oyster mushroom"
     ],
     "width": 2434,
     "height": 1826,
@@ -2935,12 +2935,12 @@
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
     "locationLabel": "Binky Lee Preserve, PA",
+    "locationId": "pa-binky-lee-preserve",
     "tags": [
       "fern",
       "frond",
       "backlit",
-      "translucent",
-      "PA - Binky Lee Preserve"
+      "translucent"
     ],
     "width": 3024,
     "height": 4032,
@@ -2956,11 +2956,11 @@
     "description": null,
     "locationName": "DE - Auburn Valley State Park",
     "locationLabel": "Auburn Valley State Park, DE",
+    "locationId": "de-auburn-valley-state-park",
     "tags": [
       "insect",
       "assassin bug",
-      "macro",
-      "DE - Auburn Valley State Park"
+      "macro"
     ],
     "width": 2279,
     "height": 1709,
@@ -2976,11 +2976,11 @@
     "description": null,
     "locationName": "PA - Stateline Woods Preserve",
     "locationLabel": "Stateline Woods Preserve, PA",
+    "locationId": "pa-stateline-woods-preserve",
     "tags": [
       "tree",
       "leaf",
-      "dogwood",
-      "PA - Stateline Woods Preserve"
+      "dogwood"
     ],
     "width": 2584,
     "height": 3445,
@@ -2996,12 +2996,12 @@
     "description": null,
     "locationName": "PA - Stateline Woods Preserve",
     "locationLabel": "Stateline Woods Preserve, PA",
+    "locationId": "pa-stateline-woods-preserve",
     "tags": [
       "spider",
       "jumping spider",
       "macro",
-      "head on",
-      "PA - Stateline Woods Preserve"
+      "head on"
     ],
     "width": 3562,
     "height": 2672,
@@ -3017,11 +3017,11 @@
     "description": null,
     "locationName": "PA - ChesLen Preserve",
     "locationLabel": "ChesLen Preserve, PA",
+    "locationId": "pa-cheslen-preserve",
     "tags": [
       "insect",
       "treehopper",
-      "macro",
-      "PA - ChesLen Preserve"
+      "macro"
     ],
     "width": 4032,
     "height": 3024,
@@ -3037,12 +3037,12 @@
     "description": null,
     "locationName": "PA - ChesLen Preserve",
     "locationLabel": "ChesLen Preserve, PA",
+    "locationId": "pa-cheslen-preserve",
     "tags": [
       "insect",
       "fly",
       "macro",
-      "predation",
-      "PA - ChesLen Preserve"
+      "predation"
     ],
     "width": 1900,
     "height": 1425,
@@ -3058,11 +3058,11 @@
     "description": null,
     "locationName": "PA - ChesLen Preserve",
     "locationLabel": "ChesLen Preserve, PA",
+    "locationId": "pa-cheslen-preserve",
     "tags": [
       "flower",
       "macro",
-      "coneflower",
-      "PA - ChesLen Preserve"
+      "coneflower"
     ],
     "width": 1586,
     "height": 2115,
@@ -3078,11 +3078,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "fly",
       "insect",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 1930,
     "height": 2573,
@@ -3098,11 +3098,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "flower",
       "macro",
-      "meadow",
-      "PA - Starr Farm Park"
+      "meadow"
     ],
     "width": 3553,
     "height": 2665,
@@ -3118,13 +3118,13 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "insect",
       "fly",
       "meadow",
       "macro",
-      "bee",
-      "PA - French Creek State Park"
+      "bee"
     ],
     "width": 4032,
     "height": 3024,
@@ -3140,12 +3140,12 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "overhead",
       "flower bud",
       "flower",
-      "macro",
-      "PA - Springton Manor Farm"
+      "macro"
     ],
     "width": null,
     "height": null,
@@ -3161,12 +3161,12 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "fly",
       "macro",
       "compound eye",
-      "insect",
-      "PA - Springton Manor Farm"
+      "insect"
     ],
     "width": 2059,
     "height": 1544,
@@ -3182,13 +3182,13 @@
     "description": null,
     "locationName": "DE - Auburn Valley State Park",
     "locationLabel": "Auburn Valley State Park, DE",
+    "locationId": "de-auburn-valley-state-park",
     "tags": [
       "flower",
       "flower bud",
       "macro",
       "meadow",
-      "knapweed",
-      "DE - Auburn Valley State Park"
+      "knapweed"
     ],
     "width": 2394,
     "height": 1796,
@@ -3204,12 +3204,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "insect",
       "fly",
       "macro",
-      "compound eye",
-      "PA - Marsh Creek State Park"
+      "compound eye"
     ],
     "width": 2433,
     "height": 1824,
@@ -3225,10 +3225,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "thistle",
-      "seed head",
-      "PA - Starr Farm Park"
+      "seed head"
     ],
     "width": 2967,
     "height": 2225,
@@ -3244,12 +3244,12 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "thistle",
       "flower",
       "macro",
-      "starburst",
-      "PA - Starr Farm Park"
+      "starburst"
     ],
     "width": 2764,
     "height": 2073,
@@ -3265,11 +3265,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "flower",
       "macro",
-      "seed pod",
-      "PA - Starr Farm Park"
+      "seed pod"
     ],
     "width": 2675,
     "height": 3567,
@@ -3285,10 +3285,10 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "leaf",
-      "droplet",
-      "PA - Warwick County Park"
+      "droplet"
     ],
     "width": 2562,
     "height": 3416,
@@ -3304,10 +3304,10 @@
     "description": null,
     "locationName": "PA - Warwick County Park",
     "locationLabel": "Warwick County Park, PA",
+    "locationId": "pa-warwick-county-park",
     "tags": [
       "leaf",
-      "droplet",
-      "PA - Warwick County Park"
+      "droplet"
     ],
     "width": 3508,
     "height": 2631,
@@ -3323,11 +3323,11 @@
     "description": null,
     "locationName": "MD - Swallow Falls State Park",
     "locationLabel": "Swallow Falls State Park, MD",
+    "locationId": "md-swallow-falls-state-park",
     "tags": [
       "waterfall",
       "rock",
-      "slow shutter",
-      "MD - Swallow Falls State Park"
+      "slow shutter"
     ],
     "width": 5122,
     "height": 3843,
@@ -3343,11 +3343,11 @@
     "description": null,
     "locationName": "WV - Cranesville Swamp Preserve",
     "locationLabel": "Cranesville Swamp Preserve, WV",
+    "locationId": "wv-cranesville-swamp-preserve",
     "tags": [
       "fern",
       "wood",
-      "shadow",
-      "WV - Cranesville Swamp Preserve"
+      "shadow"
     ],
     "width": 4284,
     "height": 5712,
@@ -3363,12 +3363,12 @@
     "description": null,
     "locationName": "OH - Wayne National Forest",
     "locationLabel": "Wayne National Forest, OH",
+    "locationId": "oh-wayne-national-forest",
     "tags": [
       "macro",
       "box turtle",
       "reptile",
-      "turtle",
-      "OH - Wayne National Forest"
+      "turtle"
     ],
     "width": 4929,
     "height": 3697,
@@ -3384,10 +3384,10 @@
     "description": null,
     "locationName": "OH - Wayne National Forest",
     "locationLabel": "Wayne National Forest, OH",
+    "locationId": "oh-wayne-national-forest",
     "tags": [
       "rock",
-      "pareidolia",
-      "OH - Wayne National Forest"
+      "pareidolia"
     ],
     "width": 3915,
     "height": 2936,
@@ -3403,11 +3403,11 @@
     "description": null,
     "locationName": "OH - Wayne National Forest",
     "locationLabel": "Wayne National Forest, OH",
+    "locationId": "oh-wayne-national-forest",
     "tags": [
       "fern",
       "overhead",
-      "forest",
-      "OH - Wayne National Forest"
+      "forest"
     ],
     "width": 4284,
     "height": 3213,
@@ -3423,11 +3423,11 @@
     "description": null,
     "locationName": "PA - Mingo Creek County Park",
     "locationLabel": "Mingo Creek County Park, PA",
+    "locationId": "pa-mingo-creek-county-park",
     "tags": [
       "spider",
       "flower",
-      "macro",
-      "PA - Mingo Creek County Park"
+      "macro"
     ],
     "width": 2218,
     "height": 2957,
@@ -3443,11 +3443,11 @@
     "description": null,
     "locationName": "PA - Jumonville Glen",
     "locationLabel": "Jumonville Glen, PA",
+    "locationId": "pa-jumonville-glen",
     "tags": [
       "rock",
       "fern",
-      "pareidolia",
-      "PA - Jumonville Glen"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -3463,10 +3463,10 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "grass",
-      "forest",
-      "PA - Bryn Coed Preserve"
+      "forest"
     ],
     "width": 4032,
     "height": 3024,
@@ -3482,12 +3482,12 @@
     "description": null,
     "locationName": "PA - Moshannon State Forest",
     "locationLabel": "Moshannon State Forest, PA",
+    "locationId": "pa-moshannon-state-forest",
     "tags": [
       "reflection",
       "forest",
       "tree",
-      "pond",
-      "PA - Moshannon State Forest"
+      "pond"
     ],
     "width": 4860,
     "height": 3645,
@@ -3503,10 +3503,10 @@
     "description": null,
     "locationName": "PA - Downingtown",
     "locationLabel": "Downingtown, PA",
+    "locationId": "pa-downingtown",
     "tags": [
       "flower bud",
-      "starburst",
-      "PA - Downingtown"
+      "starburst"
     ],
     "width": 2447,
     "height": 1835,
@@ -3522,12 +3522,12 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "fly",
       "flower",
       "macro",
-      "pollinator",
-      "PA - Birdsboro Waters"
+      "pollinator"
     ],
     "width": 1969,
     "height": 1476,
@@ -3543,10 +3543,10 @@
     "description": null,
     "locationName": "PA - Pickering Creek Trail",
     "locationLabel": "Pickering Creek Trail, PA",
+    "locationId": "pa-pickering-creek-trail",
     "tags": [
       "droplet",
-      "flower",
-      "PA - Pickering Creek Trail"
+      "flower"
     ],
     "width": 3694,
     "height": 2770,
@@ -3562,11 +3562,11 @@
     "description": null,
     "locationName": "PA - Pickering Creek Trail",
     "locationLabel": "Pickering Creek Trail, PA",
+    "locationId": "pa-pickering-creek-trail",
     "tags": [
       "tendril",
       "droplet",
-      "macro",
-      "PA - Pickering Creek Trail"
+      "macro"
     ],
     "width": 1915,
     "height": 2553,
@@ -3582,11 +3582,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "insect",
       "flower",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 3024,
     "height": 2268,
@@ -3602,11 +3602,11 @@
     "description": null,
     "locationName": "PA - Blue Marsh Lake",
     "locationLabel": "Blue Marsh Lake, PA",
+    "locationId": "pa-blue-marsh-lake",
     "tags": [
       "leaf",
       "overhead",
-      "clustered",
-      "PA - Blue Marsh Lake"
+      "clustered"
     ],
     "width": 3372,
     "height": 4496,
@@ -3622,10 +3622,10 @@
     "description": null,
     "locationName": "PA - Paradise Valley Nature Area",
     "locationLabel": "Paradise Valley Nature Area, PA",
+    "locationId": "pa-paradise-valley-nature-area",
     "tags": [
       "leaf",
-      "backlit",
-      "PA - Paradise Valley Nature Area"
+      "backlit"
     ],
     "width": 4516,
     "height": 3387,
@@ -3641,11 +3641,11 @@
     "description": null,
     "locationName": "PA - Harmony Hill Nature Area",
     "locationLabel": "Harmony Hill Nature Area, PA",
+    "locationId": "pa-harmony-hill-nature-area",
     "tags": [
       "leaf",
       "backlit",
-      "translucent",
-      "PA - Harmony Hill Nature Area"
+      "translucent"
     ],
     "width": 4284,
     "height": 5712,
@@ -3660,12 +3660,12 @@
     "title": "Sunlit Frond \"Zipper\"",
     "description": null,
     "locationName": "PA - Brandywine Meadows Preserve",
-    "locationLabel": "PA - Brandywine Meadows Preserve",
+    "locationLabel": "Brandywine Meadows Preserve, PA",
+    "locationId": "pa-brandywine-meadows-preserve",
     "tags": [
       "frond",
       "fern",
-      "macro",
-      "PA - Brandywine Meadows Preserve"
+      "macro"
     ],
     "width": 3024,
     "height": 4032,
@@ -3681,11 +3681,11 @@
     "description": null,
     "locationName": "PA - Paradise Valley Nature Area",
     "locationLabel": "Paradise Valley Nature Area, PA",
+    "locationId": "pa-paradise-valley-nature-area",
     "tags": [
       "seed head",
       "droplet",
-      "macro",
-      "PA - Paradise Valley Nature Area"
+      "macro"
     ],
     "width": 2069,
     "height": 1552,
@@ -3701,36 +3701,16 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "wood",
-      "pareidolia",
-      "PA - Starr Farm Park"
+      "pareidolia"
     ],
     "width": 3148,
     "height": 4196,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
-  },
-  {
-    "fileName": "2026-05-07_18-14-23_706.webp",
-    "dateTaken": "2026-05-07T18:14:23",
-    "dateAdded": "2026-09-15T09:54:42.596171",
-    "title": "A Fiddlehead Peeking Through Open Fronds",
-    "description": null,
-    "locationName": "PA - Starr Farm Park",
-    "locationLabel": "Starr Farm Park, PA",
-    "tags": [
-      "fiddlehead",
-      "frond",
-      "fern",
-      "PA - Starr Farm Park"
-    ],
-    "width": null,
-    "height": null,
-    "camera": null,
-    "taxonName": "ostrich fern",
-    "taxonUrl": "https://www.inaturalist.org/taxa/82574"
   },
   {
     "fileName": "2026-05-07_18-11-51_719.webp",
@@ -3740,10 +3720,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "fiddlehead",
-      "fern",
-      "PA - Starr Farm Park"
+      "fern"
     ],
     "width": 3129,
     "height": 4172,
@@ -3759,10 +3739,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "feather",
-      "grass",
-      "PA - Starr Farm Park"
+      "grass"
     ],
     "width": 2632,
     "height": 3509,
@@ -3778,10 +3758,10 @@
     "description": null,
     "locationName": "MD - Swan Harbor Farm",
     "locationLabel": "Swan Harbor Farm, MD",
+    "locationId": "md-swan-harbor-farm",
     "tags": [
       "forest",
-      "leaf",
-      "MD - Swan Harbor Farm"
+      "leaf"
     ],
     "width": 3489,
     "height": 2616,
@@ -3797,10 +3777,10 @@
     "description": null,
     "locationName": "MD - Susquehanna State Park",
     "locationLabel": "Susquehanna State Park, MD",
+    "locationId": "md-susquehanna-state-park",
     "tags": [
       "frond",
-      "fern",
-      "MD - Susquehanna State Park"
+      "fern"
     ],
     "width": 1470,
     "height": 1961,
@@ -3816,11 +3796,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "insect",
       "grass",
-      "macro",
-      "PA - Springton Manor Farm"
+      "macro"
     ],
     "width": 2008,
     "height": 1506,
@@ -3836,11 +3816,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "frond",
       "fern",
-      "macro",
-      "PA - Springton Manor Farm"
+      "macro"
     ],
     "width": 1306,
     "height": 980,
@@ -3856,10 +3836,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "flower",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 4032,
     "height": 3024,
@@ -3875,10 +3855,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "fiddlehead",
-      "fern",
-      "PA - Exton Park"
+      "fern"
     ],
     "width": 2396,
     "height": 1797,
@@ -3894,10 +3874,10 @@
     "description": null,
     "locationName": "PA - Schuylkill East Trail",
     "locationLabel": "Schuylkill East Trail, PA",
+    "locationId": "pa-schuylkill-east-trail",
     "tags": [
       "poison ivy",
-      "leaf",
-      "PA - Schuylkill East Trail"
+      "leaf"
     ],
     "width": 3963,
     "height": 5284,
@@ -3913,10 +3893,10 @@
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
     "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
+    "locationId": "pa-thomas-p-bentley-nature-preserve",
     "tags": [
       "leaf bud",
-      "macro",
-      "PA - Thomas P. Bentley Nature Preserve"
+      "macro"
     ],
     "width": 2436,
     "height": 3248,
@@ -3932,10 +3912,10 @@
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
     "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
+    "locationId": "pa-thomas-p-bentley-nature-preserve",
     "tags": [
       "leaf bud",
-      "macro",
-      "PA - Thomas P. Bentley Nature Preserve"
+      "macro"
     ],
     "width": 4284,
     "height": 3214,
@@ -3951,10 +3931,10 @@
     "description": null,
     "locationName": "PA - Thomas P. Bentley Nature Preserve",
     "locationLabel": "Thomas P. Bentley Nature Preserve, PA",
+    "locationId": "pa-thomas-p-bentley-nature-preserve",
     "tags": [
       "flower bud",
-      "clustered",
-      "PA - Thomas P. Bentley Nature Preserve"
+      "clustered"
     ],
     "width": 1492,
     "height": 1119,
@@ -3970,10 +3950,10 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "frond",
-      "fern",
-      "PA - Bryn Coed Preserve"
+      "fern"
     ],
     "width": 3820,
     "height": 2864,
@@ -3989,9 +3969,9 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
-      "flower bud",
-      "PA - Marsh Creek State Park"
+      "flower bud"
     ],
     "width": 2540,
     "height": 3387,
@@ -4007,12 +3987,12 @@
     "description": null,
     "locationName": "PA - Wolf Run Wild Area",
     "locationLabel": "Wolf Run Wild Area, PA",
+    "locationId": "pa-wolf-run-wild-area",
     "tags": [
       "cascade",
       "moss",
       "stream",
-      "slow shutter",
-      "PA - Wolf Run Wild Area"
+      "slow shutter"
     ],
     "width": 3819,
     "height": 5093,
@@ -4028,10 +4008,10 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "leaf bud",
-      "macro",
-      "PA - Springton Manor Farm"
+      "macro"
     ],
     "width": 3821,
     "height": 5095,
@@ -4047,11 +4027,11 @@
     "description": null,
     "locationName": "PA - Theodore A. Parker III Natural Area",
     "locationLabel": "Theodore A. Parker III Natural Area, PA",
+    "locationId": "pa-theodore-a-parker-iii-natural-area",
     "tags": [
       "mayapple",
       "droplet",
-      "overhead",
-      "PA - Theodore A. Parker III Natural Area"
+      "overhead"
     ],
     "width": 2411,
     "height": 3216,
@@ -4067,11 +4047,11 @@
     "description": null,
     "locationName": "PA - Ferncliff Wildlife & Wildflower Preserve",
     "locationLabel": "Ferncliff Wildlife & Wildflower Preserve, PA",
+    "locationId": "pa-ferncliff-wildlife-wildflower-preserve",
     "tags": [
       "droplet",
       "flower",
-      "macro",
-      "PA - Ferncliff Wildlife & Wildflower Preserve"
+      "macro"
     ],
     "width": 2358,
     "height": 3144,
@@ -4087,10 +4067,10 @@
     "description": null,
     "locationName": "PA - Ferncliff Wildlife & Wildflower Preserve",
     "locationLabel": "Ferncliff Wildlife & Wildflower Preserve, PA",
+    "locationId": "pa-ferncliff-wildlife-wildflower-preserve",
     "tags": [
       "fiddlehead",
-      "fern",
-      "PA - Ferncliff Wildlife & Wildflower Preserve"
+      "fern"
     ],
     "width": 2468,
     "height": 3290,
@@ -4106,10 +4086,10 @@
     "description": null,
     "locationName": "PA - Mountour Preserve",
     "locationLabel": "Mountour Preserve, PA",
+    "locationId": "pa-mountour-preserve",
     "tags": [
       "lake",
-      "reflection",
-      "PA - Mountour Preserve"
+      "reflection"
     ],
     "width": 4032,
     "height": 3024,
@@ -4125,11 +4105,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "sunset",
       "cloud",
-      "sky",
-      "PA - Marsh Creek State Park"
+      "sky"
     ],
     "width": 5712,
     "height": 4284,
@@ -4145,11 +4125,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "sunset",
       "sky",
-      "color filter",
-      "PA - Marsh Creek State Park"
+      "color filter"
     ],
     "width": 5712,
     "height": 4284,
@@ -4165,11 +4145,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "flower bud",
       "macro",
-      "flower",
-      "PA - Marsh Creek State Park"
+      "flower"
     ],
     "width": 2544,
     "height": 3392,
@@ -4185,10 +4165,10 @@
     "description": null,
     "locationName": "PA - Laurel Hill State Park",
     "locationLabel": "Laurel Hill State Park, PA",
+    "locationId": "pa-laurel-hill-state-park",
     "tags": [
       "flower bud",
-      "rhododendron",
-      "PA - Laurel Hill State Park"
+      "rhododendron"
     ],
     "width": 3738,
     "height": 4984,
@@ -4204,12 +4184,12 @@
     "description": null,
     "locationName": "PA - Forbes State Forest",
     "locationLabel": "Forbes State Forest, PA",
+    "locationId": "pa-forbes-state-forest",
     "tags": [
       "waterfall",
       "arch",
       "natural frame",
-      "tree",
-      "PA - Forbes State Forest"
+      "tree"
     ],
     "width": 4319,
     "height": 3239,
@@ -4225,10 +4205,10 @@
     "description": null,
     "locationName": "PA - Powdermill Nature Reserve",
     "locationLabel": "Powdermill Nature Reserve, PA",
+    "locationId": "pa-powdermill-nature-reserve",
     "tags": [
       "wood",
-      "pareidolia",
-      "PA - Powdermill Nature Reserve"
+      "pareidolia"
     ],
     "width": 2863,
     "height": 3817,
@@ -4244,10 +4224,10 @@
     "description": null,
     "locationName": "PA - Forbes State Forest",
     "locationLabel": "Forbes State Forest, PA",
+    "locationId": "pa-forbes-state-forest",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - Forbes State Forest"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -4263,11 +4243,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "droplet",
       "grass",
-      "backlit",
-      "PA - Marsh Creek State Park"
+      "backlit"
     ],
     "width": 2059,
     "height": 2745,
@@ -4283,12 +4263,12 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "rock",
       "cliff",
       "fern",
-      "pareidolia",
-      "PA - French Creek State Park"
+      "pareidolia"
     ],
     "width": 3694,
     "height": 2770,
@@ -4304,12 +4284,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "sunset",
       "contrail",
       "sky",
-      "silhouette",
-      "PA - Marsh Creek State Park"
+      "silhouette"
     ],
     "width": 4032,
     "height": 3024,
@@ -4325,11 +4305,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "snow",
       "lake",
-      "ice",
-      "PA - Marsh Creek State Park"
+      "ice"
     ],
     "width": 4877,
     "height": 3658,
@@ -4345,13 +4325,13 @@
     "description": "Small light wands backlighting a stack of frozen snow layers",
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "snow",
       "ice",
       "backlit",
       "translucent",
-      "night",
-      "PA - Marsh Creek State Park"
+      "night"
     ],
     "width": 3733,
     "height": 2800,
@@ -4367,11 +4347,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "snow",
       "shadow",
-      "tree",
-      "PA - Starr Farm Park"
+      "tree"
     ],
     "width": 4277,
     "height": 5702,
@@ -4387,12 +4367,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "snow",
       "shadow",
       "night",
-      "trail",
-      "PA - Marsh Creek State Park"
+      "trail"
     ],
     "width": 3024,
     "height": 4032,
@@ -4408,11 +4388,11 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "rock",
       "snow",
-      "pareidolia",
-      "PA - Springton Manor Farm"
+      "pareidolia"
     ],
     "width": 5712,
     "height": 4284,
@@ -4428,10 +4408,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "snow",
-      "pareidolia",
-      "PA - Marsh Creek State Park"
+      "pareidolia"
     ],
     "width": 2295,
     "height": 3060,
@@ -4447,11 +4427,11 @@
     "description": null,
     "locationName": "MD - Tuckahoe State Park",
     "locationLabel": "Tuckahoe State Park, MD",
+    "locationId": "md-tuckahoe-state-park",
     "tags": [
       "ice",
       "droplet",
-      "macro",
-      "MD - Tuckahoe State Park"
+      "macro"
     ],
     "width": 2041,
     "height": 2721,
@@ -4467,11 +4447,11 @@
     "description": null,
     "locationName": "MD - Pickering Creek Audobon Center",
     "locationLabel": "Pickering Creek Audobon Center, MD",
+    "locationId": "md-pickering-creek-audobon-center",
     "tags": [
       "ice",
       "ice sheet",
-      "ice crystals",
-      "MD - Pickering Creek Audobon Center"
+      "ice crystals"
     ],
     "width": 3731,
     "height": 2798,
@@ -4487,10 +4467,10 @@
     "description": null,
     "locationName": "MD - Flag Ponds Nature Park",
     "locationLabel": "Flag Ponds Nature Park, MD",
+    "locationId": "md-flag-ponds-nature-park",
     "tags": [
       "wood",
-      "pareidolia",
-      "MD - Flag Ponds Nature Park"
+      "pareidolia"
     ],
     "width": 1912,
     "height": 2549,
@@ -4506,10 +4486,10 @@
     "description": null,
     "locationName": "MD - Calvert Cliffs State Park",
     "locationLabel": "Calvert Cliffs State Park, MD",
+    "locationId": "md-calvert-cliffs-state-park",
     "tags": [
       "tree",
-      "pareidolia",
-      "MD - Calvert Cliffs State Park"
+      "pareidolia"
     ],
     "width": 3976,
     "height": 5301,
@@ -4525,11 +4505,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 235",
     "locationLabel": "State Game Lands 235, PA",
+    "locationId": "pa-state-game-lands-235",
     "tags": [
       "rock",
       "snow",
-      "pareidolia",
-      "PA - State Game Lands 235"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -4545,10 +4525,10 @@
     "description": null,
     "locationName": "PA - State Game Lands 53",
     "locationLabel": "State Game Lands 53, PA",
+    "locationId": "pa-state-game-lands-53",
     "tags": [
       "pine",
-      "pareidolia",
-      "PA - State Game Lands 53"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -4564,12 +4544,12 @@
     "description": null,
     "locationName": "PA - Tuscarora State Forest",
     "locationLabel": "Tuscarora State Forest, PA",
+    "locationId": "pa-tuscarora-state-forest",
     "tags": [
       "rock",
       "snow",
       "moss",
-      "pareidolia",
-      "PA - Tuscarora State Forest"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -4585,10 +4565,10 @@
     "description": null,
     "locationName": "PA - State Game Lands 211",
     "locationLabel": "State Game Lands 211, PA",
+    "locationId": "pa-state-game-lands-211",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - State Game Lands 211"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -4604,10 +4584,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "rock",
-      "ice",
-      "PA - Marsh Creek State Park"
+      "ice"
     ],
     "width": 5041,
     "height": 3781,
@@ -4623,10 +4603,10 @@
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
     "locationLabel": "Binky Lee Preserve, PA",
+    "locationId": "pa-binky-lee-preserve",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - Binky Lee Preserve"
+      "pareidolia"
     ],
     "width": 2875,
     "height": 3833,
@@ -4642,11 +4622,11 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "ice",
       "icicle",
-      "cliff",
-      "PA - Birdsboro Waters"
+      "cliff"
     ],
     "width": 4284,
     "height": 5712,
@@ -4662,10 +4642,10 @@
     "description": null,
     "locationName": "PA - William Penn State Forest",
     "locationLabel": "William Penn State Forest, PA",
+    "locationId": "pa-william-penn-state-forest",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - William Penn State Forest"
+      "pareidolia"
     ],
     "width": 4284,
     "height": 5712,
@@ -4681,11 +4661,11 @@
     "description": null,
     "locationName": "PA - William Penn State Forest",
     "locationLabel": "William Penn State Forest, PA",
+    "locationId": "pa-william-penn-state-forest",
     "tags": [
       "rock",
       "pareidolia",
-      "lichen",
-      "PA - William Penn State Forest"
+      "lichen"
     ],
     "width": 4284,
     "height": 5712,
@@ -4701,12 +4681,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "night",
       "silhouette",
       "tree",
-      "sky",
-      "PA - Marsh Creek State Park"
+      "sky"
     ],
     "width": 4032,
     "height": 3024,
@@ -4722,11 +4702,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "night",
       "reflection",
-      "color filter",
-      "PA - Marsh Creek State Park"
+      "color filter"
     ],
     "width": 4032,
     "height": 3024,
@@ -4742,12 +4722,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "silhouette",
       "tree",
       "pareidolia",
-      "sky",
-      "PA - Marsh Creek State Park"
+      "sky"
     ],
     "width": 2693,
     "height": 3590,
@@ -4763,10 +4743,10 @@
     "description": null,
     "locationName": "PA - State Game Lands 43",
     "locationLabel": "State Game Lands 43, PA",
+    "locationId": "pa-state-game-lands-43",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - State Game Lands 43"
+      "pareidolia"
     ],
     "width": 3674,
     "height": 4900,
@@ -4782,11 +4762,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "leaf",
       "fall",
-      "backlit",
-      "PA - Starr Farm Park"
+      "backlit"
     ],
     "width": 2578,
     "height": 3438,
@@ -4802,11 +4782,11 @@
     "description": null,
     "locationName": "PA - Bald Eagle State Forest",
     "locationLabel": "Bald Eagle State Forest, PA",
+    "locationId": "pa-bald-eagle-state-forest",
     "tags": [
       "rock",
       "vista",
-      "mountain",
-      "PA - Bald Eagle State Forest"
+      "mountain"
     ],
     "width": 2898,
     "height": 3864,
@@ -4822,10 +4802,10 @@
     "description": null,
     "locationName": "PA - Rothrock State Forest",
     "locationLabel": "Rothrock State Forest, PA",
+    "locationId": "pa-rothrock-state-forest",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - Rothrock State Forest"
+      "pareidolia"
     ],
     "width": 3546,
     "height": 2659,
@@ -4841,11 +4821,11 @@
     "description": null,
     "locationName": "PA - Moshannon State Forest",
     "locationLabel": "Moshannon State Forest, PA",
+    "locationId": "pa-moshannon-state-forest",
     "tags": [
       "leaf",
       "fall",
-      "pareidolia",
-      "PA - Moshannon State Forest"
+      "pareidolia"
     ],
     "width": 3161,
     "height": 2371,
@@ -4861,10 +4841,10 @@
     "description": null,
     "locationName": "PA - Templin Woods Preserve",
     "locationLabel": "Templin Woods Preserve, PA",
+    "locationId": "pa-templin-woods-preserve",
     "tags": [
       "dogwood",
-      "leaf",
-      "PA - Templin Woods Preserve"
+      "leaf"
     ],
     "width": 2384,
     "height": 3179,
@@ -4880,10 +4860,10 @@
     "description": null,
     "locationName": "PA - Mount Nittany",
     "locationLabel": "Mount Nittany, PA",
+    "locationId": "pa-mount-nittany",
     "tags": [
       "wood",
-      "pareidolia",
-      "PA - Mount Nittany"
+      "pareidolia"
     ],
     "width": 2533,
     "height": 3378,
@@ -4899,12 +4879,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "night",
       "silhouette",
       "meadow",
-      "sky",
-      "PA - Marsh Creek State Park"
+      "sky"
     ],
     "width": 3337,
     "height": 2502,
@@ -4920,12 +4900,12 @@
     "description": null,
     "locationName": "PA - Blue Marsh Lake",
     "locationLabel": "Blue Marsh Lake, PA",
+    "locationId": "pa-blue-marsh-lake",
     "tags": [
       "trail",
       "fall",
       "fog",
-      "forest",
-      "PA - Blue Marsh Lake"
+      "forest"
     ],
     "width": 4032,
     "height": 3024,
@@ -4941,11 +4921,11 @@
     "description": null,
     "locationName": "PA - Blue Marsh Lake",
     "locationLabel": "Blue Marsh Lake, PA",
+    "locationId": "pa-blue-marsh-lake",
     "tags": [
       "frond",
       "fern",
-      "macro",
-      "PA - Blue Marsh Lake"
+      "macro"
     ],
     "width": 2837,
     "height": 3783,
@@ -4961,11 +4941,11 @@
     "description": null,
     "locationName": "MD - Terrapin Nature Park",
     "locationLabel": "Terrapin Nature Park, MD",
+    "locationId": "md-terrapin-nature-park",
     "tags": [
       "trail",
       "fall",
-      "shadow",
-      "MD - Terrapin Nature Park"
+      "shadow"
     ],
     "width": 3024,
     "height": 4032,
@@ -4981,11 +4961,11 @@
     "description": null,
     "locationName": "MD - Sugarloaf Mountain",
     "locationLabel": "Sugarloaf Mountain, MD",
+    "locationId": "md-sugarloaf-mountain",
     "tags": [
       "rock",
       "fall",
-      "pareidolia",
-      "MD - Sugarloaf Mountain"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -5001,10 +4981,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "leaf",
-      "fall",
-      "PA - Exton Park"
+      "fall"
     ],
     "width": 2541,
     "height": 1905,
@@ -5020,9 +5000,9 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
-      "pareidolia",
-      "PA - Marsh Creek State Park"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -5038,11 +5018,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "cloud",
       "lake",
-      "kayak",
-      "PA - Marsh Creek State Park"
+      "kayak"
     ],
     "width": 3024,
     "height": 4032,
@@ -5058,9 +5038,9 @@
     "description": null,
     "locationName": "DE - Cape Henlopen State Park",
     "locationLabel": "Cape Henlopen State Park, DE",
+    "locationId": "de-cape-henlopen-state-park",
     "tags": [
-      "shell",
-      "DE - Cape Henlopen State Park"
+      "shell"
     ],
     "width": 2930,
     "height": 3907,
@@ -5076,12 +5056,12 @@
     "description": null,
     "locationName": "PA - Zindel Park",
     "locationLabel": "Zindel Park, PA",
+    "locationId": "pa-zindel-park",
     "tags": [
       "tree",
       "trail",
       "fall",
-      "pareidolia",
-      "PA - Zindel Park"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -5097,11 +5077,11 @@
     "description": null,
     "locationName": "PA - Bald Eagle State Forest",
     "locationLabel": "Bald Eagle State Forest, PA",
+    "locationId": "pa-bald-eagle-state-forest",
     "tags": [
       "leaf",
       "fall",
-      "backlit",
-      "PA - Bald Eagle State Forest"
+      "backlit"
     ],
     "width": 2508,
     "height": 3344,
@@ -5117,12 +5097,12 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "leaf",
       "lichen",
       "rock",
-      "fall",
-      "PA - Chester County"
+      "fall"
     ],
     "width": 2671,
     "height": 3561,
@@ -5138,10 +5118,10 @@
     "description": null,
     "locationName": "PA - Opposum Lake",
     "locationLabel": "Opposum Lake, PA",
+    "locationId": "pa-opposum-lake",
     "tags": [
       "web",
-      "droplet",
-      "PA - Opposum Lake"
+      "droplet"
     ],
     "width": 1841,
     "height": 2454,
@@ -5157,10 +5137,10 @@
     "description": null,
     "locationName": "PA - Opposum Lake",
     "locationLabel": "Opposum Lake, PA",
+    "locationId": "pa-opposum-lake",
     "tags": [
       "web",
-      "droplet",
-      "PA - Opposum Lake"
+      "droplet"
     ],
     "width": 2256,
     "height": 3008,
@@ -5176,10 +5156,10 @@
     "description": null,
     "locationName": "PA - Opposum Lake",
     "locationLabel": "Opposum Lake, PA",
+    "locationId": "pa-opposum-lake",
     "tags": [
       "web",
-      "dew",
-      "PA - Opposum Lake"
+      "dew"
     ],
     "width": 4032,
     "height": 3024,
@@ -5195,10 +5175,10 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "wood",
-      "pareidolia",
-      "PA - Chester County"
+      "pareidolia"
     ],
     "width": 3012,
     "height": 2259,
@@ -5214,11 +5194,11 @@
     "description": null,
     "locationName": "PA - Shickshinny",
     "locationLabel": "Shickshinny, PA",
+    "locationId": "pa-shickshinny",
     "tags": [
       "river",
       "reflection",
-      "kayak",
-      "PA - Shickshinny"
+      "kayak"
     ],
     "width": 3998,
     "height": 2249,
@@ -5234,12 +5214,12 @@
     "description": "Miller Mountain Tract",
     "locationName": "PA - Pinchot State Forest",
     "locationLabel": "Pinchot State Forest, PA",
+    "locationId": "pa-pinchot-state-forest",
     "tags": [
       "spider",
       "web",
       "macro",
-      "seed head",
-      "PA - Pinchot State Forest"
+      "seed head"
     ],
     "width": 2499,
     "height": 1874,
@@ -5255,11 +5235,11 @@
     "description": null,
     "locationName": "PA - Tunkhannock",
     "locationLabel": "Tunkhannock, PA",
+    "locationId": "pa-tunkhannock",
     "tags": [
       "leafhopper",
       "macro",
-      "insect",
-      "PA - Tunkhannock"
+      "insect"
     ],
     "width": 1320,
     "height": 1760,
@@ -5275,10 +5255,10 @@
     "description": null,
     "locationName": "PA - Vosburg Neck State Park",
     "locationLabel": "Vosburg Neck State Park, PA",
+    "locationId": "pa-vosburg-neck-state-park",
     "tags": [
       "river",
-      "reflection",
-      "PA - Vosburg Neck State Park"
+      "reflection"
     ],
     "width": 3024,
     "height": 4032,
@@ -5294,11 +5274,11 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "wood",
       "moss",
-      "pareidolia",
-      "PA - Chester County"
+      "pareidolia"
     ],
     "width": 2754,
     "height": 3672,
@@ -5314,10 +5294,10 @@
     "description": null,
     "locationName": "PA - Evansburg State Park",
     "locationLabel": "Evansburg State Park, PA",
+    "locationId": "pa-evansburg-state-park",
     "tags": [
       "wood",
-      "pareidolia",
-      "PA - Evansburg State Park"
+      "pareidolia"
     ],
     "width": 2614,
     "height": 3486,
@@ -5333,10 +5313,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "ladybug",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 1422,
     "height": 1896,
@@ -5352,11 +5332,11 @@
     "description": null,
     "locationName": "PA - Chimney Rocks Park",
     "locationLabel": "Chimney Rocks Park, PA",
+    "locationId": "pa-chimney-rocks-park",
     "tags": [
       "rock",
       "vista",
-      "mountain",
-      "PA - Chimney Rocks Park"
+      "mountain"
     ],
     "width": 4032,
     "height": 3024,
@@ -5372,10 +5352,10 @@
     "description": null,
     "locationName": "PA - Jennings Environmental Education Center",
     "locationLabel": "Jennings Environmental Education Center, PA",
+    "locationId": "pa-jennings-environmental-education-center",
     "tags": [
       "spider",
-      "web",
-      "PA - Jennings Environmental Education Center"
+      "web"
     ],
     "width": 2237,
     "height": 2983,
@@ -5391,13 +5371,13 @@
     "description": null,
     "locationName": "PA - Allegheny Islands State Park",
     "locationLabel": "Allegheny Islands State Park, PA",
+    "locationId": "pa-allegheny-islands-state-park",
     "tags": [
       "reflection",
       "river",
       "island",
       "cloud",
-      "kayak",
-      "PA - Allegheny Islands State Park"
+      "kayak"
     ],
     "width": 2636,
     "height": 1977,
@@ -5413,10 +5393,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "flower bud",
-      "macro",
-      "PA - Stroud Preserve"
+      "macro"
     ],
     "width": 2033,
     "height": 1525,
@@ -5432,10 +5412,10 @@
     "description": null,
     "locationName": "PA - Myrick Conservation Center",
     "locationLabel": "Myrick Conservation Center, PA",
+    "locationId": "pa-myrick-conservation-center",
     "tags": [
       "snake",
-      "reptile",
-      "PA - Myrick Conservation Center"
+      "reptile"
     ],
     "width": 3443,
     "height": 2582,
@@ -5451,12 +5431,12 @@
     "description": null,
     "locationName": "PA - Templin Woods Preserve",
     "locationLabel": "Templin Woods Preserve, PA",
+    "locationId": "pa-templin-woods-preserve",
     "tags": [
       "bee",
       "insect",
       "macro",
-      "clustered",
-      "PA - Templin Woods Preserve"
+      "clustered"
     ],
     "width": 1206,
     "height": 905,
@@ -5472,10 +5452,10 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "flower bud",
-      "macro",
-      "PA - Chester County"
+      "macro"
     ],
     "width": 3024,
     "height": 4032,
@@ -5491,10 +5471,10 @@
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
     "locationLabel": "Binky Lee Preserve, PA",
+    "locationId": "pa-binky-lee-preserve",
     "tags": [
       "snake",
-      "reptile",
-      "PA - Binky Lee Preserve"
+      "reptile"
     ],
     "width": 2992,
     "height": 2244,
@@ -5510,11 +5490,11 @@
     "description": null,
     "locationName": "PA - Clear Creek State Forest",
     "locationLabel": "Clear Creek State Forest, PA",
+    "locationId": "pa-clear-creek-state-forest",
     "tags": [
       "rock",
       "fern",
-      "pareidolia",
-      "PA - Clear Creek State Forest"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -5530,12 +5510,12 @@
     "description": null,
     "locationName": "PA - Elk State Park",
     "locationLabel": "Elk State Park, PA",
+    "locationId": "pa-elk-state-park",
     "tags": [
       "lichen",
       "moss",
       "rock",
-      "shadow",
-      "PA - Elk State Park"
+      "shadow"
     ],
     "width": 3630,
     "height": 2722,
@@ -5551,11 +5531,11 @@
     "description": null,
     "locationName": "WV - Snake Hill Wildlife Management Area",
     "locationLabel": "Snake Hill Wildlife Management Area, WV",
+    "locationId": "wv-snake-hill-wildlife-management-area",
     "tags": [
       "rock",
       "cliff",
-      "pareidolia",
-      "WV - Snake Hill Wildlife Management Area"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -5571,10 +5551,10 @@
     "description": null,
     "locationName": "WV - Snake Hill Wildlife Management Area",
     "locationLabel": "Snake Hill Wildlife Management Area, WV",
+    "locationId": "wv-snake-hill-wildlife-management-area",
     "tags": [
       "rock",
-      "pareidolia",
-      "WV - Snake Hill Wildlife Management Area"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 2268,
@@ -5590,12 +5570,12 @@
     "description": null,
     "locationName": "WV - Snake Hill Wildlife Management Area",
     "locationLabel": "Snake Hill Wildlife Management Area, WV",
+    "locationId": "wv-snake-hill-wildlife-management-area",
     "tags": [
       "forest",
       "vista",
       "fog",
-      "river",
-      "WV - Snake Hill Wildlife Management Area"
+      "river"
     ],
     "width": 4032,
     "height": 2268,
@@ -5611,10 +5591,10 @@
     "description": null,
     "locationName": "WV - Toms Run Preserve",
     "locationLabel": "Toms Run Preserve, WV",
+    "locationId": "wv-toms-run-preserve",
     "tags": [
       "snake",
-      "reptile",
-      "WV - Toms Run Preserve"
+      "reptile"
     ],
     "width": 2189,
     "height": 2919,
@@ -5630,12 +5610,12 @@
     "description": null,
     "locationName": "WV - Coopers Rock State Forest",
     "locationLabel": "Coopers Rock State Forest, WV",
+    "locationId": "wv-coopers-rock-state-forest",
     "tags": [
       "waterfall",
       "rock",
       "forest",
-      "slow shutter",
-      "WV - Coopers Rock State Forest"
+      "slow shutter"
     ],
     "width": 2683,
     "height": 3578,
@@ -5651,11 +5631,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "flower bud",
       "macro",
-      "flower",
-      "PA - Starr Farm Park"
+      "flower"
     ],
     "width": 2269,
     "height": 1702,
@@ -5671,11 +5651,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "droplet",
       "leaf",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 2093,
     "height": 1570,
@@ -5691,11 +5671,11 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "beetle",
       "macro",
-      "mating",
-      "PA - Stroud Preserve"
+      "mating"
     ],
     "width": 1737,
     "height": 1302,
@@ -5711,11 +5691,11 @@
     "description": null,
     "locationName": "PA - Binky Lee Preserve",
     "locationLabel": "Binky Lee Preserve, PA",
+    "locationId": "pa-binky-lee-preserve",
     "tags": [
       "beetle",
       "head on",
-      "macro",
-      "PA - Binky Lee Preserve"
+      "macro"
     ],
     "width": 1778,
     "height": 1333,
@@ -5731,10 +5711,10 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - Chester County"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -5750,11 +5730,11 @@
     "description": null,
     "locationName": "DE - Auburn Valley State Park",
     "locationLabel": "Auburn Valley State Park, DE",
+    "locationId": "de-auburn-valley-state-park",
     "tags": [
       "box turtle",
       "reptile",
-      "turtle",
-      "DE - Auburn Valley State Park"
+      "turtle"
     ],
     "width": 4032,
     "height": 3024,
@@ -5770,11 +5750,11 @@
     "description": null,
     "locationName": "PA - Sweet Arrow Lake",
     "locationLabel": "Sweet Arrow Lake, PA",
+    "locationId": "pa-sweet-arrow-lake",
     "tags": [
       "waterfall",
       "stream",
-      "slow shutter",
-      "PA - Sweet Arrow Lake"
+      "slow shutter"
     ],
     "width": 3637,
     "height": 2730,
@@ -5790,10 +5770,10 @@
     "description": null,
     "locationName": "PA - Sweet Arrow Lake",
     "locationLabel": "Sweet Arrow Lake, PA",
+    "locationId": "pa-sweet-arrow-lake",
     "tags": [
       "flower",
-      "cultivar",
-      "PA - Sweet Arrow Lake"
+      "cultivar"
     ],
     "width": null,
     "height": null,
@@ -5809,11 +5789,11 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "rock",
       "stream",
-      "pareidolia",
-      "PA - Bryn Coed Preserve"
+      "pareidolia"
     ],
     "width": 2663,
     "height": 3550,
@@ -5829,11 +5809,11 @@
     "description": null,
     "locationName": "PA - Bryn Coed Preserve",
     "locationLabel": "Bryn Coed Preserve, PA",
+    "locationId": "pa-bryn-coed-preserve",
     "tags": [
       "vine",
       "silhouette",
-      "sky",
-      "PA - Bryn Coed Preserve"
+      "sky"
     ],
     "width": 2318,
     "height": 3091,
@@ -5849,11 +5829,11 @@
     "description": null,
     "locationName": "PA - Glacier Pools Preserve",
     "locationLabel": "Glacier Pools Preserve, PA",
+    "locationId": "pa-glacier-pools-preserve",
     "tags": [
       "forest",
       "sky",
-      "tree",
-      "PA - Glacier Pools Preserve"
+      "tree"
     ],
     "width": 2918,
     "height": 2189,
@@ -5869,12 +5849,12 @@
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
     "locationLabel": "Tiadaghton State Forest, PA",
+    "locationId": "pa-tiadaghton-state-forest",
     "tags": [
       "stream",
       "forest",
       "moss",
-      "slow shutter",
-      "PA - Tiadaghton State Forest"
+      "slow shutter"
     ],
     "width": 2721,
     "height": 3628,
@@ -5890,12 +5870,12 @@
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
     "locationLabel": "Tiadaghton State Forest, PA",
+    "locationId": "pa-tiadaghton-state-forest",
     "tags": [
       "stream",
       "moss",
       "forest",
-      "slow shutter",
-      "PA - Tiadaghton State Forest"
+      "slow shutter"
     ],
     "width": 3072,
     "height": 2304,
@@ -5911,11 +5891,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "droplet",
       "leaf",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 2056,
     "height": 1541,
@@ -5931,10 +5911,10 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "grass",
-      "macro",
-      "PA - Starr Farm Park"
+      "macro"
     ],
     "width": 3024,
     "height": 4032,
@@ -5950,10 +5930,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - Marsh Creek State Park"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -5969,10 +5949,10 @@
     "description": null,
     "locationName": "PA - Green Hills Preserve",
     "locationLabel": "Green Hills Preserve, PA",
+    "locationId": "pa-green-hills-preserve",
     "tags": [
       "flower bud",
-      "macro",
-      "PA - Green Hills Preserve"
+      "macro"
     ],
     "width": 2221,
     "height": 1666,
@@ -5988,10 +5968,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "grass",
-      "macro",
-      "PA - Exton Park"
+      "macro"
     ],
     "width": 1825,
     "height": 2433,
@@ -6007,12 +5987,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "spider",
       "fungus",
       "polypore",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 3421,
     "height": 2566,
@@ -6028,11 +6008,11 @@
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
     "locationLabel": "Tiadaghton State Forest, PA",
+    "locationId": "pa-tiadaghton-state-forest",
     "tags": [
       "frond",
       "fern",
-      "overhead",
-      "PA - Tiadaghton State Forest"
+      "overhead"
     ],
     "width": 3019,
     "height": 2264,
@@ -6048,11 +6028,11 @@
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
     "locationLabel": "Tiadaghton State Forest, PA",
+    "locationId": "pa-tiadaghton-state-forest",
     "tags": [
       "frond",
       "fern",
-      "overhead",
-      "PA - Tiadaghton State Forest"
+      "overhead"
     ],
     "width": 3056,
     "height": 2292,
@@ -6068,11 +6048,11 @@
     "description": null,
     "locationName": "PA - Templin Woods Preserve",
     "locationLabel": "Templin Woods Preserve, PA",
+    "locationId": "pa-templin-woods-preserve",
     "tags": [
       "frond",
       "fern",
-      "trail",
-      "PA - Templin Woods Preserve"
+      "trail"
     ],
     "width": 3146,
     "height": 2359,
@@ -6088,10 +6068,10 @@
     "description": null,
     "locationName": "PA - William H. Kain County Park",
     "locationLabel": "William H. Kain County Park, PA",
+    "locationId": "pa-william-h-kain-county-park",
     "tags": [
       "wood",
-      "pareidolia",
-      "PA - William H. Kain County Park"
+      "pareidolia"
     ],
     "width": 2553,
     "height": 3404,
@@ -6107,12 +6087,12 @@
     "description": null,
     "locationName": "PA - State Game Lands 52",
     "locationLabel": "State Game Lands 52, PA",
+    "locationId": "pa-state-game-lands-52",
     "tags": [
       "fiddlehead",
       "fern",
       "spiral",
-      "macro",
-      "PA - State Game Lands 52"
+      "macro"
     ],
     "width": 1298,
     "height": 971,
@@ -6128,11 +6108,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 52",
     "locationLabel": "State Game Lands 52, PA",
+    "locationId": "pa-state-game-lands-52",
     "tags": [
       "fiddlehead",
       "fern",
-      "meadow",
-      "PA - State Game Lands 52"
+      "meadow"
     ],
     "width": 2310,
     "height": 3080,
@@ -6148,10 +6128,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "frond",
-      "fern",
-      "PA - Exton Park"
+      "fern"
     ],
     "width": 2626,
     "height": 3501,
@@ -6167,11 +6147,11 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "fiddlehead",
       "fern",
-      "macro",
-      "PA - Exton Park"
+      "macro"
     ],
     "width": 1880,
     "height": 2507,
@@ -6187,10 +6167,10 @@
     "description": null,
     "locationName": "NJ - Elizabeth D. Kay Environmental Center",
     "locationLabel": "Elizabeth D. Kay Environmental Center, NJ",
+    "locationId": "nj-elizabeth-d-kay-environmental-center",
     "tags": [
       "seed head",
-      "plant",
-      "NJ - Elizabeth D. Kay Environmental Center"
+      "plant"
     ],
     "width": 3024,
     "height": 2268,
@@ -6206,10 +6186,10 @@
     "description": null,
     "locationName": "NJ - Elizabeth D. Kay Environmental Center",
     "locationLabel": "Elizabeth D. Kay Environmental Center, NJ",
+    "locationId": "nj-elizabeth-d-kay-environmental-center",
     "tags": [
       "waterfall",
-      "historical",
-      "NJ - Elizabeth D. Kay Environmental Center"
+      "historical"
     ],
     "width": 3438,
     "height": 2579,
@@ -6225,10 +6205,10 @@
     "description": null,
     "locationName": "NJ - Elizabeth D. Kay Environmental Center",
     "locationLabel": "Elizabeth D. Kay Environmental Center, NJ",
+    "locationId": "nj-elizabeth-d-kay-environmental-center",
     "tags": [
       "rock",
-      "pareidolia",
-      "NJ - Elizabeth D. Kay Environmental Center"
+      "pareidolia"
     ],
     "width": 2422,
     "height": 3230,
@@ -6244,10 +6224,10 @@
     "description": null,
     "locationName": "NY - Black Rock Forest",
     "locationLabel": "Black Rock Forest, NY",
+    "locationId": "ny-black-rock-forest",
     "tags": [
       "rock",
-      "pareidolia",
-      "NY - Black Rock Forest"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -6263,10 +6243,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "snake",
-      "reptile",
-      "PA - Marsh Creek State Park"
+      "reptile"
     ],
     "width": 1710,
     "height": 2280,
@@ -6282,11 +6262,11 @@
     "description": null,
     "locationName": "PA - ChesLen Preserve",
     "locationLabel": "ChesLen Preserve, PA",
+    "locationId": "pa-cheslen-preserve",
     "tags": [
       "fiddlehead",
       "fern",
-      "macro",
-      "PA - ChesLen Preserve"
+      "macro"
     ],
     "width": 2008,
     "height": 2677,
@@ -6302,13 +6282,13 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "moss",
       "droplet",
       "macro",
       "night",
-      "backlit",
-      "PA - Marsh Creek State Park"
+      "backlit"
     ],
     "width": 1984,
     "height": 1488,
@@ -6324,10 +6304,10 @@
     "description": null,
     "locationName": "PA - Michaux State Forest",
     "locationLabel": "Michaux State Forest, PA",
+    "locationId": "pa-michaux-state-forest",
     "tags": [
       "leaf bud",
-      "pareidolia",
-      "PA - Michaux State Forest"
+      "pareidolia"
     ],
     "width": 2102,
     "height": 2803,
@@ -6343,11 +6323,11 @@
     "description": null,
     "locationName": "PA - Michaux State Forest",
     "locationLabel": "Michaux State Forest, PA",
+    "locationId": "pa-michaux-state-forest",
     "tags": [
       "tree",
       "trail",
-      "pareidolia",
-      "PA - Michaux State Forest"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -6363,10 +6343,10 @@
     "description": null,
     "locationName": "PA - Hibernia County Park",
     "locationLabel": "Hibernia County Park, PA",
+    "locationId": "pa-hibernia-county-park",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - Hibernia County Park"
+      "pareidolia"
     ],
     "width": 2519,
     "height": 3359,
@@ -6382,10 +6362,10 @@
     "description": null,
     "locationName": "NY - Harriman State Park",
     "locationLabel": "Harriman State Park, NY",
+    "locationId": "ny-harriman-state-park",
     "tags": [
       "rock",
-      "pareidolia",
-      "NY - Harriman State Park"
+      "pareidolia"
     ],
     "width": 3452,
     "height": 2589,
@@ -6401,6 +6381,7 @@
     "description": null,
     "locationName": null,
     "locationLabel": null,
+    "locationId": null,
     "tags": [
       "forest",
       "fog",
@@ -6421,12 +6402,12 @@
     "description": null,
     "locationName": "PA - Sadsbury Woods Preserve",
     "locationLabel": "Sadsbury Woods Preserve, PA",
+    "locationId": "pa-sadsbury-woods-preserve",
     "tags": [
       "leaf",
       "shadow",
       "overhead",
-      "moss",
-      "PA - Sadsbury Woods Preserve"
+      "moss"
     ],
     "width": 2221,
     "height": 1665,
@@ -6442,12 +6423,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "silhouette",
       "tree",
       "sky",
-      "sunset",
-      "PA - Marsh Creek State Park"
+      "sunset"
     ],
     "width": 3705,
     "height": 2779,
@@ -6463,10 +6444,10 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "reflection",
-      "reservoir",
-      "PA - Birdsboro Waters"
+      "reservoir"
     ],
     "width": 3368,
     "height": 2526,
@@ -6482,12 +6463,12 @@
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
     "locationLabel": "Tiadaghton State Forest, PA",
+    "locationId": "pa-tiadaghton-state-forest",
     "tags": [
       "stream",
       "moss",
       "icicle",
-      "slow shutter",
-      "PA - Tiadaghton State Forest"
+      "slow shutter"
     ],
     "width": 3612,
     "height": 2709,
@@ -6503,10 +6484,10 @@
     "description": null,
     "locationName": "PA - Bald Eagle State Forest",
     "locationLabel": "Bald Eagle State Forest, PA",
+    "locationId": "pa-bald-eagle-state-forest",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - Bald Eagle State Forest"
+      "pareidolia"
     ],
     "width": 2874,
     "height": 3832,
@@ -6522,10 +6503,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - Exton Park"
+      "pareidolia"
     ],
     "width": 2886,
     "height": 2164,
@@ -6541,10 +6522,10 @@
     "description": null,
     "locationName": "PA - Exton Park",
     "locationLabel": "Exton Park, PA",
+    "locationId": "pa-exton-park",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - Exton Park"
+      "pareidolia"
     ],
     "width": 3018,
     "height": 2264,
@@ -6560,11 +6541,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "backlit",
       "night",
-      "ice",
-      "PA - Marsh Creek State Park"
+      "ice"
     ],
     "width": 3384,
     "height": 2537,
@@ -6580,12 +6561,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "night",
       "fog",
       "tree",
-      "silhouette",
-      "PA - Marsh Creek State Park"
+      "silhouette"
     ],
     "width": 3024,
     "height": 4032,
@@ -6601,11 +6582,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "ice",
       "backlit",
-      "night",
-      "PA - Marsh Creek State Park"
+      "night"
     ],
     "width": 3050,
     "height": 2287,
@@ -6621,11 +6602,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "ice",
       "backlit",
-      "night",
-      "PA - Marsh Creek State Park"
+      "night"
     ],
     "width": 3021,
     "height": 2266,
@@ -6641,11 +6622,11 @@
     "description": null,
     "locationName": "PA - Starr Farm Park",
     "locationLabel": "Starr Farm Park, PA",
+    "locationId": "pa-starr-farm-park",
     "tags": [
       "tree",
       "snow",
-      "pareidolia",
-      "PA - Starr Farm Park"
+      "pareidolia"
     ],
     "width": 2685,
     "height": 3581,
@@ -6661,11 +6642,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "ice",
       "ice sheet",
-      "translucent",
-      "PA - Marsh Creek State Park"
+      "translucent"
     ],
     "width": 2716,
     "height": 3621,
@@ -6681,12 +6662,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "color filter",
       "frozen lake",
       "lake",
-      "ice",
-      "PA - Marsh Creek State Park"
+      "ice"
     ],
     "width": 3598,
     "height": 2698,
@@ -6702,11 +6683,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 211",
     "locationLabel": "State Game Lands 211, PA",
+    "locationId": "pa-state-game-lands-211",
     "tags": [
       "tree",
       "silhouette",
-      "overhead",
-      "PA - State Game Lands 211"
+      "overhead"
     ],
     "width": null,
     "height": null,
@@ -6722,11 +6703,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 211",
     "locationLabel": "State Game Lands 211, PA",
+    "locationId": "pa-state-game-lands-211",
     "tags": [
       "pareidolia",
       "tree",
-      "snow",
-      "PA - State Game Lands 211"
+      "snow"
     ],
     "width": null,
     "height": null,
@@ -6742,12 +6723,12 @@
     "description": null,
     "locationName": "PA - State Game Lands 211",
     "locationLabel": "State Game Lands 211, PA",
+    "locationId": "pa-state-game-lands-211",
     "tags": [
       "stream",
       "snow",
       "ice",
-      "pareidolia",
-      "PA - State Game Lands 211"
+      "pareidolia"
     ],
     "width": null,
     "height": null,
@@ -6763,10 +6744,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "droplet",
-      "macro",
-      "PA - Marsh Creek State Park"
+      "macro"
     ],
     "width": 1554,
     "height": 1165,
@@ -6782,11 +6763,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "droplet",
       "grass",
-      "fog",
-      "PA - Marsh Creek State Park"
+      "fog"
     ],
     "width": 1354,
     "height": 1805,
@@ -6802,10 +6783,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "macro",
-      "grass",
-      "PA - Marsh Creek State Park"
+      "grass"
     ],
     "width": 1791,
     "height": 2388,
@@ -6821,11 +6802,11 @@
     "description": null,
     "locationName": "NJ - Tourne County Park",
     "locationLabel": "Tourne County Park, NJ",
+    "locationId": "nj-tourne-county-park",
     "tags": [
       "ice",
       "macro",
-      "ice crystals",
-      "NJ - Tourne County Park"
+      "ice crystals"
     ],
     "width": 1386,
     "height": 1040,
@@ -6841,11 +6822,11 @@
     "description": null,
     "locationName": "NJ - Wawayanda State Park",
     "locationLabel": "Wawayanda State Park, NJ",
+    "locationId": "nj-wawayanda-state-park",
     "tags": [
       "snow",
       "shadow",
-      "plant",
-      "NJ - Wawayanda State Park"
+      "plant"
     ],
     "width": 3568,
     "height": 2676,
@@ -6861,12 +6842,12 @@
     "description": null,
     "locationName": "NJ - Wawayanda State Park",
     "locationLabel": "Wawayanda State Park, NJ",
+    "locationId": "nj-wawayanda-state-park",
     "tags": [
       "snow",
       "stream",
       "rock",
-      "slow shutter",
-      "NJ - Wawayanda State Park"
+      "slow shutter"
     ],
     "width": 3595,
     "height": 2696,
@@ -6882,11 +6863,11 @@
     "description": null,
     "locationName": "NY - Black Rock Forest",
     "locationLabel": "Black Rock Forest, NY",
+    "locationId": "ny-black-rock-forest",
     "tags": [
       "ice",
       "ice crystals",
-      "macro",
-      "NY - Black Rock Forest"
+      "macro"
     ],
     "width": 1762,
     "height": 1321,
@@ -6902,10 +6883,10 @@
     "description": null,
     "locationName": "NY - Catskills Park",
     "locationLabel": "Catskills Park, NY",
+    "locationId": "ny-catskills-park",
     "tags": [
       "ice",
-      "icicle",
-      "NY - Catskills Park"
+      "icicle"
     ],
     "width": 4032,
     "height": 3024,
@@ -6921,10 +6902,10 @@
     "description": null,
     "locationName": "PA - Tuscarora Trail",
     "locationLabel": "Tuscarora Trail, PA",
+    "locationId": "pa-tuscarora-trail",
     "tags": [
       "pareidolia",
-      "rock",
-      "PA - Tuscarora Trail"
+      "rock"
     ],
     "width": 2920,
     "height": 3893,
@@ -6940,12 +6921,12 @@
     "description": null,
     "locationName": "PA - Keystone State Park",
     "locationLabel": "Keystone State Park, PA",
+    "locationId": "pa-keystone-state-park",
     "tags": [
       "lake",
       "fog",
       "fall",
-      "reflection",
-      "PA - Keystone State Park"
+      "reflection"
     ],
     "width": 3951,
     "height": 2963,
@@ -6961,10 +6942,10 @@
     "description": null,
     "locationName": "PA - McConnells Mill State Park",
     "locationLabel": "McConnells Mill State Park, PA",
+    "locationId": "pa-mcconnells-mill-state-park",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - McConnells Mill State Park"
+      "pareidolia"
     ],
     "width": 3589,
     "height": 2692,
@@ -6980,11 +6961,11 @@
     "description": null,
     "locationName": "NJ - India Brook Natural Area",
     "locationLabel": "India Brook Natural Area, NJ",
+    "locationId": "nj-india-brook-natural-area",
     "tags": [
       "creek",
       "rock",
-      "slow shutter",
-      "NJ - India Brook Natural Area"
+      "slow shutter"
     ],
     "width": 2721,
     "height": 3628,
@@ -7000,10 +6981,10 @@
     "description": null,
     "locationName": "NJ - Ringwood State Park",
     "locationLabel": "Ringwood State Park, NJ",
+    "locationId": "nj-ringwood-state-park",
     "tags": [
       "beetle",
-      "macro",
-      "NJ - Ringwood State Park"
+      "macro"
     ],
     "width": 1633,
     "height": 1225,
@@ -7019,11 +7000,11 @@
     "description": null,
     "locationName": "NJ - Ringwood State Park",
     "locationLabel": "Ringwood State Park, NJ",
+    "locationId": "nj-ringwood-state-park",
     "tags": [
       "fall",
       "lake",
-      "reflection",
-      "NJ - Ringwood State Park"
+      "reflection"
     ],
     "width": 3741,
     "height": 2805,
@@ -7039,10 +7020,10 @@
     "description": null,
     "locationName": "PA - Stroud Preserve",
     "locationLabel": "Stroud Preserve, PA",
+    "locationId": "pa-stroud-preserve",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - Stroud Preserve"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -7058,11 +7039,11 @@
     "description": null,
     "locationName": "PA - Tuscarora State Forest",
     "locationLabel": "Tuscarora State Forest, PA",
+    "locationId": "pa-tuscarora-state-forest",
     "tags": [
       "web",
       "droplet",
-      "leaf",
-      "PA - Tuscarora State Forest"
+      "leaf"
     ],
     "width": 4032,
     "height": 3024,
@@ -7078,10 +7059,10 @@
     "description": null,
     "locationName": "NJ - Watchung Reservation",
     "locationLabel": "Watchung Reservation, NJ",
+    "locationId": "nj-watchung-reservation",
     "tags": [
       "tree",
-      "pareidolia",
-      "NJ - Watchung Reservation"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -7097,11 +7078,11 @@
     "description": null,
     "locationName": "PA - Holtwood",
     "locationLabel": "Holtwood, PA",
+    "locationId": "pa-holtwood",
     "tags": [
       "waterfall",
       "moss",
-      "forest",
-      "PA - Holtwood"
+      "forest"
     ],
     "width": 3637,
     "height": 2725,
@@ -7117,11 +7098,11 @@
     "description": null,
     "locationName": "MD - Savage River State Forest",
     "locationLabel": "Savage River State Forest, MD",
+    "locationId": "md-savage-river-state-forest",
     "tags": [
       "rock",
       "moss",
-      "pareidolia",
-      "MD - Savage River State Forest"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -7137,11 +7118,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "spider",
       "spider web",
-      "orbweaver",
-      "PA - Marsh Creek State Park"
+      "orbweaver"
     ],
     "width": 3265,
     "height": 2449,
@@ -7157,36 +7138,17 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "spider",
       "orbweaver",
-      "spider web",
-      "PA - Marsh Creek State Park"
+      "spider web"
     ],
     "width": 1932,
     "height": 2575,
     "camera": null,
     "taxonName": "Spined Micrathena",
     "taxonUrl": "https://www.inaturalist.org/taxa/85333"
-  },
-  {
-    "fileName": "2024-08-08_17-35-02_072.webp",
-    "dateTaken": "2024-08-08T17:35:02",
-    "dateAdded": "2026-09-12T11:43:37.446482+00:00",
-    "title": "Fishy Grin Leaf",
-    "description": null,
-    "locationName": "PA - State Game Lands 110",
-    "locationLabel": "State Game Lands 110, PA",
-    "tags": [
-      "leaf",
-      "pareidolia",
-      "PA - State Game Lands 110"
-    ],
-    "width": null,
-    "height": null,
-    "camera": null,
-    "taxonName": null,
-    "taxonUrl": null
   },
   {
     "fileName": "2024-06-09_13-01-37_023.webp",
@@ -7196,11 +7158,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 13",
     "locationLabel": "State Game Lands 13, PA",
+    "locationId": "pa-state-game-lands-13",
     "tags": [
       "waterfall",
       "moss",
-      "slow shutter",
-      "PA - State Game Lands 13"
+      "slow shutter"
     ],
     "width": 3654,
     "height": 2742,
@@ -7216,11 +7178,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 13",
     "locationLabel": "State Game Lands 13, PA",
+    "locationId": "pa-state-game-lands-13",
     "tags": [
       "rock",
       "stream",
-      "pareidolia",
-      "PA - State Game Lands 13"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -7236,11 +7198,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 13",
     "locationLabel": "State Game Lands 13, PA",
+    "locationId": "pa-state-game-lands-13",
     "tags": [
       "waterfall",
       "stream",
-      "slow shutter",
-      "PA - State Game Lands 13"
+      "slow shutter"
     ],
     "width": 2636,
     "height": 3513,
@@ -7256,10 +7218,10 @@
     "description": null,
     "locationName": "PA - Vosburg Neck State Park",
     "locationLabel": "Vosburg Neck State Park, PA",
+    "locationId": "pa-vosburg-neck-state-park",
     "tags": [
       "river",
-      "rock",
-      "PA - Vosburg Neck State Park"
+      "rock"
     ],
     "width": 3661,
     "height": 2746,
@@ -7275,11 +7237,11 @@
     "description": null,
     "locationName": "NJ - Long Pond Ironworks State Park",
     "locationLabel": "Long Pond Ironworks State Park, NJ",
+    "locationId": "nj-long-pond-ironworks-state-park",
     "tags": [
       "reservoir",
       "vista",
-      "lake",
-      "NJ - Long Pond Ironworks State Park"
+      "lake"
     ],
     "width": 5422,
     "height": 3065,
@@ -7295,37 +7257,16 @@
     "description": null,
     "locationName": "PA - Delta",
     "locationLabel": "Delta, PA",
+    "locationId": "pa-delta",
     "tags": [
       "rock",
       "cascade",
       "slow shutter",
       "creek",
-      "mason-dixon trail",
-      "PA - Delta"
+      "mason-dixon trail"
     ],
     "width": 3586,
     "height": 2692,
-    "camera": null,
-    "taxonName": null,
-    "taxonUrl": null
-  },
-  {
-    "fileName": "2024-03-26_18-50-23_413.webp",
-    "dateTaken": "2024-03-26T18:50:23",
-    "dateAdded": "2026-09-20T12:24:47.214827",
-    "title": "Sun Sinking Behind a Bare Tree's Fine Branches",
-    "description": null,
-    "locationName": "PA - Marsh Creek State Park",
-    "locationLabel": "Marsh Creek State Park, PA",
-    "tags": [
-      "silhouette",
-      "tree",
-      "sunset",
-      "sky",
-      "PA - Marsh Creek State Park"
-    ],
-    "width": null,
-    "height": null,
     "camera": null,
     "taxonName": null,
     "taxonUrl": null
@@ -7338,11 +7279,11 @@
     "description": null,
     "locationName": "PA - Delaware Water Gap National Recreation Area",
     "locationLabel": "Delaware Water Gap National Recreation Area, PA",
+    "locationId": "pa-delaware-water-gap-national-recreation-area",
     "tags": [
       "rock",
       "mountain",
-      "vista",
-      "PA - Delaware Water Gap National Recreation Area"
+      "vista"
     ],
     "width": 4032,
     "height": 2268,
@@ -7358,10 +7299,10 @@
     "description": null,
     "locationName": "PA - Fulshaw Craeg Preserve",
     "locationLabel": "Fulshaw Craeg Preserve, PA",
+    "locationId": "pa-fulshaw-craeg-preserve",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - Fulshaw Craeg Preserve"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -7377,10 +7318,10 @@
     "description": null,
     "locationName": "PA - State Game Lands 205",
     "locationLabel": "State Game Lands 205, PA",
+    "locationId": "pa-state-game-lands-205",
     "tags": [
       "seed head",
-      "pareidolia",
-      "PA - State Game Lands 205"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -7396,11 +7337,11 @@
     "description": null,
     "locationName": "MD - Palmer State Park",
     "locationLabel": "Palmer State Park, MD",
+    "locationId": "md-palmer-state-park",
     "tags": [
       "rock",
       "snow",
-      "pareidolia",
-      "MD - Palmer State Park"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -7416,9 +7357,9 @@
     "description": null,
     "locationName": "PA - Hickory Run State Park",
     "locationLabel": "Hickory Run State Park, PA",
+    "locationId": "pa-hickory-run-state-park",
     "tags": [
-      "waterfall",
-      "PA - Hickory Run State Park"
+      "waterfall"
     ],
     "width": 3023,
     "height": 4031,
@@ -7434,11 +7375,11 @@
     "description": null,
     "locationName": "PA - Middle Creek Wildlife Managment Area",
     "locationLabel": "Middle Creek Wildlife Managment Area, PA",
+    "locationId": "pa-middle-creek-wildlife-managment-area",
     "tags": [
       "fungus",
       "mushroom",
-      "clustered",
-      "PA - Middle Creek Wildlife Managment Area"
+      "clustered"
     ],
     "width": null,
     "height": null,
@@ -7454,13 +7395,13 @@
     "description": null,
     "locationName": "PA - Middle Creek Wildlife Managment Area",
     "locationLabel": "Middle Creek Wildlife Managment Area, PA",
+    "locationId": "pa-middle-creek-wildlife-managment-area",
     "tags": [
       "cascade",
       "stream",
       "snow",
       "moss",
-      "slow shutter",
-      "PA - Middle Creek Wildlife Managment Area"
+      "slow shutter"
     ],
     "width": null,
     "height": null,
@@ -7476,10 +7417,10 @@
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
     "locationLabel": "Hamburg Reservoir, PA",
+    "locationId": "pa-hamburg-reservoir",
     "tags": [
       "moss",
-      "pareidolia",
-      "PA - Hamburg Reservoir"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -7495,10 +7436,10 @@
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
     "locationLabel": "Hamburg Reservoir, PA",
+    "locationId": "pa-hamburg-reservoir",
     "tags": [
       "tree",
-      "pareidolia",
-      "PA - Hamburg Reservoir"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -7514,12 +7455,12 @@
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
     "locationLabel": "Hamburg Reservoir, PA",
+    "locationId": "pa-hamburg-reservoir",
     "tags": [
       "snow",
       "forest",
       "trail",
-      "appalachian trail",
-      "PA - Hamburg Reservoir"
+      "appalachian trail"
     ],
     "width": 4032,
     "height": 3024,
@@ -7535,11 +7476,11 @@
     "description": null,
     "locationName": "PA - Hamburg Reservoir",
     "locationLabel": "Hamburg Reservoir, PA",
+    "locationId": "pa-hamburg-reservoir",
     "tags": [
       "appalachian trail",
       "vista",
-      "fog",
-      "PA - Hamburg Reservoir"
+      "fog"
     ],
     "width": 4032,
     "height": 3024,
@@ -7555,11 +7496,11 @@
     "description": null,
     "locationName": "PA - Valley Forge National Historical Park",
     "locationLabel": "Valley Forge National Historical Park, PA",
+    "locationId": "pa-valley-forge-national-historical-park",
     "tags": [
       "historical",
       "monument",
-      "arch",
-      "PA - Valley Forge National Historical Park"
+      "arch"
     ],
     "width": 3735,
     "height": 2801,
@@ -7575,10 +7516,10 @@
     "description": null,
     "locationName": "PA - Buchanan State Forest",
     "locationLabel": "Buchanan State Forest, PA",
+    "locationId": "pa-buchanan-state-forest",
     "tags": [
       "curvy road",
-      "leading lines",
-      "PA - Buchanan State Forest"
+      "leading lines"
     ],
     "width": 4032,
     "height": 3024,
@@ -7594,12 +7535,12 @@
     "description": null,
     "locationName": "PA - Lykens Municipal Watershed",
     "locationLabel": "Lykens Municipal Watershed, PA",
+    "locationId": "pa-lykens-municipal-watershed",
     "tags": [
       "pond",
       "reservoir",
       "fog",
-      "reflection",
-      "PA - Lykens Municipal Watershed"
+      "reflection"
     ],
     "width": 4032,
     "height": 3024,
@@ -7615,11 +7556,11 @@
     "description": null,
     "locationName": "NY - Shawangunk Ridge State Forest",
     "locationLabel": "Shawangunk Ridge State Forest, NY",
+    "locationId": "ny-shawangunk-ridge-state-forest",
     "tags": [
       "shawangunk ridge trail",
       "vista",
-      "mountain",
-      "NY - Shawangunk Ridge State Forest"
+      "mountain"
     ],
     "width": 4032,
     "height": 3024,
@@ -7635,10 +7576,10 @@
     "description": null,
     "locationName": "NY - Shawangunk Ridge State Forest",
     "locationLabel": "Shawangunk Ridge State Forest, NY",
+    "locationId": "ny-shawangunk-ridge-state-forest",
     "tags": [
       "rock",
-      "rock wall",
-      "NY - Shawangunk Ridge State Forest"
+      "rock wall"
     ],
     "width": 4032,
     "height": 3024,
@@ -7654,12 +7595,12 @@
     "description": null,
     "locationName": "NY - Schunnemunk State Park",
     "locationLabel": "Schunnemunk State Park, NY",
+    "locationId": "ny-schunnemunk-state-park",
     "tags": [
       "fog",
       "pine",
       "rock",
-      "tree",
-      "NY - Schunnemunk State Park"
+      "tree"
     ],
     "width": null,
     "height": null,
@@ -7675,12 +7616,12 @@
     "description": null,
     "locationName": "PA - Palmerton",
     "locationLabel": "Palmerton, PA",
+    "locationId": "pa-palmerton",
     "tags": [
       "appalachian trail",
       "vista",
       "river",
-      "rock",
-      "PA - Palmerton"
+      "rock"
     ],
     "width": null,
     "height": null,
@@ -7696,11 +7637,11 @@
     "description": null,
     "locationName": "PA - Beltzville State Park",
     "locationLabel": "Beltzville State Park, PA",
+    "locationId": "pa-beltzville-state-park",
     "tags": [
       "rhododendron",
       "trail",
-      "forest",
-      "PA - Beltzville State Park"
+      "forest"
     ],
     "width": 4032,
     "height": 3024,
@@ -7716,11 +7657,11 @@
     "description": null,
     "locationName": "PA - Beltzville State Park",
     "locationLabel": "Beltzville State Park, PA",
+    "locationId": "pa-beltzville-state-park",
     "tags": [
       "lake",
       "tree",
-      "sky",
-      "PA - Beltzville State Park"
+      "sky"
     ],
     "width": null,
     "height": null,
@@ -7736,11 +7677,11 @@
     "description": null,
     "locationName": "PA - Beltzville State Park",
     "locationLabel": "Beltzville State Park, PA",
+    "locationId": "pa-beltzville-state-park",
     "tags": [
       "creek",
       "rock",
-      "forest",
-      "PA - Beltzville State Park"
+      "forest"
     ],
     "width": null,
     "height": null,
@@ -7756,11 +7697,11 @@
     "description": null,
     "locationName": "PA - Beltzville State Park",
     "locationLabel": "Beltzville State Park, PA",
+    "locationId": "pa-beltzville-state-park",
     "tags": [
       "lake",
       "rock",
-      "mountain",
-      "PA - Beltzville State Park"
+      "mountain"
     ],
     "width": null,
     "height": null,
@@ -7776,10 +7717,10 @@
     "description": null,
     "locationName": "PA - Springton Manor Farm",
     "locationLabel": "Springton Manor Farm, PA",
+    "locationId": "pa-springton-manor-farm",
     "tags": [
       "leading lines",
-      "fall",
-      "PA - Springton Manor Farm"
+      "fall"
     ],
     "width": 4032,
     "height": 3024,
@@ -7795,12 +7736,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "trail",
       "forest",
       "tree",
-      "fall",
-      "PA - Marsh Creek State Park"
+      "fall"
     ],
     "width": null,
     "height": null,
@@ -7816,13 +7757,13 @@
     "description": null,
     "locationName": "PA - Lock 2 Recreation Area",
     "locationLabel": "Lock 2 Recreation Area, PA",
+    "locationId": "pa-lock-2-recreation-area",
     "tags": [
       "creek",
       "rock",
       "moss",
       "fall",
-      "mason-dixon trail",
-      "PA - Lock 2 Recreation Area"
+      "mason-dixon trail"
     ],
     "width": null,
     "height": null,
@@ -7838,14 +7779,14 @@
     "description": null,
     "locationName": "PA - Apollo County Park",
     "locationLabel": "Apollo County Park, PA",
+    "locationId": "pa-apollo-county-park",
     "tags": [
       "waterfall",
       "cascade",
       "moss",
       "rock",
       "fall",
-      "mason-dixon trail",
-      "PA - Apollo County Park"
+      "mason-dixon trail"
     ],
     "width": null,
     "height": null,
@@ -7861,13 +7802,13 @@
     "description": null,
     "locationName": "PA - Apollo County Park",
     "locationLabel": "Apollo County Park, PA",
+    "locationId": "pa-apollo-county-park",
     "tags": [
       "rock",
       "fog",
       "forest",
       "fall",
-      "mason-dixon trail",
-      "PA - Apollo County Park"
+      "mason-dixon trail"
     ],
     "width": null,
     "height": null,
@@ -7883,12 +7824,12 @@
     "description": null,
     "locationName": "PA - Apollo County Park",
     "locationLabel": "Apollo County Park, PA",
+    "locationId": "pa-apollo-county-park",
     "tags": [
       "trail",
       "forest",
       "fall",
-      "mason-dixon trail",
-      "PA - Apollo County Park"
+      "mason-dixon trail"
     ],
     "width": null,
     "height": null,
@@ -7904,10 +7845,10 @@
     "description": null,
     "locationName": "PA - Apollo County Park",
     "locationLabel": "Apollo County Park, PA",
+    "locationId": "pa-apollo-county-park",
     "tags": [
       "fog",
-      "forest",
-      "PA - Apollo County Park"
+      "forest"
     ],
     "width": 3024,
     "height": 4032,
@@ -7923,11 +7864,11 @@
     "description": null,
     "locationName": "PA - Hibernia County Park",
     "locationLabel": "Hibernia County Park, PA",
+    "locationId": "pa-hibernia-county-park",
     "tags": [
       "creek",
       "fall",
-      "slow shutter",
-      "PA - Hibernia County Park"
+      "slow shutter"
     ],
     "width": 3607,
     "height": 2704,
@@ -7943,12 +7884,12 @@
     "description": "Unmarked path off of Struble Trail",
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "creek",
       "fall",
       "rock",
-      "cliff",
-      "PA - Chester County"
+      "cliff"
     ],
     "width": null,
     "height": null,
@@ -7964,12 +7905,12 @@
     "description": null,
     "locationName": "PA - Opposum Lake",
     "locationLabel": "Opposum Lake, PA",
+    "locationId": "pa-opposum-lake",
     "tags": [
       "lake",
       "reflection",
       "fall",
-      "cloud",
-      "PA - Opposum Lake"
+      "cloud"
     ],
     "width": null,
     "height": null,
@@ -7985,11 +7926,11 @@
     "description": null,
     "locationName": "PA - Michaux State Forest",
     "locationLabel": "Michaux State Forest, PA",
+    "locationId": "pa-michaux-state-forest",
     "tags": [
       "rock",
       "fall",
-      "pareidolia",
-      "PA - Michaux State Forest"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -8005,11 +7946,11 @@
     "description": null,
     "locationName": "PA - Michaux State Forest",
     "locationLabel": "Michaux State Forest, PA",
+    "locationId": "pa-michaux-state-forest",
     "tags": [
       "pine",
       "trail",
-      "leading lines",
-      "PA - Michaux State Forest"
+      "leading lines"
     ],
     "width": 4032,
     "height": 3024,
@@ -8025,11 +7966,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "fall",
       "lake",
-      "kayak",
-      "PA - Marsh Creek State Park"
+      "kayak"
     ],
     "width": 4032,
     "height": 3024,
@@ -8045,12 +7986,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "lake",
       "reflection",
       "fall",
-      "cloud",
-      "PA - Marsh Creek State Park"
+      "cloud"
     ],
     "width": null,
     "height": null,
@@ -8066,12 +8007,12 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "reservoir",
       "pond",
       "reflection",
-      "lake",
-      "PA - Birdsboro Waters"
+      "lake"
     ],
     "width": 4032,
     "height": 3024,
@@ -8087,10 +8028,10 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "fall",
-      "curvy road",
-      "PA - Marsh Creek State Park"
+      "curvy road"
     ],
     "width": 4032,
     "height": 3024,
@@ -8106,10 +8047,10 @@
     "description": null,
     "locationName": "PA - William Penn State Forest",
     "locationLabel": "William Penn State Forest, PA",
+    "locationId": "pa-william-penn-state-forest",
     "tags": [
       "fungus",
-      "mushroom",
-      "PA - William Penn State Forest"
+      "mushroom"
     ],
     "width": null,
     "height": null,
@@ -8125,11 +8066,11 @@
     "description": null,
     "locationName": "PA - Chester County",
     "locationLabel": "Chester County, PA",
+    "locationId": "pa-chester-county",
     "tags": [
       "leading lines",
       "forest",
-      "trail",
-      "PA - Chester County"
+      "trail"
     ],
     "width": 4032,
     "height": 3024,
@@ -8145,11 +8086,11 @@
     "description": null,
     "locationName": "PA - Harmony Hill Nature Area",
     "locationLabel": "Harmony Hill Nature Area, PA",
+    "locationId": "pa-harmony-hill-nature-area",
     "tags": [
       "trail",
       "forest",
-      "fall",
-      "PA - Harmony Hill Nature Area"
+      "fall"
     ],
     "width": null,
     "height": null,
@@ -8165,12 +8106,12 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "lake",
       "reflection",
       "goldenrod",
-      "sky",
-      "PA - Marsh Creek State Park"
+      "sky"
     ],
     "width": null,
     "height": null,
@@ -8186,12 +8127,12 @@
     "description": null,
     "locationName": "PA - Holtwood",
     "locationLabel": "Holtwood, PA",
+    "locationId": "pa-holtwood",
     "tags": [
       "river",
       "island",
       "archipelago",
-      "kayak",
-      "PA - Holtwood"
+      "kayak"
     ],
     "width": 4032,
     "height": 3024,
@@ -8207,11 +8148,11 @@
     "description": null,
     "locationName": "PA - Holtwood",
     "locationLabel": "Holtwood, PA",
+    "locationId": "pa-holtwood",
     "tags": [
       "rock",
       "portal",
-      "pareidolia",
-      "PA - Holtwood"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -8227,12 +8168,12 @@
     "description": null,
     "locationName": "PA - Struble Lake",
     "locationLabel": "Struble Lake, PA",
+    "locationId": "pa-struble-lake",
     "tags": [
       "leading lines",
       "tunnel",
       "lake",
-      "kayak",
-      "PA - Struble Lake"
+      "kayak"
     ],
     "width": 4032,
     "height": 3024,
@@ -8248,12 +8189,12 @@
     "description": null,
     "locationName": "PA - French Creek State Park",
     "locationLabel": "French Creek State Park, PA",
+    "locationId": "pa-french-creek-state-park",
     "tags": [
       "lake",
       "lily",
       "flower",
-      "kayak",
-      "PA - French Creek State Park"
+      "kayak"
     ],
     "width": 4032,
     "height": 3024,
@@ -8269,11 +8210,11 @@
     "description": null,
     "locationName": "PA - Marsh Creek State Park",
     "locationLabel": "Marsh Creek State Park, PA",
+    "locationId": "pa-marsh-creek-state-park",
     "tags": [
       "lake",
       "reflection",
-      "kayak",
-      "PA - Marsh Creek State Park"
+      "kayak"
     ],
     "width": 4032,
     "height": 3024,
@@ -8289,11 +8230,11 @@
     "description": null,
     "locationName": "PA - Sproul State Forest",
     "locationLabel": "Sproul State Forest, PA",
+    "locationId": "pa-sproul-state-forest",
     "tags": [
       "waterfall",
       "forest",
-      "rhododendron",
-      "PA - Sproul State Forest"
+      "rhododendron"
     ],
     "width": 3024,
     "height": 4032,
@@ -8309,11 +8250,11 @@
     "description": null,
     "locationName": "PA - Sproul State Forest",
     "locationLabel": "Sproul State Forest, PA",
+    "locationId": "pa-sproul-state-forest",
     "tags": [
       "waterfall",
       "rhododendron",
-      "slow shutter",
-      "PA - Sproul State Forest"
+      "slow shutter"
     ],
     "width": 2371,
     "height": 3164,
@@ -8329,10 +8270,10 @@
     "description": null,
     "locationName": "PA - Hammersley Wild Area",
     "locationLabel": "Hammersley Wild Area, PA",
+    "locationId": "pa-hammersley-wild-area",
     "tags": [
       "sunbeam",
-      "forest",
-      "PA - Hammersley Wild Area"
+      "forest"
     ],
     "width": 4032,
     "height": 3024,
@@ -8348,10 +8289,10 @@
     "description": null,
     "locationName": "PA - Hammersley Wild Area",
     "locationLabel": "Hammersley Wild Area, PA",
+    "locationId": "pa-hammersley-wild-area",
     "tags": [
       "fungus",
-      "coral fungus",
-      "PA - Hammersley Wild Area"
+      "coral fungus"
     ],
     "width": 4032,
     "height": 3024,
@@ -8367,11 +8308,11 @@
     "description": null,
     "locationName": "PA - Hammersley Wild Area",
     "locationLabel": "Hammersley Wild Area, PA",
+    "locationId": "pa-hammersley-wild-area",
     "tags": [
       "creek",
       "cascade",
-      "forest",
-      "PA - Hammersley Wild Area"
+      "forest"
     ],
     "width": 3654,
     "height": 2742,
@@ -8387,12 +8328,12 @@
     "description": null,
     "locationName": "PA - Tioga State Forest",
     "locationLabel": "Tioga State Forest, PA",
+    "locationId": "pa-tioga-state-forest",
     "tags": [
       "forest",
       "sunbeam",
       "trail",
-      "fog",
-      "PA - Tioga State Forest"
+      "fog"
     ],
     "width": 4032,
     "height": 3024,
@@ -8408,11 +8349,11 @@
     "description": null,
     "locationName": "PA - Tioga State Forest",
     "locationLabel": "Tioga State Forest, PA",
+    "locationId": "pa-tioga-state-forest",
     "tags": [
       "waterfall",
       "rock",
-      "slow shutter",
-      "PA - Tioga State Forest"
+      "slow shutter"
     ],
     "width": 3607,
     "height": 2704,
@@ -8428,10 +8369,10 @@
     "description": null,
     "locationName": "PA - State Game Lands 157",
     "locationLabel": "State Game Lands 157, PA",
+    "locationId": "pa-state-game-lands-157",
     "tags": [
       "moss",
-      "pareidolia",
-      "PA - State Game Lands 157"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -8447,11 +8388,11 @@
     "description": null,
     "locationName": "PA - Cove Mountain Preserve",
     "locationLabel": "Cove Mountain Preserve, PA",
+    "locationId": "pa-cove-mountain-preserve",
     "tags": [
       "rock",
       "trail",
-      "pareidolia",
-      "PA - Cove Mountain Preserve"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -8467,11 +8408,11 @@
     "description": null,
     "locationName": "PA - Rothrock State Forest",
     "locationLabel": "Rothrock State Forest, PA",
+    "locationId": "pa-rothrock-state-forest",
     "tags": [
       "snow",
       "vista",
-      "mountain",
-      "PA - Rothrock State Forest"
+      "mountain"
     ],
     "width": 4032,
     "height": 3024,
@@ -8487,11 +8428,11 @@
     "description": null,
     "locationName": "PA - State Game Lands 112",
     "locationLabel": "State Game Lands 112, PA",
+    "locationId": "pa-state-game-lands-112",
     "tags": [
       "snow",
       "mountain",
-      "vista",
-      "PA - State Game Lands 112"
+      "vista"
     ],
     "width": 4032,
     "height": 3024,
@@ -8507,12 +8448,12 @@
     "description": null,
     "locationName": "PA - State Game Lands 141",
     "locationLabel": "State Game Lands 141, PA",
+    "locationId": "pa-state-game-lands-141",
     "tags": [
       "vista",
       "fall",
       "rock",
-      "gorge",
-      "PA - State Game Lands 141"
+      "gorge"
     ],
     "width": 3024,
     "height": 4032,
@@ -8528,12 +8469,12 @@
     "description": null,
     "locationName": "PA - State Game Lands 141",
     "locationLabel": "State Game Lands 141, PA",
+    "locationId": "pa-state-game-lands-141",
     "tags": [
       "waterfall",
       "slow shutter",
       "rhododendron",
-      "fall",
-      "PA - State Game Lands 141"
+      "fall"
     ],
     "width": 3620,
     "height": 2717,
@@ -8549,12 +8490,12 @@
     "description": "Off-trail down Jeans Run gorge",
     "locationName": "PA - State Game Lands 141",
     "locationLabel": "State Game Lands 141, PA",
+    "locationId": "pa-state-game-lands-141",
     "tags": [
       "cascade",
       "slow shutter",
       "fall",
-      "waterfall",
-      "PA - State Game Lands 141"
+      "waterfall"
     ],
     "width": 3570,
     "height": 2679,
@@ -8570,12 +8511,12 @@
     "description": null,
     "locationName": "PA - Jim Thorpe",
     "locationLabel": "Jim Thorpe, PA",
+    "locationId": "pa-jim-thorpe",
     "tags": [
       "vista",
       "rock",
       "river",
-      "gorge",
-      "PA - Jim Thorpe"
+      "gorge"
     ],
     "width": 4032,
     "height": 3024,
@@ -8591,11 +8532,11 @@
     "description": null,
     "locationName": "PA - Elk State Forest",
     "locationLabel": "Elk State Forest, PA",
+    "locationId": "pa-elk-state-forest",
     "tags": [
       "rock",
       "cliff",
-      "pareidolia",
-      "PA - Elk State Forest"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
@@ -8611,12 +8552,12 @@
     "description": null,
     "locationName": "PA - Jim Thorpe",
     "locationLabel": "Jim Thorpe, PA",
+    "locationId": "pa-jim-thorpe",
     "tags": [
       "snow",
       "trail",
       "leading lines",
-      "train",
-      "PA - Jim Thorpe"
+      "train"
     ],
     "width": null,
     "height": null,
@@ -8632,12 +8573,12 @@
     "description": null,
     "locationName": "PA - State Game Lands 141",
     "locationLabel": "State Game Lands 141, PA",
+    "locationId": "pa-state-game-lands-141",
     "tags": [
       "vista",
       "river",
       "snow",
-      "gorge",
-      "PA - State Game Lands 141"
+      "gorge"
     ],
     "width": 4032,
     "height": 3024,
@@ -8653,12 +8594,12 @@
     "description": null,
     "locationName": "PA - State Game Lands 141",
     "locationLabel": "State Game Lands 141, PA",
+    "locationId": "pa-state-game-lands-141",
     "tags": [
       "vista",
       "snow",
       "mountain",
-      "gorge",
-      "PA - State Game Lands 141"
+      "gorge"
     ],
     "width": 4032,
     "height": 2268,
@@ -8674,11 +8615,11 @@
     "description": null,
     "locationName": "PA - Hickory Run State Park",
     "locationLabel": "Hickory Run State Park, PA",
+    "locationId": "pa-hickory-run-state-park",
     "tags": [
       "waterfall",
       "fog",
-      "slow shutter",
-      "PA - Hickory Run State Park"
+      "slow shutter"
     ],
     "width": 3620,
     "height": 2713,
@@ -8694,11 +8635,11 @@
     "description": null,
     "locationName": "PA - Rothrock State Forest",
     "locationLabel": "Rothrock State Forest, PA",
+    "locationId": "pa-rothrock-state-forest",
     "tags": [
       "rock",
       "fall",
-      "pareidolia",
-      "PA - Rothrock State Forest"
+      "pareidolia"
     ],
     "width": 4032,
     "height": 3024,
@@ -8714,10 +8655,10 @@
     "description": null,
     "locationName": "PA - Birdsboro Waters",
     "locationLabel": "Birdsboro Waters, PA",
+    "locationId": "pa-birdsboro-waters",
     "tags": [
       "spider",
-      "orbweaver",
-      "PA - Birdsboro Waters"
+      "orbweaver"
     ],
     "width": 2853,
     "height": 2140,
@@ -8733,10 +8674,10 @@
     "description": null,
     "locationName": "NJ - Allaire State Park",
     "locationLabel": "Allaire State Park, NJ",
+    "locationId": "nj-allaire-state-park",
     "tags": [
       "cloud",
-      "sky",
-      "NJ - Allaire State Park"
+      "sky"
     ],
     "width": 4032,
     "height": 3024,
@@ -8752,11 +8693,11 @@
     "description": null,
     "locationName": "PA - Tiadaghton State Forest",
     "locationLabel": "Tiadaghton State Forest, PA",
+    "locationId": "pa-tiadaghton-state-forest",
     "tags": [
       "forest",
       "mountain",
-      "vista",
-      "PA - Tiadaghton State Forest"
+      "vista"
     ],
     "width": 4032,
     "height": 2268,
@@ -8772,12 +8713,12 @@
     "description": null,
     "locationName": "PA - State Game Lands 211",
     "locationLabel": "State Game Lands 211, PA",
+    "locationId": "pa-state-game-lands-211",
     "tags": [
       "lake",
       "rock",
       "reflection",
-      "mountain",
-      "PA - State Game Lands 211"
+      "mountain"
     ],
     "width": null,
     "height": null,
@@ -8793,10 +8734,10 @@
     "description": null,
     "locationName": "PA - Loyalsock State Forest",
     "locationLabel": "Loyalsock State Forest, PA",
+    "locationId": "pa-loyalsock-state-forest",
     "tags": [
       "rock",
-      "pareidolia",
-      "PA - Loyalsock State Forest"
+      "pareidolia"
     ],
     "width": 3024,
     "height": 4032,
