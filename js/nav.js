@@ -170,11 +170,21 @@ const Nav = (function() {
         return activeDropdown ? activeDropdown.child.label : null;
     }
 
+    // True when the hash's query string (e.g. #/gallery?place=x) has `name`.
+    function hashHasParam(hash, name) {
+        const queryIndex = hash.indexOf('?');
+        return queryIndex !== -1 &&
+            new URLSearchParams(hash.slice(queryIndex + 1)).has(name);
+    }
+
     function updateActiveStyles() {
         const hash = window.location.hash || '';
         const activeDropdown = findActiveDropdownChild();
         const activeLink = NavConfig.find(item =>
-            item.type === 'link' && item.activeMatch === 'prefix' && hash.startsWith(item.href)
+            item.type === 'link' && (
+                (item.activeMatch === 'prefix' && hash.startsWith(item.href)) ||
+                (item.activeParam && hashHasParam(hash, item.activeParam))
+            )
         );
 
         document.querySelectorAll('.nav-subject-link').forEach(link => {

@@ -48,8 +48,11 @@ const Places = (function() {
     }
 
     // Same place-filter hash the gallery itself writes (see Main's parser).
-    function galleryHref(place) {
-        return '#/gallery?' + new URLSearchParams({ place: place.id });
+    // An area is only meaningful alongside its place, so it rides with it.
+    function galleryHref(place, area) {
+        const params = { place: place.id };
+        if (area) params.area = area.id;
+        return '#/gallery?' + new URLSearchParams(params);
     }
 
     function renderPlaces(container, places) {
@@ -73,37 +76,95 @@ const Places = (function() {
         });
     }
 
+    // A place with areas gets an expander after its row; the areas list
+    // underneath starts collapsed. The place's own count is the total for
+    // the whole location, so it's already the sum of the areas (plus any
+    // photos with no area).
     function renderPlace(place) {
         const item = document.createElement('li');
 
-        const link = document.createElement('a');
-        link.href = galleryHref(place);
-        link.className = 'place-link';
-        link.textContent = place.name;
-        item.appendChild(link);
+        const row = renderRow(place.name, galleryHref(place), place.photoCount, place.mapsUrl);
+        item.appendChild(row);
 
-        const count = document.createElement('span');
+        const areas = place.areas || [];
+        if (areas.length > 0) {
+            const areaList = document.createElement('ul');
+            areaList.className = 'place-areas';
+            areaList.id = `place-areas-${place.id}`;
+            areaList.hidden = true;
+
+            areas.forEach(area => {
+                const areaItem = document.createElement('li');
+                areaItem.appendChild(
+                    renderRow(area.name, galleryHref(place, area), area.photoCount, area.mapsUrl));
+                areaList.appendChild(areaItem);
+            });
+
+            const toggle = document.createElement('button');
+            toggle.type = 'button';
+            toggle.className = 'place-expander';
+            toggle.setAttribute('aria-expanded', 'false');
+            toggle.setAttribute('aria-controls', areaList.id);
+            toggle.title = `Show areas of ${place.name}`;
+            toggle.setAttribute('aria-label', `Show areas of ${place.name}`);
+            toggle.innerHTML =
+                '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+                    '<path d="M9 6l6 6-6 6"/>' +
+                '</svg>';
+            toggle.addEventListener('click', () => {
+                const expanded = areaList.hidden;
+                areaList.hidden = !expanded;
+                toggle.setAttribute('aria-expanded', String(expanded));
+                const label = `${expanded ? 'Hide' : 'Show'} areas of ${place.name}`;
+                toggle.title = label;
+                toggle.setAttribute('aria-label', label);
+            });
+            row.appendChild(toggle);
+
+            item.appendChild(areaList);
+        }
+
+        return item;
+    }
+
+    // Name, photo count (linking to the filtered gallery), and (if there's a
+    // mapsUrl) map pin -- shared by places and their areas. The name is plain
+    // text for now; it's reserved for linking to a place/area page later.
+    function renderRow(name, href, photoCount, mapsUrl) {
+        const row = document.createElement('div');
+        row.className = 'place-row';
+
+        const label = document.createElement('span');
+        label.className = 'place-name';
+        label.textContent = name;
+        row.appendChild(label);
+
+        const count = document.createElement('a');
+        count.href = href;
         count.className = 'place-count';
-        count.textContent = place.photoCount;
-        item.appendChild(count);
+        count.textContent = photoCount;
+        const countLabel = `View ${photoCount} photo${photoCount === 1 ? '' : 's'} of ${name}`;
+        count.title = countLabel;
+        count.setAttribute('aria-label', countLabel);
+        row.appendChild(count);
 
-        if (place.mapsUrl) {
+        if (mapsUrl) {
             const pin = document.createElement('a');
-            pin.href = place.mapsUrl;
+            pin.href = mapsUrl;
             pin.target = '_blank';
             pin.rel = 'noopener';
             pin.className = 'place-pin';
-            pin.title = `Open ${place.name} in maps`;
-            pin.setAttribute('aria-label', `Open ${place.name} in maps`);
+            pin.title = `Open ${name} in maps`;
+            pin.setAttribute('aria-label', `Open ${name} in maps`);
             pin.innerHTML =
                 '<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
                     '<path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/>' +
                     '<circle cx="12" cy="10" r="2.5"/>' +
                 '</svg>';
-            item.appendChild(pin);
+            row.appendChild(pin);
         }
 
-        return item;
+        return row;
     }
 
     return { load };

@@ -7,10 +7,23 @@ const Gallery = (function() {
     let selectedSuggestionIndex = -1;
 
     // Location filter: a locations.json id matched against each photo's
-    // locationId (added by build_gallery.py). Like the date range, it's only
-    // set via the URL (?place=, e.g. from a Places link) -- ANDed with
-    // the tag filter, and shown as its own removable pill while active.
+    // locationId (added by build_gallery.py), ANDed with the tag filter.
+    // Set from the Place pill's search or the URL (?place=, e.g. from a
+    // Places link). Single-select -- a photo has one place, so two would
+    // never match anything.
     let selectedLocation = null;
+
+    // Area filter: an id from the selected location's "areas" in
+    // locations.json, matched against each photo's area. Area ids are only
+    // unique within their location, so this is only ever set alongside
+    // selectedLocation (?place=...&area=...) and cleared along with it.
+    // There's no picker for it yet -- only the URL sets it.
+    let selectedArea = null;
+
+    // Every place the Place search can suggest, as { id, label }, built once
+    // from gallery.json in loadGallery().
+    let allPlaces = [];
+    let selectedPlaceSuggestionIndex = -1;
 
     // Date-range filter state, driven by the #/gallery?... hash (see
     // Main's router and updateHash() below) -- there's no in-page UI for
@@ -72,9 +85,12 @@ const Gallery = (function() {
             a.localeCompare(b, undefined, { sensitivity: 'base' })
         );
 
+        allPlaces = buildPlaceList(photos);
+
         filteredPhotos = photos;
 
         initializeTagFilter();
+        initializePlaceFilter();
         initializeSortControl();
         initFilterPopovers();
         renderGallery();
@@ -378,6 +394,7 @@ const Gallery = (function() {
     function applyFilter(filters = {}) {
         selectedTags = filters.tags ?? [];
         selectedLocation = filters.location ?? null;
+        selectedArea = selectedLocation ? filters.area ?? null : null;
         dateFrom = filters.from ?? null;
         dateTo = filters.to ?? null;
         dateField = filters.dateField === 'added' ? 'added' : 'taken';
@@ -397,7 +414,7 @@ const Gallery = (function() {
 
         syncSortControl();
         renderTagChips();
-        renderPlaceFilterChip();
+        renderPlaceChip();
         renderDateFilterChip();
         renderGallery();
         updateHash();
@@ -445,6 +462,10 @@ const Gallery = (function() {
         }
 
         if (selectedLocation && photo.locationId !== selectedLocation) {
+            return false;
+        }
+
+        if (selectedArea && photo.area !== selectedArea) {
             return false;
         }
 
@@ -523,6 +544,10 @@ const Gallery = (function() {
                 index === selectedSuggestionIndex
             );
         });
+
+        // Same as the Place search: keep the highlighted item visible past
+        // the suggestion box's max-height.
+        items[selectedSuggestionIndex]?.scrollIntoView({ block: 'nearest' });
     }
 
     // Renders just the selected-tag chips into the always-visible Tags pill
@@ -553,30 +578,159 @@ const Gallery = (function() {
         });
     }
 
-    // The Place pill only exists while ?place= is set -- same idea as
-    // the Date Range pill below, so a location filter ANDed with the tag
-    // search is never invisible. The display name comes from any photo at
-    // that location (gallery.json carries locationLabel per photo), falling
-    // back to the raw id if nothing matches, e.g. a stale or mistyped link.
-    function renderPlaceFilterChip() {
-        const slot = document.querySelector('#placeFilterSlot');
+    // One entry per place with at least one photo that isn't hidden by
+    // default -- the same rule the Places page counts use, so a suggestion
+    // never leads to an empty gallery. Sorted by display label.
+    function buildPlaceList(list) {
+        const byId = new Map();
 
-        slot.innerHTML = '';
+        list.forEach(photo => {
+            if (photo.locationId && !photo.tags?.includes(HIDDEN_BY_DEFAULT_TAG)) {
+                byId.set(photo.locationId, photo.locationLabel);
+            }
+        });
+
+        return [...byId]
+            .map(([id, label]) => ({ id, label }))
+            .sort((a, b) => a.label.localeCompare(b.label, undefined, { sensitivity: 'base' }));
+    }
+
+    function placeLabel(id) {
+        return allPlaces.find(place => place.id === id)?.label ?? id;
+    }
+
+    // Display name for the selected area, from any photo carrying it; falls
+    // back to the raw id, like placeLabel(), for an unknown one.
+    function areaLabel(locationId, area) {
+        return photos.find(photo => photo.locationId === locationId && photo.area === area)?.areaLabel ?? area;
+    }
+
+    // Same shape as initializeTagFilter(): "+" toggles the popover, typing
+    // shows up to 10 suggestions, arrows/Enter or a click picks one. Picking
+    // replaces any current place and closes the popover, since it's
+    // single-select.
+    function initializePlaceFilter() {
+        const input = document.querySelector('#placeInput');
+        const suggestions = document.querySelector('#placeSuggestions');
+        const toggle = document.querySelector('#placeFilterToggle');
+        const popover = document.querySelector('#placeFilterPopover');
+
+        toggle.addEventListener('click', event => {
+            event.stopPropagation();
+            togglePopover(popover);
+
+            if (!popover.hidden) {
+                input.focus();
+            }
+        });
+
+        input.addEventListener('input', () => {
+            renderPlaceSuggestions(input.value);
+        });
+
+        input.addEventListener('keydown', event => {
+            const items = suggestions.querySelectorAll('div');
+
+            if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+                event.preventDefault();
+
+                if (items.length === 0) {
+                    return;
+                }
+
+                selectedPlaceSuggestionIndex = event.key === 'ArrowDown'
+                    ? Math.min(selectedPlaceSuggestionIndex + 1, items.length - 1)
+                    : Math.max(selectedPlaceSuggestionIndex - 1, 0);
+
+                items.forEach((item, index) => {
+                    item.classList.toggle('selected', index === selectedPlaceSuggestionIndex);
+                });
+
+                // Keep the highlighted item visible when it's past the
+                // suggestion box's max-height ('nearest' = scroll only if
+                // it's actually out of view).
+                items[selectedPlaceSuggestionIndex].scrollIntoView({ block: 'nearest' });
+            }
+
+            else if (event.key === 'Enter') {
+                event.preventDefault();
+
+                // A highlighted suggestion wins; otherwise only an exact
+                // (case-insensitive) label match counts, like tags.
+                const typed = input.value.trim().toLowerCase();
+                const place = selectedPlaceSuggestionIndex >= 0 && items[selectedPlaceSuggestionIndex]
+                    ? allPlaces.find(p => p.id === items[selectedPlaceSuggestionIndex].dataset.id)
+                    : allPlaces.find(p => p.label.toLowerCase() === typed);
+
+                if (place) {
+                    selectPlace(place.id);
+                }
+            }
+        });
+
+        document.addEventListener('click', event => {
+            if (!event.target.closest('#placeSearch')) {
+                suggestions.innerHTML = '';
+                selectedPlaceSuggestionIndex = -1;
+            }
+        });
+    }
+
+    function selectPlace(id) {
+        const input = document.querySelector('#placeInput');
+
+        input.value = '';
+        document.querySelector('#placeSuggestions').innerHTML = '';
+        selectedPlaceSuggestionIndex = -1;
+        closePopover(document.querySelector('#placeFilterPopover'));
+
+        selectedLocation = id;
+        selectedArea = null;
+        refilterAndRender();
+    }
+
+    function renderPlaceSuggestions(value) {
+        const suggestions = document.querySelector('#placeSuggestions');
+
+        suggestions.innerHTML = '';
+        selectedPlaceSuggestionIndex = -1;
+
+        const search = value.trim().toLowerCase();
+
+        if (!search) {
+            return;
+        }
+
+        allPlaces
+            .filter(place =>
+                place.label.toLowerCase().includes(search) &&
+                place.id !== selectedLocation
+            )
+            .slice(0, 10)
+            .forEach(place => {
+                const item = document.createElement('div');
+
+                item.textContent = place.label;
+                item.dataset.id = place.id;
+                item.addEventListener('click', () => selectPlace(place.id));
+
+                suggestions.appendChild(item);
+            });
+    }
+
+    // Renders just the selected-place chip into the always-visible Place
+    // pill (#placeChipGroup), between its label and "+" -- same approach as
+    // renderTagChips(). The label falls back to the raw id for an unknown
+    // one (a stale or mistyped link), which also still filters to nothing.
+    function renderPlaceChip() {
+        const group = document.querySelector('#placeChipGroup');
+        const toggle = document.querySelector('#placeFilterToggle');
+
+        group.querySelectorAll('.place-filter-chip').forEach(chip => chip.remove());
 
         if (!selectedLocation) {
             return;
         }
-
-        const label = photos.find(photo => photo.locationId === selectedLocation)
-            ?.locationLabel ?? selectedLocation;
-
-        const group = document.createElement('div');
-        group.className = 'chip-group';
-
-        const groupLabel = document.createElement('span');
-        groupLabel.className = 'chip-group-label';
-        groupLabel.textContent = 'Place:';
-        group.appendChild(groupLabel);
 
         const chip = document.createElement('span');
         chip.className = 'chip place-filter-chip';
@@ -588,9 +742,13 @@ const Gallery = (function() {
         `;
 
         // textContent rather than innerHTML for the label -- it can come
-        // straight from the URL when no photo matches.
+        // straight from the URL for an unknown id.
         const text = document.createElement('span');
-        text.textContent = label;
+        // The area has no chip of its own -- it's shown as part of the place
+        // chip, so an active area filter is never invisible.
+        text.textContent = selectedArea
+            ? `${placeLabel(selectedLocation)} · ${areaLabel(selectedLocation, selectedArea)}`
+            : placeLabel(selectedLocation);
         chip.appendChild(text);
 
         const clearBtn = document.createElement('strong');
@@ -598,12 +756,12 @@ const Gallery = (function() {
         clearBtn.title = 'Clear place filter';
         clearBtn.addEventListener('click', () => {
             selectedLocation = null;
+            selectedArea = null;
             refilterAndRender();
         });
         chip.appendChild(clearBtn);
 
-        group.appendChild(chip);
-        slot.appendChild(group);
+        group.insertBefore(chip, toggle);
     }
 
     // The Date Range pill only exists while a date filter is active (from a
@@ -749,6 +907,9 @@ const Gallery = (function() {
         }
         if (selectedLocation) {
             params.set('place', selectedLocation);
+        }
+        if (selectedLocation && selectedArea) {
+            params.set('area', selectedArea);
         }
         if (dateFrom) {
             params.set('from', dateFrom);

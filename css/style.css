@@ -189,7 +189,7 @@ h1 {
 }
 
 
-/* Filter pills (Tags, Date Range) and their popovers -- the pill itself is
+/* Filter pills (Tags, Place, Date Range) and their popovers -- the pill itself is
    a .chip-group like the sort control, always sitting in .controls-row; the
    popover floats below it, matching the look of .nav-dropdown-panel without
    sharing its class (these aren't part of the nav, and the Date Range one
@@ -268,12 +268,14 @@ h1 {
     border-color: var(--color-accent);
 }
 
-#tagSearch {
+#tagSearch,
+#placeSearch {
     position: relative;
     display: block;
 }
 
-#tagSuggestions {
+#tagSuggestions,
+#placeSuggestions {
     position: absolute;
     top: calc(100% + 0.25rem);
     left: 0;
@@ -287,25 +289,30 @@ h1 {
     text-align: left;
 }
 
-#tagSuggestions:empty {
+#tagSuggestions:empty,
+#placeSuggestions:empty {
     display: none;
 }
 
-#tagSuggestions div {
+#tagSuggestions div,
+#placeSuggestions div {
     padding: 0.4rem 0.6rem;
     font-size: 0.85rem;
     cursor: pointer;
 }
 
-#tagSuggestions div:hover {
+#tagSuggestions div:hover,
+#placeSuggestions div:hover {
     background-color: #eee;
 }
 
-#tagSuggestions div.selected {
+#tagSuggestions div.selected,
+#placeSuggestions div.selected {
     background-color: #ddd;
 }
 
-#tagInput {
+#tagInput,
+#placeInput {
     width: 100%;
     padding: 0.4rem 0.6rem;
     font-size: 0.85rem;
@@ -438,7 +445,8 @@ h1 {
     flex-shrink: 0;
 }
 
-/* Place pill -- same shape as the Date Range chip, with its own tint. */
+/* Selected-place chip inside the Place pill -- styled like the Date Range
+   chip (only its "x" is clickable), with its own tint. */
 .place-filter-chip {
     background-color: #f3ede2;
 }
@@ -630,12 +638,56 @@ h1 {
     column-gap: 2rem;
 }
 
-.places-list li {
+.places-list > li {
+    break-inside: avoid;
+    padding: 0.15rem 0;
+}
+
+.place-row {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    break-inside: avoid;
-    padding: 0.15rem 0;
+}
+
+/* A place's areas, collapsed under it until its expander is clicked. */
+.place-areas {
+    list-style: none;
+    margin: 0.15rem 0 0.35rem;
+    padding: 0 0 0 1.25rem;
+    border-left: 2px solid rgba(90, 107, 140, 0.2);
+    margin-left: 0.4rem;
+}
+
+.place-areas li {
+    padding: 0.1rem 0;
+    font-size: 0.95rem;
+}
+
+.place-areas .place-pin svg {
+    width: 18px;
+    height: 18px;
+}
+
+.place-expander {
+    display: inline-flex;
+    padding: 0.1rem;
+    border: none;
+    border-radius: 4px;
+    background: none;
+    color: #5a6b8c;
+    cursor: pointer;
+}
+
+.place-expander:hover {
+    background: rgba(90, 107, 140, 0.15);
+}
+
+.place-expander svg {
+    transition: transform 0.15s ease;
+}
+
+.place-expander[aria-expanded="true"] svg {
+    transform: rotate(90deg);
 }
 
 .place-count {
@@ -647,6 +699,14 @@ h1 {
     font-size: 0.85rem;
     font-weight: 600;
     text-align: center;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+.place-count:hover,
+.place-count:focus-visible {
+    background: #5a6b8c;
+    color: #fff;
 }
 
 .place-pin {

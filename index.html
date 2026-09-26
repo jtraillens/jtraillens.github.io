@@ -9,14 +9,14 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css?v=20260926124758"></link>
-    <script src="js/lightbox.js?v=20260926124758" defer></script>
-    <script src="js/gallery.js?v=20260926124758" defer></script>
-    <script src="js/splash.js?v=20260926124758" defer></script>
-    <script src="js/places.js?v=20260926124758" defer></script>
-    <script src="js/nav.config.js?v=20260926124758" defer></script>
-    <script src="js/nav.js?v=20260926124758" defer></script>
-    <script src="js/main.js?v=20260926124758" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=20260926141513"></link>
+    <script src="js/lightbox.js?v=20260926141513" defer></script>
+    <script src="js/gallery.js?v=20260926141513" defer></script>
+    <script src="js/splash.js?v=20260926141513" defer></script>
+    <script src="js/places.js?v=20260926141513" defer></script>
+    <script src="js/nav.config.js?v=20260926141513" defer></script>
+    <script src="js/nav.js?v=20260926141513" defer></script>
+    <script src="js/main.js?v=20260926141513" defer></script>
 </head>
 <body>
     <nav class="site-nav">
@@ -121,10 +121,27 @@
                             </div>
                         </div>
 
-                        <!-- Place pill: rendered/removed entirely by
-                             gallery.js's renderPlaceFilterChip() since it
-                             only exists while ?place= is set. -->
-                        <div id="placeFilterSlot"></div>
+                        <!-- Place pill: always visible, same layout as the
+                             Tags pill. renderPlaceChip() only touches the
+                             single place chip between the label and "+";
+                             the chip's own "x" clears it, so there's no
+                             separate clear button. -->
+                        <div class="filter-control" id="placeFilterControl">
+                            <div class="chip-group" id="placeChipGroup">
+                                <span class="chip-group-label">Place</span>
+                                <button type="button" class="chip-icon-btn filter-popover-toggle" id="placeFilterToggle" aria-haspopup="true" aria-expanded="false" aria-label="Filter by place">
+                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+                                        <path d="M6 1V11M1 6H11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                                    </svg>
+                                </button>
+                            </div>
+                            <div class="filter-popover filter-popover--tagFilter" id="placeFilterPopover" hidden>
+                                <div id="placeSearch">
+                                    <input id="placeInput" placeholder="Filter by place">
+                                    <div id="placeSuggestions"></div>
+                                </div>
+                            </div>
+                        </div>
 
                         <!-- Date Range pill: rendered/removed entirely by
                              gallery.js's renderDateFilterChip() since it

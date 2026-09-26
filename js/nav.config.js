@@ -29,5 +29,8 @@ const NavConfig = [
             { label: 'Recently Added', href: `#/gallery?addedDays=${RECENTLY_ADDED_WINDOW_DAYS}`, separator: true },
         ],
     },
-    { type: 'link', id: 'placesLink', label: 'Places', href: '#places', activeMatch: 'prefix' },
+    // activeParam: also highlight this link on any gallery hash carrying that
+    // query param -- a Places link lands on #/gallery?place=<id>, which
+    // should still read as "in Places" rather than falling back to Gallery.
+    { type: 'link', id: 'placesLink', label: 'Places', href: '#places', activeMatch: 'prefix', activeParam: 'place' },
 ];

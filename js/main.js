@@ -1,11 +1,13 @@
 const Main = (function() {
 
-    // Parses the #/gallery?tags=a,b&place=<id>&from=YYYY-MM-DD&to=YYYY-MM-DD
-    // &dateField=taken|added&addedDays=N&sort=taken|added|random&order=asc|desc
+    // Parses the #/gallery?tags=a,b&place=<id>&area=<id>&from=YYYY-MM-DD
+    // &to=YYYY-MM-DD&dateField=taken|added&addedDays=N
+    // &sort=taken|added|random&order=asc|desc
     // hash into a filter object for Gallery.applyFilter(). place is a
     // locations.json id (e.g. pa-hickory-run-state-park) -- "place" in the
     // URL to match the Places page, "location" in the data and code behind
-    // it. All params are
+    // it. area is an id from that location's "areas", ignored without
+    // place since area ids are only unique within a location. All params are
     // optional -- sort/order come back null when absent so Gallery can pick
     // its own default (e.g. newest-added-first for a Recently Added view)
     // rather than always falling back to one fixed default.
@@ -29,6 +31,7 @@ const Main = (function() {
         return {
             tags,
             location: params.get('place') || null,
+            area: params.get('place') ? params.get('area') || null : null,
             from: params.get('from') || null,
             to: params.get('to') || null,
             dateField: params.get('dateField') === 'added' ? 'added' : 'taken',
