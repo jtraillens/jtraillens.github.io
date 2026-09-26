@@ -231,7 +231,20 @@
     "mapsUrl": "https://www.google.com/maps/place/Exton+Park+Parking+area/@40.0427582,-75.6218848,839m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c6f30ceaef41c7:0x75a810c680d4ad5!2sExton+Dog+Park!8m2!3d40.0375136!4d-75.6106732!16s%2Fg%2F11kqrsrj2c!3m5!1s0x89c6f531df3bdabd:0x6b0dafa4c4795967!8m2!3d40.0433891!4d-75.6226076!16s%2Fg%2F11kxm3zy1m?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": "https://www.chesco.org/4736/Exton-County-Park",
     "photoCount": 15,
-    "areas": []
+    "areas": [
+      {
+        "id": "old-valley-rd",
+        "name": "Old Valley Rd (Forest Trails)",
+        "mapsUrl": "https://www.google.com/maps?q=40.043413652003544,-75.62247749741191",
+        "photoCount": 14
+      },
+      {
+        "id": "swedesford-rd",
+        "name": "Recreation/Sport Fields",
+        "mapsUrl": "https://www.google.com/maps?q=40.040716520673044,-75.60217201387802",
+        "photoCount": 1
+      }
+    ]
   },
   {
     "id": "pa-forbes-state-forest",
