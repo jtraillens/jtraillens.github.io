@@ -9,16 +9,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css?v=20261001225338"></link>
-    <script src="js/lightbox.js?v=20261001225338" defer></script>
-    <script src="js/gallery.js?v=20261001225338" defer></script>
-    <script src="js/preload.js?v=20261001225338" defer></script>
-    <script src="js/slideshow.js?v=20261001225338" defer></script>
-    <script src="js/splash.js?v=20261001225338" defer></script>
-    <script src="js/places.js?v=20261001225338" defer></script>
-    <script src="js/nav.config.js?v=20261001225338" defer></script>
-    <script src="js/nav.js?v=20261001225338" defer></script>
-    <script src="js/main.js?v=20261001225338" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=20261002100805"></link>
+    <script type="module" src="js/main.js?v=20261002100805"></script>
 </head>
 <body>
     <nav class="site-nav">
@@ -34,8 +26,6 @@
         </button>
 
         <div class="nav-links" id="navLinks">
-            <!-- About / Gallery / Collections are rendered here from
-                 NavConfig by nav.js (js/nav.config.js, js/nav.js). -->
         </div>
     </nav>
 
@@ -92,15 +82,6 @@
                             </button>
                         </label>
 
-                        <!-- Tags pill: always visible. The "+" icon toggles
-                             the popover; renderTagChips() only touches the
-                             tag chip spans in between the label and the "+"
-                             icon. clearTagsBtn sits after the "+", at the
-                             very end of the pill (mirroring the Date Range
-                             chip's trailing "x", which comes after its own
-                             edit icon) -- shown only once a tag is selected,
-                             so clearing doesn't require opening the popover
-                             just to reach "Clear all". -->
                         <div class="filter-control" id="tagFilterControl">
                             <div class="chip-group" id="tagsChipGroup">
                                 <span class="chip-group-label">Tags</span>
@@ -123,11 +104,6 @@
                             </div>
                         </div>
 
-                        <!-- Place pill: always visible, same layout as the
-                             Tags pill. renderPlaceChip() only touches the
-                             single place chip between the label and "+";
-                             the chip's own "x" clears it, so there's no
-                             separate clear button. -->
                         <div class="filter-control" id="placeFilterControl">
                             <div class="chip-group" id="placeChipGroup">
                                 <span class="chip-group-label">Place</span>
@@ -145,18 +121,8 @@
                             </div>
                         </div>
 
-                        <!-- Date Range pill: rendered/removed entirely by
-                             gallery.js's renderDateFilterChip() since it
-                             only exists once a date filter is active. -->
                         <div id="dateFilterSlot"></div>
 
-                        <!-- Slideshow: plays the current filtered view in a
-                             full-screen overlay (js/slideshow.js). The count
-                             follows the filter via the gallery:filtered
-                             event; disabled below 2 photos. The short
-                             visible "Play" is spelled out in the title and
-                             aria-label (kept in sync with the count by
-                             updateButton()). -->
                         <button type="button" id="slideshowBtn" class="slideshow-btn" title="Play slideshow" aria-label="Play slideshow" disabled>
                             <svg class="slideshow-btn-icon" viewBox="0 0 10 12" aria-hidden="true">
                                 <path d="M1 1L9 6L1 11Z" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linejoin="round"/>
@@ -288,8 +254,6 @@
         </div>
     </div>
 
-    <!-- Slideshow overlay: two stacked layers, crossfaded between.
-         See js/slideshow.js. -->
     <div class="slideshow" id="slideshow" role="dialog" aria-modal="true" aria-label="Slideshow" tabindex="-1" hidden>
         <img class="slideshow-layer" alt="">
         <img class="slideshow-layer" alt="">

@@ -47,7 +47,6 @@ const Locations = (function() {
         return STATE_NAMES[state] || state;
     }
 
-    // Same tag-filter hash the gallery itself writes (see Main's parser).
     function galleryHref(location) {
         return '#/gallery?' + new URLSearchParams({ tags: location.tag });
     }

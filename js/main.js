@@ -1,99 +1,55 @@
-const Main = (function() {
+import * as Lightbox from './lightbox.js?v=20261002100805';
+import * as Gallery from './gallery.js?v=20261002100805';
+import * as Slideshow from './slideshow.js?v=20261002100805';
+import * as Splash from './splash.js?v=20261002100805';
+import * as Places from './places.js?v=20261002100805';
+import * as Nav from './nav.js?v=20261002100805';
+import { showView } from './views.js?v=20261002100805';
+import { parseGalleryHash } from './filters.js?v=20261002100805';
 
-    // Parses the #/gallery?tags=a,b&place=<id>&area=<id>&from=YYYY-MM-DD
-    // &to=YYYY-MM-DD&dateField=taken|added&addedDays=N
-    // &sort=taken|added|random&order=asc|desc
-    // hash into a filter object for Gallery.applyFilter(). place is a
-    // locations.json id (e.g. pa-hickory-run-state-park) -- "place" in the
-    // URL to match the Places page, "location" in the data and code behind
-    // it. area is an id from that location's "areas", ignored without
-    // place since area ids are only unique within a location. All params are
-    // optional -- sort/order come back null when absent so Gallery can pick
-    // its own default (e.g. newest-added-first for a Recently Added view)
-    // rather than always falling back to one fixed default.
-    function parseGalleryHash(hash) {
-        const queryIndex = hash.indexOf('?');
-        const query = queryIndex === -1 ? '' : hash.slice(queryIndex + 1);
-        const params = new URLSearchParams(query);
+function router() {
+    const hash = window.location.hash || '';
 
-        const tagsParam = params.get('tags');
-        const tags = tagsParam ? tagsParam.split(',').filter(Boolean) : [];
-
-        const addedDaysParam = params.get('addedDays');
-        const addedDays = addedDaysParam !== null && addedDaysParam !== '' &&
-            !Number.isNaN(Number(addedDaysParam))
-            ? Number(addedDaysParam)
-            : null;
-
-        const sortParam = params.get('sort');
-        const orderParam = params.get('order');
-
-        return {
-            tags,
-            location: params.get('place') || null,
-            area: params.get('place') ? params.get('area') || null : null,
-            from: params.get('from') || null,
-            to: params.get('to') || null,
-            dateField: params.get('dateField') === 'added' ? 'added' : 'taken',
-            addedDays,
-            sort: sortParam === 'added' || sortParam === 'taken' || sortParam === 'random' ? sortParam : null,
-            order: orderParam === 'asc' || orderParam === 'desc' ? orderParam : null
-        };
+    if (hash === '') {
+        showView('splash');
+        Splash.show();
+        return;
     }
 
-    function router() {
-        const hash = window.location.hash || '';
-
-        if (hash === '') {
-            showView('splash');
-            Splash.show();
-            return;
+    if (hash === '#about' || hash === '#about/license') {
+        showView('about');
+        if (hash === '#about/license') {
+            document.querySelector('#license')?.scrollIntoView();
         }
-
-        if (hash === '#about' || hash === '#about/license') {
-            showView('about');
-            if (hash === '#about/license') {
-                document.querySelector('#license')?.scrollIntoView();
-            }
-            return;
-        }
-
-        if (hash === '#places') {
-            showView('places');
-            Places.load();
-            return;
-        }
-
-        showView('gallery');
-
-        if (hash.startsWith('#/photo/')) {
-            const fileName = decodeURIComponent(hash.slice('#/photo/'.length));
-            Gallery.openPhotoByFilename(fileName);
-        } else {
-            Gallery.applyFilter(parseGalleryHash(hash));
-        }
-
+        return;
     }
 
-    function showView(view) {
-        document.querySelector('#splashView').hidden = view !== 'splash';
-        document.querySelector('#galleryView').hidden = view !== 'gallery';
-        document.querySelector('#aboutView').hidden = view !== 'about';
-        document.querySelector('#placesView').hidden = view !== 'places';
-
-        if (view !== 'splash') {
-            Splash.stop();
-        }
+    if (hash === '#places') {
+        showView('places');
+        Places.load();
+        return;
     }
 
-    async function init() {
-        await Gallery.loadGallery();
-        window.addEventListener('hashchange', router);
-        router();
+    showView('gallery');
+
+    if (hash.startsWith('#/photo/')) {
+        const fileName = decodeURIComponent(hash.slice('#/photo/'.length));
+        Gallery.openPhotoByFilename(fileName);
+    } else {
+        Gallery.applyFilter(parseGalleryHash(hash));
     }
 
-    return { init, showGallery: () => showView('gallery') }
+}
 
-})();
+async function init() {
+    Lightbox.init();
+    Slideshow.init();
+    Splash.init();
+    Nav.init();
 
-Main.init();
+    await Gallery.loadGallery();
+    window.addEventListener('hashchange', router);
+    router();
+}
+
+init();

@@ -22,9 +22,6 @@ h1 {
     letter-spacing: 0;
 }
 
-
-/* Top navigation */
-
 .site-nav {
     position: relative;
     display: flex;
@@ -34,8 +31,6 @@ h1 {
     border-bottom: 1px solid rgba(33, 31, 28, 0.08);
 }
 
-/* Hamburger toggle -- hidden on wide screens, see the mobile media query
-   below for where it and the collapsed .nav-links take over. */
 .nav-toggle {
     display: none;
     flex-direction: column;
@@ -176,8 +171,6 @@ h1 {
     font-weight: 600;
 }
 
-/* Sets a time-based entry (e.g. "Recently Added") apart from the
-   subject/tag collections above it in the same dropdown. */
 .nav-subject-link--separated {
     margin-top: 6px;
     padding-top: 10px;
@@ -188,12 +181,6 @@ h1 {
     padding: 30px 40px 40px;
 }
 
-
-/* Filter pills (Tags, Place, Date Range) and their popovers -- the pill itself is
-   a .chip-group like the sort control, always sitting in .controls-row; the
-   popover floats below it, matching the look of .nav-dropdown-panel without
-   sharing its class (these aren't part of the nav, and the Date Range one
-   is created/destroyed per render rather than wired up once at load). */
 .filter-control {
     position: relative;
 }
@@ -217,10 +204,6 @@ h1 {
     color: var(--color-ink);
 }
 
-/* .chip-icon-btn's own `display` would otherwise outrank the UA [hidden]
-   rule (author styles beat user-agent ones regardless of specificity), so
-   clearTagsBtn's `hidden` attribute needs an explicit author-side rule to
-   actually hide it between tag selections. */
 #clearTagsBtn[hidden] {
     display: none;
 }
@@ -375,8 +358,6 @@ h1 {
     background-color: #e0e5e0;
 }
 
-/* Slideshow button -- the last item in .controls-row, styled as a pill to
-   sit alongside the filter .chip-groups. See js/slideshow.js. */
 .slideshow-btn {
     display: inline-flex;
     align-items: center;
@@ -392,9 +373,6 @@ h1 {
     cursor: pointer;
 }
 
-/* An SVG rather than a ▶ character: sized in em to roughly the capital-
-   letter height of the label, so it matches the "P" regardless of font, and
-   it can't turn into iOS's blue emoji button. */
 .slideshow-btn-icon {
     height: 0.75em;
     width: auto;
@@ -451,10 +429,6 @@ h1 {
     font-weight: normal;
 }
 
-/* Tag chips are clickable as a whole (click to remove); the Date Range
-   chip isn't -- its "x" and edit icon are their own click targets, see
-   below -- so only the tag chip gets a pointer cursor/hover on the chip
-   itself. */
 .tag-chip {
     cursor: pointer;
 }
@@ -481,8 +455,6 @@ h1 {
     flex-shrink: 0;
 }
 
-/* Selected-place chip inside the Place pill -- styled like the Date Range
-   chip (only its "x" is clickable), with its own tint. */
 .place-filter-chip {
     background-color: #f3ede2;
 }
@@ -500,7 +472,6 @@ h1 {
     color: #8c6f4a;
     flex-shrink: 0;
 }
-
 
 .about-content {
     max-width: 800px;
@@ -522,26 +493,14 @@ h1 {
     margin-bottom: 1rem;
 }
 
-
-/* Splash / landing view -- shown at the home route (the '' hash); a
-   rotating full-bleed slideshow of a random sample of public photos,
-   crossfaded via .splash-slide--visible (mirrors .lightbox's own opacity
-   transition), plus a "View Gallery" CTA. See js/splash.js. */
 .splash-view {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 1.5rem;
     margin: 0 auto;
-    /* No max-width here (unlike the design this was based on) -- as an
-       experiment, the hero is intentionally left full-page-width. */
 }
 
-/* Setting display:flex above overrides the UA stylesheet's [hidden] {
-   display: none } for this element (an author rule always wins over UA,
-   regardless of the hidden attribute/property) -- without this, toggling
-   Main.showView()'s .hidden would stop having any visible effect here and
-   the slideshow would stay on top of every other view. */
 .splash-view[hidden] {
     display: none;
 }
@@ -579,9 +538,6 @@ h1 {
     transition: none;
 }
 
-/* Countdown bar for the auto-rotate timer -- js/splash.js drives its width
-   via an inline transition (so the duration can vary with ROTATE_MS and be
-   skipped under prefers-reduced-motion) rather than a fixed CSS animation. */
 .splash-progress {
     position: absolute;
     top: 0;
@@ -685,7 +641,6 @@ h1 {
     gap: 0.5rem;
 }
 
-/* A place's areas, collapsed under it until its expander is clicked. */
 .place-areas {
     list-style: none;
     margin: 0.15rem 0 0.35rem;
@@ -767,8 +722,6 @@ h1 {
     margin-top: 10px;
 }
 
-/* Footer */
-
 .site-footer {
     padding: 22px 40px;
     border-top: 1px solid rgba(33, 31, 28, 0.08);
@@ -846,12 +799,6 @@ h1 {
     font-weight: 400;
     opacity: 0;
     transition: opacity 0.3s ease;
-    /* Purely decorative text overlay -- let clicks/taps pass through to the
-       image underneath instead of being swallowed by the caption, which
-       otherwise blocks opening the lightbox wherever the caption covers
-       the image (worst on mobile, where a long caption can cover most of
-       a short image and the click handler only recognizes clicks/taps
-       that land on .photo, see js/gallery.js). */
     pointer-events: none;
 }
 
@@ -868,13 +815,6 @@ h1 {
     opacity: 1;
 }
 
-
-/* Slideshow overlay -- a fixed, full-viewport layer above everything
-   (including the lightbox), so it works on its own where element
-   fullscreen isn't available (iPhone Safari). Two stacked
-   .slideshow-layer images, shown via .slideshow-layer--visible; contain
-   rather than cover so portrait and landscape photos are never cropped.
-   See js/slideshow.js. */
 .slideshow {
     position: fixed;
     inset: 0;
@@ -882,14 +822,10 @@ h1 {
     background: #000;
 }
 
-/* Focused programmatically on open (tabindex="-1") so keyboard focus is
-   inside the dialog -- no outline needed on the whole screen. */
 .slideshow:focus {
     outline: none;
 }
 
-/* After IDLE_MS without pointer movement (js/slideshow.js): hide the cursor
-   and fade out the close button. The button comes back if it's tabbed to. */
 .slideshow--idle {
     cursor: none;
 }
@@ -910,9 +846,6 @@ h1 {
     height: 100%;
     object-fit: contain;
     opacity: 0;
-    /* The crossfade -- keep well under SLIDE_INTERVAL_MS in
-       js/slideshow.js. Deliberately kept under prefers-reduced-motion:
-       it's an opacity change, not movement. */
     transition: opacity 1500ms ease;
 }
 
@@ -920,13 +853,6 @@ h1 {
     opacity: 1;
 }
 
-/* Caption: bottom-center, over a soft transparent-to-dark gradient so white
-   text stays legible on bright photos without a hard box. Shown
-   (.slideshow--caption-shown) from when each photo has fully faded in until
-   just before the next crossfade -- see js/slideshow.js, which also sets
-   the fade duration (--slideshow-caption-fade, from CAPTION_FADE_MS).
-   Font sizes scale with the viewport so it stays readable on a TV and
-   doesn't crowd a phone. */
 .slideshow-caption {
     position: absolute;
     left: 0;
@@ -935,9 +861,6 @@ h1 {
     z-index: 1;
     padding: 4rem clamp(16px, 3vw, 40px) clamp(16px, 2.5vw, 32px);
     color: #fff;
-    /* Centered to line up with the photo, which object-fit: contain
-       centers with bars to either side -- left-aligned text would start
-       out in a bar and run across the photo's edge. */
     text-align: center;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0));
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
@@ -986,12 +909,9 @@ h1 {
     background: rgba(0, 0, 0, 0.7);
 }
 
-/* Stops the page behind the overlay from scrolling (wheel/touch would
-   otherwise chain through to it). */
 body.slideshow-open {
     overflow: hidden;
 }
-
 
 .lightbox {
     position: fixed;
@@ -1026,9 +946,6 @@ body.slideshow-open {
     display: inline-flex;
     max-width: 90vw;
     max-height: min(75vh, 900px);
-    /* Claim horizontal drags for the swipe prev/next gesture (see
-       js/lightbox.js) instead of letting the browser interpret them as a
-       scroll/zoom gesture; vertical panning is still left alone. */
     touch-action: pan-y;
 }
 
@@ -1160,12 +1077,6 @@ body.slideshow-open {
     background: rgba(0, 0, 0, 0.7);
 }
 
-
-/* Responsive */
-
-/* Touch devices (phones, tablets, regardless of screen size) have no
-   hover state, so a caption that only appears on hover would otherwise
-   never show at all -- keep it visible permanently instead. */
 @media (hover: none) {
     .caption {
         opacity: 1;
@@ -1176,9 +1087,6 @@ body.slideshow-open {
     }
 }
 
-/* On phones the thumbnails are only ~110-140px wide, so even a small
-   caption wraps to several lines and covers most of the image. Hide it
-   there; the lightbox shows the title on tap. */
 @media (hover: none) and (max-width: 760px) {
     .caption,
     .gallery-item:focus-within .caption {
@@ -1195,9 +1103,6 @@ body.slideshow-open {
         display: flex;
     }
 
-    /* Collapsed by default; .nav-toggle click adds/removes .open
-       (see js/nav.js). Becomes a full-width dropdown panel below the
-       nav bar rather than the desktop inline row. */
     .nav-links {
         display: none;
         position: absolute;
@@ -1239,8 +1144,6 @@ body.slideshow-open {
         border-top: 1px solid rgba(33, 31, 28, 0.08);
     }
 
-    /* In-flow under its trigger instead of floating, so panels stack
-       inside the mobile menu rather than overlapping it. */
     .nav-dropdown-panel {
         position: static;
         width: 100%;
@@ -1250,10 +1153,6 @@ body.slideshow-open {
         border-radius: 4px;
     }
 
-    /* .filter-control (Tags, Date Range) sits in .controls-row rather than
-       the collapsing nav, so its popover can't rely on the nav's absolute
-       positioning staying on-screen at this width -- drop it in-flow below
-       the trigger instead, same idea as .nav-dropdown-panel above. */
     .filter-popover {
         position: static;
         width: min(280px, calc(100vw - 40px));
@@ -1288,8 +1187,6 @@ body.slideshow-open {
         padding: 16px 20px;
     }
 
-    /* Maximize the image for mobile viewing -- the details block below
-       it is what has to give room, not the photo itself. */
     .lightbox-image-wrap,
     .lightbox-image {
         max-width: 98vw;
@@ -1373,9 +1270,6 @@ body.slideshow-open {
 
     .lightbox-prev,
     .lightbox-next {
-        /* Swipe is the primary way to move between photos this small
-           (see js/lightbox.js) -- shrink the buttons so they sit at the
-           edges without covering much of the image. */
         font-size: 1.3rem;
         padding: 8px 8px;
     }
