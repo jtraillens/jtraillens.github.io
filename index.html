@@ -9,14 +9,16 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css?v=20260927194615"></link>
-    <script src="js/lightbox.js?v=20260927194615" defer></script>
-    <script src="js/gallery.js?v=20260927194615" defer></script>
-    <script src="js/splash.js?v=20260927194615" defer></script>
-    <script src="js/places.js?v=20260927194615" defer></script>
-    <script src="js/nav.config.js?v=20260927194615" defer></script>
-    <script src="js/nav.js?v=20260927194615" defer></script>
-    <script src="js/main.js?v=20260927194615" defer></script>
+    <link rel="stylesheet" href="css/style.css?v=20261001224425"></link>
+    <script src="js/lightbox.js?v=20261001224425" defer></script>
+    <script src="js/gallery.js?v=20261001224425" defer></script>
+    <script src="js/preload.js?v=20261001224425" defer></script>
+    <script src="js/slideshow.js?v=20261001224425" defer></script>
+    <script src="js/splash.js?v=20261001224425" defer></script>
+    <script src="js/places.js?v=20261001224425" defer></script>
+    <script src="js/nav.config.js?v=20261001224425" defer></script>
+    <script src="js/nav.js?v=20261001224425" defer></script>
+    <script src="js/main.js?v=20261001224425" defer></script>
 </head>
 <body>
     <nav class="site-nav">
@@ -147,6 +149,20 @@
                              gallery.js's renderDateFilterChip() since it
                              only exists once a date filter is active. -->
                         <div id="dateFilterSlot"></div>
+
+                        <!-- Slideshow: plays the current filtered view in a
+                             full-screen overlay (js/slideshow.js). The count
+                             follows the filter via the gallery:filtered
+                             event; disabled below 2 photos. The short
+                             visible "Play" is spelled out in the title and
+                             aria-label (kept in sync with the count by
+                             updateButton()). -->
+                        <button type="button" id="slideshowBtn" class="slideshow-btn" title="Play slideshow" aria-label="Play slideshow" disabled>
+                            <svg class="slideshow-btn-icon" viewBox="0 0 10 12" aria-hidden="true">
+                                <path d="M1 1L9 6L1 11Z" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linejoin="round"/>
+                            </svg>
+                            <span>Play (<span id="slideshowCount">0</span>)</span>
+                        </button>
                     </div>
 
                     <div id="photoCount"></div>
@@ -268,8 +284,25 @@
             </div>
 
             <button class="lightbox-next">&rarr;</button>
-            <button class="lightbox-close">x</button>        
+            <button class="lightbox-close">x</button>
         </div>
-    </div>    
+    </div>
+
+    <!-- Slideshow overlay: two stacked layers, crossfaded between.
+         See js/slideshow.js. -->
+    <div class="slideshow" id="slideshow" role="dialog" aria-modal="true" aria-label="Slideshow" tabindex="-1" hidden>
+        <img class="slideshow-layer" alt="">
+        <img class="slideshow-layer" alt="">
+        <div class="slideshow-caption" id="slideshowCaption">
+            <div class="slideshow-caption-title"></div>
+            <div class="slideshow-caption-meta"></div>
+        </div>
+        <button type="button" class="slideshow-close" id="slideshowClose" aria-label="Close slideshow" title="Close (Esc)">
+            <svg width="16" height="16" viewBox="0 0 10 10" fill="none" aria-hidden="true">
+                <path d="M1 1L9 9M9 1L1 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+        </button>
+    </div>
+
 </body>
 </html>

@@ -193,6 +193,12 @@ const Gallery = (function() {
 
             gallery.appendChild(item);
         });
+
+        // Lets other modules (the Slideshow button's count) follow the
+        // filtered list without Gallery having to know about them.
+        document.dispatchEvent(new CustomEvent('gallery:filtered', {
+            detail: { count: filteredPhotos.length }
+        }));
     }
 
     // Shows a plain total when nothing is filtered out, or a "# / # total"
@@ -974,6 +980,7 @@ const Gallery = (function() {
         applyFilter,
         openPhotoByFilename,
         getPhotos: () => photos,
+        getFilteredPhotos: () => filteredPhotos,
         HIDDEN_BY_DEFAULT_TAG
     }
 
