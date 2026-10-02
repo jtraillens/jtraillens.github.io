@@ -59,7 +59,7 @@
     "state": "NY",
     "mapsUrl": "https://www.google.com/maps/place/Black+Rock+Forest+Consortium/@41.413906,-74.0115051,15z/data=!4m6!3m5!1s0x89c2cd46be1bdaa3:0xac0a55737e179bda!8m2!3d41.413906!4d-74.0115051!16s%2Fg%2F11fxc1vqs9?entry=ttu",
     "websiteUrl": null,
-    "photoCount": 1,
+    "photoCount": 2,
     "areas": []
   },
   {
@@ -68,7 +68,7 @@
     "state": "NY",
     "mapsUrl": "https://www.google.com/maps/place/Catskills+Visitor+Center/@42.0279699,-74.2697582,15z/data=!4m6!3m5!1s0x89dcfef33a8d4c7b:0x8d1e4a597fb1eba0!8m2!3d42.0279699!4d-74.2697582!16s%2Fg%2F11b809jvrb?entry=ttu",
     "websiteUrl": null,
-    "photoCount": 1,
+    "photoCount": 2,
     "areas": []
   },
   {
@@ -158,7 +158,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Natural+Lands'+Bryn+Coed+Preserve/@40.1296558,-75.6104757,838m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c68bf1572280c1:0xb4b7f453e20f5081!2sNatural+Lands'+Bryn+Coed+Preserve!8m2!3d40.1296517!4d-75.6079008!16s%2Fg%2F1tgw5zxb!3m5!1s0x89c68bf1572280c1:0xb4b7f453e20f5081!8m2!3d40.1296517!4d-75.6079008!16s%2Fg%2F1tgw5zxb?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": "https://www.natlands.org/visit/bryn-coed-preserve/",
-    "photoCount": 13,
+    "photoCount": 15,
     "areas": []
   },
   {
@@ -198,6 +198,15 @@
     "areas": []
   },
   {
+    "id": "pa-clear-creek-state-forest",
+    "name": "Clear Creek State Forest",
+    "state": "PA",
+    "mapsUrl": "https://www.google.com/maps/place/Clear+Creek+State+Forest/@41.3192753,-79.0722557,15z/data=!4m6!3m5!1s0x89ccde79ab4ada1b:0x4b67d47a98bfc77f!8m2!3d41.3192753!4d-79.0722557!16s%2Fg%2F11hzxmcdvq?entry=ttu",
+    "websiteUrl": null,
+    "photoCount": 2,
+    "areas": []
+  },
+  {
     "id": "pa-coventry-woods-park",
     "name": "Coventry Woods Park",
     "state": "PA",
@@ -221,7 +230,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Delaware+Water+Gap+National+Recreation+Area/@41.1043945,-74.9442585,15z/data=!4m6!3m5!1s0x89c362726c5eaadd:0xfd39a58f82825bf9!8m2!3d41.1043945!4d-74.9442585!16zL20vMDg0YjNs?entry=ttu",
     "websiteUrl": null,
-    "photoCount": 3,
+    "photoCount": 4,
     "areas": []
   },
   {
@@ -252,7 +261,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-forests/find-a-forest/forbes",
-    "photoCount": 1,
+    "photoCount": 2,
     "areas": []
   },
   {
@@ -261,7 +270,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Thomas+P.+Bentley+Nature+Preserve/@40.1499128,-75.7430721,838m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c66123777cbe29:0x9b4ad8fa513a34a3!2sThomas+P.+Bentley+Nature+Preserve!8m2!3d40.1499087!4d-75.7404972!16s%2Fg%2F11fnb086qs!3m5!1s0x89c66123777cbe29:0x9b4ad8fa513a34a3!8m2!3d40.1499087!4d-75.7404972!16s%2Fg%2F11fnb086qs?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": null,
-    "photoCount": 10,
+    "photoCount": 12,
     "areas": []
   },
   {
@@ -397,7 +406,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 4,
+    "photoCount": 6,
     "areas": []
   },
   {
@@ -631,7 +640,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Tuscarora+State+Forest/@40.3611926,-77.5555447,15z/data=!4m6!3m5!1s0x89c93f53fcb98d85:0x14279aa68dfca8eb!8m2!3d40.3611926!4d-77.5555447!16zL20vMGI2dDgx?entry=ttu",
     "websiteUrl": null,
-    "photoCount": 1,
+    "photoCount": 3,
     "areas": []
   },
   {
@@ -802,7 +811,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Laurel+Hill+State+Park/@40.0101421,-79.2243475,15z/data=!4m6!3m5!1s0x89cad1acd1779781:0x35c790fa23b1d742!8m2!3d40.0101421!4d-79.2243475!16s%2Fm%2F026vsn0?entry=ttu",
     "websiteUrl": null,
-    "photoCount": 1,
+    "photoCount": 3,
     "areas": []
   },
   {
@@ -820,7 +829,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/William+Penn+State+Forest/@39.7301196,-76.0736989,15z/data=!4m6!3m5!1s0x89c7ca116fc55bc5:0x28b6fa2883296079!8m2!3d39.7301196!4d-76.0736989!16zL20vMGJjZDdq?entry=ttu",
     "websiteUrl": null,
-    "photoCount": 2,
+    "photoCount": 3,
     "areas": []
   },
   {
@@ -838,7 +847,16 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/State+Game+Lands+Number+52/@40.1866666,-75.9558208,15z/data=!4m6!3m5!1s0x89c66eb52c2a9d61:0xc610936fc2f19ebf!8m2!3d40.1866666!4d-75.9558208!16s%2Fg%2F1tcyycnc?entry=ttu",
     "websiteUrl": null,
-    "photoCount": 2,
+    "photoCount": 3,
+    "areas": []
+  },
+  {
+    "id": "ny-harriman-state-park",
+    "name": "Harriman State Park",
+    "state": "NY",
+    "mapsUrl": "https://www.google.com/maps/place/Harriman+State+Park/@41.2412375,-74.0969728,15z/data=!4m6!3m5!1s0x89c2d024ccf7ae9f:0xec8d25051a0d93dc!8m2!3d41.2412375!4d-74.0969728!16s%2Fg%2F1tj4hzzp?entry=ttu",
+    "websiteUrl": null,
+    "photoCount": 1,
     "areas": []
   },
   {
@@ -928,7 +946,7 @@
     "state": "PA",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 5,
+    "photoCount": 6,
     "areas": []
   },
   {
@@ -955,7 +973,7 @@
     "state": "PA",
     "mapsUrl": "https://www.google.com/maps/place/Keystone+State+Park/@40.3725903,-79.3875897,834m/data=!3m1!1e3!4m14!1m7!3m6!1s0x8834ccb41f4b67cb:0xe301b8aa3deca99c!2sKeystone+State+Park!8m2!3d40.3725903!4d-79.3850148!16zL20vMGc4ajVn!3m5!1s0x8834ccb41f4b67cb:0xe301b8aa3deca99c!8m2!3d40.3725903!4d-79.3850148!16zL20vMGc4ajVn?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "websiteUrl": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/keystone-state-park",
-    "photoCount": 1,
+    "photoCount": 2,
     "areas": []
   },
   {
@@ -1351,7 +1369,7 @@
     "state": "NY",
     "mapsUrl": null,
     "websiteUrl": null,
-    "photoCount": 1,
+    "photoCount": 2,
     "areas": []
   },
   {
@@ -1415,6 +1433,186 @@
     "mapsUrl": null,
     "websiteUrl": null,
     "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "pa-spring-valley-county-park",
+    "name": "Spring Valley County Park",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2,
+    "areas": []
+  },
+  {
+    "id": "pa-chestnut-grove-natural-area",
+    "name": "Chestnut Grove Natural Area",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 3,
+    "areas": []
+  },
+  {
+    "id": "pa-shenks-ferry-wildflower-preserve",
+    "name": "Shenks Ferry Wildflower Preserve",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2,
+    "areas": []
+  },
+  {
+    "id": "pa-trout-run-nature-preserve",
+    "name": "Trout Run Nature Preserve",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 4,
+    "areas": []
+  },
+  {
+    "id": "nj-jenny-jump-state-forest",
+    "name": "Jenny Jump State Forest",
+    "state": "NJ",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 3,
+    "areas": []
+  },
+  {
+    "id": "pa-tuscarora-state-park",
+    "name": "Tuscarora State Park",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "nj-schooleys-mountain-county-park",
+    "name": "Schooleys Mountain County Park",
+    "state": "NJ",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2,
+    "areas": []
+  },
+  {
+    "id": "pa-kooser-state-park",
+    "name": "Kooser State Park",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "pa-little-buffalo-state-park",
+    "name": "Little Buffalo State Park",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "ny-highland-lakes-state-park",
+    "name": "Highland Lakes State Park",
+    "state": "NY",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2,
+    "areas": []
+  },
+  {
+    "id": "pa-castanea",
+    "name": "Castanea",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2,
+    "areas": []
+  },
+  {
+    "id": "ny-bashakill-wildlife-management-area",
+    "name": "Bashakill Wildlife Management Area",
+    "state": "NY",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "pa-moraine-state-park",
+    "name": "Moraine State Park",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "pa-leaser-lake-park",
+    "name": "Leaser Lake Park",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "nj-lewis-morris-county-park",
+    "name": "Lewis Morris County Park",
+    "state": "NJ",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "nj-morristown-national-historical-park",
+    "name": "Morristown National Historical Park",
+    "state": "NJ",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "pa-yellow-creek-state-park",
+    "name": "Yellow Creek State Park",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2,
+    "areas": []
+  },
+  {
+    "id": "pa-williamsport-water-authority",
+    "name": "Williamsport Water Authority",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 3,
+    "areas": []
+  },
+  {
+    "id": "nj-mahlon-dickerson-reservation",
+    "name": "Mahlon Dickerson Reservation",
+    "state": "NJ",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 1,
+    "areas": []
+  },
+  {
+    "id": "pa-hazleton",
+    "name": "Hazleton",
+    "state": "PA",
+    "mapsUrl": null,
+    "websiteUrl": null,
+    "photoCount": 2,
     "areas": []
   }
 ]

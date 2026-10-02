@@ -1,4 +1,4 @@
-import * as Splash from './splash.js?v=20261002100805';
+import * as Splash from './splash.js?v=20261002130618';
 
 export function showView(view) {
     document.querySelector('#splashView').hidden = view !== 'splash';

@@ -11,7 +11,7 @@
   "bee",
   "beetle",
   "bird",
-  "bird's nest fungus",
+  "bird\u0027s nest fungus",
   "boat",
   "box turtle",
   "bridge",
@@ -143,7 +143,7 @@
   "spider web",
   "spiral",
   "squash bug",
-  "st. john's wort",
+  "st. john\u0027s wort",
   "starburst",
   "stinkbug",
   "stream",
@@ -171,5 +171,8 @@
   "wetland",
   "wide trail",
   "wood",
-  "xylaria"
+  "xylaria",
+  "violet",
+  "chlorosis",
+  "boulder field"
 ]

@@ -1,4 +1,4 @@
-import { formatDateTaken } from './format.js?v=20261002100805';
+import { formatDateTaken } from './format.js?v=20261002130618';
 
 let currentIndex = 0;
 let currentPhotos = [];

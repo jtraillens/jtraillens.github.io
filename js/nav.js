@@ -1,4 +1,4 @@
-import { NavConfig } from './nav.config.js?v=20261002100805';
+import { NavConfig } from './nav.config.js?v=20261002130618';
 
 export function init() {
     const navToggle = document.querySelector('#navToggle');

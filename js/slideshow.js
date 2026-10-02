@@ -1,6 +1,6 @@
-import { getFilteredPhotos } from './state.js?v=20261002100805';
-import * as Preload from './preload.js?v=20261002100805';
-import { formatDateTaken } from './format.js?v=20261002100805';
+import { getFilteredPhotos } from './state.js?v=20261002130618';
+import * as Preload from './preload.js?v=20261002130618';
+import { formatDateTaken } from './format.js?v=20261002130618';
 
 const SLIDE_INTERVAL_MS = 10000;
 
