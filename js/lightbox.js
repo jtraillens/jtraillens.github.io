@@ -176,6 +176,10 @@ const Lightbox = (function() {
             meta.push(formattedDate);
         }
 
+        if (photo.camera) {
+            meta.push(`Shot on ${photo.camera}`);
+        }
+
         lightboxMeta.textContent = meta.join(" • ");
 
         lightboxDescription.textContent = photo.description ?? "";
